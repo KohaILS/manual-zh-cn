@@ -1,0 +1,91 @@
+# Compendium of zh_TW.
+msgid ""
+msgstr ""
+"Project-Id-Version: Koha Manual 22.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-10-26 08:18+0200\n"
+"PO-Revision-Date: 2021-07-21 20:52+0000\n"
+"Last-Translator: a33058511 <a33058511@gmail.com>\n"
+"Language-Team: Koha Translation Team\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: application/x-publican; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pootle 2.8\n"
+"X-Pootle-Path: /zh_TW/manual22.11/plugins.po\n"
+"X-Pootle-Revision: 1\n"
+"X-POOTLE-MTIME: 1626900765.213429\n"
+
+#: ../../source/plugins.rst:6
+#, fuzzy
+msgid "Plugin system"
+msgstr "外掛系統"
+
+#: ../../source/plugins.rst:8
+msgid "Koha's Plugin System allows for you to add additional tools and reports to Koha that are specific to your library. Plugins are installed by uploading KPZ ( Koha Plugin Zip ) packages. A KPZ file is just a zip file containing the perl files, template files, and any other files necessary to make the plugin work."
+msgstr "Koha 的外掛系統允許您新增工具與報表供您的圖書館使用。可經由上傳 KPZ ( Koha Plugin Zip ) 套件安裝外掛。KPZ 檔案是一個包括 perl 檔案、模版檔與其他檔案的壓縮檔。"
+
+#: ../../source/plugins.rst:16
+msgid "There is no vetting process by the Koha community for plugins. Each plugin is maintained and tested by its provider and contributors. Use plugins at your own risk."
+msgstr ""
+
+#: ../../source/plugins.rst:20
+msgid "The plugin system needs to be turned on by a system administrator."
+msgstr "外掛系統需要系統管理者開啟。"
+
+#: ../../source/plugins.rst:25
+msgid "Set up"
+msgstr "設定"
+
+#: ../../source/plugins.rst:27
+msgid "To set up the Koha plugin system you must first make some changes to your install."
+msgstr "必須先改變安裝才能設定 Koha 的外掛系統。"
+
+#: ../../source/plugins.rst:30
+msgid "Change <enable\\_plugins>0</enable\\_plugins> to <enable\\_plugins>1</enable\\_plugins> in your koha-conf.xml file"
+msgstr "把 <enable\\_plugins>0</enable\\_plugins> 變更為 <enable\\_plugins>1</enable\\_plugins> 於您的 koha-conf.xml 檔案"
+
+#: ../../source/plugins.rst:33
+msgid "Restart your webserver"
+msgstr "重新啟動您的網站伺服器"
+
+#: ../../source/plugins.rst:35
+msgid "On the Tools page you will see the Tools Plugins and on the Reports page you will see the Reports Plugins."
+msgstr "在工具頁面上，您將看到工具插件，在報告頁面上，您將看到報告插件。"
+
+#: ../../source/plugins.rst:41
+msgid "Installing a plugin repository"
+msgstr ""
+
+#: ../../source/plugins.rst:43
+msgid "In the koha-conf.xml file, there should be a :code:`<plugin_repos>` tag. This tag is used to tell Koha in which git repositories to search for plugins."
+msgstr ""
+
+#: ../../source/plugins.rst:46
+msgid "Each individual repository is in a :code:`<repo>` tag. Inside this tag are the repository's information."
+msgstr ""
+
+#: ../../source/plugins.rst:49
+msgid ":code:`<name>` is the name of the company or individual whose repository this is."
+msgstr ""
+
+#: ../../source/plugins.rst:52
+msgid ":code:`<org_name>` is the username of the company or individual on the git service."
+msgstr ""
+
+#: ../../source/plugins.rst:55
+msgid ":code:`<service>` is the git platform used to host the repository."
+msgstr ""
+
+#: ../../source/plugins.rst:57
+msgid "Several repositories are available in the default configuration file. You can uncomment one or all."
+msgstr ""
+
+#: ../../source/plugins.rst:89
+msgid "Installing and using plugins"
+msgstr ""
+
+#: ../../source/plugins.rst:91
+msgid "See the :ref:`plugins section in the administration chapter <plugn-administration-label>` of this manual to learn how to install and use plugins in Koha."
+msgstr ""

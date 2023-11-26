@@ -1,0 +1,621 @@
+# Chinese translations for Koha Manual package.
+# Copyright (C) 2020, Koha Community
+# This file is distributed under the same license as the Koha Manual package.
+# Automatically generated, 2021.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Koha Manual 22.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-10-26 13:37+0000\n"
+"PO-Revision-Date: 2023-05-29 08:41+0000\n"
+"Last-Translator: yien0408 <i4nn0408@gmail.com>\n"
+"Language-Team: none\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pootle 2.8\n"
+"X-Pootle-Path: /zh_TW/manual22.11/authoritiespreferences.po\n"
+"X-Pootle-Revision: 1\n"
+"X-POOTLE-MTIME: 1685349678.084808\n"
+
+#: ../../source/authoritiespreferences.rst:6
+msgid "Authorities"
+msgstr "權威"
+
+#: ../../source/authoritiespreferences.rst:8
+#, fuzzy
+msgid "*Get there:* More > Administration > Global system preferences > Authorities"
+msgstr "*到：*更多 > 管理 > 整體系統偏好 > 權威"
+
+#: ../../source/authoritiespreferences.rst:14
+msgid "General"
+msgstr "一般"
+
+#: ../../source/authoritiespreferences.rst:19
+msgid "AuthDisplayHierarchy"
+msgstr "AuthDisplayHierarchy"
+
+#: ../../source/authoritiespreferences.rst:21
+msgid "Asks: \\_\\_\\_ broader term/narrower term hierarchies when viewing authorities."
+msgstr "詢問：檢視權威記錄時，\\_\\_\\__ 廣義詞/狹義詞層級。"
+
+#: ../../source/authoritiespreferences.rst:23
+#, fuzzy
+msgid "Default: Don't show"
+msgstr "預設值：不使用"
+
+#: ../../source/authoritiespreferences.rst:25
+#: ../../source/authoritiespreferences.rst:145
+#: ../../source/authoritiespreferences.rst:160
+#: ../../source/authoritiespreferences.rst:268
+#: ../../source/authoritiespreferences.rst:321
+#: ../../source/authoritiespreferences.rst:366
+#: ../../source/authoritiespreferences.rst:400
+#: ../../source/authoritiespreferences.rst:431
+#: ../../source/authoritiespreferences.rst:481
+#: ../../source/authoritiespreferences.rst:503
+#: ../../source/authoritiespreferences.rst:573
+msgid "Values:"
+msgstr "預設值："
+
+#: ../../source/authoritiespreferences.rst:27
+#, fuzzy
+msgid "Don't show"
+msgstr "不使用"
+
+#: ../../source/authoritiespreferences.rst:29
+msgid "Show"
+msgstr ""
+
+#: ../../source/authoritiespreferences.rst:31
+#: ../../source/authoritiespreferences.rst:98
+#: ../../source/authoritiespreferences.rst:121
+#: ../../source/authoritiespreferences.rst:166
+#: ../../source/authoritiespreferences.rst:196
+#: ../../source/authoritiespreferences.rst:222
+#: ../../source/authoritiespreferences.rst:254
+#: ../../source/authoritiespreferences.rst:274
+#: ../../source/authoritiespreferences.rst:305
+#: ../../source/authoritiespreferences.rst:333
+#: ../../source/authoritiespreferences.rst:372
+#: ../../source/authoritiespreferences.rst:406
+#: ../../source/authoritiespreferences.rst:437
+#: ../../source/authoritiespreferences.rst:487
+#: ../../source/authoritiespreferences.rst:525
+#: ../../source/authoritiespreferences.rst:542
+#: ../../source/authoritiespreferences.rst:579
+msgid "Description:"
+msgstr "說明："
+
+#: ../../source/authoritiespreferences.rst:33
+msgid "When set to 'Show' broader and narrower 'See also' references will be displayed in a tree at the top of the record in both the staff interface and the OPAC."
+msgstr ""
+
+#: ../../source/authoritiespreferences.rst:37
+#, fuzzy
+msgid "|AuthDisplayHierarchy|"
+msgstr "AuthDisplayHierarchy"
+
+#: ../../source/authoritiespreferences.rst:39
+msgid "For MARC21, in order for this display to appear, the records must have 5XX with the relationship code in $w and the authority number (authid) in $9."
+msgstr ""
+
+#: ../../source/authoritiespreferences.rst:44
+msgid "The relationship codes in $w can be found on the Library of Congress website under `Tracings and references-General information <https://www.loc.gov/marc/authority/adtracing.html>`_"
+msgstr ""
+
+#: ../../source/authoritiespreferences.rst:47
+msgid "g - Broader term"
+msgstr ""
+
+#: ../../source/authoritiespreferences.rst:49
+msgid "h - Narrower term"
+msgstr ""
+
+#: ../../source/authoritiespreferences.rst:51
+msgid "For example, the records in the above screenshot have the following information::"
+msgstr ""
+
+#: ../../source/authoritiespreferences.rst:80
+msgid "The relationships must be bidirectional, meaning the broader term must reference the narrower term and the narrower term must reference the broader term."
+msgstr ""
+
+#: ../../source/authoritiespreferences.rst:87
+msgid "AuthorityControlledIndicators"
+msgstr "AuthorityControlledIndicators"
+
+#: ../../source/authoritiespreferences.rst:89
+msgid "Asks: Use the following text to edit how authority records control indicators of attached biblio fields (and possibly subfield $2). Lines starting with a comment symbol (#) are skipped. Each line should be of the form: (marc21|unimarc), tag, ind1:(auth1|auth2|some_value), ind2:(auth1|auth2|thesaurus|some_value). Here auth1 and auth2 refer to the indicators of the authority record, tag is a biblio field number or an asterisk (*), and some_value is a fixed value (one character). The MARC21 option thesaurus refers to indicators controlled by authority field 008/11 and 040$f."
+msgstr "詢問：以下列的字元編輯權威紀錄控制書目欄位 (可能為分欄 $2) 的指標。將略過以井號開始 (#) 的內容。每列的格式應為：(marc21|unimarc)、tag、ind1:(auth1|auth2|some_value)、ind2:(auth1|auth2|thesaurus|some_value)。auth1 與 auth2 表示權威紀錄的兩個指標，tag是書目紀錄欄號或星號 (*)，some_value 是固定的值 (一個字元)。MARC21 選項的辭語典表示權威欄位 008/11 與 040$f 控制的指標。"
+
+#: ../../source/authoritiespreferences.rst:100
+msgid "Used when merging authorities."
+msgstr "合併權威時使用。"
+
+#: ../../source/authoritiespreferences.rst:102
+msgid "Controls how the indicators of linked authority records affect the corresponding biblio indicators. Currently, the default value is fine-tuned for MARC21 and copies the authority indicators for UNIMARC."
+msgstr "控制連結權威紀錄指標如何對書目指標影響。目前，MARC 21 的預設值微調值與 UNIMARC 權威指標的複本。"
+
+#: ../../source/authoritiespreferences.rst:106
+msgid "For example, a MARC21 field 100 in a biblio record should pick its first indicator from the linked authority record. The second indicator is not controlled by the authority. This report supports such MARC conventions."
+msgstr "例如，書目紀錄 MARC 21 欄號 100 應從連結權威紀錄中，挑選其第一個指標。第二個指標不是由權威控制。此報表支援該等 MARC。"
+
+#: ../../source/authoritiespreferences.rst:113
+msgid "AuthorityMergeLimit"
+msgstr "AuthorityMergeLimit"
+
+#: ../../source/authoritiespreferences.rst:115
+msgid "Asks: When modifying an authority record, do not update attached bibliographic records if the number exceeds \\_\\_\\_ records. (Above this limit, the :ref:`merge_authority cron job<cron-update-authorities-label>` will update them.)"
+msgstr "詢問：修改權威紀錄時，不要更新編號大於 \\_\\_\\_ 的書目紀錄。(在此限制上，由 :ref:` merge_authority 工作排程<cron-update-authorities-label>` 更新它們。)"
+
+#: ../../source/authoritiespreferences.rst:119
+msgid "Default: 50"
+msgstr "預設值：50"
+
+#: ../../source/authoritiespreferences.rst:123
+msgid "This system preference determines the maximum number of bibliographic records that can be updated when an authority record changes."
+msgstr "此系統偏好決定了權威記錄更改時可以更新的書目記錄的最大數量。"
+
+#: ../../source/authoritiespreferences.rst:126
+msgid "This helps prevent overusing resources if an authority record is linked to many bibliographic records."
+msgstr "如果權威記錄連結到許多書目記錄有助於防止過度使用資源。"
+
+#: ../../source/authoritiespreferences.rst:129
+msgid "Make sure to enable the :ref:`merge_authority cron job<cron-update-authorities-label>` to catch the updates that wouldn't otherwise be transferred to bibliographic records."
+msgstr "確保啟用  :ref:`merge_authority cron job<cron-update-authorities-label>` 以抓取不會以其他方式傳輸到書目記錄的更新。"
+
+#: ../../source/authoritiespreferences.rst:136
+msgid "AuthorityMergeMode"
+msgstr "AuthorityMergeMode"
+
+#: ../../source/authoritiespreferences.rst:138
+msgid "Default: loose"
+msgstr "預設值：鬆散"
+
+#: ../../source/authoritiespreferences.rst:140
+msgid "Asks: When updating biblio records from an attached authority record (\"merging\"), handle subfields of relevant biblio record fields in \\_\\_\\_ mode. In strict mode subfields that are not found in the authority record, are deleted. Loose mode will keep them. Loose mode is the historical behavior and still the default."
+msgstr "詢問：從權威紀錄更新書目紀錄 (\"合併\") 時，處理在 \\_\\_\\_ 模式內相關書目紀錄的分欄。在嚴格模式下在權威紀錄找不到的分欄，會被刪除。鬆散模式則保留它們。鬆散模式是歷史行為仍為預設值。"
+
+#: ../../source/authoritiespreferences.rst:147
+msgid "loose"
+msgstr "鬆散"
+
+#: ../../source/authoritiespreferences.rst:149
+msgid "strict"
+msgstr "嚴格"
+
+#: ../../source/authoritiespreferences.rst:154
+msgid "AutoCreateAuthorities"
+msgstr "AutoCreateAuthorities"
+
+#: ../../source/authoritiespreferences.rst:156
+msgid "Asks: When editing records, \\_\\_\\_ authority records that are missing."
+msgstr "詢問：編輯記錄時，\\_\\_\\_ 遺失的權威記錄。"
+
+#: ../../source/authoritiespreferences.rst:158
+#, fuzzy
+msgid "Default: don't generate"
+msgstr "預設值：不產生"
+
+#: ../../source/authoritiespreferences.rst:162
+#, fuzzy
+msgid "don't generate"
+msgstr "不產生"
+
+#: ../../source/authoritiespreferences.rst:164
+msgid "generate"
+msgstr "產生"
+
+#: ../../source/authoritiespreferences.rst:168
+#, fuzzy
+msgid "This system preference allows you to decide if Koha automatically creates new authority records from the bibliographic records."
+msgstr "此偏好控制權威記錄008欄位的預設值。不影響書目記錄。"
+
+#: ../../source/authoritiespreferences.rst:173
+msgid ":ref:`RequireChoosingExistingAuthority <requirechoosingexistingauthority-label>` must be set to \"don't require\", otherwise this system preference has no effect."
+msgstr ""
+
+#: ../../source/authoritiespreferences.rst:177
+msgid "If this is set to \"don't generate\", and catalogers enter uncontrolled terms in controlled fields, Koha will not generate matching authority records."
+msgstr ""
+
+#: ../../source/authoritiespreferences.rst:180
+msgid "If set to \"generate\" (and :ref:`RequireChoosingExistingAuthority <requirechoosingexistingauthority-label>` is set to \"don't require\"), Koha will automatically create authority records for headings that don't have any authority link when saving a bibliographic record."
+msgstr ""
+
+#: ../../source/authoritiespreferences.rst:189
+#, fuzzy
+msgid "GenerateAuthorityField667"
+msgstr "AutoCreateAuthorities"
+
+#: ../../source/authoritiespreferences.rst:191
+#, fuzzy
+msgid "Asks: Use the following text as default value for the 667$a field of MARC21 authority records: \\_\\_\\_"
+msgstr "詢問： 權威連結器使用以下的選項 \\_\\_\\_"
+
+#: ../../source/authoritiespreferences.rst:194
+msgid "Default: Machine generated authority record"
+msgstr ""
+
+#: ../../source/authoritiespreferences.rst:198
+#: ../../source/authoritiespreferences.rst:224
+msgid "This system preference is used when Koha automatically creates authority records when :ref:`RequireChoosingExistingAuthority <requirechoosingexistingauthority-label>` is set to \"don't require\" and :ref:`AutoCreateAuthorities <AutoCreateAuthorities-label>` is set to \"generate\"."
+msgstr ""
+
+#: ../../source/authoritiespreferences.rst:205
+msgid "Enter the text you want to use in the 667$a field."
+msgstr ""
+
+#: ../../source/authoritiespreferences.rst:209
+#: ../../source/authoritiespreferences.rst:235
+msgid "This system preference is only used when :ref:`marcflavour <marcflavour-label>` is set to MARC21."
+msgstr ""
+
+#: ../../source/authoritiespreferences.rst:215
+#, fuzzy
+msgid "GenerateAuthorityField670"
+msgstr "UNIMARCAuthorityField100"
+
+#: ../../source/authoritiespreferences.rst:217
+#, fuzzy
+msgid "Asks: Use the following text as default value for the 670$a field of MARC21 authority records: \\_\\_\\_"
+msgstr "詢問： 權威連結器使用以下的選項 \\_\\_\\_"
+
+#: ../../source/authoritiespreferences.rst:220
+#, fuzzy
+msgid "Default: Work cat."
+msgstr "預設值：不做"
+
+#: ../../source/authoritiespreferences.rst:231
+msgid "Enter the text you want to use in the 670$a field."
+msgstr ""
+
+#: ../../source/authoritiespreferences.rst:241
+msgid "MARCAuthorityControlField008"
+msgstr "MARCAuthorityControlField008"
+
+#: ../../source/authoritiespreferences.rst:243
+msgid "Default: \\|\\| aca\\|\\|aabn \\| a\\|a d"
+msgstr "預設值：\\|\\| aca\\|\\|aabn \\| a\\|a d"
+
+#: ../../source/authoritiespreferences.rst:245
+msgid "Asks: Use the following text for the contents of MARC21 authority control field 008 position 06-39 (fixed length data elements)."
+msgstr "詢問：在 MARC21 權威控制欄位 008 位置 06-39 (定長欄資料) 使用以下列文字。"
+
+#: ../../source/authoritiespreferences.rst:248
+#: ../../source/authoritiespreferences.rst:299
+#: ../../source/authoritiespreferences.rst:537
+msgid "**Important**"
+msgstr "**重要**"
+
+#: ../../source/authoritiespreferences.rst:250
+msgid "Do not include the date (position 00-05) in this preference, Koha will calculate automatically and put that in before the values in this preference."
+msgstr "此偏好不包括日期 (位置 00-05)，Koha 將自動計算並將其放在此偏好的值之前。"
+
+#: ../../source/authoritiespreferences.rst:256
+msgid "This preference controls the default value in the 008 field on Authority records. It does not effect bibliographic records."
+msgstr "此偏好控制權威記錄008欄位的預設值。不影響書目記錄。"
+
+#: ../../source/authoritiespreferences.rst:262
+msgid "RequireChoosingExistingAuthority"
+msgstr ""
+
+#: ../../source/authoritiespreferences.rst:264
+#, fuzzy
+msgid "Asks: When editing records, \\_\\_\\_ catalogers to reference existing authorities."
+msgstr "詢問：編輯記錄時，\\_\\_\\_ 遺失的權威記錄。"
+
+#: ../../source/authoritiespreferences.rst:266
+#, fuzzy
+msgid "Default: don't require"
+msgstr "預設值：不使用"
+
+#: ../../source/authoritiespreferences.rst:270
+#, fuzzy
+msgid "don't require"
+msgstr "不使用"
+
+#: ../../source/authoritiespreferences.rst:272
+msgid "require"
+msgstr ""
+
+#: ../../source/authoritiespreferences.rst:276
+#, fuzzy
+msgid "This system preference determines whether or not catalogers can type into authority controlled fields."
+msgstr "此系統偏好決定了權威記錄更改時可以更新的書目記錄的最大數量。"
+
+#: ../../source/authoritiespreferences.rst:279
+msgid "If set to \"don't require\", catalogers can manually enter uncontrolled terms into controlled fields"
+msgstr ""
+
+#: ../../source/authoritiespreferences.rst:282
+msgid "If set to \"require\", authority controlled fields will be locked, forcing catalogers to search for an authority."
+msgstr ""
+
+#: ../../source/authoritiespreferences.rst:285
+msgid "If set to \"require\", it will block :ref:`AutoCreateAuthorities <AutoCreateAuthorities-label>`. Authorities will have to be catalogued manually (or imported)."
+msgstr ""
+
+#: ../../source/authoritiespreferences.rst:292
+msgid "UNIMARCAuthorityField100"
+msgstr "UNIMARCAuthorityField100"
+
+#: ../../source/authoritiespreferences.rst:294
+msgid "Default: afrey50 ba0"
+msgstr "預設值：afrey50 ba0"
+
+#: ../../source/authoritiespreferences.rst:296
+#, fuzzy
+msgid "Asks: Use the following text for the contents of UNIMARC authority field 100 position 08-35 (fixed length data elements)."
+msgstr "詢問： 以下列的文字做為 UNIMARC 權威欄位 100 的值 (定長欄內容)。"
+
+#: ../../source/authoritiespreferences.rst:301
+msgid "Do not include the date (position 00-07) in this preference, Koha will calculate automatically and put that in before the values in this preference."
+msgstr "在此偏好內不含日期 (位址 00-07)，Koha 自動計算並置於此偏好之前。"
+
+#: ../../source/authoritiespreferences.rst:307
+msgid "This preference controls the default value in the 100 field on Authority records cataloged in UNIMARC. It does not effect bibliographic records."
+msgstr "此偏好控制 UNIMARC 權威記錄欄號 100 的預設值。它不影響書目記錄。"
+
+#: ../../source/authoritiespreferences.rst:314
+msgid "UseAuthoritiesForTracings"
+msgstr "UseAuthoritiesForTracings"
+
+#: ../../source/authoritiespreferences.rst:316
+msgid "Default: Don't use"
+msgstr "預設值：不使用"
+
+#: ../../source/authoritiespreferences.rst:318
+msgid "Asks: \\_\\_\\_ authority record numbers instead of text strings for searches from subject tracings."
+msgstr "詢問：\\_\\_\\_ 權威記錄號做為主題搜尋的字串。"
+
+#: ../../source/authoritiespreferences.rst:323
+msgid "Don't use"
+msgstr "不使用"
+
+#: ../../source/authoritiespreferences.rst:325
+msgid "Search links look for subject/author keywords (example: opac-search.pl?q=su:Business%20networks)"
+msgstr "以主題/著者的關鍵字做為搜尋的連結(如：opac-search.pl?q=su:Business%20networks)"
+
+#: ../../source/authoritiespreferences.rst:328
+msgid "Use"
+msgstr "使用"
+
+#: ../../source/authoritiespreferences.rst:330
+msgid "Search links look for an authority record (example: opac-search.pl?q=an:354)"
+msgstr "以權威記錄做為搜尋的連結(如：opac-search.pl?q=an:354)"
+
+#: ../../source/authoritiespreferences.rst:335
+msgid "For libraries that have authority files, they may want to make it so that when a link to an authorized subject or author is clicked on the OPAC or staff client it takes the searcher only to a list of results with that authority record. Most libraries do not have complete authority files and so setting this preference to 'Don't use' will allow searchers to click on links to authors and subject headings and perform a keyword search against those fields, finding all possible relevant results instead."
+msgstr "已使用權威檔案的圖書館，點選 OPAC 或館員介面的權威主題或著者時，連結至權威記錄，搜尋出完整的記錄。沒有完整權威檔案的圖書館，可以設定此偏好為 '不使用'，允許搜尋者點選連結至著者標目執行欄位的鍵詞搜尋，找出所有相關的結果。"
+
+#: ../../source/authoritiespreferences.rst:347
+msgid "Linker"
+msgstr "連結器"
+
+#: ../../source/authoritiespreferences.rst:349
+msgid "These preferences will control how Koha links bibliographic records to authority records. All bibliographic records added to Koha after these preferences are set will link automatically to authority records, for records added before these preferences are set there is a script (misc/link\\_bibs\\_to\\_authorities.pl) that your system administrator can run to link records together."
+msgstr "這些偏好控制 Koha 書目記錄至權威記錄的連結。經過適當的設定後，新增至 Koha 的書目記錄都自動連結至權威記錄；設定之前已存在的書目記錄，系統管理者可執行腳本程式 (misc/link\\_bibs\\_to\\_authorities.pl) 將這些記錄連結入權威記錄。"
+
+#: ../../source/authoritiespreferences.rst:359
+msgid "AutoLinkBiblios"
+msgstr ""
+
+#: ../../source/authoritiespreferences.rst:361
+#, fuzzy
+msgid "Asks: \\_\\_\\_ attempt to automatically link headings when saving records in the cataloging module."
+msgstr "詢問：\\_\\_\\_ 自動再連結曾經於編目模組儲存的記錄。"
+
+#: ../../source/authoritiespreferences.rst:364
+#: ../../source/authoritiespreferences.rst:398
+#: ../../source/authoritiespreferences.rst:429
+#, fuzzy
+msgid "Default: Don't"
+msgstr "預設值：不做"
+
+#: ../../source/authoritiespreferences.rst:368
+#: ../../source/authoritiespreferences.rst:402
+#: ../../source/authoritiespreferences.rst:435
+#: ../../source/authoritiespreferences.rst:483
+#: ../../source/authoritiespreferences.rst:575
+msgid "Do"
+msgstr "做"
+
+#: ../../source/authoritiespreferences.rst:370
+#: ../../source/authoritiespreferences.rst:404
+#: ../../source/authoritiespreferences.rst:433
+#, fuzzy
+msgid "Don't"
+msgstr "不使用"
+
+#: ../../source/authoritiespreferences.rst:374
+#, fuzzy
+msgid "This system preference determines whether or not Koha will attempt to link terms in authority controlled field to existing authority records upon saving a new bibliographic record."
+msgstr "此偏好控制權威記錄008欄位的預設值。不影響書目記錄。"
+
+#: ../../source/authoritiespreferences.rst:378
+msgid "This system preference is used when creating new bibliographic records. :ref:`CatalogModuleRelink <catalogmodulerelink-label>` and :ref:`LinkerRelink <linkerrelink-label>` are used when editing bibliographic records."
+msgstr ""
+
+#: ../../source/authoritiespreferences.rst:383
+msgid "If set to \"Do\", Koha will search in the thesaurus to find a matching authority record. If it finds one, it will link it. If it finds more than one, :ref:`LinkerModule <linkermodule-label>` will determine which one is linked."
+msgstr ""
+
+#: ../../source/authoritiespreferences.rst:387
+msgid "If set to \"Don't\", no linking attempt will be made when saving a new bibliographic record."
+msgstr ""
+
+#: ../../source/authoritiespreferences.rst:393
+msgid "CatalogModuleRelink"
+msgstr "CatalogModuleRelink"
+
+#: ../../source/authoritiespreferences.rst:395
+msgid "Asks: \\_\\_\\_ automatically relink headings that have previously been linked when saving records in the cataloging module."
+msgstr "詢問：\\_\\_\\_ 自動再連結曾經於編目模組儲存的記錄。"
+
+#: ../../source/authoritiespreferences.rst:408
+#, fuzzy
+msgid "This system preference determines whether or not authority links are checked and adjusted when saving a bibliographic record."
+msgstr "此系統偏好決定了權威記錄更改時可以更新的書目記錄的最大數量。"
+
+#: ../../source/authoritiespreferences.rst:411
+msgid "When set to \"Do\", Koha will automatically relink headings when a record is saved in the cataloging module when :ref:`LinkerRelink <linkerrelink-label>` is turned on, even if the headings were manually linked to a different authority by the cataloger."
+msgstr ""
+
+#: ../../source/authoritiespreferences.rst:418
+msgid "This system preference requires that :ref:`AutoLinkBiblios <autolinkbiblios-label>` be set to \"Do\"."
+msgstr ""
+
+#: ../../source/authoritiespreferences.rst:424
+msgid "LinkerConsiderThesaurus"
+msgstr ""
+
+#: ../../source/authoritiespreferences.rst:426
+msgid "Asks: \\_\\_\\_ compare the source for 6XX headings to the thesaurus source for authority records when linking."
+msgstr ""
+
+#: ../../source/authoritiespreferences.rst:439
+msgid "This system preference is used to enable multiple thesauri support for authorities."
+msgstr ""
+
+#: ../../source/authoritiespreferences.rst:442
+msgid "The thesaurus used for the term is added to the authority record using 040$f."
+msgstr ""
+
+#: ../../source/authoritiespreferences.rst:445
+msgid "In the bibliographic record, set the second indicator to 7 for 650 and add the source to 650$2. For local terms, use 4 (Source not specified) as the indicator."
+msgstr ""
+
+#: ../../source/authoritiespreferences.rst:449
+msgid "Example for a bibliographic record::"
+msgstr ""
+
+#: ../../source/authoritiespreferences.rst:455
+msgid "The first example above is the LCSH term. The other two terms are from sao (controlled Swedish subject heading system) and barn (Swedish children subject heading system). These three are using the same TOPIC_TERM Feminism, but they belong to different thesauri."
+msgstr ""
+
+#: ../../source/authoritiespreferences.rst:462
+msgid "In existing systems, enabling this preference may require a reindex, and may generate new authority records if :ref:`AutoCreateAuthorities <autocreateauthorities-label>` is enabled."
+msgstr ""
+
+#: ../../source/authoritiespreferences.rst:468
+msgid "Support for multiple authority thesauri currently only works with ElasticSearch."
+msgstr ""
+
+#: ../../source/authoritiespreferences.rst:474
+msgid "LinkerKeepStale"
+msgstr "LinkerKeepStale"
+
+#: ../../source/authoritiespreferences.rst:476
+msgid "Default: Do not"
+msgstr "預設值：不做"
+
+#: ../../source/authoritiespreferences.rst:478
+msgid "Asks: \\_\\_\\_ keep existing links to authority records for headings where the linker is unable to find a match."
+msgstr "詢問：當連結器找到不對照連結時 \\_\\_\\_ 保留原來的標題連結至權威記錄。"
+
+#: ../../source/authoritiespreferences.rst:485
+#: ../../source/authoritiespreferences.rst:577
+msgid "Do not"
+msgstr "不做"
+
+#: ../../source/authoritiespreferences.rst:489
+#, fuzzy
+msgid "When set to 'Do', the linker will never remove a link to an authority record, though, depending on the value of :ref:`LinkerRelink <LinkerRelink-label>`, it may change the link."
+msgstr "設定為 '做' 時，連結器不會移除權威記錄的連結，視 :ref:`LinkerRelink` 的值決定是否改變連結。"
+
+#: ../../source/authoritiespreferences.rst:496
+msgid "LinkerModule"
+msgstr "LinkerModule"
+
+#: ../../source/authoritiespreferences.rst:498
+msgid "Default: Default"
+msgstr "預設：預設"
+
+#: ../../source/authoritiespreferences.rst:500
+msgid "Asks: Use the \\_\\_\\_ linker module for matching headings to authority records."
+msgstr "詢問：使用 \\_\\_\\_ 連結器模組供標題對照至權威記錄之用。"
+
+#: ../../source/authoritiespreferences.rst:505
+msgid "Default"
+msgstr "預設"
+
+#: ../../source/authoritiespreferences.rst:507
+#, fuzzy
+msgid "Retains Koha's previous behavior of only creating links when there is an exact match to one and only one authority record; if the :ref:`LinkerOptions <LinkerOptions-label>` preference is set to 'broader\\_headings', it will try to link headings to authority records for broader headings by removing subfields from the end of the heading"
+msgstr "只對照一個權威記錄時，保留新增連結後 Koha 原來的行為；若 :ref:`LinkerOptions` 偏好設為 'broader\\_headings'，將移除標題最後的分欄，連結標題至權威記錄"
+
+#: ../../source/authoritiespreferences.rst:514
+msgid "First match"
+msgstr "第一個對映"
+
+#: ../../source/authoritiespreferences.rst:516
+msgid "Creates a link to the first authority record that matches a given heading, even if there is more than one authority record that matches"
+msgstr "即使有多筆權威記錄對映成功，只會新增連結至與指定標題對映的第一個權威記錄"
+
+#: ../../source/authoritiespreferences.rst:520
+msgid "Last match"
+msgstr "最後對映"
+
+#: ../../source/authoritiespreferences.rst:522
+msgid "Creates a link to the last authority record that matches a given heading, even if there is more than one record that matches"
+msgstr "即使有多筆權威記錄對映成功，只會新增連結至與指定標題對映的最後一個權威記錄"
+
+#: ../../source/authoritiespreferences.rst:527
+msgid "This preference tells Koha which match to use when searching for authority matches when saving a record."
+msgstr "儲存書目記錄時，此偏好告訴Koha使用指定的對應權威記錄。"
+
+#: ../../source/authoritiespreferences.rst:533
+msgid "LinkerOptions"
+msgstr "LinkerOptions"
+
+#: ../../source/authoritiespreferences.rst:535
+msgid "Asks: Set the following options for the authority linker \\_\\_\\_"
+msgstr "詢問： 權威連結器使用以下的選項 \\_\\_\\_"
+
+#: ../../source/authoritiespreferences.rst:539
+msgid "This feature is experimental and shouldn't be used in a production environment until further expanded upon."
+msgstr "此功能還在實驗中，在進一步擴充前不應使用於作業環境裡。"
+
+#: ../../source/authoritiespreferences.rst:544
+msgid "This is a pipe separated (\\|) list of options. At the moment, the only option available is \"broader\\_headings.\" With this option set to \"broader\\_headings\", the linker will try to match the following heading as follows:"
+msgstr "以直線 (\\|) 區隔的選項，目前只有 \"broader\\_headings\" 一個選項。設定\"broader\\_headings\" 之後，連結器將依下例對映標題："
+
+#: ../../source/authoritiespreferences.rst:553
+msgid "First: Camins-Esakov, Jared--Coin collections--Catalogs--Early works to 1800"
+msgstr "首先：Camins-Esakov, Jared--Coin collections--Catalogs--Early works to 1800"
+
+#: ../../source/authoritiespreferences.rst:556
+msgid "Next: Camins-Esakov, Jared--Coin collections--Catalogs"
+msgstr "然後：Camins-Esakov, Jared--Coin collections--Catalogs"
+
+#: ../../source/authoritiespreferences.rst:558
+msgid "Next: Camins-Esakov, Jared--Coin collections"
+msgstr "然後：Camins-Esakov, Jared--Coin collections"
+
+#: ../../source/authoritiespreferences.rst:560
+msgid "Next: Camins-Esakov, Jared (matches! if a previous attempt had matched, it would not have tried this)"
+msgstr "然後：Camins-Esakov, Jared (已對映！若之前的嘗試已對映，就不會嘗試這個)"
+
+#: ../../source/authoritiespreferences.rst:566
+msgid "LinkerRelink"
+msgstr "LinkerRelink"
+
+#: ../../source/authoritiespreferences.rst:568
+msgid "Default: Do"
+msgstr "預設值：做"
+
+#: ../../source/authoritiespreferences.rst:570
+msgid "Asks: \\_\\_\\_ relink headings that have previously been linked to authority records."
+msgstr "詢問：\\_\\_\\_ 再連結曾經連結至權威記錄的標題。"
+
+#: ../../source/authoritiespreferences.rst:581
+msgid "When set to 'Do', the linker will confirm the links for headings that have previously been linked to an authority record when it runs, correcting any incorrect links it may find. When set to 'Do not', any heading with an existing link will be ignored, even if the existing link is invalid or incorrect."
+msgstr "設定為 '做' 時，連結器先確認曾經連結至權威記錄的標題，修正錯誤的連結。若設定為 '不做'，忽視既有的連結，即使既有連結失效或不正確。"
+
+#: ../../source/images.rst:719
+msgid "In the authority record detail page in the staff interface, the broader and narrower terms are displayed in a tree"
+msgstr ""

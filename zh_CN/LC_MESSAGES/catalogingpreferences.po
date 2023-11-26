@@ -1,0 +1,1963 @@
+# Chinese translations for Koha Manual package.
+# Copyright (C) 2020, Koha Community
+# This file is distributed under the same license as the Koha Manual package.
+# Automatically generated, 2021.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Koha Manual 22.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-10-26 13:37+0000\n"
+"PO-Revision-Date: 2023-11-16 15:29+0800\n"
+"Last-Translator: Saralin <c108126114@nkust.edu.tw>\n"
+"Language-Team: none\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 3.2.2\n"
+"X-Pootle-Path: /zh_TW/manual22.11/catalogingpreferences.po\n"
+"X-Pootle-Revision: 1\n"
+"X-POOTLE-MTIME: 1679117001.435412\n"
+
+#: ../../source/catalogingpreferences.rst:6
+msgid "Cataloging"
+msgstr "编目"
+
+#: ../../source/catalogingpreferences.rst:8
+msgid "*Get there:* More > Administration > Global system preferences > Cataloging"
+msgstr "*在这里：* 更多 > 管理 > 全局系统参数 > 编目"
+
+#: ../../source/catalogingpreferences.rst:14
+#: ../../source/catalogingpreferences.rst:1508
+msgid "Display"
+msgstr "显示"
+
+#: ../../source/catalogingpreferences.rst:19
+msgid "AcquisitionDetails"
+msgstr "AcquisitionDetails"
+
+#: ../../source/catalogingpreferences.rst:21
+#, fuzzy
+msgid "Asks: \\_\\_\\_ acquisition details on the bibliographic record detail page."
+msgstr "问：\\_\\_\\_ 书目记录细节页面的采访详情。"
+
+#: ../../source/catalogingpreferences.rst:23
+#: ../../source/catalogingpreferences.rst:80
+#: ../../source/catalogingpreferences.rst:788
+msgid "Default: Show"
+msgstr "默认值：Show"
+
+#: ../../source/catalogingpreferences.rst:25
+#: ../../source/catalogingpreferences.rst:82
+#: ../../source/catalogingpreferences.rst:133
+#: ../../source/catalogingpreferences.rst:188
+#: ../../source/catalogingpreferences.rst:263
+#: ../../source/catalogingpreferences.rst:337
+#: ../../source/catalogingpreferences.rst:385
+#: ../../source/catalogingpreferences.rst:491
+#: ../../source/catalogingpreferences.rst:520
+#: ../../source/catalogingpreferences.rst:590
+#: ../../source/catalogingpreferences.rst:751
+#: ../../source/catalogingpreferences.rst:790
+#: ../../source/catalogingpreferences.rst:818
+#: ../../source/catalogingpreferences.rst:875
+#: ../../source/catalogingpreferences.rst:905
+#: ../../source/catalogingpreferences.rst:931
+#: ../../source/catalogingpreferences.rst:1015
+#: ../../source/catalogingpreferences.rst:1046
+#: ../../source/catalogingpreferences.rst:1082
+#: ../../source/catalogingpreferences.rst:1189
+#: ../../source/catalogingpreferences.rst:1267
+#: ../../source/catalogingpreferences.rst:1346
+#: ../../source/catalogingpreferences.rst:1373
+#: ../../source/catalogingpreferences.rst:1504
+#: ../../source/catalogingpreferences.rst:1566
+#: ../../source/catalogingpreferences.rst:1593
+msgid "Values:"
+msgstr "值:"
+
+#: ../../source/catalogingpreferences.rst:27
+#: ../../source/catalogingpreferences.rst:84
+#: ../../source/catalogingpreferences.rst:792
+#: ../../source/catalogingpreferences.rst:933
+#: ../../source/catalogingpreferences.rst:1595
+msgid "Don't show"
+msgstr "不显示"
+
+#: ../../source/catalogingpreferences.rst:29
+#: ../../source/catalogingpreferences.rst:86
+#: ../../source/catalogingpreferences.rst:794
+#: ../../source/catalogingpreferences.rst:935
+#: ../../source/catalogingpreferences.rst:1597
+msgid "Show"
+msgstr "Show"
+
+#: ../../source/catalogingpreferences.rst:31
+#: ../../source/catalogingpreferences.rst:49
+#: ../../source/catalogingpreferences.rst:88
+#: ../../source/catalogingpreferences.rst:148
+#: ../../source/catalogingpreferences.rst:168
+#: ../../source/catalogingpreferences.rst:209
+#: ../../source/catalogingpreferences.rst:220
+#: ../../source/catalogingpreferences.rst:243
+#: ../../source/catalogingpreferences.rst:275
+#: ../../source/catalogingpreferences.rst:325
+#: ../../source/catalogingpreferences.rst:345
+#: ../../source/catalogingpreferences.rst:360
+#: ../../source/catalogingpreferences.rst:395
+#: ../../source/catalogingpreferences.rst:473
+#: ../../source/catalogingpreferences.rst:505
+#: ../../source/catalogingpreferences.rst:526
+#: ../../source/catalogingpreferences.rst:556
+#: ../../source/catalogingpreferences.rst:574
+#: ../../source/catalogingpreferences.rst:611
+#: ../../source/catalogingpreferences.rst:654
+#: ../../source/catalogingpreferences.rst:691
+#: ../../source/catalogingpreferences.rst:735
+#: ../../source/catalogingpreferences.rst:757
+#: ../../source/catalogingpreferences.rst:796
+#: ../../source/catalogingpreferences.rst:826
+#: ../../source/catalogingpreferences.rst:848
+#: ../../source/catalogingpreferences.rst:911
+#: ../../source/catalogingpreferences.rst:937
+#: ../../source/catalogingpreferences.rst:964
+#: ../../source/catalogingpreferences.rst:987
+#: ../../source/catalogingpreferences.rst:1027
+#: ../../source/catalogingpreferences.rst:1058
+#: ../../source/catalogingpreferences.rst:1088
+#: ../../source/catalogingpreferences.rst:1115
+#: ../../source/catalogingpreferences.rst:1143
+#: ../../source/catalogingpreferences.rst:1166
+#: ../../source/catalogingpreferences.rst:1195
+#: ../../source/catalogingpreferences.rst:1221
+#: ../../source/catalogingpreferences.rst:1252
+#: ../../source/catalogingpreferences.rst:1283
+#: ../../source/catalogingpreferences.rst:1303
+#: ../../source/catalogingpreferences.rst:1327
+#: ../../source/catalogingpreferences.rst:1352
+#: ../../source/catalogingpreferences.rst:1379
+#: ../../source/catalogingpreferences.rst:1427
+#: ../../source/catalogingpreferences.rst:1453
+#: ../../source/catalogingpreferences.rst:1476
+#: ../../source/catalogingpreferences.rst:1510
+#: ../../source/catalogingpreferences.rst:1599
+msgid "Description:"
+msgstr "说明："
+
+#: ../../source/catalogingpreferences.rst:33
+#, fuzzy
+msgid "This system preference controls whether a tab will show on the detail page in the staff interface that includes detailed acquisitions information for the title. This tab will include links to order information stored in the acquisitions module."
+msgstr "此偏好控制是否在館員介面的詳情頁面出現包括該題名的採訪詳情資訊分頁。此分頁將包括連結至儲存在採訪模組的其他資訊。"
+
+#: ../../source/catalogingpreferences.rst:38
+msgid "|AcquisitionDetails|"
+msgstr "|AcquisitionDetails|"
+
+#: ../../source/catalogingpreferences.rst:43
+msgid "AuthoritySeparator"
+msgstr "AuthoritySeparator"
+
+#: ../../source/catalogingpreferences.rst:45
+msgid "Asks: Separate main entry and subdivisions with \\_\\_\\_."
+msgstr "要求：用 \\_\\_\\_ 分隔主要條目和子條目。"
+
+#: ../../source/catalogingpreferences.rst:47
+msgid "Default: --"
+msgstr "默认: --"
+
+#: ../../source/catalogingpreferences.rst:51
+msgid "This system preference allows you to choose the character or characters that is used to separate the main entry and the subdivisions in authorities."
+msgstr "這個系統偏好允許你選擇一個或多個字符，用來分隔主要條目和權威中的子款目。"
+
+#: ../../source/catalogingpreferences.rst:54
+msgid "For example, -- will make authorities appear like this:"
+msgstr "例如，--將使權威出現這樣的情況："
+
+#: ../../source/catalogingpreferences.rst:56
+msgid "Cats--Fiction"
+msgstr "貓--小說"
+
+#: ../../source/catalogingpreferences.rst:58
+msgid "This is used for non-XSLT views only. Whether or not you use XSLT views is determined by the following system preferences:"
+msgstr "這僅用於非XSLT視圖。是否使用XSLT視圖是由以下系統偏好決定的："
+
+#: ../../source/catalogingpreferences.rst:61
+#, fuzzy
+msgid ":ref:`OPACXSLTDetailsDisplay <OPACXSLTDetailsDisplay-label>`"
+msgstr ":ref:`OPACXSLTDetailsDisplay`"
+
+#: ../../source/catalogingpreferences.rst:63
+#, fuzzy
+msgid ":ref:`OPACXSLTListsDisplay <OPACXSLTListsDisplay-label>`"
+msgstr ":ref:`OPACXSLTListsDisplay`"
+
+#: ../../source/catalogingpreferences.rst:65
+#, fuzzy
+msgid ":ref:`OPACXSLTResultsDisplay <OPACXSLTResultsDisplay-label>`"
+msgstr ":ref:`OPACXSLTResultsDisplay`"
+
+#: ../../source/catalogingpreferences.rst:67
+#, fuzzy
+msgid ":ref:`XSLTDetailsDisplay <XSLTDetailsDisplay-label>`"
+msgstr ":ref:`XSLTDetailsDisplay`"
+
+#: ../../source/catalogingpreferences.rst:69
+#, fuzzy
+msgid ":ref:`XSLTListsDisplay <XSLTListsDisplay-label>`"
+msgstr ":ref:`XSLTListsDisplay`"
+
+#: ../../source/catalogingpreferences.rst:71
+#, fuzzy
+msgid ":ref:`XSLTResultsDisplay <XSLTResultsDisplay-label>`"
+msgstr ":ref:`XSLTResultsDisplay`"
+
+#: ../../source/catalogingpreferences.rst:76
+msgid "hide\\_marc"
+msgstr "hide\\_marc"
+
+#: ../../source/catalogingpreferences.rst:78
+msgid "Asks: \\_\\_\\_ MARC tag numbers, subfield codes and indicators in MARC views."
+msgstr "詢問：於 MARC 檢視時 \\_\\_\\_ MARC 欄號、分欄代碼及指標。"
+
+#: ../../source/catalogingpreferences.rst:90
+msgid "This system preference can be used to hide the MARC tag numbers and indicators in the staff interface and OPAC MARC views."
+msgstr ""
+
+#: ../../source/catalogingpreferences.rst:93
+msgid "When set to 'Show', the MARC view of a bibliographic record will display the MARC field numbers and indicators."
+msgstr ""
+
+#: ../../source/catalogingpreferences.rst:96
+#: ../../source/catalogingpreferences.rst:107
+msgid "In the MARC view of the staff interface:"
+msgstr ""
+
+#: ../../source/catalogingpreferences.rst:98
+msgid "|hide_marc-show-staff|"
+msgstr ""
+
+#: ../../source/catalogingpreferences.rst:100
+#: ../../source/catalogingpreferences.rst:111
+msgid "In the MARC view of the OPAC:"
+msgstr ""
+
+#: ../../source/catalogingpreferences.rst:102
+msgid "|hide_marc-show-opac|"
+msgstr ""
+
+#: ../../source/catalogingpreferences.rst:104
+msgid "When set to \"Don't show\", the MARC view of a bibliographic record will only display the field name."
+msgstr ""
+
+#: ../../source/catalogingpreferences.rst:109
+msgid "|hide_marc-dontshow-staff|"
+msgstr ""
+
+#: ../../source/catalogingpreferences.rst:113
+msgid "|hide_marc-dontshow-opac|"
+msgstr ""
+
+#: ../../source/catalogingpreferences.rst:117
+msgid "Contrary to the description, the subfield codes are not affected by this system preference."
+msgstr ""
+
+#: ../../source/catalogingpreferences.rst:122
+msgid "This system preference only affects the bibliographic record display."
+msgstr ""
+
+#: ../../source/catalogingpreferences.rst:127
+msgid "IntranetBiblioDefaultView"
+msgstr "IntranetBiblioDefaultView"
+
+#: ../../source/catalogingpreferences.rst:129
+msgid "Default: ISBD form"
+msgstr "預設值：ISBD 格式"
+
+#: ../../source/catalogingpreferences.rst:131
+#, fuzzy
+msgid "Asks: By default, display bibliographic records in \\_\\_\\_"
+msgstr "詢問：預設，顯示書目記錄格式為 \\_\\_\\_"
+
+#: ../../source/catalogingpreferences.rst:135
+#, fuzzy
+msgid "ISBD form -- displays records in the staff interface in the old card catalog format"
+msgstr "ISBD格式 -- 在館員介面顯示卡片目錄格式"
+
+#: ../../source/catalogingpreferences.rst:138
+#, fuzzy
+msgid "See :ref:`ISBD <ISBD-label>` preference for more information"
+msgstr "詳情見 :ref:`ISBD` 偏好"
+
+#: ../../source/catalogingpreferences.rst:140
+#, fuzzy
+msgid "Labelled MARC form -- displays records in the staff interface in MARC with text labels to explain the different fields"
+msgstr "Labelled MARC格式 -- 在館員介面顯示MARC及其欄位說明"
+
+#: ../../source/catalogingpreferences.rst:143
+#, fuzzy
+msgid "MARC form -- displays records in the staff interface in MARC"
+msgstr "MARC格式 -- 在館員介面顯MARC"
+
+#: ../../source/catalogingpreferences.rst:145
+#, fuzzy
+msgid "normal form -- visual display in the staff interface (for the average person)"
+msgstr "標準格式 -- 在館員介面顯示欄位格式(供一般讀者使用)"
+
+#: ../../source/catalogingpreferences.rst:150
+#, fuzzy
+msgid "This setting determines the bibliographic record display when searching the catalog on the staff interface. This setting does not affect the display in the OPAC which is changed using the :ref:`BiblioDefaultView <BiblioDefaultView-label>` preference under the OPAC preference tab. This setting changes the look of the record when first displayed. The MARC and ISBD views can still be seen by clicking in the sidebar."
+msgstr "此偏好設定影響書目記錄在館員介面的顯示方式。此設定不影響 OPAC 偏好分頁的 :ref:`BiblioDefaultView` 偏好的顯示方式。此偏好影響記錄首次出現的樣貌。點選邊欄的 MARC 或 ISBD 仍可看到其內容。"
+
+#: ../../source/catalogingpreferences.rst:161
+msgid "ISBD"
+msgstr "ISBD"
+
+#: ../../source/catalogingpreferences.rst:163
+msgid "Default: See `ISBD view configuration <https://wiki.koha-community.org/wiki/ISBD_view_configuration>` on the wiki."
+msgstr "預設：見共筆的`ISBD 檢視組態 <https://wiki.koha-community.org/wiki/ISBD_view_configuration>`。"
+
+#: ../../source/catalogingpreferences.rst:166
+msgid "Asks: Use the following as the ISBD template:"
+msgstr "詢問：使用以下的 ISBD 模版："
+
+#: ../../source/catalogingpreferences.rst:170
+msgid "This determines how the ISBD information will display in the staff client. Elements in the list can be reordered to produce a different ISBD view. ISBD, the International Standard Bibliographic Description, was first introduced by IFLA (International Federation of Library Associations) in 1969 in order to provide guidelines for descriptive cataloging. The purpose of ISBD is to aid the international exchange of bibliographic records for a variety of materials."
+msgstr "此設定決定 ISBD 資訊的顯示方式。在此清單內的元素可以用不同的 ISBD 方式呈現。ISBD 全稱是 International Standard Bibliographic Description 譯名是國際書目著錄標準，1969年由國際圖書館協會聯合會 (International Federation of Library Associations, IFLA) 首次發佈做為敘述編目的指南。ISBD 的目的是協助不同類型的書目資料在國際間交換。"
+
+#: ../../source/catalogingpreferences.rst:182
+msgid "LabelMARCView"
+msgstr "LabelMARCView"
+
+#: ../../source/catalogingpreferences.rst:184
+msgid "Default: Don't"
+msgstr "預設值：不要"
+
+#: ../../source/catalogingpreferences.rst:186
+msgid "Asks: \\_\\_\\_ collapse repeated tags of the same type into one tag entry."
+msgstr "詢問：\\_\\_\\_ 收折重複的欄位。"
+
+#: ../../source/catalogingpreferences.rst:190
+msgid "Do -- will combine all identical tag numbers under one heading in the MARC view in the OPAC and Staff Client"
+msgstr "要 -- 在 OPAC 與館員介面的 MARC 檢視時，把相同欄號收在一起"
+
+#: ../../source/catalogingpreferences.rst:193
+msgid "|image17|"
+msgstr ""
+
+#: ../../source/catalogingpreferences.rst:195
+msgid "Don't -- will list all of the tags individually in the MARC view in the OPAC and Staff Client"
+msgstr "不要 -- 在 OPAC 與館員介面的 MARC 檢視時，列出每個欄號"
+
+#: ../../source/catalogingpreferences.rst:198
+msgid "|image18|"
+msgstr ""
+
+#: ../../source/catalogingpreferences.rst:203
+msgid "MARCFieldDocURL"
+msgstr "MARCFieldDocURL"
+
+#: ../../source/catalogingpreferences.rst:205
+msgid "Default: blank"
+msgstr "預設值：空白"
+
+#: ../../source/catalogingpreferences.rst:207
+msgid "Asks: Use \\_\\_\\_ as the URL for MARC field documentation. Possible substitutions are {MARC} (marc flavour, eg. \"MARC21\" or \"UNIMARC\"), {FIELD} (field number, eg. \"000\" or \"048\"), {LANG} (user language, eg. \"en\" or \"fi-FI\"). If left empty, the format documentation on http://loc.gov (MARC21) or http://archive.ifla.org (UNIMARC) is used. For example http://fielddoc.example.com/?marc={MARC}&field={FIELD}&language={LANG}"
+msgstr "詢問：以 \\_\\_\\_ 做為 MARC 欄位文件的 URL。可能的取代是 {MARC} (如，\"MARC21\" 或 \"UNIMARC\")、{FIELD} (如，\"000\" 或 \"048\")、{LANG} (如，\"zh_TW\" 或 \"fi-FI\")。若空白，則使用 http://loc.gov (MARC21) 或 http://archive.ifla.org (UNIMARC)。如 http://fielddoc.example.com/?marc={MARC}&field={FIELD}&language={LANG}"
+
+#: ../../source/catalogingpreferences.rst:211
+#, fuzzy
+msgid "This system preference lets you choose the source of the MARC documentation available through the \"?\" next to MARC fields."
+msgstr "此偏好讓您經由 MARC 欄位旁的 \"?\" 選擇 MARC 文件的來源。"
+
+#: ../../source/catalogingpreferences.rst:216
+msgid "MergeReportFields"
+msgstr "MergeReportFields"
+
+#: ../../source/catalogingpreferences.rst:218
+msgid "Asks: \\_\\_\\_ fields to display for deleted records after merge"
+msgstr "詢問：\\_\\_\\_ 欄位顯示合併後刪除的記錄"
+
+#: ../../source/catalogingpreferences.rst:222
+msgid "When merging records together you can receive a report of the merge process once it's done, this preference lets you set the default values for this report."
+msgstr "合併完成後可收取合併過程的報表，此偏好讓您設定此報表的預設值。"
+
+#: ../../source/catalogingpreferences.rst:226
+msgid "Example: '001,245ab,600' displays:"
+msgstr "例如：'001,245ab,600' 顯示為："
+
+#: ../../source/catalogingpreferences.rst:228
+msgid "value of 001"
+msgstr "001 的值"
+
+#: ../../source/catalogingpreferences.rst:230
+msgid "subfields a and b of fields 245"
+msgstr "欄位 245 的分欄 A 和 B"
+
+#: ../../source/catalogingpreferences.rst:232
+msgid "all subfields of fields 600"
+msgstr "欄段 600 的所有分欄"
+
+#: ../../source/catalogingpreferences.rst:237
+msgid "NotesToHide"
+msgstr "NotesToHide"
+
+#: ../../source/catalogingpreferences.rst:239
+msgid "Asks: Don't show these \\_\\_\\_ note fields in title notes separator (OPAC record details) and in the description separator (Staff client record details)."
+msgstr "詢問：不要顯示這些 \\_\\_\\_ 附註欄位，於題名附註區隔符號 (OPAC 記錄詳情) 與在敘述區隔符號 (館員介面記錄詳情)。"
+
+#: ../../source/catalogingpreferences.rst:245
+#, fuzzy
+msgid "This system preference lets you define which of your note fields are hidden from the title notes (OPAC) and descriptions (Staff) tabs. Enter the values as a comma separated list. For example to hide the local note and the bibliography note in MARC21 enter 504, 590."
+msgstr "此偏好讓您設定隱藏題目註 (OPAC) 與說明 (館員介面) 分頁的附註欄位。以逗點區隔多個值。於 MARC21 把在地的附註與書目附註隱藏在 504、590。"
+
+#: ../../source/catalogingpreferences.rst:253
+msgid "OpacSuppression, OpacSuppressionByIPRange, OpacSuppressionRedirect, and OpacSuppressionMessage"
+msgstr "OpacSuppression、OpacSuppressionByIPRange、OpacSuppressionRedirect 與 OpacSuppressionMessage"
+
+#: ../../source/catalogingpreferences.rst:258
+msgid "OpacSuppression"
+msgstr "OpacSuppression"
+
+#: ../../source/catalogingpreferences.rst:259
+msgid "Asks: \\_\\_\\_ bibliographic records marked as suppressed from OPAC search results."
+msgstr "詢問：\\_\\_\\_ 從 OPAC 搜尋結果中標記為禁止顯示的書目記錄。"
+
+#: ../../source/catalogingpreferences.rst:261
+msgid "Default: Don't hide"
+msgstr "預設值：不隱藏"
+
+#: ../../source/catalogingpreferences.rst:265
+msgid "Don't hide"
+msgstr "不要隱藏"
+
+#: ../../source/catalogingpreferences.rst:267
+msgid "Will show records in OPAC search results even if they are marked as suppressed"
+msgstr "將在 OPAC 搜尋結果顯示紀錄若被標示為隱藏"
+
+#: ../../source/catalogingpreferences.rst:270
+msgid "Hide"
+msgstr "隱藏"
+
+#: ../../source/catalogingpreferences.rst:272
+msgid "Will not show records in OPAC search results if they're marked as suppressed"
+msgstr "將在 OPAC 搜尋結果顯示紀錄若被標示為隱藏"
+
+#: ../../source/catalogingpreferences.rst:277
+#, fuzzy
+msgid "This system preference controls hiding of bibliographic records in the OPAC. Enter \"1\" in the field mapped to the suppress index (942$n in MARC21, no official field in UNIMARC) in each bibliographic record you want to hide from the OPAC. The indexer then hides it from display in OPAC but will still display it in the staff interface."
+msgstr "此偏好控制在 OPAC 中隱藏的書目記錄。在你想從 OPAC 中隱藏的每條書目記錄中，與抑制索引（MARC21 中的 942$n，UNIMARC 中沒有正欄段）相對應的欄段中輸入 \"1\"。然後，索引器將其從 OPAC 中隱藏起來，但仍會在館員介面上顯示。"
+
+#: ../../source/catalogingpreferences.rst:285
+msgid "An :ref:`authorized value <authorized-values-label>` should be set for the MARC21 942$n field (or the equivalent UNIMARC field) to eliminate errors. You can use the YES\\_NO authorized value category, or create a new one titled SUPPRESS, for example, with a value of 0 for don't suppress and 1 for suppress."
+msgstr "應該為MARC21的942$n欄段（或相應的UNIMARC欄段）設置一個 :ref:`容許值<authorized-values-label>`，以消除錯誤。你可以使用YES\\_NO容許值類別，或者建立一個名為SUPPRESS的新類別，例如，數值為0表示不抑制，1表示抑制。"
+
+#: ../../source/catalogingpreferences.rst:293
+msgid "If this preference is set to 'hide' and you have the 942$n field set to 1, it will hide the entire bibliographic record, not just an individual item."
+msgstr "若此偏好設為 '隱藏' 且將 942$n 欄位設為 1，則隱藏整個書目記錄，不只是個別的館藏。"
+
+#: ../../source/catalogingpreferences.rst:298
+msgid "Suppressed records will show a note in the staff interface indicating that they are suppressed from view in the OPAC."
+msgstr "不顯示的記錄在館員介面有個說明，指出該記錄不顯示在 OPAC。"
+
+#: ../../source/catalogingpreferences.rst:301
+msgid "|suppressedstaff|"
+msgstr ""
+
+#: ../../source/catalogingpreferences.rst:303
+#, fuzzy
+msgid "This note can be styled by using the :ref:`IntranetUserCSS <IntranetUserCSS-label>` preference to stand out more if you'd like."
+msgstr "可以用 :ref:`IntranetUserCSS` 偏好格式化此說明。"
+
+#: ../../source/catalogingpreferences.rst:306
+msgid "|suppressedstyled|"
+msgstr ""
+
+#: ../../source/catalogingpreferences.rst:308
+#, fuzzy
+msgid "Fot the example above, the following snippet was added to :ref:`IntranetUserCSS <IntranetUserCSS-label>`"
+msgstr "在上面的例子中，以下片段被新增到 :ref:`IntranetUserCSS`中"
+
+#: ../../source/catalogingpreferences.rst:321
+msgid "OpacSuppressionByIPRange"
+msgstr "OpacSuppressionByIPRange"
+
+#: ../../source/catalogingpreferences.rst:322
+msgid "Asks: Restrict the suppression to IP addresses outside of the IP range \\_\\_\\_ (Leave blank if not used. Define a range like 192.168..)"
+msgstr "要求：限制對IP範圍以外的IP地址進行抑制 \\_\\_\\_（如果不使用，請留空。 定義一個範圍，如192.168..）"
+
+#: ../../source/catalogingpreferences.rst:327
+msgid "If you want to further control suppression you can set an IP address range to still show suppressed items to. Define a range like 192.168.. If you don't want to limit suppression in this way, leave the IP field blank."
+msgstr "如果你想進一步控制抑制，你可以設置一個IP地址範圍，以便顯示被抑制的館藏。定義一個範圍，如192.168.. 如果你不想以這種方式限制壓制，請將IP欄位留空。"
+
+#: ../../source/catalogingpreferences.rst:334
+msgid "OpacSuppressionRedirect"
+msgstr "OpacSuppressionRedirect"
+
+#: ../../source/catalogingpreferences.rst:335
+msgid "Asks: Redirect the opac detail page for suppressed records to \\_\\_\\_"
+msgstr "詢問：將禁止記錄的 opac 詳細訊息頁面重新定向到 \\_\\_\\_"
+
+#: ../../source/catalogingpreferences.rst:339
+msgid "the 404 error page ('Not found')."
+msgstr "404 錯誤頁面 ('找不到')。"
+
+#: ../../source/catalogingpreferences.rst:341
+msgid "an explanatory page ('This record is blocked')."
+msgstr "解釋頁面 ('此紀錄被禁止')。"
+
+#: ../../source/catalogingpreferences.rst:343
+msgid "Default: an explanatory page ('This record is blocked')"
+msgstr "預設值:解釋頁面 ('此紀錄被禁止')"
+
+#: ../../source/catalogingpreferences.rst:347
+#, fuzzy
+msgid "This system preference lets you decide what the patrons will see in the OPAC when a record is suppressed. You can either show the patron a 404 error page or an explanatory page when they try to see a suppressed record. You can change the message of the explanatory page with the :ref:`OpacSuppressionMessage <OpacSuppressionMessage-label>` system preference."
+msgstr "這個偏好讓你決定當一條記錄被壓制時，讀者在OPAC中會看到什麼。你可以在讀者試圖查看被壓制的記錄時，顯示404錯誤頁面或解釋頁面。你可以用 :ref:`OpacSuppressionMessage`系統偏好來改變解釋頁的訊息。"
+
+#: ../../source/catalogingpreferences.rst:356
+msgid "OpacSuppressionMessage"
+msgstr "OpacSuppressionMessage"
+
+#: ../../source/catalogingpreferences.rst:357
+msgid "Asks: Display the following message on the redirect page for suppressed bibliographic records \\_\\_\\_."
+msgstr "詢問：在重新定向頁面上顯示以下消息，用於禁止顯示的書目記錄 \\_\\_\\_。"
+
+#: ../../source/catalogingpreferences.rst:362
+msgid "If you chose to show an explanatory page when a patron tries to access a suppressed bibliographic record, you can customize the message with HTML."
+msgstr "如果你選擇在讀者試圖訪問被壓制的書目記錄時顯示一個解釋頁，你可以用HTML來定制訊息。"
+
+#: ../../source/catalogingpreferences.rst:368
+msgid "ShowComponentRecords, MaxComponentRecords, ComponentSortField, and ComponentSortOrder"
+msgstr ""
+
+#: ../../source/catalogingpreferences.rst:369
+msgid "These preferences determine whether or not children records, or component records, are displayed in the host record's detail page."
+msgstr ""
+
+#: ../../source/catalogingpreferences.rst:372
+msgid "This is especially useful for cataloging music, but it can be used in any situation where there is a host record, such a cataloging serials or kits."
+msgstr ""
+
+#: ../../source/catalogingpreferences.rst:378
+msgid "ShowComponentRecords"
+msgstr ""
+
+#: ../../source/catalogingpreferences.rst:380
+msgid "Asks: Show a list of component records, as linked via field 773, in \\_\\_\\_ record detail pages."
+msgstr ""
+
+#: ../../source/catalogingpreferences.rst:383
+#, fuzzy
+msgid "Default: no"
+msgstr "預設: --"
+
+#: ../../source/catalogingpreferences.rst:387
+msgid "both staff interface and OPAC"
+msgstr ""
+
+#: ../../source/catalogingpreferences.rst:389
+msgid "no"
+msgstr ""
+
+#: ../../source/catalogingpreferences.rst:391
+msgid "OPAC"
+msgstr ""
+
+#: ../../source/catalogingpreferences.rst:393
+#, fuzzy
+msgid "staff interface"
+msgstr "介面"
+
+#: ../../source/catalogingpreferences.rst:397
+msgid "This is the main switch for the display of component records."
+msgstr ""
+
+#: ../../source/catalogingpreferences.rst:399
+msgid "If set to 'no', the display is disabled."
+msgstr ""
+
+#: ../../source/catalogingpreferences.rst:401
+msgid "If set to 'staff interface' (or 'both staff interface and OPAC'), the component records will appear in the host record's detail page in the staff interface, under the 'Components' tab."
+msgstr ""
+
+#: ../../source/catalogingpreferences.rst:405
+msgid "|ShowComponentRecordsStaffInterface|"
+msgstr ""
+
+#: ../../source/catalogingpreferences.rst:407
+msgid "If set to 'OPAC' (or 'both staff interface and OPAC'), the component records will appear in the host record's detail page in the OPAC, under the 'Components' tab."
+msgstr ""
+
+#: ../../source/catalogingpreferences.rst:411
+msgid "|ShowComponentRecordsOPAC|"
+msgstr ""
+
+#: ../../source/catalogingpreferences.rst:413
+msgid "Components to be displayed are found using the host record's control number (001) in the child record's 773$w subfield, regardless of the :ref:`UseControlNumber <UseControlNumber-label>` system preference."
+msgstr ""
+
+#: ../../source/catalogingpreferences.rst:417
+msgid "For example, the host record is"
+msgstr ""
+
+#: ../../source/catalogingpreferences.rst:425
+msgid "The component record is"
+msgstr ""
+
+#: ../../source/catalogingpreferences.rst:437
+msgid "773$w must contain the control number of the host record, with or without the control number identifier."
+msgstr ""
+
+#: ../../source/catalogingpreferences.rst:440
+msgid "Both of these will work"
+msgstr ""
+
+#: ../../source/catalogingpreferences.rst:446
+msgid "or"
+msgstr ""
+
+#: ../../source/catalogingpreferences.rst:454
+msgid "This feature only works with MARC21. UNIMARC is not supported at this time."
+msgstr ""
+
+#: ../../source/catalogingpreferences.rst:458
+msgid "This system preference does not work with :ref:`EasyAnalyticalRecords <EasyAnalyticalRecords-label>`."
+msgstr ""
+
+#: ../../source/catalogingpreferences.rst:462
+msgid "This system preference does not work with :ref:`UseControlNumber <UseControlNumber-label>`."
+msgstr ""
+
+#: ../../source/catalogingpreferences.rst:467
+msgid "MaxComponentRecords"
+msgstr ""
+
+#: ../../source/catalogingpreferences.rst:469
+msgid "Asks: A maximum of \\_\\_\\_ records will be displayed."
+msgstr ""
+
+#: ../../source/catalogingpreferences.rst:471
+#, fuzzy
+msgid "Default: 300"
+msgstr "預設: --"
+
+#: ../../source/catalogingpreferences.rst:475
+msgid "This system preference determines how many component records are displayed in the 'Components' tab, both in the staff interface and in the OPAC."
+msgstr ""
+
+#: ../../source/catalogingpreferences.rst:478
+msgid "If the host record has more components than the system preference dictates, there will be a link at the end to display the remaining records."
+msgstr ""
+
+#: ../../source/catalogingpreferences.rst:484
+msgid "ComponentSortField"
+msgstr ""
+
+#: ../../source/catalogingpreferences.rst:486
+msgid "Asks: By default, sort component results in the staff interface by \\_\\_\\_, (:ref:`ComponentSortOrder <ComponentSortOrder-label>`)."
+msgstr ""
+
+#: ../../source/catalogingpreferences.rst:489
+#, fuzzy
+msgid "Default: title"
+msgstr "預設值：OSt"
+
+#: ../../source/catalogingpreferences.rst:493
+msgid "date added"
+msgstr ""
+
+#: ../../source/catalogingpreferences.rst:495
+msgid "author"
+msgstr ""
+
+#: ../../source/catalogingpreferences.rst:497
+#, fuzzy
+msgid "biblionumber"
+msgstr "書目記錄"
+
+#: ../../source/catalogingpreferences.rst:499
+#, fuzzy
+msgid "call number"
+msgstr "itemcallnumber"
+
+#: ../../source/catalogingpreferences.rst:501
+msgid "date of publication"
+msgstr ""
+
+#: ../../source/catalogingpreferences.rst:503
+msgid "title"
+msgstr ""
+
+#: ../../source/catalogingpreferences.rst:507
+msgid "This system preference, along with :ref:`ComponentSortOrder <ComponentSortOrder-label>`, determines how the component records are sorted in the 'Components' tab."
+msgstr ""
+
+#: ../../source/catalogingpreferences.rst:513
+msgid "ComponentSortOrder"
+msgstr ""
+
+#: ../../source/catalogingpreferences.rst:515
+msgid "Asks: By default, sort component results in the staff interface by (:ref:`ComponentSortField <ComponentSortField-label>`), \\_\\_\\_."
+msgstr ""
+
+#: ../../source/catalogingpreferences.rst:518
+#, fuzzy
+msgid "Default: ascending"
+msgstr "預設值：空白"
+
+#: ../../source/catalogingpreferences.rst:522
+msgid "ascending"
+msgstr ""
+
+#: ../../source/catalogingpreferences.rst:524
+msgid "descending"
+msgstr ""
+
+#: ../../source/catalogingpreferences.rst:528
+msgid "This system preference, along with :ref:`ComponentSortField <ComponentSortField-label>`, determines how the component records are sorted in the 'Components' tab."
+msgstr ""
+
+#: ../../source/catalogingpreferences.rst:534
+msgid "SeparateHoldings and SeparateHoldingsBranch"
+msgstr "SeparateHoldings 與 SeparateHoldingsBranch"
+
+#: ../../source/catalogingpreferences.rst:536
+msgid "SeparateHoldings default: Don't separate"
+msgstr "SeparateHoldings 預設值：不區隔"
+
+#: ../../source/catalogingpreferences.rst:538
+msgid "SeparateHoldingsBranch default: home library"
+msgstr "SeparateHoldingsBranch 預設值：所屬圖書館"
+
+#: ../../source/catalogingpreferences.rst:540
+msgid "Asks: \\_\\_\\_ items display into two tabs, where the first tab contains items whose \\_\\_\\_ is the logged in user's library. The second tab will contain all other items."
+msgstr "詢問：\\_\\_\\_ 館藏顯示為兩個分頁，第一分頁包括館藏是 \\_\\_\\_ 登入讀者的圖書館。第二分頁將包括所有的其他館藏。"
+
+#: ../../source/catalogingpreferences.rst:544
+msgid "SeparateHoldings values:"
+msgstr "SeparateHoldings 值："
+
+#: ../../source/catalogingpreferences.rst:546
+msgid "Don't separate"
+msgstr "不區隔"
+
+#: ../../source/catalogingpreferences.rst:548
+msgid "Separate"
+msgstr "區隔"
+
+#: ../../source/catalogingpreferences.rst:550
+msgid "SeparateHoldingsBranch values:"
+msgstr "SeparateHoldingsBranch 值："
+
+#: ../../source/catalogingpreferences.rst:552
+msgid "holding library"
+msgstr "預約圖書館"
+
+#: ../../source/catalogingpreferences.rst:554
+msgid "home library"
+msgstr "預約圖書館"
+
+#: ../../source/catalogingpreferences.rst:558
+#, fuzzy
+msgid "This system preference lets you decide if you would like to have the holding information on the bibliographic detail page in the staff interface split in to multiple tabs. The default is to show all holdings on one tab."
+msgstr "此偏好指定在館員介面的書目詳情頁面以多個分頁顯示館藏資訊。預設值是顯示所有的館藏資訊在一個分頁。"
+
+#: ../../source/catalogingpreferences.rst:563
+msgid "|image19|"
+msgstr ""
+
+#: ../../source/catalogingpreferences.rst:568
+msgid "URLLinkText"
+msgstr "URLLinkText"
+
+#: ../../source/catalogingpreferences.rst:570
+msgid "Default: Online Resource"
+msgstr "預設值：線上資源"
+
+#: ../../source/catalogingpreferences.rst:572
+msgid "Asks: Show \\_\\_\\_ as the text of links embedded in MARC records."
+msgstr "詢問：顯示 \\_\\_\\_ 做為 MARC 記錄嵌入的連結文字。"
+
+#: ../../source/catalogingpreferences.rst:576
+msgid "If the 856 field does not have a subfield 3 or y defined, the OPAC will say 'Click here to access online.^ If you would like the field to say something else enter that in this field."
+msgstr "若 856 欄位沒有分欄 3 或 y，OPAC 將顯示 '按此進入線上資源。^在此鍵入此欄位的其他內容。"
+
+#: ../../source/catalogingpreferences.rst:583
+msgid "UseControlNumber"
+msgstr "UseControlNumber"
+
+#: ../../source/catalogingpreferences.rst:585
+msgid "Default: Don't use"
+msgstr "預設值：不用"
+
+#: ../../source/catalogingpreferences.rst:587
+msgid "Asks: \\_\\_\\_ record control number ($w subfields) and control number (001) for linking of bibliographic records."
+msgstr "詢問：\\_\\_\\_ 以書目控制號碼 (分欄 $w) 及控制碼 (001) 連結書目記錄。"
+
+#: ../../source/catalogingpreferences.rst:592
+msgid "Don't use"
+msgstr "不使用"
+
+#: ../../source/catalogingpreferences.rst:594
+msgid "When clicking on links to titles that appear next to 'Continues' and 'Continued by' in the detail display Koha will perform a title search"
+msgstr "在詳情顯示頁面點選題名旁的 '繼續' 與 '續自' 連結時，Koha 將執行題名搜尋"
+
+#: ../../source/catalogingpreferences.rst:598
+msgid "Use"
+msgstr "使用"
+
+#: ../../source/catalogingpreferences.rst:600
+msgid "When clicking on links to titles that appear next to 'Continues' and 'Continued by' in the detail display Koha will perform a control number (MARC field 001) search"
+msgstr "在詳情顯示頁面點選題名旁的 '繼續' 與 '續自' 連結時，Koha 將執行控制碼 (MARC 欄位 001) 搜尋"
+
+#: ../../source/catalogingpreferences.rst:604
+#: ../../source/catalogingpreferences.rst:1288
+#: ../../source/catalogingpreferences.rst:1472
+msgid "**Important**"
+msgstr "**重要**"
+
+#: ../../source/catalogingpreferences.rst:606
+#, fuzzy
+msgid "Unless you are going in and manually changing 773$w to match your rigorously-defined bibliographic relationships, you should set this preference to \"Don't use\" and instead set :ref:`EasyAnalyticalRecords <EasyAnalyticalRecords-label>` to \"Display\""
+msgstr "應設為 \"不要使用\" 並設定 :ref:`EasyAnalyticalRecords` 為 \"顯示\"，除非變更 773$w 為嚴格的書目關係"
+
+#: ../../source/catalogingpreferences.rst:613
+msgid "If you have a serial called \"Journal of Interesting Things\" which has a separate record from when it was called \"Transactions of the Interesting Stuff Society,\" you could add linking fields to indicate the relationship between the two records. UseControlNumber allows you to use your local accession numbers for those links. In MARC21, the relevant sections of the two records might look like this:"
+msgstr "假設有個期刊 \"Journal of Interesting Things\"，舊名為 \"Transactions of the Interesting Stuff Society\"，各有獨立的書目記錄，可加入連結欄位，展現兩者的關係。UseControlNumber 允許使用在地的近用編號。在 MARC21 裡，兩者的關係如："
+
+#: ../../source/catalogingpreferences.rst:632
+msgid "With UseControlNumber set to 'Use', the 78x links will use the Control Numbers is subfield $w, instead of doing a title search on \"Journal of Interesting Things\" and \"Transactions of the Interesting Stuff Society\" respectively."
+msgstr "將 UseControlNumber 設為 '使用'，78x 連結將使用的控制碼是分欄 $w，而不是執行 \"Journal of Interesting Things\" 與 \"Transactions of the Interesting Stuff Society\" 的題名搜尋。"
+
+#: ../../source/catalogingpreferences.rst:639
+msgid "You can use the :ref:`autoControlNumber <autocontrolnumber-label>` system preference to automatically fill 001 with the biblionumber of the record."
+msgstr ""
+
+#: ../../source/catalogingpreferences.rst:645
+msgid "Exporting"
+msgstr "匯出"
+
+#: ../../source/catalogingpreferences.rst:650
+msgid "BibtexExportAdditionalFields"
+msgstr "BibtexExportAdditionalFields"
+
+#: ../../source/catalogingpreferences.rst:652
+msgid "Asks: Include following fields when exporting BibTeX"
+msgstr "詢問：匯出 BibTeX 格式時，使用以下的欄位"
+
+#: ../../source/catalogingpreferences.rst:656
+msgid "Use one line per tag in the format BT\\_TAG: TAG$SUBFIELD ( e.g. lccn: 010$a )"
+msgstr "在 BT\\_TAG: TAG$SUBFIELD (如 美國國會圖書館控制號碼: 010$a ) 裡每個欄號佔一列"
+
+#: ../../source/catalogingpreferences.rst:659
+msgid "To specify multiple marc tags/subfields as targets for a repeating BibTex tag, use the following format: BT\\_TAG: [TAG2$SUBFIELD1, TAG2$SUBFIELD2] ( e.g. notes: [501$a, 505$g] )"
+msgstr "採用以下的格式：BT\\_TAG: [TAG2$SUBFIELD1, TAG2$SUBFIELD2] (如說明：[501$a, 505$g])，於做為重複 BibTeX 標籤的多個 marc 欄號/分欄目標"
+
+#: ../../source/catalogingpreferences.rst:663
+msgid "All values of repeating tags and subfields will be printed with the given BibTeX tag."
+msgstr "重複欄位與分欄的值都將與指定的 BibTex 欄號列印在一起。"
+
+#: ../../source/catalogingpreferences.rst:666
+msgid "Use ^@^ ( with quotes ) as the BT\\_TAG to replace the bibtex record type with a field value of your choosing."
+msgstr "使用 ^@^ (含引號) 做為 BT\\_TAG 取代 bibtex 記錄類型包括選定的欄位值。"
+
+#: ../../source/catalogingpreferences.rst:671
+#: ../../source/catalogingpreferences.rst:708
+#: ../../source/catalogingpreferences.rst:721
+msgid "Requires YAML syntax to work"
+msgstr "需要YAML語法才能運行"
+
+#: ../../source/catalogingpreferences.rst:673
+#: ../../source/catalogingpreferences.rst:710
+msgid "This means"
+msgstr "這表示"
+
+#: ../../source/catalogingpreferences.rst:675
+#: ../../source/catalogingpreferences.rst:712
+msgid "Make sure there is NO space between the field name and the colon"
+msgstr "確保欄位名和冒號之間沒有空格"
+
+#: ../../source/catalogingpreferences.rst:677
+#: ../../source/catalogingpreferences.rst:714
+msgid "Make sure there IS a space between the colon and the value"
+msgstr "確認在第一個值與冒號之間，存在一個空格"
+
+#: ../../source/catalogingpreferences.rst:679
+#: ../../source/catalogingpreferences.rst:716
+msgid "If there are more than one values for the same field, put them in square brakets, separated by comma and space"
+msgstr "如果同一欄位有多個數值，請將它們放在方格內，用逗號和空格隔開"
+
+#: ../../source/catalogingpreferences.rst:682
+#: ../../source/catalogingpreferences.rst:719
+msgid "Make sure each pair is on its own line"
+msgstr "確認每組都在同一列中"
+
+#: ../../source/catalogingpreferences.rst:687
+msgid "RisExportAdditionalFields"
+msgstr "RisExportAdditionalFields"
+
+#: ../../source/catalogingpreferences.rst:689
+msgid "Asks: Include following fields when exporting RIS"
+msgstr "詢問：匯出 RIS 格式時，使用以下的欄位"
+
+#: ../../source/catalogingpreferences.rst:693
+msgid "Use one line per tag in the format RIS\\_TAG: TAG$SUBFIELD ( e.g. LC: 010$a )"
+msgstr "在 RIS\\_TAG: TAG$SUBFIELD (如 LC: 010$a) 內每個欄位佔一列"
+
+#: ../../source/catalogingpreferences.rst:696
+msgid "To specificy multiple marc tags/subfields as targets for a repeating RIS tag, use the following format: RIS\\_TAG: [TAG2$SUBFIELD1, TAG2$SUBFIELD2] ( e.g. NT: [501$a, 505$g] )"
+msgstr "指定多個 marc 欄位/分欄做為重複 RIS 欄號的標的，使用以下的格式：RIS\\_TAG: [TAG2$SUBFIELD1, TAG2$SUBFIELD2] (如 NT: [501$a, 505$g])"
+
+#: ../../source/catalogingpreferences.rst:700
+msgid "All values of repeating tags and subfields will be printed with the given RIS tag."
+msgstr "重複欄位與分欄的值都將與指定的 RIS 欄號列印在一起。"
+
+#: ../../source/catalogingpreferences.rst:703
+msgid "Use of TY ( record type ) as a key will *replace* the default TY with the field value of your choosing."
+msgstr "以 TY (記錄類型) 做為鍵值將以選定的欄位值 *取代* 預設的 TY。"
+
+#: ../../source/catalogingpreferences.rst:726
+msgid "Importing"
+msgstr "匯入"
+
+#: ../../source/catalogingpreferences.rst:731
+msgid "AdditionalFieldsInZ3950ResultSearch"
+msgstr "AdditionalFieldsInZ3950ResultSearch"
+
+#: ../../source/catalogingpreferences.rst:733
+msgid "Asks: Display the MARC field/subfields \\_\\_\\_ in the 'Additional fields' column of Z39.50 search results (use comma as delimiter e.g.: \"001, 082$ab, 090$ab\")."
+msgstr "詢問：顯示 MARC 欄位/分欄 \\_\\_\\_ 於 Z39.50 搜尋結果 (以逗點為區隔符號如：\"001, 082$ab, 090$ab\") 的 '其他欄位'。"
+
+#: ../../source/catalogingpreferences.rst:737
+#, fuzzy
+msgid "This system preference lets you define additional fields and subfields to display on the Z39.50 result list."
+msgstr "此偏好允許您在 Z39.50 結果清單設定額外的欄位。"
+
+#: ../../source/catalogingpreferences.rst:742
+msgid "AggressiveMatchOnISBN"
+msgstr "AggressiveMatchOnISBN"
+
+#: ../../source/catalogingpreferences.rst:744
+#: ../../source/catalogingpreferences.rst:770
+#: ../../source/catalogingpreferences.rst:1561
+msgid "Default: don't"
+msgstr "預設值：不使用"
+
+#: ../../source/catalogingpreferences.rst:746
+msgid "Asks: When matching on ISBN with the record import tool, \\_\\_\\_ attempt to match aggressively by trying all variations of the ISBNs in the imported record as a phrase in the ISBN fields of already cataloged records."
+msgstr "詢問：對映 ISBN 與匯入記錄工具時，在匯入記錄的 ISBN 欄位內 \\_\\_\\_ 變通地對映 ISBN 的各種變形。"
+
+#: ../../source/catalogingpreferences.rst:753
+#: ../../source/catalogingpreferences.rst:1568
+msgid "do"
+msgstr "要"
+
+#: ../../source/catalogingpreferences.rst:755
+#: ../../source/catalogingpreferences.rst:1570
+msgid "don't"
+msgstr "不要"
+
+#: ../../source/catalogingpreferences.rst:759
+#, fuzzy
+msgid "This system preference allows you to choose to alter the ISBN matching rule used when staging records for import to be more aggressive. This means that all text will be stripped from the ISBN field so that a pure number match is possible. If this preference is set to \"Don't\" then Koha will find a match only if the ISBN fields are identical."
+msgstr "此偏好允許您在處理匯入待處理記錄時更積極地改變 ISBN 的對映規則。也就是剝除 ISBN 欄位內所有的文字只對映純數字。若此此偏好設為 \"不要\" 則 Koha 祗比對與 ISBN 欄位相完全相同者。"
+
+#: ../../source/catalogingpreferences.rst:768
+msgid "AggressiveMatchOnISSN"
+msgstr "AggressiveMatchOnISSN"
+
+#: ../../source/catalogingpreferences.rst:772
+msgid "Asks: When matching on ISSN with the record import tool, \\_\\_\\_ attempt to match aggressively by trying all variations of the ISSNs in the imported record as a phrase in the ISSN fields of already cataloged records."
+msgstr "詢問：對映 ISSN 與匯入記錄工具時，在匯入記錄的 ISSN 欄位內 \\_\\_\\_ 變通地對映 ISSNs 的各種變形。"
+
+#: ../../source/catalogingpreferences.rst:779
+msgid "Interface"
+msgstr "介面"
+
+#: ../../source/catalogingpreferences.rst:784
+msgid "advancedMARCeditor"
+msgstr "advancedMARCeditor"
+
+#: ../../source/catalogingpreferences.rst:786
+msgid "Asks: \\_\\_\\_ descriptions of fields and subfields in the MARC editor."
+msgstr "詢問：\\_\\_\\_ MARC 編輯器裡的欄位及分欄說明。"
+
+#: ../../source/catalogingpreferences.rst:798
+#, fuzzy
+msgid "This system preference determines whether or not MARC field names will be present when editing or creating MARC records."
+msgstr "編輯MARC記錄時此偏好決定是否顯示MARC欄位。"
+
+#: ../../source/catalogingpreferences.rst:801
+msgid "When set to 'Show', the field and subfield names appear next to the field and subfield numbers and codes."
+msgstr ""
+
+#: ../../source/catalogingpreferences.rst:804
+#, fuzzy
+msgid "|catalogingform|"
+msgstr "編目"
+
+#: ../../source/catalogingpreferences.rst:806
+msgid "When set to \"Don't show\", only the field numbers and subfield codes are displayed."
+msgstr ""
+
+#: ../../source/catalogingpreferences.rst:809
+#, fuzzy
+msgid "|advancedMARCeditor-dontshow|"
+msgstr "advancedMARCeditor"
+
+#: ../../source/catalogingpreferences.rst:814
+#, fuzzy
+msgid "CatalogConcerns"
+msgstr "編目"
+
+#: ../../source/catalogingpreferences.rst:816
+#, fuzzy
+msgid "Asks: \\_\\_\\_ staff to report concerns about catalog records."
+msgstr "詢問：\\_\\_\\_ 進階編目編輯器。"
+
+#: ../../source/catalogingpreferences.rst:820
+msgid "Allow"
+msgstr ""
+
+#: ../../source/catalogingpreferences.rst:822
+#, fuzzy
+msgid "Don't allow"
+msgstr "不使用"
+
+#: ../../source/catalogingpreferences.rst:824
+#, fuzzy
+msgid "Default: Don't allow"
+msgstr "預設值：不用"
+
+#: ../../source/catalogingpreferences.rst:828
+msgid "This system preference is used to turn on the :ref:`concern reporting feature in the staff interface <report-concern-staff-label>`."
+msgstr ""
+
+#: ../../source/catalogingpreferences.rst:831
+msgid "When set to 'Allow' staff members can create concern tickets."
+msgstr ""
+
+#: ../../source/catalogingpreferences.rst:833
+#: ../../source/catalogingpreferences.rst:860
+msgid "See also:"
+msgstr ""
+
+#: ../../source/catalogingpreferences.rst:835
+msgid ":ref:`CatalogerEmails <catalogeremails-label>`"
+msgstr ""
+
+#: ../../source/catalogingpreferences.rst:837
+#: ../../source/catalogingpreferences.rst:864
+msgid ":ref:`OpacCatalogConcerns <opaccatalogconcerns-label>`"
+msgstr ""
+
+#: ../../source/catalogingpreferences.rst:842
+#, fuzzy
+msgid "CatalogerEmails"
+msgstr "編目"
+
+#: ../../source/catalogingpreferences.rst:844
+#, fuzzy
+msgid "Asks: Use \\_\\_\\_ as the notification address for catalog concerns."
+msgstr "詢問：使用 \\_\\_\\_ 做為預設分類法來源。"
+
+#: ../../source/catalogingpreferences.rst:846
+#, fuzzy
+msgid "Default: empty"
+msgstr "預設值：OSt"
+
+#: ../../source/catalogingpreferences.rst:850
+msgid "This system preference is used to define to which email address new catalog concerns should be sent."
+msgstr ""
+
+#: ../../source/catalogingpreferences.rst:853
+msgid "You can input more than one email address by separating them with commas."
+msgstr ""
+
+#: ../../source/catalogingpreferences.rst:855
+msgid "If left empty, no email will be sent."
+msgstr ""
+
+#: ../../source/catalogingpreferences.rst:857
+msgid "The email sent is the TICKET\\_NOTIFY notice, which can be customized in the :ref:`Notices and slips tool <notices-and-slips-label>`."
+msgstr ""
+
+#: ../../source/catalogingpreferences.rst:862
+msgid ":ref:`CatalogConcerns <catalogconcerns-label>`"
+msgstr ""
+
+#: ../../source/catalogingpreferences.rst:869
+msgid "DefaultClassificationSource"
+msgstr "DefaultClassificationSource"
+
+#: ../../source/catalogingpreferences.rst:871
+msgid "Default: Dewey Decimal System"
+msgstr "預設值：杜威十進分類法"
+
+#: ../../source/catalogingpreferences.rst:873
+msgid "Asks: Use \\_\\_\\_ as the default classification source."
+msgstr "詢問：使用 \\_\\_\\_ 做為預設分類法來源。"
+
+#: ../../source/catalogingpreferences.rst:877
+msgid "ANSCR (Sound Recordings)"
+msgstr "ANSCR (錄音資料)"
+
+#: ../../source/catalogingpreferences.rst:879
+msgid "Dewey Decimal Classification"
+msgstr "杜威十進分類法"
+
+#: ../../source/catalogingpreferences.rst:881
+msgid "Library of Congress Classification"
+msgstr "美國國會圖書館分類法"
+
+#: ../../source/catalogingpreferences.rst:883
+msgid "Other/Generic Classification Scheme"
+msgstr "其他/通用分類法"
+
+#: ../../source/catalogingpreferences.rst:885
+msgid "SuDoc Classification (U.S. GPO)"
+msgstr "SuDoc 分類法 (美國官書局)"
+
+#: ../../source/catalogingpreferences.rst:887
+msgid "Universal Decimal Classification"
+msgstr "國際十進分類法"
+
+#: ../../source/catalogingpreferences.rst:889
+#: ../../source/catalogingpreferences.rst:969
+#: ../../source/catalogingpreferences.rst:1151
+#: ../../source/catalogingpreferences.rst:1174
+#: ../../source/catalogingpreferences.rst:1216
+#: ../../source/catalogingpreferences.rst:1314
+#: ../../source/catalogingpreferences.rst:1433
+#: ../../source/catalogingpreferences.rst:1460
+msgid "**Note**"
+msgstr "**說明**"
+
+#: ../../source/catalogingpreferences.rst:891
+msgid "Adding another classification under Administration > Classification Sources will make it show up in this list as well."
+msgstr "在 管理 > 分類法來源 新增分類法使其顯示在表單內。"
+
+#: ../../source/catalogingpreferences.rst:897
+msgid "DefaultSaveRecordFileID"
+msgstr "DefaultSaveRecordFileID"
+
+#: ../../source/catalogingpreferences.rst:899
+msgid "Asks: When saving in a MARC/MARCXML file in the advanced cataloging editor or exporting from the detail page in the staff interface, use the \\_\\_\\_ in the file name."
+msgstr "要求：當在高級編目編輯器中保存MARC/MARCXML文件或從館員介面的詳細頁面匯出時，在文件名中使用 \\_\\_\\_。"
+
+#: ../../source/catalogingpreferences.rst:903
+msgid "Default: bibliographic record number"
+msgstr "預設值：書目記錄號"
+
+#: ../../source/catalogingpreferences.rst:907
+msgid "bibliographic record number"
+msgstr "書目記錄控制號碼"
+
+#: ../../source/catalogingpreferences.rst:909
+msgid "control number"
+msgstr "控制號"
+
+#: ../../source/catalogingpreferences.rst:913
+#, fuzzy
+msgid "This system preference determines what is the default file name that is used when downloading a MARC record."
+msgstr "這個偏好決定了下載MARC記錄時使用的預設檔案名。"
+
+#: ../../source/catalogingpreferences.rst:916
+msgid "Choosing 'bibliographic record number' will result in a file name like bib-123456.mrc where 123456 is the biblionumber."
+msgstr "選擇 '書目記錄號' 將產生一個文件名，如bib-123456.mrc，其中123456是書目號。"
+
+#: ../../source/catalogingpreferences.rst:919
+msgid "Choosing 'contol number' will result in a file name like record-123456.mrc where 123456 is the record control number (in MARC21, this is the 001 field)."
+msgstr "選擇 '控制號' 會產生一個檔案名，如record-123456.mrc，其中123456是記錄控制號（在MARC21中，這是001欄位）。"
+
+#: ../../source/catalogingpreferences.rst:925
+msgid "EasyAnalyticalRecords"
+msgstr "EasyAnalyticalRecords"
+
+#: ../../source/catalogingpreferences.rst:927
+#, fuzzy
+msgid "Asks: \\_\\_\\_ easy ways to create analytical record relationships."
+msgstr "詢問：\\_\\_\\_ 簡易的方式新增分析記錄關係"
+
+#: ../../source/catalogingpreferences.rst:929
+#: ../../source/catalogingpreferences.rst:1591
+#, fuzzy
+msgid "Default: Don't show"
+msgstr "預設值：不用"
+
+#: ../../source/catalogingpreferences.rst:939
+#, fuzzy
+msgid "An analytic entry in a catalog is one that describes a part of a larger work that is also described in the catalog. In bibliographic cataloging, analytic entries may be made for chapters in books or special issues of articles in periodicals. In archival cataloging, analytic entries may be made for series or items within a collection. This feature in Koha allows for an :ref:`easy way of linking analytic entries to the host records<easy-analytics-label>`, and this system preference adds several new menu options to the staff cataloging detail pages to allow that to happen."
+msgstr "分析款目是編目的手段之一用於描述作品的部份內容。書目編目時，可以針對書的部份章節或期刊的特定論文。檔案編目時，可針對系列或部份的館藏做分析款目。Koha 的這個功能可以把分析款目連結至主記錄，此偏好新增若干新的選單至編目詳情頁面。"
+
+#: ../../source/catalogingpreferences.rst:951
+#, fuzzy
+msgid "If you decide to use this feature, make sure that the :ref:`UseControlNumber <UseControlNumber-label>` system preference is set to \"Don't use\". Otherwise, the \"Show analytics\" links in the staff interface and the OPAC will be broken."
+msgstr "使用此功能前，先確認 :ref:`UseControlNumber` 偏好已設為 \"不要使用\"，或 \"顯示分析\" 在館員介面與 OPAC。"
+
+#: ../../source/catalogingpreferences.rst:958
+msgid "EnableAdvancedCatalogingEditor"
+msgstr "EnableAdvancedCatalogingEditor"
+
+#: ../../source/catalogingpreferences.rst:960
+msgid "Default: Don't enable"
+msgstr "預設值：不啟用"
+
+#: ../../source/catalogingpreferences.rst:962
+msgid "Asks: \\_\\_\\_ the advanced cataloging editor."
+msgstr "詢問：\\_\\_\\_ 進階編目編輯器。"
+
+#: ../../source/catalogingpreferences.rst:966
+#, fuzzy
+msgid "This system preference will allow you to choose between a basic editor and a advanced editor for cataloging."
+msgstr "此偏好允許您在編目時選擇基本或進階編輯器。"
+
+#: ../../source/catalogingpreferences.rst:971
+msgid "This feature does not currently include any support for UNIMARC or NORMARC fixed fields."
+msgstr "此功能不支援 UNIMARC 或 NORMARC 的固長欄位。"
+
+#: ../../source/catalogingpreferences.rst:977
+#, fuzzy
+msgid "Record structure"
+msgstr "記錄結構"
+
+#: ../../source/catalogingpreferences.rst:982
+msgid "AlternateHoldingsField and AlternateHoldingsSeparator"
+msgstr "AlternateHoldingsField 與 AlternateHoldingsSeparator"
+
+#: ../../source/catalogingpreferences.rst:984
+msgid "Asks: Display MARC subfield \\_\\_\\_ as holdings information for records that do not have items, with the subfields separated by \\_\\_\\_."
+msgstr "詢問：顯示 MARC 分欄 \\_\\_\\_ 做為無館藏資訊的書目記錄，這些分欄以 \\_\\_\\_ 區隔。"
+
+#: ../../source/catalogingpreferences.rst:989
+msgid "Sometimes libraries migrate to Koha with their holding info in the 852 field (OCLC holdings information field) and choose not to transfer that information into the 952 (Koha holdings information field) because they don't plan on circulating those items. For those libraries or other libraries that have data in the 852 fields of their records that they want to display, these preferences let you choose to display holdings info from a field other than the 952 field. The AlternateHoldingsField preference can contain multiple subfields to look in; for instance 852abhi would look in 852 subfields a, b, h, and i."
+msgstr "某些圖書館把不打算流通的館藏資訊匯入 852 欄位 (OCLC 的館藏資訊欄位)，而不是 952 欄位(Koha 的館藏資訊欄位)。852 欄位有資料時，應顯示之，此偏好讓圖書館選擇以 952 欄位的內容當成館藏資訊。AlternateHoldingsField 偏好可以包括多個分欄，如：852abhi，表示 852 欄位的分欄 a、b、h 與 i。"
+
+#: ../../source/catalogingpreferences.rst:1000
+msgid "With AlternateHoldingsField set to 852abhi and AlternateHoldingsSeparator set to a space the holdings would look like the following:"
+msgstr "當 AlternateHoldingsField 設為 852abhi，且 AlternateHoldingsSeparator 設為空白，其館藏資訊當如是："
+
+#: ../../source/catalogingpreferences.rst:1004
+msgid "|image22|"
+msgstr ""
+
+#: ../../source/catalogingpreferences.rst:1009
+msgid "ApplyFrameworkDefaults"
+msgstr ""
+
+#: ../../source/catalogingpreferences.rst:1011
+msgid "Asks: Apply framework default values \\_\\_\\_"
+msgstr ""
+
+#: ../../source/catalogingpreferences.rst:1013
+msgid "Default: when cataloguing new records"
+msgstr ""
+
+#: ../../source/catalogingpreferences.rst:1017
+msgid "[Select all]"
+msgstr ""
+
+#: ../../source/catalogingpreferences.rst:1019
+msgid "when cataloguing new records"
+msgstr ""
+
+#: ../../source/catalogingpreferences.rst:1021
+msgid "when changing the framework while editing the existing record"
+msgstr ""
+
+#: ../../source/catalogingpreferences.rst:1023
+msgid "when editing records as new (duplicating)"
+msgstr ""
+
+#: ../../source/catalogingpreferences.rst:1025
+msgid "when importing a record via z39.50"
+msgstr ""
+
+#: ../../source/catalogingpreferences.rst:1029
+msgid "This system preference is used to determine when default values as defined in the :ref:`MARC bibliographic frameworks <marc-bibliographic-frameworks-label>` or the :ref:`authority frameworks <authority-types-label>`."
+msgstr ""
+
+#: ../../source/catalogingpreferences.rst:1033
+msgid "If choosing values other than for a new record, the default values will only be filled if the fields are empty. It will not overwrite the existing information."
+msgstr ""
+
+#: ../../source/catalogingpreferences.rst:1040
+msgid "autoBarcode"
+msgstr "自動條碼"
+
+#: ../../source/catalogingpreferences.rst:1042
+msgid "Default: generated in the form <branchcode>yymm0001"
+msgstr "預設值：以此型式 <branchcode>yymm0001 產生"
+
+#: ../../source/catalogingpreferences.rst:1044
+msgid "Asks: Barcodes are \\_\\_\\_"
+msgstr "詢問：條碼是 \\_\\_\\_"
+
+#: ../../source/catalogingpreferences.rst:1048
+msgid "generated in the form <branchcode>yymm0001"
+msgstr "以此形式 <branchcode>yymm0001 產生"
+
+#: ../../source/catalogingpreferences.rst:1050
+msgid "generated in the form <year>-0001, <year>-0002"
+msgstr "以<year>-0001, <year>-0002的形式生成"
+
+#: ../../source/catalogingpreferences.rst:1052
+msgid "generated in the form 1, 2, 3"
+msgstr "以此型式產生1, 2, 3"
+
+#: ../../source/catalogingpreferences.rst:1054
+msgid "incremental EAN-13 barcodes"
+msgstr "續增 EAN-13 條碼"
+
+#: ../../source/catalogingpreferences.rst:1056
+#: ../../source/catalogingpreferences.rst:1086
+msgid "not generated automatically"
+msgstr "未自動產生"
+
+#: ../../source/catalogingpreferences.rst:1060
+msgid "This setting is for libraries wishing to generate barcodes from within Koha (as opposed to scanning in pre-printed barcodes or manually assigning them). The default behavior makes it so that when you click in the barcode field (952$p in MARC21) it will populate with the automatic barcode you have chosen. If you would rather it only enter an automatic barcode when you click on the plugin (the ... to the right of the field) you can change the plugin used for that field in the framework. Set the plugin for 952$p (if using MARC21 or equivalent field mapped to items.barcode in your local MARC format) for your frameworks to barcode\\_manual.pl instead of barcode.pl. Learn more about editing frameworks under the :ref:`MARC Bibliographic Frameworks <marc-bibliographic-frameworks-label>` section of this manual."
+msgstr "此設定係由 Koha 自動生成條碼 (不是掃瞄事先印好的條碼或人工鍵入條碼)。預設的作為是讓館員點選條碼欄位 (MARC21 是 952$p) 即自動生成事先選定格式的條碼。也可點選外掛程式 (欄位右方的 ...) 改變框架內的欄位內容。設定給 952$p 的外掛程式 (若使用 MARC21 或相當的欄位對映至在地 MARC 格式的 items.barcode) 給 barcode\\_manual.pl 而不是 barcode.pl。編輯框架的詳情見本手冊的 :ref:`MARC 書目框架 <marc-bibliographic-frameworks-label>` 章節。"
+
+#: ../../source/catalogingpreferences.rst:1076
+#, fuzzy
+msgid "autoControlNumber"
+msgstr "UseControlNumber"
+
+#: ../../source/catalogingpreferences.rst:1078
+msgid "Asks: Control Number (001) is \\_\\_\\_."
+msgstr ""
+
+#: ../../source/catalogingpreferences.rst:1080
+#, fuzzy
+msgid "Default: not generated automatically"
+msgstr "未自動產生"
+
+#: ../../source/catalogingpreferences.rst:1084
+msgid "generated as biblionumber"
+msgstr ""
+
+#: ../../source/catalogingpreferences.rst:1090
+msgid "This system preference is used to automatically generate a control number in the MARC field 001."
+msgstr ""
+
+#: ../../source/catalogingpreferences.rst:1093
+msgid "By default, Koha does not generate a control number for records."
+msgstr ""
+
+#: ../../source/catalogingpreferences.rst:1095
+msgid "If set to 'generated as biblionumber', the control number will be filled with the biblionumber once the record is saved."
+msgstr ""
+
+#: ../../source/catalogingpreferences.rst:1098
+msgid "This will not affect existing records that already have a value in 001. The existing value will be preserved."
+msgstr ""
+
+#: ../../source/catalogingpreferences.rst:1101
+msgid "If an existing record has no value in 001, the biblionumber will be added."
+msgstr ""
+
+#: ../../source/catalogingpreferences.rst:1103
+msgid "When duplicating a record, 001 will not be copied to the new record. The biblionumber will be added to 001 upon saving the new record."
+msgstr ""
+
+#: ../../source/catalogingpreferences.rst:1109
+msgid "ContentWarningField"
+msgstr ""
+
+#: ../../source/catalogingpreferences.rst:1111
+msgid "Asks: Use MARC field \\_\\_­\\_ for storing content warnings."
+msgstr ""
+
+#: ../../source/catalogingpreferences.rst:1113
+#, fuzzy
+msgid "Default: none"
+msgstr "預設: --"
+
+#: ../../source/catalogingpreferences.rst:1117
+#, fuzzy
+msgid "This system preference is used to choose the MARC field that is used to add content warnings to a bibliographic record."
+msgstr "這個偏好決定了下載MARC記錄時使用的預設檔案名。"
+
+#: ../../source/catalogingpreferences.rst:1120
+msgid "It is recommended to use a local notes field (599 in MARC21 for example)."
+msgstr ""
+
+#: ../../source/catalogingpreferences.rst:1122
+msgid "Make sure to :ref:`add the field in the MARC bibliographic framework <add-fields-to-frameworks-label>` in order to be able to edit it."
+msgstr ""
+
+#: ../../source/catalogingpreferences.rst:1125
+msgid "Subfield x will not appear in the OPAC. Use it to add non-public notes about the content warning."
+msgstr ""
+
+#: ../../source/catalogingpreferences.rst:1128
+msgid "Subfield u will be used as the URL for the field. Make sure to add http(s)://. Subfield a (non repeatable) will be used as the text of the URL."
+msgstr ""
+
+#: ../../source/catalogingpreferences.rst:1131
+msgid "All other subfields will be displayed in order."
+msgstr ""
+
+#: ../../source/catalogingpreferences.rst:1136
+msgid "DefaultCountryField008"
+msgstr "DefaultCountryField008"
+
+#: ../../source/catalogingpreferences.rst:1138
+msgid "Default: Empty defaults to xxu for United States"
+msgstr "默认值：空白默认为美国的 xxu"
+
+#: ../../source/catalogingpreferences.rst:1140
+msgid "Asks: Fill in the default country code for field 008 Range 15-17 of MARC21 - Place of publication, production, or execution. \\_\\_\\_."
+msgstr "詢問：在 MARC21 欄位 008 位址 15-17 填入預設的國家代碼 - 出版地區。\\_\\_\\_。"
+
+#: ../../source/catalogingpreferences.rst:1145
+#, fuzzy
+msgid "This system preference will allow you to set the country code for your MARC21 008 field by default. If this is left empty it will default to United States (xxu). See the `MARC Code List for Countries <http://www.loc.gov/marc/countries/countries_code.html>`__ for additional values for this preference."
+msgstr "此偏好允許您設定 MARC21 008 欄位的國家代碼。若空白，則預設為美國 (xxu)。詳情參見 `MARC 國家代碼表 <http://www.loc.gov/marc/countries/countries_code.html>`__ 在此偏好新增其他值。"
+
+#: ../../source/catalogingpreferences.rst:1153
+#: ../../source/catalogingpreferences.rst:1176
+#: ../../source/catalogingpreferences.rst:1316
+#, fuzzy
+msgid "This system preference won't have any effect if your records are in UNIMARC."
+msgstr "此偏好對 UNIMARC 無效。"
+
+#: ../../source/catalogingpreferences.rst:1159
+msgid "DefaultLanguageField008"
+msgstr "DefaultLanguageField008"
+
+#: ../../source/catalogingpreferences.rst:1161
+msgid "Default: Empty defaults to eng"
+msgstr "預設值：空白表示為英文"
+
+#: ../../source/catalogingpreferences.rst:1163
+msgid "Asks: Fill in the default language for field 008 Range 35-37 of MARC21 records \\_\\_\\_."
+msgstr "詢問：在 MARC21 欄位 008 位址 35-37 填入預設的語系 \\_\\_\\_。"
+
+#: ../../source/catalogingpreferences.rst:1168
+#, fuzzy
+msgid "This system preference will allow you to set the language for your MARC21 008 field by default. If this is left empty it will default to English (eng). See the `MARC Code List for Languages <http://www.loc.gov/marc/languages/language_code.html>`__ for additional values for this preference."
+msgstr "此偏好設定後 MARC21 的 008 欄位就有預設的語系。若空白，則為英文 (eng)。詳情參見 `MARC 語系代碼表 <http://www.loc.gov/marc/languages/language_code.html>`。"
+
+#: ../../source/catalogingpreferences.rst:1182
+msgid "item-level\\_itypes"
+msgstr "item-level\\_itypes"
+
+#: ../../source/catalogingpreferences.rst:1184
+msgid "Default: specific item"
+msgstr "預設值：特定館藏"
+
+#: ../../source/catalogingpreferences.rst:1186
+msgid "Asks: Use the item type of the \\_\\_\\_ as the authoritative item type (for determining circulation and fines rules, etc)."
+msgstr "詢問：使用館藏類型 \\_\\_\\_ 做為權威館藏類型 (供流通與罰款規則使用)。"
+
+#: ../../source/catalogingpreferences.rst:1191
+#, fuzzy
+msgid "bibliographic record"
+msgstr "書目記錄控制號碼"
+
+#: ../../source/catalogingpreferences.rst:1193
+msgid "specific item"
+msgstr "特定館藏"
+
+#: ../../source/catalogingpreferences.rst:1197
+#, fuzzy
+msgid "This system preference determines whether the item type Koha uses for issuing rules will be an attribute of the bibliographic record or the item record. Most libraries refer to the item record for item types. It also determines if the item type icon appears on the OPAC search results. If you have the preference set to 'bibliographic record' then Koha displays the item type icon on the search results to the left of the result info."
+msgstr "此偏好讓 Koha 依書目記錄或館藏類型的屬性做為流通的依據。大部份圖書館依館藏類型的館藏記錄辦理流通業務。同時把館藏類型的圖示放在 OPAC 的搜尋結果裡。若設定為 '書目記錄' 則 Koha 在搜尋結果左方顯示館藏類型圖示。"
+
+#: ../../source/catalogingpreferences.rst:1205
+msgid "|image23|"
+msgstr ""
+
+#: ../../source/catalogingpreferences.rst:1210
+msgid "itemcallnumber"
+msgstr "itemcallnumber"
+
+#: ../../source/catalogingpreferences.rst:1212
+msgid "Default: 082ab"
+msgstr "預設值：082ab"
+
+#: ../../source/catalogingpreferences.rst:1214
+msgid "Asks: Map the MARC subfield to an item's callnumber."
+msgstr "詢問：對眏 MARC 分欄至館藏的索書號。"
+
+#: ../../source/catalogingpreferences.rst:1218
+msgid "This can contain multiple subfields to look in; for instance 082ab would look in 082 subfields a and b."
+msgstr "可以用多個分欄對映，如：082ab，表示用到 082 的分欄 a 與 b。"
+
+#: ../../source/catalogingpreferences.rst:1223
+msgid "This setting determines which MARC field will be used to determine the call number that will be entered into item records automatically (952$o). The value is set by providing the MARC field code (050, 082, 090, 852 are all common in MARC21) and the subfield codes without the delimiters ($a, $b would be ab)."
+msgstr "此偏好決定自動填入館藏記錄索書號 (952$o) 的內容。其內容為 MARC 的欄號(MARC21 常用 050、082、090、852 等)及分欄，不需使用區隔符號 ($a、$b 應著錄為 ab)。"
+
+#: ../../source/catalogingpreferences.rst:1229
+msgid "The field can also contain several MARC fields in priority order. For example, 082ab,050ab,080ab,090ab will look in priority in 082ab, if 082 is not filled in, it will look in 050ab, etc."
+msgstr "按優先度包涵幾個MARC欄.例如，082ab，050ab，080ab，090ab在082ab中將優先顯示，如果未填寫082，它將在050ab中顯示，依此類推。"
+
+#: ../../source/catalogingpreferences.rst:1233
+msgid "**Important** When entering more than one MARC field, separate them with a comma, but do not put spaces after the commas."
+msgstr "**重要**當輸入多個MARC欄時,用逗號分隔它們,但不要在逗號後放置空格。"
+
+#: ../../source/catalogingpreferences.rst:1237
+#: ../../source/catalogingpreferences.rst:1421
+#: ../../source/catalogingpreferences.rst:1447
+msgid "Examples:"
+msgstr "例子："
+
+#: ../../source/catalogingpreferences.rst:1239
+msgid "Dewey: 082ab or 092ab; LOC: 050ab or 090ab; from the item record: 852hi"
+msgstr "杜威分類法：082ab 或 092ab；美國國會圖書館分類法：050ab 或 090ab；館藏紀錄：852hi"
+
+#: ../../source/catalogingpreferences.rst:1245
+msgid "MarcFieldForCreatorId, MarcFieldForCreatorName, MarcFieldForModifierId, MarcFieldForModifierName"
+msgstr "MarcFieldForCreatorId, MarcFieldForCreatorName, MarcFieldForModifierId, MarcFieldForModifierName"
+
+#: ../../source/catalogingpreferences.rst:1247
+msgid "Asks: Store record's creator borrowernumber in MARC subfield \\_\\_\\_ and record's creator name in MARC subfield \\_\\_\\_ Store record's last modifier borrowernumber in MARC subfield \\_\\_\\_ and record's last modifier name in MARC subfield \\_\\_\\_ NOTE: Use a dollar sign between field and subfield like 123$a."
+msgstr "要求：在MARC分欄\\_\\_\\_中儲存記錄的建立者借款號碼，在MARC分欄\\_\\_\\_中儲存記錄的建立者姓名，在MARC分欄\\_\\_\\_中儲存記錄的最後修改者借款號碼，在MARC分欄\\_\\_\\_中儲存記錄的最後修改者姓名，注意：在欄位和分欄之間使用美元符號，如123$a。"
+
+#: ../../source/catalogingpreferences.rst:1254
+#, fuzzy
+msgid "This system preference allows you to define which MARC subfields to use to automatically save the details of the logged in user.  You can save details for the record creator and the most recent modifier."
+msgstr "此分欄允許您設定讀者登入時，自動儲存詳情的 MARC 分欄。  你可以儲存紀錄新增者與最後修改者的詳情。"
+
+#: ../../source/catalogingpreferences.rst:1261
+msgid "marcflavour"
+msgstr "marcflavour"
+
+#: ../../source/catalogingpreferences.rst:1263
+msgid "Default: MARC21"
+msgstr "預設值：MARC21"
+
+#: ../../source/catalogingpreferences.rst:1265
+msgid "Asks: Interpret and store MARC records in the \\_\\_\\_ format."
+msgstr "詢問：解讀與儲存 MARC 為 \\_\\_\\_ 格式。"
+
+#: ../../source/catalogingpreferences.rst:1269
+msgid "MARC21"
+msgstr "MARC21"
+
+#: ../../source/catalogingpreferences.rst:1271
+msgid "The standard style for the US, Canada, Australia, New Zealand, United Kingdom, Germany and other countries"
+msgstr "美國、加拿大、澳洲、紐西蘭、英國、德國等國採用"
+
+#: ../../source/catalogingpreferences.rst:1274
+msgid "UNIMARC"
+msgstr "UNIMARC"
+
+#: ../../source/catalogingpreferences.rst:1276
+msgid "The standard style used in France, Italy, Portugal, Russia, and other countries"
+msgstr "法國、義大利、萄葡牙、俄國等國採用"
+
+#: ../../source/catalogingpreferences.rst:1279
+msgid "NORMARC"
+msgstr "NORMARC"
+
+#: ../../source/catalogingpreferences.rst:1281
+msgid "The standard style for Norway"
+msgstr "挪威採用"
+
+#: ../../source/catalogingpreferences.rst:1285
+#, fuzzy
+msgid "This system preference defines global MARC style (MARC21, UNIMARC or NORMARC) used for encoding."
+msgstr "此偏好指定使用的 MARC 格式(MARC21、UNIMARC 或 NORMARC)。"
+
+#: ../../source/catalogingpreferences.rst:1290
+msgid "Changing the value of this preference will not convert your records from one MARC style to an other."
+msgstr "改變此設定，不會自動把記錄轉換成指定的 MARC 格式。"
+
+#: ../../source/catalogingpreferences.rst:1296
+msgid "MARCOrgCode"
+msgstr "MARCOrgCode"
+
+#: ../../source/catalogingpreferences.rst:1298
+msgid "Default: OSt"
+msgstr "預設值：OSt"
+
+#: ../../source/catalogingpreferences.rst:1300
+msgid "Asks: Fill in the MARC organization code \\_\\_\\_ by default in new MARC21 records (leave blank to disable)."
+msgstr "詢問：填寫 MARC 機構代碼表 \\_\\_\\_ 預設為新的 MARC21 記錄 (空白表示不用它)。"
+
+#: ../../source/catalogingpreferences.rst:1305
+msgid "The MARC Organization Code is used to identify libraries with holdings of titles and more."
+msgstr "此 MARC 機構代碼表用於辨識圖書館的館藏及其他。"
+
+#: ../../source/catalogingpreferences.rst:1308
+msgid "Learn more and find your library's MARC21 code on the `MARC Code list for Organizations <http://www.loc.gov/marc/organizations/orgshome.html>`__ or in Canada on the `Canadian Symbols Directory <http://www.collectionscanada.gc.ca/illcandir-bin/illsear/l=0/c=1>`__."
+msgstr "MARC21 代碼的詳情，請見美國國會圖書館的 `MARC 機構代碼表 <http://www.loc.gov/marc/organizations/orgshome.html>`__ 或加拿大的 `Canadian 代碼指南 <http://www.collectionscanada.gc.ca/illcandir-bin/illsear/l=0/c=1>`__ 內各圖書館的代碼。"
+
+#: ../../source/catalogingpreferences.rst:1322
+msgid "NewItemsDefaultLocation"
+msgstr "NewItemsDefaultLocation"
+
+#: ../../source/catalogingpreferences.rst:1324
+msgid "Asks: When items are created, give them the temporary location of \\_\\_\\_ (should be a location code, or blank to disable)."
+msgstr "詢問：新增館藏記錄時，暫記其館藏地為 \\_\\_\\_ (應該是地區代碼，空白表示不用它)。"
+
+#: ../../source/catalogingpreferences.rst:1329
+msgid "This allows you to set a specific location for all new items."
+msgstr "這允許你為所有新館藏設定一個特定的位置。"
+
+#: ../../source/catalogingpreferences.rst:1331
+msgid "Make sure to use location codes, from the :ref:`LOC authorized values list<existing-values-label>`"
+msgstr "確保使用位置代碼，從 :ref:`LOC容許值列表<existing-values-label>`中獲取"
+
+#: ../../source/catalogingpreferences.rst:1334
+#, fuzzy
+msgid "You can use the :ref:`UpdateItemLocationOnCheckin <UpdateItemLocationOnCheckin-label>` system preference along with this one to update the location upon checkin"
+msgstr "你可以使用 :ref:`UpdateItemLocationOnCheckin`系統偏好和這個偏好來更新還入時的位置"
+
+#: ../../source/catalogingpreferences.rst:1340
+msgid "PrefillItem"
+msgstr "PrefillItem"
+
+#: ../../source/catalogingpreferences.rst:1342
+msgid "Default: the new item is not prefilled with last created item values."
+msgstr "預設值：不會事先填入前個館藏的值。"
+
+#: ../../source/catalogingpreferences.rst:1344
+msgid "Asks: When a new item is added \\_\\_\\_"
+msgstr "詢問：新增館藏時 \\_\\_\\_"
+
+#: ../../source/catalogingpreferences.rst:1348
+msgid "the new item is not prefilled with last created item values."
+msgstr "不會事先填入前個館藏的值。"
+
+#: ../../source/catalogingpreferences.rst:1350
+msgid "the new item is prefilled with last created item values."
+msgstr "會事先填入前個館藏的值。"
+
+#: ../../source/catalogingpreferences.rst:1354
+#, fuzzy
+msgid "This system preference controls the behavior used when adding new items. Using the options here you can choose to have your next new item prefill with the values used in the last item was added to save time typing values or to have the item form appear completely blank. Using :ref:`SubfieldsToUseWhenPrefill <SubfieldsToUseWhenPrefill-label>` you can control specifically which fields are prefilled."
+msgstr "此偏好控制新增館藏的作為。以此偏好控制下個新增館藏的值，以節省時間。以 :ref:`SubfieldsToUseWhenPrefill` 偏好控制分欄的內容。"
+
+#: ../../source/catalogingpreferences.rst:1364
+msgid "StripWhitespaceChars"
+msgstr ""
+
+#: ../../source/catalogingpreferences.rst:1366
+msgid "Asks: \\_\\_\\_ leading and trailing whitespace characters (including spaces, tabs, line breaks and carriage returns) and inner newlines from data fields when cataloguing bibliographic and authority records. The leader and control fields will not be affected."
+msgstr ""
+
+#: ../../source/catalogingpreferences.rst:1371
+#, fuzzy
+msgid "Default: Don't strip"
+msgstr "預設值：不用"
+
+#: ../../source/catalogingpreferences.rst:1375
+#, fuzzy
+msgid "Don't strip"
+msgstr "不使用"
+
+#: ../../source/catalogingpreferences.rst:1377
+msgid "Strip"
+msgstr ""
+
+#: ../../source/catalogingpreferences.rst:1381
+msgid "Sometimes, invisible characters are inadvertently added when copy-pasting data from elsewhere and these can cause data discrepancies, when linking authorities automatically for example."
+msgstr ""
+
+#: ../../source/catalogingpreferences.rst:1385
+msgid "This system preference is used to automatically remove unwanted invisible characters from fields when :ref:`cataloging bibliographic records <basic-editor-cataloging-label>` or :ref:`cataloging authority records <adding-authorities-label>`."
+msgstr ""
+
+#: ../../source/catalogingpreferences.rst:1390
+msgid "When set to 'Strip', the following characters will be removed automatically"
+msgstr ""
+
+#: ../../source/catalogingpreferences.rst:1392
+msgid "space at the beginning of the field"
+msgstr ""
+
+#: ../../source/catalogingpreferences.rst:1394
+msgid "space at the end of the field"
+msgstr ""
+
+#: ../../source/catalogingpreferences.rst:1396
+msgid "tabulation at the beginning of the field"
+msgstr ""
+
+#: ../../source/catalogingpreferences.rst:1398
+msgid "tabulation at the end of the field"
+msgstr ""
+
+#: ../../source/catalogingpreferences.rst:1400
+msgid "line break or carriage return at the beginning of the field"
+msgstr ""
+
+#: ../../source/catalogingpreferences.rst:1402
+msgid "line break or carriage return within the field"
+msgstr ""
+
+#: ../../source/catalogingpreferences.rst:1404
+msgid "line break of carriage return at the end of the field"
+msgstr ""
+
+#: ../../source/catalogingpreferences.rst:1408
+msgid "Only data fields (fields with subfields) are affected by this system preference. The leader and control fields are not affected as they often must contain spaces."
+msgstr ""
+
+#: ../../source/catalogingpreferences.rst:1415
+msgid "SubfieldsToAllowForRestrictedBatchmod"
+msgstr "SubfieldsToAllowForRestrictedBatchmod"
+
+#: ../../source/catalogingpreferences.rst:1417
+msgid "Asks: Define a list of subfields for which editing is authorized when `items\\_batchmod\\_restricted <#items_batchmod_restricted>`__ permission is enabled, separated by spaces. \\_\\_\\_"
+msgstr "問：設定分欄清單為可編輯的容許值當 `items\\_batchmod\\_restricted <#items_batchmod_restricted>`__ 偏好被啟用，以空白區格。\\_\\_\\_"
+
+#: ../../source/catalogingpreferences.rst:1423
+#: ../../source/catalogingpreferences.rst:1449
+msgid "UNIMARC: \"995$f 995$h 995$j\""
+msgstr "UNIMARC: \"995$f 995$h 995$j\""
+
+#: ../../source/catalogingpreferences.rst:1425
+#: ../../source/catalogingpreferences.rst:1451
+msgid "MARC21: \"952$a 952$b 952$c\""
+msgstr "MARC21: \"952$a 952$b 952$c\""
+
+#: ../../source/catalogingpreferences.rst:1429
+#, fuzzy
+msgid "This system preference lets you define what fields can be edited via the :ref:`batch item modification tool <batch-item-modification-label>` if the items\\_batchmod\\_restricted permission is enabled."
+msgstr "此偏好設定可編輯的欄位經由 :ref:`批量編輯館藏工具 <batch-item-modification-label>` 若啟用 items\\_batchmod\\_restricted 偏好設定。"
+
+#: ../../source/catalogingpreferences.rst:1435
+msgid "The FA framework is excluded from the permission. If the pref is empty, no fields are restricted."
+msgstr "快速新增 FA 框架排除在授權之列。若偏好是空白，則沒有欄位受限。"
+
+#: ../../source/catalogingpreferences.rst:1441
+msgid "SubfieldsToAllowForRestrictedEditing"
+msgstr "SubfieldsToAllowForRestrictedEditing"
+
+#: ../../source/catalogingpreferences.rst:1443
+msgid "Asks: Define a list of subfields for which editing is authorized when edit\\_items\\_restricted permission is enabled, separated by spaces. \\_\\_\\_"
+msgstr "要求：定義一個分欄的列表，當編輯\\_館藏\\_受限制的權限被啟用時，這些分欄的編輯被授權，用空格分隔。 \\_\\_\\_"
+
+#: ../../source/catalogingpreferences.rst:1455
+#, fuzzy
+msgid "This system preference lets you define what fields can be edited via cataloging if the `edit\\_items\\_restricted <#edit_items_restricted>`__ permission is enabled"
+msgstr "若啟用偏好 `edit\\_items\\_restricted <#edit_items_restricted>`__ 偏好則此偏好允許您設定編目時可以編輯的欄位"
+
+#: ../../source/catalogingpreferences.rst:1462
+msgid "The Fast Add (FA) framework is excluded from the permission. If the pref is empty, no fields are restricted."
+msgstr "快速新增 (Fast Add, FA) 框架排除在授權之列。若偏好是空白，則沒有欄位受限。"
+
+#: ../../source/catalogingpreferences.rst:1468
+msgid "SubfieldsToUseWhenPrefill"
+msgstr "SubfieldsToUseWhenPrefill"
+
+#: ../../source/catalogingpreferences.rst:1470
+msgid "Asks: Define a list of subfields to use when prefilling items \\_\\_\\_"
+msgstr "詢問：設定分欄清單以預填館藏 \\_\\_\\_"
+
+#: ../../source/catalogingpreferences.rst:1474
+msgid "Separate values with a space."
+msgstr "各值之間以空格區隔。"
+
+#: ../../source/catalogingpreferences.rst:1478
+#, fuzzy
+msgid "When the :ref:`PrefillItem <PrefillItem-label>` preference is set to prefill item values with those from the last added item, this preference can control which fields are prefilled (and which are not). Enter a space separated list of fields that you would like to prefill when adding a new item."
+msgstr "當 :ref:`PrefillItem` 偏好設為由前個新增館藏預填館藏值，此偏好可控制預填的欄位 (以及不預填的欄位)。欄位之間以空格區隔。"
+
+#: ../../source/catalogingpreferences.rst:1487
+msgid "UNIMARCField100Language"
+msgstr "UNIMARCField100Language"
+
+#: ../../source/catalogingpreferences.rst:1489
+msgid "Default: fre"
+msgstr "預設值：fre"
+
+#: ../../source/catalogingpreferences.rst:1491
+msgid "Asks: Use the language (ISO 690-2) \\_\\_\\_ as default language in the UNIMARC field 100 when creating a new record or in the field plugin."
+msgstr "詢問：新增紀錄或外掛欄位時，使用語系 (ISO 690-2) \\_\\_\\_ 做為 UNIMARC 欄號 100 的預設語系。"
+
+#: ../../source/catalogingpreferences.rst:1497
+msgid "UseOCLCEncodingLevels"
+msgstr ""
+
+#: ../../source/catalogingpreferences.rst:1499
+msgid "Asks: \\_\\_\\_ OCLC defined values for MARC encoding level in leader value builder for position 17."
+msgstr ""
+
+#: ../../source/catalogingpreferences.rst:1502
+msgid "Default: Don't display"
+msgstr "預設值：不顯示"
+
+#: ../../source/catalogingpreferences.rst:1506
+msgid "Don't display"
+msgstr "不顯示"
+
+#: ../../source/catalogingpreferences.rst:1512
+msgid "This system preference controls whether or not the OCLC values for encoding levels are shown in the leader value builder."
+msgstr ""
+
+#: ../../source/catalogingpreferences.rst:1515
+msgid "When set to \"Display\", the extra OCLC values are displayed in the drop-down menu in the leader value builder."
+msgstr ""
+
+#: ../../source/catalogingpreferences.rst:1518
+msgid "|UseOCLCEncodingLevels|"
+msgstr ""
+
+#: ../../source/catalogingpreferences.rst:1523
+msgid "z3950NormalizeAuthor and z3950AuthorAuthFields"
+msgstr "z3950NormalizeAuthor 與 z3950AuthorAuthFields"
+
+#: ../../source/catalogingpreferences.rst:1525
+msgid "Defaults: Don't copy and 701,702,700"
+msgstr "預設值：不要複製與 701、702、700"
+
+#: ../../source/catalogingpreferences.rst:1527
+msgid "Asks: \\_\\_\\_ authors from the UNIMARC \\_\\_\\_ tags (separated by commas) to the correct author tags when importing a record using Z39.50."
+msgstr "詢問：從 Z39.50 伺服器匯入記錄時，\\_\\_\\_ 作者由 UNIMARC \\_\\_\\_ 欄號 (以逗點區隔) 取得正確的著者欄號。"
+
+#: ../../source/catalogingpreferences.rst:1530
+msgid "Description for z3950NormalizeAuthor:"
+msgstr "z3950NormalizeAuthor 说明："
+
+#: ../../source/catalogingpreferences.rst:1532
+#, fuzzy
+msgid "This system preference allows for 'Personal Name Authorities' to replace authors as the bibliographic authority. This system preference should only be considered by libraries using UNIMARC."
+msgstr "此偏好允許以 '個人權威名稱' 取代著者做為書目權威。此偏好只適於使用 UNIMARC 的圖書館。"
+
+#: ../../source/catalogingpreferences.rst:1536
+msgid "Values for z3950NormalizeAuthor:"
+msgstr "z3950NormalizeAuthor 的值："
+
+#: ../../source/catalogingpreferences.rst:1538
+msgid "Copy"
+msgstr "複本"
+
+#: ../../source/catalogingpreferences.rst:1540
+msgid "Don't copy"
+msgstr "不複製"
+
+#: ../../source/catalogingpreferences.rst:1542
+msgid "Description for z3950AuthorAuthFields:"
+msgstr "z3950AuthorAuthFields 的说明："
+
+#: ../../source/catalogingpreferences.rst:1544
+#, fuzzy
+msgid "This system preference defines which MARC fields will be used for 'Personal Name Authorities' to replace authors as the bibliographic authorities. This system preference only applies to those using UNIMARC encoding. The MARC fields selected here will only be used if 'z3950NormalizeAuthor' is set to \"Copy\". The default field are 700, 701, and 702."
+msgstr "此偏好設定的 MARC 欄位將做為 '個人權威名稱' 取代書目紀錄權威的著者。此偏好只適用於 UNIMARC 編碼。'z3950NormalizeAuthor' 偏好設為 \"複製\" 時，才能使用這些欄位。預設的欄位為 700、701 與 702。"
+
+#: ../../source/catalogingpreferences.rst:1554
+#, fuzzy
+msgid "Spine labels"
+msgstr "書標"
+
+#: ../../source/catalogingpreferences.rst:1559
+msgid "SpineLabelAutoPrint"
+msgstr "SpineLabelAutoPrint"
+
+#: ../../source/catalogingpreferences.rst:1563
+msgid "Asks: When using the quick spine label printer, \\_\\_\\_ automatically pop up a print dialog."
+msgstr "詢問：使用快速書標印表機時， \\_\\_\\_ 動彈出列印對話窗。"
+
+#: ../../source/catalogingpreferences.rst:1575
+msgid "SpineLabelFormat"
+msgstr "SpineLabelFormat"
+
+#: ../../source/catalogingpreferences.rst:1577
+msgid "Default: <itemcallnumber><copynumber>"
+msgstr "預設值：<itemcallnumber><copynumber>"
+
+#: ../../source/catalogingpreferences.rst:1579
+#, fuzzy
+msgid "Asks: Include the following fields on a quick-printed spine label: (Enter in columns from the bibliographic, biblioitems or items tables, surrounded by < and >.)"
+msgstr "詢問：勾選快速列印書標時，包括以下快速列印書標的欄位： (從 書目、 館藏書目 或 館藏 的表格輸入欄位資料，被 < and >包圍)"
+
+#: ../../source/catalogingpreferences.rst:1586
+msgid "SpineLabelShowPrintOnBibDetails"
+msgstr "SpineLabelShowPrintOnBibDetails"
+
+#: ../../source/catalogingpreferences.rst:1588
+#, fuzzy
+msgid "Asks: \\_\\_\\_ buttons on the bibliographic details page to print item spine labels."
+msgstr "詢問：\\_\\_\\_ 書目細節頁面的按鈕，以列印館藏書標。"
+
+#: ../../source/catalogingpreferences.rst:1601
+msgid "If set to 'Show', there will be a 'Print label' button in the holdings table in the staff interface for each item."
+msgstr ""
+
+#: ../../source/catalogingpreferences.rst:1604
+#, fuzzy
+msgid "|SpineLabelShowPrintOnBibDetails|"
+msgstr "SpineLabelShowPrintOnBibDetails"
+
+#: ../../source/catalogingpreferences.rst:1606
+msgid "This button opens the :ref:`Quick spine label creator tool<quick-spine-label-creator-label>`."
+msgstr ""
+
+#: ../../source/images.rst:20
+msgid "Acquisition details tab in the detailed record"
+msgstr ""
+
+#: ../../source/images.rst:713
+msgid "The basic editor in cataloging, only the field numbers and subfield codes are shown next to the fields and subfields."
+msgstr ""
+
+#: ../../source/images.rst:749
+msgid "The MARC view of a record in the OPAC, the MARC field numbers and indicator values are not displayed."
+msgstr ""
+
+#: ../../source/images.rst:752
+msgid "The MARC view of a record in the staff interface, the MARC field numbers and indicator values are not displayed."
+msgstr ""
+
+#: ../../source/images.rst:755
+msgid "The MARC view of a record in the OPAC, the MARC field numbers and indicator values are displayed."
+msgstr ""
+
+#: ../../source/images.rst:758
+msgid "The MARC view of a record in the staff interface, the MARC field numbers and indicator values are displayed."
+msgstr ""
+
+#: ../../source/images.rst:836
+msgid "A holdings table in the catalog in the staff interface, the next to last column on the right is titled 'Spine label' and there is a 'Print button' label for each item in the table"
+msgstr ""
+
+#: ../../source/images.rst:854
+msgid "Example of a bibliographic record in the staff interface with the 'Suppressed in OPAC' note at the top"
+msgstr ""
+
+#: ../../source/images.rst:857
+msgid "Example of a bibliographic record in the staff interface with the 'Suppressed in OPAC' note at the top; the note is red and large"
+msgstr ""
+
+#: ../../source/images.rst:1008
+msgid "Basic cataloging form"
+msgstr ""
+
+#: ../../source/images.rst:1356
+msgid "Record with component records shown in the 'Component' tab, in the OPAC"
+msgstr ""
+
+#: ../../source/images.rst:1359
+msgid "Record with component records shown in the 'Component' tab, in the staff interface"
+msgstr ""
+
+#: ../../source/images.rst:1434
+msgid "The leader value builder pop-up window, the drop-down menu for position 17 - Encoding level is open, and the extra OCLC values are displayed (I - Full-level input by OCLC participants, J - Deleted record, K - Less-than-full input by OCLC participants, M - Added from a batch process)"
+msgstr ""
+
+#: ../../source/images.rst:2839
+msgid "image17"
+msgstr ""
+
+#: ../../source/images.rst:2840
+msgid "image18"
+msgstr ""
+
+#: ../../source/images.rst:2841
+msgid "image19"
+msgstr ""
+
+#: ../../source/images.rst:2842
+msgid "image22"
+msgstr ""
+
+#: ../../source/images.rst:2843
+msgid "image23"
+msgstr ""

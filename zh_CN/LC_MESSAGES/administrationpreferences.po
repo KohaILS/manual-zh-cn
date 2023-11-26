@@ -1,0 +1,1139 @@
+# Chinese translations for Koha Manual package.
+# Copyright (C) 2020, Koha Community
+# This file is distributed under the same license as the Koha Manual package.
+# Automatically generated, 2021.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Koha Manual 22.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-10-26 13:37+0000\n"
+"PO-Revision-Date: 2023-03-30 22:09+0000\n"
+"Last-Translator: Frank Chou <frank@sris.com.tw>\n"
+"Language-Team: none\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pootle 2.8\n"
+"X-Pootle-Path: /zh_TW/manual22.11/administrationpreferences.po\n"
+"X-Pootle-Revision: 1\n"
+"X-POOTLE-MTIME: 1680214154.580125\n"
+
+#: ../../source/administrationpreferences.rst:6
+msgid "Administration"
+msgstr "管理"
+
+#: ../../source/administrationpreferences.rst:8
+msgid "These preferences are general settings for your system."
+msgstr "這些偏好適用於系統的一般設定。"
+
+#: ../../source/administrationpreferences.rst:10
+#, fuzzy
+msgid "*Get there:* More > Administration > Global system preferences > Administration"
+msgstr "*到此：*其他 > 管理 > 整體系統偏好> 管理"
+
+#: ../../source/administrationpreferences.rst:13
+msgid "OrderPriceRounding"
+msgstr "OrderPriceRounding"
+
+#: ../../source/administrationpreferences.rst:15
+msgid "This system preference allows you to choose between using the precise value or a rounded value when charging fees."
+msgstr "此系統偏好允許您在充電時選擇使用精確值或四捨五入值。"
+
+#: ../../source/administrationpreferences.rst:20
+#, fuzzy
+msgid "CAS authentication"
+msgstr "CAS 認證"
+
+#: ../../source/administrationpreferences.rst:22
+msgid "The Central Authentication Service (CAS) is a single sign-on protocol for the web. If you don't know what this is, leave these preferences set to their defaults."
+msgstr "中央認證系統 (Central Authentication Service, CAS) 是網頁的單一登入協定。若不明白其用途，則使用預設值即可。"
+
+#: ../../source/administrationpreferences.rst:29
+msgid "casAuthentication"
+msgstr "casAuthentication"
+
+#: ../../source/administrationpreferences.rst:31
+msgid "Default: Don't use"
+msgstr "預設值：不用"
+
+#: ../../source/administrationpreferences.rst:33
+msgid "Asks: \\_\\_\\_ CAS for login authentication."
+msgstr "詢問：採用 \\_\\_\\_ CAS 中央認證系統登入。"
+
+#: ../../source/administrationpreferences.rst:38
+msgid "casLogout"
+msgstr "casLogout"
+
+#: ../../source/administrationpreferences.rst:40
+msgid "Asks: Logout of CAS when logging out of Koha: \\_\\_\\_"
+msgstr "詢問：登出 Koha 即登出 CAS：\\_\\_\\_"
+
+#: ../../source/administrationpreferences.rst:42
+#: ../../source/administrationpreferences.rst:153
+#: ../../source/administrationpreferences.rst:583
+#: ../../source/administrationpreferences.rst:628
+msgid "Default: No"
+msgstr "預設值：否"
+
+#: ../../source/administrationpreferences.rst:44
+#: ../../source/administrationpreferences.rst:164
+#: ../../source/administrationpreferences.rst:187
+#: ../../source/administrationpreferences.rst:291
+#: ../../source/administrationpreferences.rst:319
+#: ../../source/administrationpreferences.rst:340
+#: ../../source/administrationpreferences.rst:361
+#: ../../source/administrationpreferences.rst:381
+#: ../../source/administrationpreferences.rst:410
+#: ../../source/administrationpreferences.rst:450
+#: ../../source/administrationpreferences.rst:524
+#: ../../source/administrationpreferences.rst:558
+#: ../../source/administrationpreferences.rst:585
+#: ../../source/administrationpreferences.rst:634
+#: ../../source/administrationpreferences.rst:650
+#: ../../source/administrationpreferences.rst:680
+#: ../../source/administrationpreferences.rst:728
+#: ../../source/administrationpreferences.rst:753
+#: ../../source/administrationpreferences.rst:781
+#: ../../source/administrationpreferences.rst:841
+#: ../../source/administrationpreferences.rst:879
+msgid "Values:"
+msgstr "值:"
+
+#: ../../source/administrationpreferences.rst:46
+#: ../../source/administrationpreferences.rst:166
+#: ../../source/administrationpreferences.rst:587
+#: ../../source/administrationpreferences.rst:636
+msgid "No"
+msgstr "不"
+
+#: ../../source/administrationpreferences.rst:48
+#: ../../source/administrationpreferences.rst:168
+#: ../../source/administrationpreferences.rst:589
+#: ../../source/administrationpreferences.rst:638
+msgid "Yes"
+msgstr "是的"
+
+#: ../../source/administrationpreferences.rst:50
+#: ../../source/administrationpreferences.rst:123
+#: ../../source/administrationpreferences.rst:138
+#: ../../source/administrationpreferences.rst:170
+#: ../../source/administrationpreferences.rst:193
+#: ../../source/administrationpreferences.rst:211
+#: ../../source/administrationpreferences.rst:230
+#: ../../source/administrationpreferences.rst:254
+#: ../../source/administrationpreferences.rst:276
+#: ../../source/administrationpreferences.rst:299
+#: ../../source/administrationpreferences.rst:325
+#: ../../source/administrationpreferences.rst:346
+#: ../../source/administrationpreferences.rst:367
+#: ../../source/administrationpreferences.rst:395
+#: ../../source/administrationpreferences.rst:416
+#: ../../source/administrationpreferences.rst:430
+#: ../../source/administrationpreferences.rst:456
+#: ../../source/administrationpreferences.rst:475
+#: ../../source/administrationpreferences.rst:489
+#: ../../source/administrationpreferences.rst:504
+#: ../../source/administrationpreferences.rst:530
+#: ../../source/administrationpreferences.rst:564
+#: ../../source/administrationpreferences.rst:591
+#: ../../source/administrationpreferences.rst:656
+#: ../../source/administrationpreferences.rst:692
+#: ../../source/administrationpreferences.rst:706
+#: ../../source/administrationpreferences.rst:787
+#: ../../source/administrationpreferences.rst:801
+#: ../../source/administrationpreferences.rst:822
+#: ../../source/administrationpreferences.rst:855
+#: ../../source/administrationpreferences.rst:901
+#: ../../source/administrationpreferences.rst:921
+msgid "Description:"
+msgstr "說明："
+
+#: ../../source/administrationpreferences.rst:52
+msgid "CAS single logout means that a user gets logged out not only from the CAS server but also from all visited CAS client applications when logged out in one of them or after reaching a timeout."
+msgstr "登出 CAS 或時間已到，不僅登出 CAS 伺服器也登出 CAS 所有的應用程式。"
+
+#: ../../source/administrationpreferences.rst:56
+msgid "**Note**"
+msgstr "**說明**"
+
+#: ../../source/administrationpreferences.rst:58
+msgid "The CAS server has to be set up to allow single logout for this to take effect, otherwise the behavior will remain unchanged"
+msgstr "必須設定 CAS 伺服器，才能允許單次登出，否則沒有任何改變"
+
+#: ../../source/administrationpreferences.rst:64
+msgid "casServerUrl"
+msgstr "casServerUrl"
+
+#: ../../source/administrationpreferences.rst:66
+msgid "Asks: The CAS Authentication Server can be found at \\_\\_\\_"
+msgstr "詢問：CAS 中央認證系統伺服器在 \\_\\_\\_"
+
+#: ../../source/administrationpreferences.rst:71
+msgid "Google OpenID Connect"
+msgstr "Google OpenID 連結"
+
+#: ../../source/administrationpreferences.rst:73
+msgid "Visit the `Google Developers Console <https://console.developers.google.com/>`__ to obtain OAuth 2.0 credentials such as a client ID and client secret that are known to both Google and your application."
+msgstr "進入 `Google Developers Console <https://console.developers.google.com/>`__ 取得適用於 Google 與其他應用程式的 OAuth 2.0 客戶 ID 與安全等認證。"
+
+#: ../../source/administrationpreferences.rst:78
+msgid "|image1179|"
+msgstr ""
+
+#: ../../source/administrationpreferences.rst:80
+msgid "Create a project, and give it some details to help you identify it later"
+msgstr "新增計畫時，給詳細的說明以便日後的辨識"
+
+#: ../../source/administrationpreferences.rst:83
+msgid "|image5|"
+msgstr ""
+
+#: ../../source/administrationpreferences.rst:85
+msgid "Next search for the Google Identity and Access Management API"
+msgstr "接著搜尋 Google身份與訪問管理API"
+
+#: ../../source/administrationpreferences.rst:87
+msgid "|image6|"
+msgstr ""
+
+#: ../../source/administrationpreferences.rst:89
+msgid "Enable the Google Identity and Access Management API"
+msgstr "啟用 Google身份及訪問管理API"
+
+#: ../../source/administrationpreferences.rst:91
+msgid "|image7|"
+msgstr ""
+
+#: ../../source/administrationpreferences.rst:93
+msgid "Go to 'Credentials' and set the OAuth cosent screen values"
+msgstr "進入 'Credentials' 且設定OAuth cosent螢幕數據"
+
+#: ../../source/administrationpreferences.rst:95
+msgid "|image8|"
+msgstr ""
+
+#: ../../source/administrationpreferences.rst:97
+msgid "Next choose to 'Create credentials' from the 'Credentials' page"
+msgstr "接著選擇從 'Credentials' 頁面選擇 'Create credentials'"
+
+#: ../../source/administrationpreferences.rst:99
+msgid "|image9|"
+msgstr ""
+
+#: ../../source/administrationpreferences.rst:101
+msgid "Choose 'Web application' from the 'Application type' menu and fill in the form presented"
+msgstr "從 '應用類型' 選單中選取 '網頁應用'，再填入表單"
+
+#: ../../source/administrationpreferences.rst:104
+msgid "|image10|"
+msgstr ""
+
+#: ../../source/administrationpreferences.rst:106
+msgid "Set 'Authorized JavaScript origins' to your OPACBaseURL"
+msgstr "在 OPACBaseURLSet 中設定 '授權JavaScript 來源'"
+
+#: ../../source/administrationpreferences.rst:108
+msgid "Change the 'Authorized Redirect URIs' to http://YOUROPAC/cgi-bin/koha/svc/auth/googleopenidconnect"
+msgstr "將 '被授權重新定向 URIs' 設定為 http://YOUROPAC/cgi-bin/koha/svc/auth/googleopenidconnect"
+
+#: ../../source/administrationpreferences.rst:111
+msgid "You will be presented with your values for your client ID and your client secret after saving"
+msgstr "儲存之後，顯示客戶 ID 與安全"
+
+#: ../../source/administrationpreferences.rst:114
+msgid "|image11|"
+msgstr ""
+
+#: ../../source/administrationpreferences.rst:119
+msgid "GoogleOAuth2ClientID"
+msgstr "GoogleOAuth2ClientID"
+
+#: ../../source/administrationpreferences.rst:121
+msgid "Asks: Google OAuth2 Client ID: \\_\\_\\_"
+msgstr "詢問：Google OAuth2 Client ID: \\_\\_\\_"
+
+#: ../../source/administrationpreferences.rst:125
+#: ../../source/administrationpreferences.rst:140
+msgid "Enter the client ID provided when setting up the Google API (see :ref:`Google OpenID Connect<google-openid-connect-label>` above)"
+msgstr "輸入設定Google API時提供的客戶ID（見 :ref:`Google OpenID 連結<google-openid-connect-label>`以上）"
+
+#: ../../source/administrationpreferences.rst:128
+#, fuzzy
+msgid "You will also need to enter the client secret in :ref:`GoogleOAuth2ClientSecret <GoogleOAuth2ClientSecret-label>` and enable :ref:`GoogleOpenIDConnect <GoogleOpenIDConnect-label>` to use Google Open ID in the OPAC."
+msgstr "你還需要在 :ref:`GoogleOAuth2ClientSecret`中輸入客戶秘密，並啟用 :`GoogleOpenIDConnect`以便在OPAC中使用Google Open ID。"
+
+#: ../../source/administrationpreferences.rst:134
+msgid "GoogleOAuth2ClientSecret"
+msgstr "GoogleOAuth2ClientSecret"
+
+#: ../../source/administrationpreferences.rst:136
+msgid "Asks: Google OAuth2 Client Secret: \\_\\_\\_"
+msgstr "詢問：Google OAuth2 Client Secret: \\_\\_\\_"
+
+#: ../../source/administrationpreferences.rst:143
+#, fuzzy
+msgid "You will also need to enter the client secret in :ref:`GoogleOAuth2ClientID <GoogleOAuth2ClientID-label>` and enable :ref:`GoogleOpenIDConnect <GoogleOpenIDConnect-label>` to use Google Open ID in the OPAC."
+msgstr "你還需要在 :ref:`GoogleOAuth2ClientID`中輸入客戶秘密，並啟用 :`GoogleOpenIDConnect`以便在OPAC中使用Google Open ID。"
+
+#: ../../source/administrationpreferences.rst:149
+msgid "GoogleOpenIDConnect"
+msgstr "GoogleOpenIDConnect"
+
+#: ../../source/administrationpreferences.rst:151
+msgid "Asks: Use Google OpenID Connect login in the OPAC: \\_\\_\\_"
+msgstr "詢問：以 Google OpenID Connect 登入OPAC：\\_\\_\\_"
+
+#: ../../source/administrationpreferences.rst:157
+msgid "You will need to select OAuth2 when creating an app in the google cloud console, and set the web origin to your\\_opac\\_url and the redirect url to your\\_opac\\_url/cgi-bin/koha/svc/auth/googleopenidconnect ."
+msgstr "在 Google 雲端新增應用程式，與設定啟始網頁給 your\\_opac\\_url 及轉址至 your\\_opac\\_url/cgi-bin/koha/svc/auth/googleopenidconnect 時，應選用 OAuth2。"
+
+#: ../../source/administrationpreferences.rst:162
+msgid "|image12|"
+msgstr ""
+
+#: ../../source/administrationpreferences.rst:172
+msgid "This system preference enables the ability to connect to the OPAC using Google OpenID Connect."
+msgstr "這個系統偏好使人們能夠使用Google OpenID連接來連接到OPAC。"
+
+#: ../../source/administrationpreferences.rst:175
+#, fuzzy
+msgid "Make sure to also configure :ref:`GoogleOAuth2ClientID <GoogleOAuth2ClientID-label>` and :ref:`GoogleOAuth2ClientSecret <GoogleOAuth2ClientSecret-label>`"
+msgstr "請確保同時設定 :ref:`GoogleOAuth2ClientID`和 :ref:`GoogleOAuth2ClientSecret`"
+
+#: ../../source/administrationpreferences.rst:181
+msgid "GoogleOpenIDConnectAutoRegister"
+msgstr "GoogleOpenIDConnectAutoRegister"
+
+#: ../../source/administrationpreferences.rst:183
+msgid "Asks: \\_\\_\\_ patrons logging in with Google Open ID to automatically register."
+msgstr "詢問：\\_\\_\\_ 讀者以Google Open ID 自動註冊登入。"
+
+#: ../../source/administrationpreferences.rst:185
+msgid "Default: Don't Allow"
+msgstr "預設：不允許"
+
+#: ../../source/administrationpreferences.rst:189
+#: ../../source/administrationpreferences.rst:528
+msgid "Don't Allow"
+msgstr "不允許"
+
+#: ../../source/administrationpreferences.rst:191
+#: ../../source/administrationpreferences.rst:526
+msgid "Allow"
+msgstr "允許"
+
+#: ../../source/administrationpreferences.rst:195
+#, fuzzy
+msgid "When :ref:`GoogleOpenIDConnect <GoogleOpenIDConnect-label>` is enabled, this system preference enables the automatic creation of patrons in Koha when they log in using Google OpenID Connect."
+msgstr "當 :ref:`GoogleOpenIDConnect`被啟用時，這個系統偏好可以在讀者使用Google OpenID 連結登時入在Koha中自動建立讀者。"
+
+#: ../../source/administrationpreferences.rst:199
+#, fuzzy
+msgid "Make sure to fill out :ref:`GoogleOpenIDConnectDefaultBranch <GoogleOpenIDConnectDefaultBranch-label>` and :ref:`GoogleOpenIDConnectDefaultCategory <GoogleOpenIDConnectDefaultCategory-label>` to set the default library and category code for those patrons created automatically."
+msgstr "確保填寫 :ref:`GoogleOpenIDConnectDefaultBranch`和 :ref:`GoogleOpenIDConnectDefaultCategory`，為那些自動建立的讀者設定預設分行和類別代碼。"
+
+#: ../../source/administrationpreferences.rst:206
+msgid "GoogleOpenIDConnectDefaultBranch"
+msgstr "GoogleOpenIDConnectDefaultBranch"
+
+#: ../../source/administrationpreferences.rst:208
+msgid "Asks: Use this branchcode when automatically registering a Google OpenID patron: \\_\\_\\_"
+msgstr "詢問：以Google Open ID 讀者自動登入時使用此條碼: \\_\\_\\_"
+
+#: ../../source/administrationpreferences.rst:213
+#, fuzzy
+msgid "When :ref:`GoogleOpenIDConnect <GoogleOpenIDConnect-label>` and :ref:`GoogleOpenIDConnectAutoRegister <GoogleOpenIDConnectAutoRegister-label>` are enabled, this system preference determines the default home library for those patrons created automatically."
+msgstr "當 :ref:`GoogleOpenIDConnect`和 :ref:`GoogleOpenIDConnectAutoRegister`被啟用時，這個系統偏好決定了那些自動建立的讀者的預設所屬分行。"
+
+#: ../../source/administrationpreferences.rst:217
+msgid "Enter a branchcode. Branchcodes can be found in the :ref:`libraries<libraries-label>` section of the administration module."
+msgstr "輸入一個分行代碼。分行代碼可以在管理模組的 :ref:`圖書館<libraries-label>`部分找到。"
+
+#: ../../source/administrationpreferences.rst:220
+#, fuzzy
+msgid "Make sure to fill out :ref:`GoogleOpenIDConnectDefaultCategory <GoogleOpenIDConnectDefaultCategory-label>` also."
+msgstr "請確保也填寫 :ref:`GoogleOpenIDConnectDefaultCategory`。"
+
+#: ../../source/administrationpreferences.rst:225
+msgid "GoogleOpenIDConnectDefaultCategory"
+msgstr "GoogleOpenIDConnectDefaultCategory"
+
+#: ../../source/administrationpreferences.rst:227
+msgid "Asks: Use this category code when automatically registering a Google OpenID patron: \\_\\_\\_"
+msgstr "詢問：以Google Open ID讀者自動登入時使用此類型的代碼：\\_\\_\\_"
+
+#: ../../source/administrationpreferences.rst:232
+#, fuzzy
+msgid "When :ref:`GoogleOpenIDConnect <GoogleOpenIDConnect-label>` and :ref:`GoogleOpenIDConnectAutoRegister <GoogleOpenIDConnectAutoRegister-label>` are enabled, this system preference determines the default patron category for those patrons created automatically."
+msgstr "當 :ref:`GoogleOpenIDConnect`和 :ref:`GoogleOpenIDConnectAutoRegister`被啟用時，這個系統偏好決定了那些自動建立的讀者的預設類別。"
+
+#: ../../source/administrationpreferences.rst:236
+#, fuzzy
+msgid "Enter a category code. Category codes can be found in the :ref:`patron categories<patron-categories-label>` section of the administration module."
+msgstr "輸入一個類別代碼。類別代碼可以在管理模組的 :ref:`讀者類別<patron-categories-label>`部分找到。"
+
+#: ../../source/administrationpreferences.rst:240
+#, fuzzy
+msgid "Make sure to fill out :ref:`GoogleOpenIDConnectDefaultBranch <GoogleOpenIDConnectDefaultBranch-label>` also."
+msgstr "請確保也填寫 :ref:`GoogleOpenIDConnectDefaultBranch`。"
+
+#: ../../source/administrationpreferences.rst:245
+msgid "GoogleOpenIDConnectDomain"
+msgstr "GoogleOpenIDConnectDomain"
+
+#: ../../source/administrationpreferences.rst:247
+msgid "Asks: Restrict Google OpenID Connect to this domain (or subdomain of this domain): \\_\\_\\_"
+msgstr "詢問：限制Google OpenID連接到此網域（或此網域的次網域）：\\_\\_\\_"
+
+#: ../../source/administrationpreferences.rst:252
+msgid "Leave blank for all google domains"
+msgstr "所有的 google 網址均空白"
+
+#: ../../source/administrationpreferences.rst:256
+msgid "This system preference limits the log in of patrons to certain domains."
+msgstr "這個系統偏好將讀者的登入限制在某些網域。"
+
+#: ../../source/administrationpreferences.rst:261
+msgid "Interface options"
+msgstr "介面選項"
+
+#: ../../source/administrationpreferences.rst:263
+msgid "These preference are related to your Koha interface"
+msgstr "這些偏好與 Koha 的介面有關"
+
+#: ../../source/administrationpreferences.rst:268
+msgid "AddressForFailedOverdueNotices"
+msgstr "AddressForFailedOverdueNotices"
+
+#: ../../source/administrationpreferences.rst:270
+msgid "Default: Blank"
+msgstr "預設值：空白"
+
+#: ../../source/administrationpreferences.rst:272
+msgid "Asks: Email address failed overdue notices are sent to: \\_\\_\\_ If left empty then it will fallback to the first defined address in the following list: Library ReplyTo, Library Email, ReplytoDefault and KohaAdminEmailAddress."
+msgstr "詢問: 電子郵件地址失敗的逾期通知已寄送到: \\_\\_\\_如果留空, 它會使用在下列清單中第一個定義的地址: 圖書館回信至, 圖書館電子信箱, ReplytoDefault及KohaAdminEmailAddress。"
+
+#: ../../source/administrationpreferences.rst:278
+#, fuzzy
+msgid "This system preference controls where the summarized overdue email for patrons without email addresses is sent to."
+msgstr "這個偏好控制沒有電子郵件地址的讀者的逾期郵件匯總寄送到哪裡。"
+
+#: ../../source/administrationpreferences.rst:284
+msgid "DebugLevel"
+msgstr "DebugLevel"
+
+#: ../../source/administrationpreferences.rst:286
+msgid "Default: lots of"
+msgstr "預設值：很多"
+
+#: ../../source/administrationpreferences.rst:288
+msgid "Asks: Show \\_\\_\\_ debugging information in the browser when an internal error occurs."
+msgstr "詢問：發生內部錯誤時瀏覽器顯示 \\_\\_\\_ 除錯資訊。"
+
+#: ../../source/administrationpreferences.rst:293
+msgid "lots of - will show as much information as possible"
+msgstr "很多 - 儘量顯示資訊"
+
+#: ../../source/administrationpreferences.rst:295
+msgid "no - will only show basic error messages"
+msgstr "無 - 只顯示基本的錯誤資訊"
+
+#: ../../source/administrationpreferences.rst:297
+msgid "some - will show only some of the information available"
+msgstr "部份 - 只顯示部份可得的資訊"
+
+#: ../../source/administrationpreferences.rst:301
+#, fuzzy
+msgid "This system preference determines how much information will be sent to the user's screen when the system encounters an error. The most detail will be sent when the value level is set at 2, some detail will be sent when the value is set at 1, and only a basic error message will display when the value is set at 0. This setting is especially important when a system is new and the administration is interested in working out the bugs (errors or problems) quickly. Having detailed error messages makes quick fixes more likely in problem areas."
+msgstr "系統發生錯誤時，此偏好決定寄送至螢幕的資訊量。設定為2，資料量最多；設定為1，資料量中等；設定為0，只送出基本的資料。系統剛建立時此偏好設定極為重要，管理者有意快速處理錯誤 (錯誤或問題)。資訊量愈多，愈容易判斷問題所在。"
+
+#: ../../source/administrationpreferences.rst:313
+msgid "DefaultToLoggedInLibraryCircRules"
+msgstr "DefaultToLoggedInLibraryCircRules"
+
+#: ../../source/administrationpreferences.rst:315
+#: ../../source/administrationpreferences.rst:335
+#: ../../source/administrationpreferences.rst:356
+msgid "Default: all libraries"
+msgstr "預設值：所有圖書館"
+
+#: ../../source/administrationpreferences.rst:317
+msgid "Asks: When editing circulation rules show \\_\\_\\_ the rules by default."
+msgstr "詢問：編輯流通規則時，顯示 \\_\\_\\_ 規則為預設值。"
+
+#: ../../source/administrationpreferences.rst:321
+#: ../../source/administrationpreferences.rst:342
+#: ../../source/administrationpreferences.rst:363
+msgid "all libraries"
+msgstr "所有圖書館"
+
+#: ../../source/administrationpreferences.rst:323
+#: ../../source/administrationpreferences.rst:344
+#: ../../source/administrationpreferences.rst:365
+msgid "logged in library's"
+msgstr "登入圖書館的"
+
+#: ../../source/administrationpreferences.rst:327
+#, fuzzy
+msgid "This system preference controls the default value in the library pull down found at the top of the :ref:`circulation and fines rules <circulation-and-fines-rules-label>`."
+msgstr "此偏好控制 :ref:`流通與罰款規則` 上方的預設分館值。"
+
+#: ../../source/administrationpreferences.rst:333
+msgid "DefaultToLoggedInLibraryNoticesSlips"
+msgstr "DefaultToLoggedInLibraryNoticesSlips"
+
+#: ../../source/administrationpreferences.rst:337
+msgid "Asks: When editing notices and slips show the \\_\\_\\_ notices and slips by default."
+msgstr "詢問：編輯通知與收條時，顯示 \\_\\_\\_ 通知與收條做為預設值。"
+
+#: ../../source/administrationpreferences.rst:348
+#, fuzzy
+msgid "This system preference controls the default value in the library pull down found at the top of the :ref:`notices and slips <notices-and-slips-label>` tool."
+msgstr "此偏好控制 :ref:`通知與收條` 工具上方的分館預設值。"
+
+#: ../../source/administrationpreferences.rst:354
+msgid "DefaultToLoggedInLibraryOverdueTriggers"
+msgstr "DefaultToLoggedInLibraryOverdueTriggers"
+
+#: ../../source/administrationpreferences.rst:358
+msgid "Asks: When editing overdue notice/status triggers show the \\_\\_\\_ rules by default."
+msgstr "詢問：編輯逾期通知/啟動狀態時，顯示 \\_\\_\\_ 規則做為預設值。"
+
+#: ../../source/administrationpreferences.rst:369
+#, fuzzy
+msgid "This system preference controls the default value in the library pull down found at the top of the :ref:`overdue notice/status triggers <overdue-notice/status-triggers-label>`."
+msgstr "此偏好控制 :ref:`啟動逾期/通知狀態` 上方的分館，設定其預設值。"
+
+#: ../../source/administrationpreferences.rst:375
+msgid "CSVDelimiter"
+msgstr "CSVDelimiter"
+
+#: ../../source/administrationpreferences.rst:377
+msgid "Asks: Default separator for columns in an exported CSV file: \\_\\_\\_."
+msgstr "詢問：輸出的CSV文件中各列的預設分隔符: \\_\\_\\_。"
+
+#: ../../source/administrationpreferences.rst:379
+msgid "Default: semicolons"
+msgstr "預設值：分號"
+
+#: ../../source/administrationpreferences.rst:383
+msgid "#'s"
+msgstr "#'s"
+
+#: ../../source/administrationpreferences.rst:385
+msgid "backslashes"
+msgstr "反斜線"
+
+#: ../../source/administrationpreferences.rst:387
+msgid "commas"
+msgstr "逗號"
+
+#: ../../source/administrationpreferences.rst:389
+msgid "semicolons"
+msgstr "分號"
+
+#: ../../source/administrationpreferences.rst:391
+msgid "slashes"
+msgstr "斜線"
+
+#: ../../source/administrationpreferences.rst:393
+msgid "tabs"
+msgstr "定位點"
+
+#: ../../source/administrationpreferences.rst:397
+#, fuzzy
+msgid "This system preference determines how reports exported from Koha will separate data. In many cases you will be able to change this option when exporting if you'd like."
+msgstr "此偏好決定匯出報表的區隔符號。使用者可能指定區隔的符號。"
+
+#: ../../source/administrationpreferences.rst:404
+msgid "EmailOverduesNoEmail"
+msgstr ""
+
+#: ../../source/administrationpreferences.rst:406
+#, fuzzy
+msgid "Default: don't send"
+msgstr "預設值：不用"
+
+#: ../../source/administrationpreferences.rst:408
+msgid "Asks: \\_\\_\\_  overdue notices for patrons without email address to staff."
+msgstr ""
+
+#: ../../source/administrationpreferences.rst:412
+#, fuzzy
+msgid "Don't send"
+msgstr "不共享"
+
+#: ../../source/administrationpreferences.rst:414
+msgid "Send"
+msgstr ""
+
+#: ../../source/administrationpreferences.rst:418
+#, fuzzy
+msgid "If this system preference is enabled, overdue notices for patrons without an email address will be sent to staff."
+msgstr "這個偏好控制沒有電子郵件地址的讀者的逾期郵件匯總寄送到哪裡。"
+
+#: ../../source/administrationpreferences.rst:423
+msgid "KohaAdminEmailAddress"
+msgstr "KohaAdminEmailAddress"
+
+#: ../../source/administrationpreferences.rst:425
+#, fuzzy
+msgid "This is the default 'From' address for emails unless there is one for the particular library, and is referred to when an internal error occurs."
+msgstr "發生錯誤時，此為預設的 '寄件人' 信箱，可以指定其他的電子郵件信箱供其他分館使用。"
+
+#: ../../source/administrationpreferences.rst:428
+msgid "Asks: Use \\_\\_\\_ as the email address for the administrator of Koha."
+msgstr "詢問：以 \\_\\_\\_ 為Koha管理者的電子郵件信箱。"
+
+#: ../../source/administrationpreferences.rst:432
+#, fuzzy
+msgid "This system preference allows one email address to be used in warning messages set to the OPAC. If no email address is set for the library this address will receive messages from patrons regarding modification requests, purchase suggestions, and questions or information regarding overdue notices. It is recommended that a email address that can be accessed by multiple staff members be used for this purpose so that if one librarian is out the others can address these requests. This email address can be changed when needed."
+msgstr "此偏好指定的電子郵件信箱係供 OPAC 的警示訊息之用。若沒有為個別分館指定電子郵件信箱，則此電子郵件信箱供各分館接收讀者的修訂請求、採訪建議、逾期的詢問與資訊。建議使用一個公務電子郵件信箱，當館員休假時，其他同仁可以接手業務。隨時可改變此偏好的電子郵件信箱。"
+
+#: ../../source/administrationpreferences.rst:444
+msgid "noItemTypeImages"
+msgstr "noItemTypeImages"
+
+#: ../../source/administrationpreferences.rst:446
+#, fuzzy
+msgid "Asks: \\_\\_\\_ itemtype icons in the staff interface."
+msgstr "詢問：在館員介面中顯示館藏類型圖示：\\_\\_\\_"
+
+#: ../../source/administrationpreferences.rst:448
+#, fuzzy
+msgid "Default: Show"
+msgstr "預設值：否"
+
+#: ../../source/administrationpreferences.rst:452
+#, fuzzy
+msgid "Don't show"
+msgstr "不共享"
+
+#: ../../source/administrationpreferences.rst:454
+msgid "Show"
+msgstr ""
+
+#: ../../source/administrationpreferences.rst:458
+#, fuzzy
+msgid "This system preference allows the system administrator to determine if users will be able to set and see an item type icon in the catalog in the staff interface."
+msgstr "這個偏好允許系統管理員決定用戶是否能夠在館員介面的目錄中設定並看到館藏類型圖標。"
+
+#: ../../source/administrationpreferences.rst:461
+msgid "If images of item types are disabled, text labels for item types will still appear in the staff interface."
+msgstr "如果館藏類型的圖像被禁用，館藏類型的文字標籤仍會出現在館員介面。"
+
+#: ../../source/administrationpreferences.rst:464
+#, fuzzy
+msgid "The :ref:`OpacNoItemTypeImages <OpacNoItemTypeImages-label>` system preference is used to show or hide the itemtype images in the OPAC."
+msgstr "The :ref:`OpacNoItemTypeImages`系統偏好用於顯示或隱藏OPAC中的類型圖片。"
+
+#: ../../source/administrationpreferences.rst:470
+msgid "ReplytoDefault"
+msgstr "ReplytoDefault"
+
+#: ../../source/administrationpreferences.rst:472
+msgid "Asks: Use \\_\\_\\_ as the email address that will be set as the replyto in emails"
+msgstr "詢問：使用 \\_\\_\\_ 為電子郵件帳號做為回信之用"
+
+#: ../../source/administrationpreferences.rst:477
+msgid "By default replies to notice emails will go to the `library email address <#libraries-groups>`__, if you would like to specify a default email address for all replies to notices you can do that here."
+msgstr "通知信的預設回覆電子郵件信箱是 `圖書館電子郵件信箱 <#libraries-groups>`__，可以在這裡設定回覆的電子郵件信箱。"
+
+#: ../../source/administrationpreferences.rst:484
+msgid "ReturnpathDefault"
+msgstr "ReturnpathDefault"
+
+#: ../../source/administrationpreferences.rst:486
+msgid "Asks: Use \\_\\_\\_ as the email address set as the return path, if you leave this empty the KohaAdminEmailAddress will be used."
+msgstr "詢問：使用 \\_\\_\\_ 做為回覆的電子郵件，若空白則使用 KohaAdminEmailAddress。"
+
+#: ../../source/administrationpreferences.rst:491
+#, fuzzy
+msgid "The return path is the email address that bounces will be delivered to. By default bounced notices will go to the `library email address <#libraries-groups>`__, if you would like to specify a default email address for bounces to go to then fill in this system preference."
+msgstr "回信地址是自動彈出。預設至 `圖書館電子郵件地址 <#libraries-groups>`__，在此偏好填入預期的電子郵件地址。"
+
+#: ../../source/administrationpreferences.rst:499
+msgid "SendAllEmailsTo"
+msgstr "SendAllEmailsTo"
+
+#: ../../source/administrationpreferences.rst:501
+msgid "Asks: Email to redirect all messages to: \\_\\_\\_ (Leave this field empty to send messages to their normal recipient)"
+msgstr "詢問：所有訊息以電子郵件轉送至：\\_\\_\\_ (此欄位空白則送至正常的收件人)"
+
+#: ../../source/administrationpreferences.rst:506
+msgid "This system preference is used to override any patron email address with this one when sending notices. This is meant to be used in a testing environment to test notices and to avoid spamming patrons."
+msgstr "以此系統偏好的設定取代讀者原來的電子郵件，發送各種通知。在測試環境中使用它，以免寄出垃圾郵件。"
+
+#: ../../source/administrationpreferences.rst:510
+#: ../../source/administrationpreferences.rst:664
+#: ../../source/administrationpreferences.rst:688
+#: ../../source/administrationpreferences.rst:808
+#: ../../source/administrationpreferences.rst:862
+#: ../../source/administrationpreferences.rst:908
+#: ../../source/administrationpreferences.rst:928
+msgid "**Important**"
+msgstr "**重要的**"
+
+#: ../../source/administrationpreferences.rst:512
+msgid "This is not to be used in a production environment. Otherwise, no patron will receive their intended notices."
+msgstr "不在正式的環境中運作。否則，沒有讀者會收到預期的通知。"
+
+#: ../../source/administrationpreferences.rst:518
+msgid "virtualshelves"
+msgstr "virtualshelves"
+
+#: ../../source/administrationpreferences.rst:520
+msgid "Default: Allow"
+msgstr "預設值：允許"
+
+#: ../../source/administrationpreferences.rst:522
+msgid "Asks: \\_\\_\\_ staff and patrons to create and view saved lists of books."
+msgstr "詢問： \\_\\_\\_ 館員與讀者新增與檢視儲存的虛擬書架。"
+
+#: ../../source/administrationpreferences.rst:532
+#, fuzzy
+msgid "This system preference controls whether the lists functionality will be available in the staff interface and OPAC. If this is set to \"Don't allow\" then no one will be able to save items to public or private lists."
+msgstr "此偏好控制虛擬書架在館員介面與 OPAC 的運作。若設定為 \"不允許\" 則任何人都不能把館藏設為公共或私人虛擬書架。"
+
+#: ../../source/administrationpreferences.rst:540
+msgid "Login options"
+msgstr "登入選項"
+
+#: ../../source/administrationpreferences.rst:542
+msgid "These preferences are related to logging into your Koha system"
+msgstr "此偏好與登入 Koha 系統有關"
+
+#: ../../source/administrationpreferences.rst:547
+msgid "AutoLocation"
+msgstr "AutoLocation"
+
+#: ../../source/administrationpreferences.rst:549
+msgid "Default: Don't require"
+msgstr "預設值：非必須"
+
+#: ../../source/administrationpreferences.rst:551
+msgid "Asks: \\_\\_\\_ staff to log in from a computer in the IP address range specified by their library (if any)."
+msgstr "詢問：館員 \\_\\_\\_ 由指定的 IP 位址範圍內登入。"
+
+#: ../../source/administrationpreferences.rst:554
+msgid "Set IP address range in the library administration area"
+msgstr "從圖書館管理區塊設定 IP 位址範圍"
+
+#: ../../source/administrationpreferences.rst:556
+msgid "*Get there:* More > Administration > Basic Parameters > :ref:`Libraries <libraries-label>`"
+msgstr "*到那裡：* 更多 > 管理 > 基本參數 > :ref:`圖書館 <libraries-label>`"
+
+#: ../../source/administrationpreferences.rst:560
+msgid "Don't require"
+msgstr "非必須"
+
+#: ../../source/administrationpreferences.rst:562
+msgid "Require"
+msgstr "必須"
+
+#: ../../source/administrationpreferences.rst:566
+#, fuzzy
+msgid "This system preference protects the system by blocking unauthorized users from accessing the staff interface program and settings. Authorized and unauthorized users are determined by their computer's IP addresses. When the preference is set to 'Require', IP authorization is in effect and unauthorized IP addresses will be blocked. This means that staff cannot work from home unless their IP address has been authorized. When set to 'Don't require', anyone with a staff interface login will have access no matter which IP address they are using."
+msgstr "此偏好阻止未授權者進入館員介面與更改設定。由使用者的 IP 位址判斷是否取得授權。設定為 '必須'，只能從指定的 IP 位址登入。館員也受限不能從其他地方登入。設定為 '不必須'，可以從任何地方以帳號密碼登入。"
+
+#: ../../source/administrationpreferences.rst:578
+msgid "IndependentBranches"
+msgstr "IndependentBranches"
+
+#: ../../source/administrationpreferences.rst:580
+msgid "Asks: Prevent staff (but not superlibrarians) from modifying objects (holds, items, patrons, etc.) belonging to other libraries: \\_\\_\\_"
+msgstr "詢問: 避免館員 (不含超級館員) 修改屬於其他圖書館的物件 (預約、館藏、讀者等)：\\_\\_\\_"
+
+#: ../../source/administrationpreferences.rst:593
+#, fuzzy
+msgid "This system preference should only be used by library systems which are sharing a single Koha installation among multiple branches but are considered independent organizations, meaning they do not share material or patrons with other branches and do not plan to change that in the future. If set to 'Yes' it increases the security between library branches by:"
+msgstr "這個偏好只適用於在多個分館之間共享一個Koha安裝，但被認為是獨立組織的圖書館系統，這意味著他們不與其他分館共享資料或讀者，並且不打算在未來改變這種情況。如果設定為 '是'，它會通過以下方式增加圖書館分行機構之間的安全性:"
+
+#: ../../source/administrationpreferences.rst:600
+#, fuzzy
+msgid "prohibiting staff users from logging into another library from within the staff interface,"
+msgstr "禁止館員使用者從館員介面登錄到另一個分行機構，"
+
+#: ../../source/administrationpreferences.rst:603
+#, fuzzy
+msgid "filtering out patrons from patron searches who are not a part of the login library conducting the search,"
+msgstr "從讀者搜尋中篩選掉不屬於進行搜尋登入部門的讀者，"
+
+#: ../../source/administrationpreferences.rst:606
+#, fuzzy
+msgid "limiting the location choices to the login library when adding or modifying an item record,"
+msgstr "在新增或修改館藏記錄時，將位置選擇限制在登入分行，"
+
+#: ../../source/administrationpreferences.rst:609
+#, fuzzy
+msgid "preventing users from other library locations from placing holds or checking out materials from library branches other than their own, and"
+msgstr "阻止其他分館的使用者在他們自己的分館以外的地方預約或借閱資料，以及"
+
+#: ../../source/administrationpreferences.rst:612
+msgid "preventing staff from editing item records which belong to other library branches."
+msgstr "防止館員編輯屬於其他圖書館分行機構的館藏記錄。"
+
+#: ../../source/administrationpreferences.rst:615
+msgid "All of these security safeguards can be overridden only by the superlibrarian, the highest level of privileges."
+msgstr "所有這些安全保障措施只有超級圖書館員才能推翻，這是最高級別的特權。"
+
+#: ../../source/administrationpreferences.rst:620
+msgid "It is important that this value be set before going live and that it **NOT** be changed while in production."
+msgstr "重要的是，在上線之前設定此值，並且在生產過程中**不要**更改。"
+
+#: ../../source/administrationpreferences.rst:626
+msgid "IndependentBranchesPatronModifications"
+msgstr "IndependentBranchesPatronModifications"
+
+#: ../../source/administrationpreferences.rst:630
+msgid "Asks: Prevent staff (but not superlibrarians) from viewing and approving/denying patron modification requests for patrons belonging to other libraries. \\_\\_\\_"
+msgstr "詢問：避免館員 (不含 superlibrarian) 檢視與認可/拒絕其他圖書館讀者編修的資料。\\_\\_\\_"
+
+#: ../../source/administrationpreferences.rst:643
+msgid "SessionRestrictionByIP"
+msgstr "SessionRestrictionByIP"
+
+#: ../../source/administrationpreferences.rst:645
+msgid "Default: Enable"
+msgstr "預設值：啟用"
+
+#: ../../source/administrationpreferences.rst:647
+msgid "Asks: \\_\\_\\_ check for change in remote IP address for session security. Disable only when remote IP address changes frequently."
+msgstr "詢問：基於安全理由 \\_\\_\\_ 檢查遠端 IP 位址的改變。經常改變遠端 IP 位址時才停用它。"
+
+#: ../../source/administrationpreferences.rst:652
+msgid "Disable"
+msgstr "停用"
+
+#: ../../source/administrationpreferences.rst:654
+msgid "Enable"
+msgstr "啟用"
+
+#: ../../source/administrationpreferences.rst:658
+#, fuzzy
+msgid "When this system preference is set to 'Enable' Koha will log you out of the staff interface if your IP address changes as a security measure. For some systems the IP address changes frequently so you'll want to set this system preference to 'Disable' to prevent Koha from logging you out of the staff interface every time that happens."
+msgstr "此偏好設為 '啟用' 後將基於安全理強制登出變更 IP 位址的館員。經常變更 IP 位址的系統可將此偏好設為 '停用' 避免強制登出變更 IP 位址的館員。"
+
+#: ../../source/administrationpreferences.rst:666
+#, fuzzy
+msgid "This is meant to help those whose IP address changes several times during the day, setting this system preference to 'Disable' is not recommended otherwise because it is removing important security features from your staff interface."
+msgstr "協助那些改變多次 IP 位址的人，不建議設定此偏好為 '停用' 因為將移除重要的安全機制。"
+
+#: ../../source/administrationpreferences.rst:674
+msgid "SessionStorage"
+msgstr "SessionStorage"
+
+#: ../../source/administrationpreferences.rst:676
+msgid "Default: in the MySQL database"
+msgstr "預設值：在 MySQL 資料庫裡"
+
+#: ../../source/administrationpreferences.rst:678
+msgid "Asks: Store login session information \\_\\_\\_"
+msgstr "詢問： 儲存登入資訊在 \\_\\_\\_"
+
+#: ../../source/administrationpreferences.rst:682
+msgid "as temporary files"
+msgstr "暫存檔"
+
+#: ../../source/administrationpreferences.rst:684
+msgid "in the MySQL database"
+msgstr "在 MySQL 資料庫中"
+
+#: ../../source/administrationpreferences.rst:686
+msgid "in the PostgreSQL database"
+msgstr "在 PostgreSQL 資料庫中"
+
+#: ../../source/administrationpreferences.rst:690
+msgid "PostgreSQL is not yet supported"
+msgstr "Koha 還不支援 PostgreSQL"
+
+#: ../../source/administrationpreferences.rst:694
+#, fuzzy
+msgid "This system preference allows administrators to choose what format session data is stored in during web sessions."
+msgstr "此偏好允許管理者選擇網頁階段資料儲存的位置。"
+
+#: ../../source/administrationpreferences.rst:700
+msgid "timeout"
+msgstr "暫停"
+
+#: ../../source/administrationpreferences.rst:702
+msgid "Default: 12000000"
+msgstr "預設值：12000000"
+
+#: ../../source/administrationpreferences.rst:704
+msgid "Asks: Automatically log out users after \\_\\_\\_ seconds of inactivity."
+msgstr "詢問： 經過 \\_\\_\\_ 毫秒後沒有動靜後自動登出。"
+
+#: ../../source/administrationpreferences.rst:708
+#, fuzzy
+msgid "This system preference sets the length of time the staff interface or OPAC accounts can be left inactive before re-logging in is necessary. The value of this system preference is in seconds. At this time, the amount of time before a session times out must be the same for both the Staff Client and the OPAC."
+msgstr "此偏好設定館員介面與 OPAC 帳號閒置的最長時間。以毫秒為單位。過了這段時間 Koha 強制登出館員介面與 OPAC 的現有帳號。"
+
+#: ../../source/administrationpreferences.rst:717
+msgid "SSL client certificate authentication"
+msgstr "SSL 客戶端認證欄位"
+
+#: ../../source/administrationpreferences.rst:722
+msgid "AllowPKIAuth"
+msgstr "AllowPKIAuth"
+
+#: ../../source/administrationpreferences.rst:724
+msgid "Default: no"
+msgstr "預設值：否"
+
+#: ../../source/administrationpreferences.rst:726
+msgid "Asks: Use \\_\\_\\_ field for SSL client certificate authentication"
+msgstr "詢問： 使用 \\_\\_\\_ SSL客戶端認證欄位"
+
+#: ../../source/administrationpreferences.rst:730
+msgid "no"
+msgstr "無"
+
+#: ../../source/administrationpreferences.rst:732
+msgid "the common name"
+msgstr "共同名稱"
+
+#: ../../source/administrationpreferences.rst:734
+msgid "the email address"
+msgstr "電子郵件"
+
+#: ../../source/administrationpreferences.rst:738
+#, fuzzy
+msgid "System preferences"
+msgstr "系統偏好"
+
+#: ../../source/administrationpreferences.rst:740
+msgid "UnsubscribeReflectionDelay, PatronAnonymizeDelay & Patron Removal Delay"
+msgstr "UnsubscribeReflectionDelay, PatronAnonymizeDelay 以及讀者移除延遲"
+
+#: ../../source/administrationpreferences.rst:742
+msgid "This is a new feature that allows you to set a certain amount of days after a patron has submitted an unsubscribe request(refused consent), anonymize accounts that are locked/expired and remove anonymized patrons."
+msgstr "這是一個新功能，允許你在讀者提交退訂請求（拒絕同意）後設定一定的天數，對鎖定/過期的帳戶進行匿名處理，並刪除匿名的讀者。"
+
+#: ../../source/administrationpreferences.rst:747
+msgid "SearchEngine"
+msgstr "SearchEngine"
+
+#: ../../source/administrationpreferences.rst:749
+msgid "Default: Zebra"
+msgstr "預設值：Zebra"
+
+#: ../../source/administrationpreferences.rst:751
+msgid "Asks: Use following search engine: \\_\\_\\_"
+msgstr "詢問：使用以下的搜尋引擎：\\_\\_\\_"
+
+#: ../../source/administrationpreferences.rst:755
+msgid "Elasticsearch"
+msgstr "Elasticsearch"
+
+#: ../../source/administrationpreferences.rst:757
+msgid "Zebra"
+msgstr "Zebra"
+
+#: ../../source/administrationpreferences.rst:762
+msgid "Share anonymous usage statistics"
+msgstr "共享匿名的使用統計"
+
+#: ../../source/administrationpreferences.rst:764
+#, fuzzy
+msgid "As an open source project Koha is used all over the world. These preference will help us keep more accurate statistics on where Koha is being used. If you choose to share your information, it will be published on the `Hea Koha community website <http://hea.koha-community.org>`__. You will need to enable the :ref:`share usage stats <cron-share-usage-stats-label>` cronjob to send this information at regular intervals to the community."
+msgstr "Koha 是世界性的自由軟體計畫。此偏好讓我們掌握更精準的使用者統計資料。若選擇共享您的資訊，將出版至 `Hea Koha 社群網站 <http://hea.koha-community.org>`。您需啟動 :ref:`共享使用統計` 工作排程定期送出您的資料。"
+
+#: ../../source/administrationpreferences.rst:775
+msgid "UsageStats"
+msgstr "UsageStats"
+
+#: ../../source/administrationpreferences.rst:777
+msgid "Default: Don't share"
+msgstr "預設：不共享"
+
+#: ../../source/administrationpreferences.rst:779
+msgid "Asks: \\_\\_\\_ anonymous Koha usage data with the Koha community."
+msgstr "詢問：\\_\\_\\_ 匿名的 Koha 使用資料給 Koha 社群。"
+
+#: ../../source/administrationpreferences.rst:783
+msgid "Don't share"
+msgstr "不共享"
+
+#: ../../source/administrationpreferences.rst:785
+#: ../../source/administrationpreferences.rst:845
+msgid "Share"
+msgstr "分享"
+
+#: ../../source/administrationpreferences.rst:789
+#: ../../source/administrationpreferences.rst:803
+#: ../../source/administrationpreferences.rst:903
+#: ../../source/administrationpreferences.rst:923
+#, fuzzy
+msgid "This data is stored to help track usage of Koha around the world. If you choose to share your information, it will be published on the `Hea Koha community website <http://hea.koha-community.org>`__. This information is sent using the :ref:`share usage stats <cron-share-usage-stats-label>` cronjob."
+msgstr "此資料儲存於全球 Koha 說明內。若選擇共享您的資料，將出版在 `Hea Koha 社群網站 <http://hea.koha-community.org>`__。以 :ref:`共享使用統計` 工作排程送出該等資訊。"
+
+#: ../../source/administrationpreferences.rst:797
+msgid "UsageStatsCountry"
+msgstr "UsageStatsCountry"
+
+#: ../../source/administrationpreferences.rst:799
+msgid "Asks: The country where your library is located: \\_\\_\\_"
+msgstr "詢問：圖書館位於：\\_\\_\\_"
+
+#: ../../source/administrationpreferences.rst:810
+#: ../../source/administrationpreferences.rst:910
+#: ../../source/administrationpreferences.rst:930
+#, fuzzy
+msgid "This system preference depends on the `UsageStats <#usagestats>`__ preference. Set that to 'Share' to share your information."
+msgstr "此偏好相依於 `UsageStats <#usagestats>`__ 偏好。設定為 '共享' 就和其他人共享您的資訊。"
+
+#: ../../source/administrationpreferences.rst:816
+msgid "UsageStatsGeolocation"
+msgstr "UsageStatsGeolocation"
+
+#: ../../source/administrationpreferences.rst:818
+msgid "Asks: Geolocation of the main library: \\_\\_\\_"
+msgstr "詢問：主要圖書館的地理位置：\\_\\_\\_"
+
+#: ../../source/administrationpreferences.rst:820
+msgid "Default: blank"
+msgstr "預設值：空白"
+
+#: ../../source/administrationpreferences.rst:824
+#, fuzzy
+msgid "Note that this value has no effect if the :ref:`UsageStats <UsageStats-label>` system preference is set to 'Don't share'."
+msgstr "注意，如果 :ref:`UsageStats`系統偏好設定為'不共享'，這個值就沒有作用。"
+
+#: ../../source/administrationpreferences.rst:827
+msgid "The information in this system preference is populated by the geolocation information on the :ref:`usage statistics administration page<share-your-usage-statistics-label>`."
+msgstr "這個系統偏好中的訊息是由 :ref:`使用統計管理頁<share-your-use-statistics-label>`上的地理位置訊息來填充的。"
+
+#: ../../source/administrationpreferences.rst:833
+msgid "UsageStatsLibrariesInfo"
+msgstr "UsageStatsLibrariesInfo"
+
+#: ../../source/administrationpreferences.rst:835
+msgid "Default: Do not Share"
+msgstr "預設值：不共享"
+
+#: ../../source/administrationpreferences.rst:837
+#, fuzzy
+msgid "Asks: \\_\\_\\_ libraries information (name, url, country) Note that this value has no effect if the :ref:`UsageStats <UsageStats-label>` system preference is set to \"Don't share\""
+msgstr "詢問：\\_\\_\\_ 圖書館資訊 (名稱、網址、國家) 說明：若 ref`UsageStats` 系統偏好設為 \"不共享\"，則此值無作用"
+
+#: ../../source/administrationpreferences.rst:843
+msgid "Do not Share"
+msgstr "不要共享"
+
+#: ../../source/administrationpreferences.rst:850
+msgid "UsageStatsLibraryName"
+msgstr "UsageStatsLibraryName"
+
+#: ../../source/administrationpreferences.rst:852
+msgid "Asks: The library name \\_\\_\\_ will be shown on the `Hea Koha community website <http://hea.koha-community.org>`__."
+msgstr "詢問：圖書館名稱 \\_\\_\\_ 將顯示在 `Hea Koha 社群網站 <http://hea.koha-community.org>`__。"
+
+#: ../../source/administrationpreferences.rst:857
+#, fuzzy
+msgid "This data is stored to help track usage of Koha around the world. If you choose to share your information, it will be published on the `Hea Koha community website <http://hea.koha-community.org>`__. This information is sent using the :ref:`share usage stats <cron-share-usage-stats-label>` cron job."
+msgstr "此資料儲存於全球 Koha 說明內。若選擇共享您的資料，將出版在 `Hea Koha 社群網站 <http://hea.koha-community.org>`__。以 :ref:`共享使用統計` 工作排程送出該等資訊。"
+
+#: ../../source/administrationpreferences.rst:864
+#, fuzzy
+msgid "This system preference depends on the `UsageStats <#usagestats>`__ preference. Set that to 'Share' to share your information. If this field is empty data will be sent anonymously if you choose 'Share' for the `UsageStats <#usagestats>`__ preference."
+msgstr "這個偏好取決於`UsageStats <#usagestats>`__偏好。將其設定為 '分享' 以分享你的訊息。如果這個欄位是空的，如果你在`UsageStats <#usagestats>`__偏好中選擇'共享'，數據將被匿名發送。"
+
+#: ../../source/administrationpreferences.rst:872
+msgid "UsageStatsLibraryType"
+msgstr "UsageStatsLibraryType"
+
+#: ../../source/administrationpreferences.rst:874
+msgid "Default: public"
+msgstr "預設：公開"
+
+#: ../../source/administrationpreferences.rst:876
+msgid "Asks: The library type \\_\\_\\_ will be shown on the `Hea Koha community website <http://hea.koha-community.org>`__."
+msgstr "詢問：圖書館類型 \\_\\_\\_ 將顯示在 `Hea Koha 社群網站 <http://hea.koha-community.org>`__。"
+
+#: ../../source/administrationpreferences.rst:881
+msgid "academic"
+msgstr "學術的"
+
+#: ../../source/administrationpreferences.rst:883
+msgid "corporate"
+msgstr "合作"
+
+#: ../../source/administrationpreferences.rst:885
+msgid "government"
+msgstr "政府"
+
+#: ../../source/administrationpreferences.rst:887
+msgid "private"
+msgstr "私人"
+
+#: ../../source/administrationpreferences.rst:889
+msgid "public"
+msgstr "公用"
+
+#: ../../source/administrationpreferences.rst:891
+msgid "religious organization"
+msgstr "宗教組織"
+
+#: ../../source/administrationpreferences.rst:893
+msgid "research"
+msgstr "搜尋"
+
+#: ../../source/administrationpreferences.rst:895
+msgid "school"
+msgstr "學校"
+
+#: ../../source/administrationpreferences.rst:897
+msgid "society or association"
+msgstr "學會或社團"
+
+#: ../../source/administrationpreferences.rst:899
+msgid "subscription"
+msgstr "訂閱"
+
+#: ../../source/administrationpreferences.rst:916
+msgid "UsageStatsLibraryUrl"
+msgstr "UsageStatsLibraryUrl"
+
+#: ../../source/administrationpreferences.rst:918
+msgid "Asks: The library URL \\_\\_\\_ will be shown on the `Hea Koha community website <http://hea.koha-community.org>`__."
+msgstr "詢問：圖書館 URL \\_\\_\\_ 將顯示在 `Hea Koha 社群網站 <http://hea.koha-community.org>`__。"
+
+#: ../../source/images.rst:2831
+msgid "image5"
+msgstr ""
+
+#: ../../source/images.rst:2832
+msgid "image6"
+msgstr ""
+
+#: ../../source/images.rst:2833
+msgid "image7"
+msgstr ""
+
+#: ../../source/images.rst:2834
+msgid "image8"
+msgstr ""
+
+#: ../../source/images.rst:2835
+msgid "image9"
+msgstr ""
+
+#: ../../source/images.rst:2836
+msgid "image10"
+msgstr ""
+
+#: ../../source/images.rst:2837
+msgid "image11"
+msgstr ""
+
+#: ../../source/images.rst:2838
+msgid "image12"
+msgstr ""
+
+#: ../../source/images.rst:3394
+msgid "image1179"
+msgstr ""

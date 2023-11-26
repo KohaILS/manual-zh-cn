@@ -1,0 +1,1618 @@
+# Chinese translations for Koha Manual package.
+# Copyright (C) 2020, Koha Community
+# This file is distributed under the same license as the Koha Manual package.
+# Automatically generated, 2021.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Koha Manual 22.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-10-26 13:37+0000\n"
+"PO-Revision-Date: 2023-03-30 11:28+0000\n"
+"Last-Translator: Frank Chou <frank@sris.com.tw>\n"
+"Language-Team: none\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pootle 2.8\n"
+"X-Pootle-Path: /zh_TW/manual22.11/enhancedcontentpreferences.po\n"
+"X-Pootle-Revision: 1\n"
+"X-POOTLE-MTIME: 1680175699.530521\n"
+
+#: ../../source/enhancedcontentpreferences.rst:6
+msgid "Enhanced content"
+msgstr "強化內容"
+
+#: ../../source/enhancedcontentpreferences.rst:8
+msgid "*Get there:* More > Administration > Global system preferences > Enhanced content"
+msgstr "*到那裡：* 更多 > 管理 > 整體系統偏好 > 強化內容"
+
+#: ../../source/enhancedcontentpreferences.rst:11
+#: ../../source/enhancedcontentpreferences.rst:66
+#: ../../source/enhancedcontentpreferences.rst:112
+#: ../../source/enhancedcontentpreferences.rst:289
+#: ../../source/enhancedcontentpreferences.rst:329
+#: ../../source/enhancedcontentpreferences.rst:361
+#: ../../source/enhancedcontentpreferences.rst:387
+#: ../../source/enhancedcontentpreferences.rst:432
+#: ../../source/enhancedcontentpreferences.rst:557
+#: ../../source/enhancedcontentpreferences.rst:612
+#: ../../source/enhancedcontentpreferences.rst:684
+#: ../../source/enhancedcontentpreferences.rst:689
+#: ../../source/enhancedcontentpreferences.rst:909
+#: ../../source/enhancedcontentpreferences.rst:932
+#: ../../source/enhancedcontentpreferences.rst:950
+#: ../../source/enhancedcontentpreferences.rst:1284
+#: ../../source/enhancedcontentpreferences.rst:1353
+#: ../../source/enhancedcontentpreferences.rst:1377
+msgid "**Important**"
+msgstr "**重要**"
+
+#: ../../source/enhancedcontentpreferences.rst:13
+msgid "Always read the terms of service associated with external data sources to be sure that you are using the products within the allowed limits."
+msgstr "注意外部資料來源的服務條款，確認在正確的授權範圍內使用它們。"
+
+#: ../../source/enhancedcontentpreferences.rst:17
+#: ../../source/enhancedcontentpreferences.rst:129
+#: ../../source/enhancedcontentpreferences.rst:325
+#: ../../source/enhancedcontentpreferences.rst:990
+#: ../../source/enhancedcontentpreferences.rst:1653
+#: ../../source/enhancedcontentpreferences.rst:1666
+msgid "**Note**"
+msgstr "**注意**"
+
+#: ../../source/enhancedcontentpreferences.rst:19
+msgid "You cannot have more than one service for cover images (including local cover images) set up. If you set up more than one you will get multiple cover images. Instead choose only one source for cover images."
+msgstr "不能使用多個封面服務 (包括在地服務)。若設定多個服務將形成重複封面。只能選一個封面來源。"
+
+#: ../../source/enhancedcontentpreferences.rst:27
+msgid "All"
+msgstr "全部"
+
+#: ../../source/enhancedcontentpreferences.rst:32
+msgid "FRBRizeEditions"
+msgstr "FRBRizeEditions"
+
+#: ../../source/enhancedcontentpreferences.rst:34
+#: ../../source/enhancedcontentpreferences.rst:76
+#: ../../source/enhancedcontentpreferences.rst:153
+#: ../../source/enhancedcontentpreferences.rst:207
+#: ../../source/enhancedcontentpreferences.rst:592
+#: ../../source/enhancedcontentpreferences.rst:734
+#: ../../source/enhancedcontentpreferences.rst:757
+#: ../../source/enhancedcontentpreferences.rst:805
+#: ../../source/enhancedcontentpreferences.rst:834
+#: ../../source/enhancedcontentpreferences.rst:1077
+#: ../../source/enhancedcontentpreferences.rst:1210
+#: ../../source/enhancedcontentpreferences.rst:1238
+#: ../../source/enhancedcontentpreferences.rst:1333
+#: ../../source/enhancedcontentpreferences.rst:1388
+#: ../../source/enhancedcontentpreferences.rst:1415
+#: ../../source/enhancedcontentpreferences.rst:1443
+#: ../../source/enhancedcontentpreferences.rst:1469
+#: ../../source/enhancedcontentpreferences.rst:1494
+msgid "Default: Don't show"
+msgstr "預設值：不顯示"
+
+#: ../../source/enhancedcontentpreferences.rst:36
+msgid "Asks: \\_\\_\\_ other editions of an item on the staff client"
+msgstr "詢問：在館員介面 \\_\\_\\_ 館藏的其他版本"
+
+#: ../../source/enhancedcontentpreferences.rst:38
+#: ../../source/enhancedcontentpreferences.rst:100
+#: ../../source/enhancedcontentpreferences.rst:158
+#: ../../source/enhancedcontentpreferences.rst:212
+#: ../../source/enhancedcontentpreferences.rst:260
+#: ../../source/enhancedcontentpreferences.rst:345
+#: ../../source/enhancedcontentpreferences.rst:410
+#: ../../source/enhancedcontentpreferences.rst:459
+#: ../../source/enhancedcontentpreferences.rst:489
+#: ../../source/enhancedcontentpreferences.rst:517
+#: ../../source/enhancedcontentpreferences.rst:564
+#: ../../source/enhancedcontentpreferences.rst:597
+#: ../../source/enhancedcontentpreferences.rst:646
+#: ../../source/enhancedcontentpreferences.rst:670
+#: ../../source/enhancedcontentpreferences.rst:709
+#: ../../source/enhancedcontentpreferences.rst:736
+#: ../../source/enhancedcontentpreferences.rst:759
+#: ../../source/enhancedcontentpreferences.rst:807
+#: ../../source/enhancedcontentpreferences.rst:836
+#: ../../source/enhancedcontentpreferences.rst:926
+#: ../../source/enhancedcontentpreferences.rst:971
+#: ../../source/enhancedcontentpreferences.rst:1003
+#: ../../source/enhancedcontentpreferences.rst:1034
+#: ../../source/enhancedcontentpreferences.rst:1059
+#: ../../source/enhancedcontentpreferences.rst:1081
+#: ../../source/enhancedcontentpreferences.rst:1115
+#: ../../source/enhancedcontentpreferences.rst:1215
+#: ../../source/enhancedcontentpreferences.rst:1243
+#: ../../source/enhancedcontentpreferences.rst:1347
+#: ../../source/enhancedcontentpreferences.rst:1367
+#: ../../source/enhancedcontentpreferences.rst:1393
+#: ../../source/enhancedcontentpreferences.rst:1420
+#: ../../source/enhancedcontentpreferences.rst:1448
+#: ../../source/enhancedcontentpreferences.rst:1474
+#: ../../source/enhancedcontentpreferences.rst:1499
+#: ../../source/enhancedcontentpreferences.rst:1532
+#: ../../source/enhancedcontentpreferences.rst:1577
+#: ../../source/enhancedcontentpreferences.rst:1594
+#: ../../source/enhancedcontentpreferences.rst:1623
+msgid "Values:"
+msgstr "值:"
+
+#: ../../source/enhancedcontentpreferences.rst:40
+#: ../../source/enhancedcontentpreferences.rst:102
+#: ../../source/enhancedcontentpreferences.rst:160
+#: ../../source/enhancedcontentpreferences.rst:214
+#: ../../source/enhancedcontentpreferences.rst:599
+#: ../../source/enhancedcontentpreferences.rst:738
+#: ../../source/enhancedcontentpreferences.rst:761
+#: ../../source/enhancedcontentpreferences.rst:809
+#: ../../source/enhancedcontentpreferences.rst:838
+#: ../../source/enhancedcontentpreferences.rst:1083
+#: ../../source/enhancedcontentpreferences.rst:1217
+#: ../../source/enhancedcontentpreferences.rst:1245
+#: ../../source/enhancedcontentpreferences.rst:1318
+#: ../../source/enhancedcontentpreferences.rst:1349
+#: ../../source/enhancedcontentpreferences.rst:1395
+#: ../../source/enhancedcontentpreferences.rst:1422
+#: ../../source/enhancedcontentpreferences.rst:1450
+#: ../../source/enhancedcontentpreferences.rst:1476
+#: ../../source/enhancedcontentpreferences.rst:1501
+msgid "Don't show"
+msgstr "不顯示"
+
+#: ../../source/enhancedcontentpreferences.rst:42
+#: ../../source/enhancedcontentpreferences.rst:104
+#: ../../source/enhancedcontentpreferences.rst:162
+#: ../../source/enhancedcontentpreferences.rst:216
+#: ../../source/enhancedcontentpreferences.rst:601
+#: ../../source/enhancedcontentpreferences.rst:740
+#: ../../source/enhancedcontentpreferences.rst:763
+#: ../../source/enhancedcontentpreferences.rst:811
+#: ../../source/enhancedcontentpreferences.rst:840
+#: ../../source/enhancedcontentpreferences.rst:1085
+#: ../../source/enhancedcontentpreferences.rst:1219
+#: ../../source/enhancedcontentpreferences.rst:1247
+#: ../../source/enhancedcontentpreferences.rst:1320
+#: ../../source/enhancedcontentpreferences.rst:1351
+#: ../../source/enhancedcontentpreferences.rst:1397
+#: ../../source/enhancedcontentpreferences.rst:1424
+#: ../../source/enhancedcontentpreferences.rst:1452
+#: ../../source/enhancedcontentpreferences.rst:1478
+#: ../../source/enhancedcontentpreferences.rst:1503
+msgid "Show"
+msgstr "顯示"
+
+#: ../../source/enhancedcontentpreferences.rst:44
+msgid "|image46|"
+msgstr ""
+
+#: ../../source/enhancedcontentpreferences.rst:46
+#: ../../source/enhancedcontentpreferences.rst:80
+#: ../../source/enhancedcontentpreferences.rst:134
+#: ../../source/enhancedcontentpreferences.rst:164
+#: ../../source/enhancedcontentpreferences.rst:218
+#: ../../source/enhancedcontentpreferences.rst:246
+#: ../../source/enhancedcontentpreferences.rst:302
+#: ../../source/enhancedcontentpreferences.rst:351
+#: ../../source/enhancedcontentpreferences.rst:416
+#: ../../source/enhancedcontentpreferences.rst:447
+#: ../../source/enhancedcontentpreferences.rst:469
+#: ../../source/enhancedcontentpreferences.rst:495
+#: ../../source/enhancedcontentpreferences.rst:531
+#: ../../source/enhancedcontentpreferences.rst:546
+#: ../../source/enhancedcontentpreferences.rst:570
+#: ../../source/enhancedcontentpreferences.rst:603
+#: ../../source/enhancedcontentpreferences.rst:624
+#: ../../source/enhancedcontentpreferences.rst:652
+#: ../../source/enhancedcontentpreferences.rst:676
+#: ../../source/enhancedcontentpreferences.rst:715
+#: ../../source/enhancedcontentpreferences.rst:742
+#: ../../source/enhancedcontentpreferences.rst:765
+#: ../../source/enhancedcontentpreferences.rst:780
+#: ../../source/enhancedcontentpreferences.rst:813
+#: ../../source/enhancedcontentpreferences.rst:842
+#: ../../source/enhancedcontentpreferences.rst:870
+#: ../../source/enhancedcontentpreferences.rst:894
+#: ../../source/enhancedcontentpreferences.rst:937
+#: ../../source/enhancedcontentpreferences.rst:955
+#: ../../source/enhancedcontentpreferences.rst:984
+#: ../../source/enhancedcontentpreferences.rst:1020
+#: ../../source/enhancedcontentpreferences.rst:1065
+#: ../../source/enhancedcontentpreferences.rst:1129
+#: ../../source/enhancedcontentpreferences.rst:1145
+#: ../../source/enhancedcontentpreferences.rst:1170
+#: ../../source/enhancedcontentpreferences.rst:1182
+#: ../../source/enhancedcontentpreferences.rst:1193
+#: ../../source/enhancedcontentpreferences.rst:1221
+#: ../../source/enhancedcontentpreferences.rst:1249
+#: ../../source/enhancedcontentpreferences.rst:1272
+#: ../../source/enhancedcontentpreferences.rst:1338
+#: ../../source/enhancedcontentpreferences.rst:1373
+#: ../../source/enhancedcontentpreferences.rst:1399
+#: ../../source/enhancedcontentpreferences.rst:1426
+#: ../../source/enhancedcontentpreferences.rst:1454
+#: ../../source/enhancedcontentpreferences.rst:1480
+#: ../../source/enhancedcontentpreferences.rst:1505
+#: ../../source/enhancedcontentpreferences.rst:1538
+#: ../../source/enhancedcontentpreferences.rst:1554
+#: ../../source/enhancedcontentpreferences.rst:1600
+#: ../../source/enhancedcontentpreferences.rst:1629
+msgid "Description:"
+msgstr "說明："
+
+#: ../../source/enhancedcontentpreferences.rst:48
+#, fuzzy
+msgid "Using the rules set forth in the Functional Requirements for Bibliographic records, this option, when enabled, pulls all editions of the same title available in your collection regardless of material type. Items will appear under an 'Editions' tab on the detail page for the title in question.. According to *Libraries Unlimited's Online Dictionary for Library and Information Science* (http://lu.com/odlis/), FRBRizing the catalog involves collating MARC records of similar materials. FRBRization brings together entities (sets of Works, Expressions, or Manifestations), rather than just sets of Items. It can aid patrons in selecting related items, expressions, and manifestations that will serve their needs. When it is set to \"Show\", the OPAC will query one or more ISBN web services for associated ISBNs and display an Editions tab on the details pages. Once this preference is enabled, the library must select one of the ISBN options (such as :ref:`ThingISBN <ThingISBN-label>`). This option is only for the Staff Client - the :ref:`OPACFRBRizeEditions <OPACFRBRizeEditions-label>` option must be enabled to have the Editions tab appear on the OPAC."
+msgstr "使用書目記錄的功能要求中規定的規則，這個選項，當啟用時，會在你的收藏中拉出同一標題的所有版本，無論資料類型如何。館藏將出現在有關標題的詳細頁面上的 \"版本 \"標籤下。根據*圖書館無限圖書館與資訊科學在線詞典* (http://lu.com/odlis/)，FRBRizing目錄包括整理類似材料的MARC記錄。 FRBR化將實體（作品、表達方式或表現形式的集合）匯集在一起，而不僅僅是館藏的集合。它可以幫助讀者選擇能滿足他們需要的相關館藏、表達方式和表現形式。當它被設定為 \"顯示 \"時，OPAC將查詢一個或多個ISBN網絡服務的相關ISBN，並在詳情頁上顯示一個版本標籤。一旦這個偏好被啟用，圖書館必須選擇一個ISBN選項（如 :ref:`ThingISBN`）。這個選項只適用於館員客戶端-- :ref:`OPACFRBRizeEditions`選項必須被啟用，以便在OPAC上顯示版本標籤。"
+
+#: ../../source/enhancedcontentpreferences.rst:68
+#: ../../source/enhancedcontentpreferences.rst:114
+#, fuzzy
+msgid "Requires that you turn on one or more of the ISBN services (such as :ref:`ThingISBN <ThingISBN-label>`)."
+msgstr "必須選用一個或多個 ISBN 服務商 (:ref:`ThingISBN`)。"
+
+#: ../../source/enhancedcontentpreferences.rst:74
+msgid "OPACFRBRizeEditions"
+msgstr "OPACFRBRizeEditions"
+
+#: ../../source/enhancedcontentpreferences.rst:78
+msgid "Asks: \\_\\_\\_ other editions of an item on the OPAC."
+msgstr "詢問：在 OPAC \\_\\_\\_ 館藏的其他版本。"
+
+#: ../../source/enhancedcontentpreferences.rst:82
+#, fuzzy
+msgid "Using the rules set forth in the Functional Requirements for Bibliographic records, this option, when enabled, pulls all editions of the same title available in your collection regardless of material type. Items will appear under an 'Editions' tab on the detail page for the title in question.. According to *Libraries Unlimited's Online Dictionary for Library and Information Science* (http://lu.com/odlis/), FRBRizing the catalog involves collating MARC records of similar materials. FRBRization brings together entities (sets of Works, Expressions, or Manifestations), rather than just sets of Items. It can aid patrons in selecting related items, expressions, and manifestations that will serve their needs. When it is set to \"Show\", the OPAC will query one or more ISBN web services for associated ISBNs and display an Editions tab on the details pages. Once this preference is enabled, the library must select one of the ISBN options (such as :ref:`ThingISBN <ThingISBN-label>`). This option is only for the OPAC - the :ref:`FRBRizeEditions <FRBRizeEditions-label>` option must be turned \"On\" to have the Editions tab appear on the Staff Client."
+msgstr "使用書目記錄的功能要求中規定的規則，這個選項，當啟用時，會在你的收藏中拉出同一標題的所有版本，無論資料類型如何。館藏將出現在有關標題的詳細頁面上的 \"版本 \"標籤下。根據*圖書館無限圖書館與資訊科學在線詞典* (http://lu.com/odlis/)，FRBRizing目錄包括整理類似材料的MARC記錄。 FRBR化將實體（作品、表達方式或表現形式的集合）匯集在一起，而不僅僅是館藏的集合。它可以幫助讀者選擇能滿足他們需要的相關館藏、表達方式和表現形式。當它被設置為 \"顯示\" 時，OPAC將查詢一個或多個ISBN網絡服務的相關ISBN，並在詳情頁上顯示一個版本標籤。一旦這個偏好被啟用，圖書館必須選擇一個ISBN選項（如 :ref:`ThingISBN`）。這個選項只適用於OPAC-- :ref:`FRBRizeEditions`選項必須打開 \"On\"，以使Editions標籤出現在館員客戶端上。"
+
+#: ../../source/enhancedcontentpreferences.rst:106
+msgid "|image47|"
+msgstr ""
+
+#: ../../source/enhancedcontentpreferences.rst:108
+msgid "This preference pulls all editions of the same title available in your collection regardless of material type. Items will appear under an 'Editions' tab on the detail page for the title in question."
+msgstr "此偏好抓出館藏內題名相同的所有類型的各種版本。館藏將顯示在詳情頁面的 '版本' 分頁。"
+
+#: ../../source/enhancedcontentpreferences.rst:120
+msgid "Amazon"
+msgstr "Amazon"
+
+#: ../../source/enhancedcontentpreferences.rst:125
+msgid "AmazonAssocTag"
+msgstr "AmazonAssocTag"
+
+#: ../../source/enhancedcontentpreferences.rst:127
+msgid "Asks: Put the associate tag \\_\\_\\_ on links to Amazon."
+msgstr "詢問：填入亞馬遜書店的推廣帳號 \\_\\_\\_。"
+
+#: ../../source/enhancedcontentpreferences.rst:131
+msgid "This can net your library referral fees if a patron decides to buy an item after clicking through to Amazon from your site."
+msgstr "讀者從圖書館網頁點選進入亞馬遜書店購物，圖書館就能收到介紹費。"
+
+#: ../../source/enhancedcontentpreferences.rst:136
+msgid "An Amazon Associates Tag allows a library to earn a percentage of all purchases made on Amazon when a patron accesses Amazon's site via links on the library's website. More information about the Amazon Associates program is available at Amazon's Affiliate Program's website, https://affiliate-program.amazon.com/. Before a tag can be obtained, however, the library must first apply for an Amazon Web Services (AWS) account. Applications are free of charge and can be made at http://aws.amazon.com. Once an AWS account has been established, the library can then obtain the Amazon Associates Tag."
+msgstr "向亞馬遜書店取得推廣帳號後讀者就可以點選圖書館網頁裡連結進入亞馬遜書店購物讓圖書館收到介紹費。詳情見亞馬遜書店夥伴計畫網站 https://affiliate-program.amazon.com/。然而，取得推廣帳號前，必須先申請亞馬遜書店網頁服務帳號 (Amazon Web Services, AWS) http://aws.amazon.com。才能登入前述的夥伴計畫網站，取得推廣帳號。"
+
+#: ../../source/enhancedcontentpreferences.rst:146
+msgid "Sign up at: https://affiliate-program.amazon.com/"
+msgstr "登入於：https://affiliate-program.amazon.com/"
+
+#: ../../source/enhancedcontentpreferences.rst:151
+msgid "AmazonCoverImages"
+msgstr "AmazonCoverImages"
+
+#: ../../source/enhancedcontentpreferences.rst:155
+msgid "Asks: \\_\\_\\_ cover images from Amazon on search results and item detail pages on the staff interface."
+msgstr "詢問：\\_\\_\\_ 來自亞馬遜書店的封面資訊於館員介面的搜尋結果與館藏詳情。"
+
+#: ../../source/enhancedcontentpreferences.rst:166
+msgid "This preference makes it possible to either allow or prevent Amazon cover images from being displayed in the Staff Client. Cover images are retrieved by Amazon, which pulls the content based on the first ISBN number in the item's MARC record. Amazon offers this service free of charge. If the value for this preference is set to \"Show\", the cover images will appear in the Staff Client, and if it is set to \"Don't show\", the images will not appear. Finally, if you're using Amazon cover images, all other cover image services must be disabled. If they are not disabled, they will prevent AmazonCoverImages from functioning properly."
+msgstr "此偏好控制亞馬遜書店的封面是否顯示在館員介面。根據館藏的 MARC 紀錄的第一個 ISBN 向亞馬遜書店的資料庫擷取封面。亞馬遜書店提供此免費服務。若此偏好設定為 \"顯示\"，封面顯示在館員介面裡，若此偏好設定 \"不顯示\"，則不會顯示封面。最後，選用亞馬遜書店的封面後，必須關閉其他來源的封面資料。否則，會干擾此偏好的運作。"
+
+#: ../../source/enhancedcontentpreferences.rst:180
+msgid "AmazonLocale"
+msgstr "AmazonLocale"
+
+#: ../../source/enhancedcontentpreferences.rst:182
+msgid "Default: American"
+msgstr "預設值：美國"
+
+#: ../../source/enhancedcontentpreferences.rst:184
+msgid "Asks: Use Amazon data from its \\_\\_\\_ website."
+msgstr "詢問：從 \\_\\_\\_ 網站取用亞馬遜資訊。"
+
+#: ../../source/enhancedcontentpreferences.rst:186
+msgid "Value:"
+msgstr "值:"
+
+#: ../../source/enhancedcontentpreferences.rst:188
+msgid "American"
+msgstr "美國"
+
+#: ../../source/enhancedcontentpreferences.rst:190
+msgid "British"
+msgstr "英國"
+
+#: ../../source/enhancedcontentpreferences.rst:192
+msgid "Canadian"
+msgstr "加拿大"
+
+#: ../../source/enhancedcontentpreferences.rst:194
+msgid "French"
+msgstr "法國"
+
+#: ../../source/enhancedcontentpreferences.rst:196
+msgid "German"
+msgstr "德國"
+
+#: ../../source/enhancedcontentpreferences.rst:198
+msgid "Indian"
+msgstr "印度語系"
+
+#: ../../source/enhancedcontentpreferences.rst:200
+msgid "Japanese"
+msgstr "日文"
+
+#: ../../source/enhancedcontentpreferences.rst:205
+msgid "OPACAmazonCoverImages"
+msgstr "OPACAmazonCoverImages"
+
+#: ../../source/enhancedcontentpreferences.rst:209
+msgid "Asks: \\_\\_\\_ cover images from Amazon on search results and item detail pages on the OPAC."
+msgstr "詢問：\\_\\_\\_ 來自亞馬遜書店的封面資訊於 OPAC 的搜尋結果與館藏詳情。"
+
+#: ../../source/enhancedcontentpreferences.rst:220
+msgid "This preference makes it possible to either allow or prevent Amazon cover images from being displayed in the OPAC. Cover images are retrieved by Amazon, which pulls the content based on the first ISBN number in the item's MARC record. Amazon offers this service free of charge. If the value for this preference is set to \"Show\", the cover images will appear in the OPAC, and if it is set to \"Don't show\", the images will not appear. Finally, if you're using Amazon cover images, all other cover image services must be disabled. If they are not disabled, they will prevent AmazonCoverImages from functioning properly."
+msgstr "此偏好控制是否在 OPAC 顯示亞馬遜書店的封面。取自亞馬遜書店的封面，係根據館藏 MARC 記錄的第一個 ISBN 向亞馬遜書店的資料庫擷取。此服務為免費。若此偏好設定為 \"顯示\"，封面顯示在 OPAC 裡，若此偏好設定 \"不顯示\"，則不會顯示封面。最後，選用亞馬遜書店的封面後，必須關閉其他來源的封面資料。若沒有關閉，會干擾 AmazonCoverImages 偏好的運作。"
+
+#: ../../source/enhancedcontentpreferences.rst:234
+#: ../../source/enhancedcontentpreferences.rst:239
+msgid "Babelthèque"
+msgstr "Babelthèque"
+
+#: ../../source/enhancedcontentpreferences.rst:241
+msgid "Default: Don't"
+msgstr "預設值：不要"
+
+#: ../../source/enhancedcontentpreferences.rst:243
+msgid "Asks: \\_\\_\\_ include information (such as reviews and citations) from Babelthèque in item detail pages on the OPAC."
+msgstr "詢問: \\_\\_\\_ 加入來自法國文學圖書館的 (書評與引文) 資訊於 OPAC。"
+
+#: ../../source/enhancedcontentpreferences.rst:248
+msgid "This preference makes it possible to display a Babelthèque tab in the OPAC, allowing patrons to access tags, reviews, and additional title information provided by Babelthèque. The information which Babelthèque supplies is drawn from the French language-based `Babelio.com <http://www.babelio.com/>`__, a French service similar to LibraryThing for Libraries. More information about Babelthèque is available through its website, `http://www.babeltheque.com <http://www.babeltheque.com/>`__. Libraries that wish to allow access to this information must first register for the service at http://www.babeltheque.com. Please note that this information is only provided in French."
+msgstr "設定此偏好後，在 OPAC 顯示法國國家圖書館分頁，讀者可近用該館的標籤、評論與其他資訊。這些資訊都來自法文的 `Babelio.com <http://www.babelio.com/>`__，類似的英文資料在 LibraryThing for Libraries。詳情見其網站，`http://www.babeltheque.com <http://www.babeltheque.com/>`__。使用前必須先登錄入 http://www.babeltheque.com。此資訊只以法文顯示。"
+
+#: ../../source/enhancedcontentpreferences.rst:262
+msgid "Do"
+msgstr "做"
+
+#: ../../source/enhancedcontentpreferences.rst:264
+msgid "|image48|"
+msgstr ""
+
+#: ../../source/enhancedcontentpreferences.rst:266
+msgid "Don't"
+msgstr "不要"
+
+#: ../../source/enhancedcontentpreferences.rst:271
+msgid "Babeltheque\\_url\\_js"
+msgstr "Babeltheque\\_url\\_js"
+
+#: ../../source/enhancedcontentpreferences.rst:273
+msgid "Asks: \\_\\_\\_ Defined the url for the Babelthèque javascript file (eg. http://www.babeltheque.com/bw\\_XX.js)"
+msgstr "詢問：\\_\\_\\_ 設定供 Babeltheque javascript 檔案使用的網址 (如： http://www.babeltheque.com/bw\\_XX.js)"
+
+#: ../../source/enhancedcontentpreferences.rst:279
+msgid "Babeltheque\\_url\\_update"
+msgstr "Babeltheque\\_url\\_update"
+
+#: ../../source/enhancedcontentpreferences.rst:281
+msgid "Asks: \\_\\_\\_ Defined the url for the Babelthèque update periodically (eq. http://www.babeltheque.com/.../file.csv.bz2)."
+msgstr "詢問：\\_\\_\\_ 定期更新設定 Babelthèque 的網址 (如：http://www.babeltheque.com/.../file.csv.bz2)。"
+
+#: ../../source/enhancedcontentpreferences.rst:287
+msgid "Baker & Taylor"
+msgstr "Baker & Taylor"
+
+#: ../../source/enhancedcontentpreferences.rst:291
+msgid "This is a pay service, you must contact Baker & Taylor to subscribe to this service before setting these options."
+msgstr "這是付費服務，設定之前先聯絡 Baker & Taylor。"
+
+#: ../../source/enhancedcontentpreferences.rst:297
+msgid "BakerTaylorBookstoreURL"
+msgstr "BakerTaylorBookstoreURL"
+
+#: ../../source/enhancedcontentpreferences.rst:299
+msgid "Asks: Baker and Taylor \"My Library Bookstore\" links should be accessed at https:// \\_\\_\\_ isbn"
+msgstr "問：貝克與泰勒書店的 \"我的圖書館書店\" 應該可以近用於 https:// \\_\\_\\_ isbn"
+
+#: ../../source/enhancedcontentpreferences.rst:304
+msgid "Some libraries generate additional funding for the library by selling books and other materials that are purchased from or have been previously leased from Baker & Taylor. These materials can be accessed via a link on the library's website. This service is often referred to as \"My Library Bookstore.\" In order to participate in this program, the library must first register and pay for the service with Baker & Taylor. Additional information about this and other services provided by Baker & Taylor is available at the Baker & Taylor website, https://www.baker-taylor.com/. The BakerTaylorBookstoreURL preference establishes the URL in order to link to the library's Baker & Taylor-backed online bookstore, if such a bookstore has been established. The default for this field is left blank; if no value is entered, the links to My Library Bookstore will remain inactive. If enabling this preference, enter the library's Hostname and Parent Number in the appropriate location within the URL. The \"key\" value (key=) should be appended to the URL, and https:// should be prepended."
+msgstr "一些圖書館通過出售從Baker & Taylor書店購買的或以前從Baker & Taylor書店租借的書籍和其他資料為圖書館創造額外的資金。這些資料可以通過圖書館網站上的一個連結來獲取。這項服務通常被稱為 \"我的圖書館書店\"。為了參與這項計劃，圖書館必須首先在Baker & Taylor書店註冊並支付這項服務的費用。有關這項服務和Baker & Taylor公司提供的其他服務的更多訊息可在Baker & Taylor的網站https://www.baker-taylor.com/。 BakerTaylorBookstoreURL偏好設置了一個URL，以連結到圖書館的Baker & Taylor支持的在線書店，如果已經建立了這樣的書店。這個欄位的預設值為空白；如果沒有輸入值，與我的圖書館書店的連結將保持不活動。如果啟用這一偏好，請在URL中的適當位置輸入圖書館的主機名和上層號碼。 \"key \"值（key=）應附加到URL中，https://，應預留。"
+
+#: ../../source/enhancedcontentpreferences.rst:322
+msgid "This should be filled in with something like koha.mylibrarybookstore.com/MLB/actions/searchHandler.do?nextPage=bookDetails&parentNum=10923&key="
+msgstr "應填入像這樣的資料 koha.mylibrarybookstore.com/MLB/actions/searchHandler.do?nextPage=bookDetails&amp;parentNum=10923&amp;key="
+
+#: ../../source/enhancedcontentpreferences.rst:327
+msgid "Leave it blank to disable these links."
+msgstr "空白即停用。"
+
+#: ../../source/enhancedcontentpreferences.rst:331
+#: ../../source/enhancedcontentpreferences.rst:389
+msgid "Be sure to get this information from Baker & Taylor when subscribing."
+msgstr "訂購時向貝克與泰勒書店取得此資訊。"
+
+#: ../../source/enhancedcontentpreferences.rst:337
+msgid "BakerTaylorEnabled"
+msgstr "BakerTaylorEnabled"
+
+#: ../../source/enhancedcontentpreferences.rst:339
+#: ../../source/enhancedcontentpreferences.rst:484
+#: ../../source/enhancedcontentpreferences.rst:922
+#: ../../source/enhancedcontentpreferences.rst:965
+#: ../../source/enhancedcontentpreferences.rst:1054
+msgid "Default: Don't add"
+msgstr "預設值：不加入"
+
+#: ../../source/enhancedcontentpreferences.rst:341
+msgid "Asks: \\_\\_\\_ Baker and Taylor links and cover images to the OPAC and staff client. This requires that you have entered in a username and password (which can be seen in image links)."
+msgstr "詢問：\\_\\_\\_ 貝克與泰勒連結書店與封面至 OPAC 與館員介面。此項服務需要帳號與密碼 (從封面連結可看到)。"
+
+#: ../../source/enhancedcontentpreferences.rst:347
+#: ../../source/enhancedcontentpreferences.rst:491
+#: ../../source/enhancedcontentpreferences.rst:928
+#: ../../source/enhancedcontentpreferences.rst:975
+#: ../../source/enhancedcontentpreferences.rst:1061
+msgid "Add"
+msgstr "新增"
+
+#: ../../source/enhancedcontentpreferences.rst:349
+#: ../../source/enhancedcontentpreferences.rst:493
+#: ../../source/enhancedcontentpreferences.rst:930
+#: ../../source/enhancedcontentpreferences.rst:973
+#: ../../source/enhancedcontentpreferences.rst:1063
+msgid "Don't add"
+msgstr "不加入"
+
+#: ../../source/enhancedcontentpreferences.rst:353
+msgid "This preference makes it possible to display Baker & Taylor content (book reviews, descriptions, cover images, etc.) in both the Staff Client and the OPAC. Libraries that wish to display Baker & Taylor content must first register and pay for this service with Baker & Taylor (https://www.baker-taylor.com/). If Baker & Taylor content is enabled be sure to turn off other cover and review services to prevent interference."
+msgstr "此偏好設定後，可以取得貝克與泰勒書店的內容 (書評、摘要、封面等)，顯示於館員介面與 OPAC。必須先向貝克與泰勒 (http://www.baker-taylor.com/) 申請註冊並付費。啟用後，必須關閉其他的封面與評論服務以免干擾。"
+
+#: ../../source/enhancedcontentpreferences.rst:363
+msgid "To use this you will need to also set the :ref:`BakerTaylorUsername and BakerTaylorPassword <bakertaylorusername-and-bakertaylorpassword-label>` system preferences"
+msgstr "使用此偏好，必須同時設定 :ref:`BakerTaylorUsername and BakerTaylorPassword <bakertaylorusername-and-bakertaylorpassword-label>` 系統偏好"
+
+#: ../../source/enhancedcontentpreferences.rst:369
+msgid "BakerTaylorUsername and BakerTaylorPassword"
+msgstr "BakerTaylorUsername 與 BakerTaylorPassword"
+
+#: ../../source/enhancedcontentpreferences.rst:371
+msgid "Asks: Access Baker and Taylor using username \\_\\_\\_ and password \\_\\_\\_"
+msgstr "詢問： 近用貝克與泰勒書店時，使用者名稱 \\_\\_\\_ 與密碼 \\_\\_\\_"
+
+#: ../../source/enhancedcontentpreferences.rst:373
+#: ../../source/enhancedcontentpreferences.rst:1300
+msgid "Descriptions:"
+msgstr "說明:"
+
+#: ../../source/enhancedcontentpreferences.rst:375
+#, fuzzy
+msgid "This setting in only applicable if the library has a paid subscription to the external Content CafÃ© service from Baker & Taylor. Use the box provided to enter in the library's Content CafÃ© username and password. Also, ensure that the :ref:`BakerTaylorBookstoreURL <BakerTaylorBookstoreURL-label>` and :ref:`BakerTaylorEnabled <BakerTaylorEnabled-label>` settings are properly set. The Content CafÃ© service is a feed of enhanced content such as cover art, professional reviews, and summaries that is displayed along with Staff Client/OPAC search results. For more information on this service please see the Baker & Taylor website: https://www.baker-taylor.com/"
+msgstr "此偏好祗適用於向貝克與泰勒書店取得付費服務的外部 Content CafÃ© 服務。在這裡鍵入圖書館的 Content CafÃ© 使用者名稱與密碼。同時確定已適當地設定 :ref:`BakerTaylorBookstoreURL` 與 :ref:`BakerTaylorEnabled`。Content CafÃ© 服務是一種強化內容服務，包括封面、專業評論與摘要等，顯示在館員介面/OPAC搜尋結果。詳細資訊參見該書店網站 http://www.baker-taylor.com/"
+
+#: ../../source/enhancedcontentpreferences.rst:395
+#, fuzzy
+msgid "Coce cover images cache"
+msgstr "Coce 封面快取"
+
+#: ../../source/enhancedcontentpreferences.rst:397
+msgid "Coce is a remote image URL cache. With this option, cover images are not fetched directly from Amazon, Google, and so on. Their URLs are requested via a web service to Coce which manages a cache of URLs."
+msgstr "Coce 是遠端 URL 圖片快取。以此選項，封面不是直接從 Amazon、Google 等地取得。此等 URL 係經由網頁服務送至 Coce 由其管理 URL 的快取。"
+
+#: ../../source/enhancedcontentpreferences.rst:404
+msgid "Coce"
+msgstr "Coce"
+
+#: ../../source/enhancedcontentpreferences.rst:406
+#: ../../source/enhancedcontentpreferences.rst:1109
+msgid "Default: Don't enable"
+msgstr "預設值：不啟用"
+
+#: ../../source/enhancedcontentpreferences.rst:408
+msgid "Asks: \\_\\_\\_ a Coce image cache service."
+msgstr "詢問：\\_\\_\\_ Coce 封面快取服務。"
+
+#: ../../source/enhancedcontentpreferences.rst:412
+#: ../../source/enhancedcontentpreferences.rst:1117
+msgid "Don't enable"
+msgstr "停用"
+
+#: ../../source/enhancedcontentpreferences.rst:414
+#: ../../source/enhancedcontentpreferences.rst:1119
+msgid "Enable"
+msgstr "啟用"
+
+#: ../../source/enhancedcontentpreferences.rst:418
+msgid "Coce has many benefits when it comes to choosing and displaying cover images in Koha:"
+msgstr "Coce 對 Koha 選擇與顯示封面有許多幫助："
+
+#: ../../source/enhancedcontentpreferences.rst:421
+msgid "If a book cover is not available from a provider, but is available from another one, Koha will be able to display a book cover, which isn't the case now"
+msgstr "無法由提供者得到封面，但可從其他地方取得，Koha 仍顯示其封面，目前還不能使用它"
+
+#: ../../source/enhancedcontentpreferences.rst:425
+msgid "Since URLs are cached, it isn't necessary for each book cover to request, again and again, the provider, and several of them if necessary."
+msgstr "因為 URL 是經過快取的，不必每次請求提供封面，一而再地，只有必要時才請提供者及其他再提供封面。"
+
+#: ../../source/enhancedcontentpreferences.rst:429
+msgid "Amazon book covers are retrieved with Amazon Product Advertising API, which means that more covers are retrieved (ISBN13)."
+msgstr "經由 Amazon Product Advertising API 取得 Amazon 的圖書封面，就是可以取得更多的封面(ISBN13)。"
+
+#: ../../source/enhancedcontentpreferences.rst:434
+msgid "Coce does not come bundled with Koha. Your Koha install will not already have a Coce server set up. Before enabling this functionality you will want to be sure to have a Coce server set up. Instructions on installing and setting up Coce can be found on the official github page at https://github.com/fredericd/coce."
+msgstr "Coce 並不是 Koha 專屬的服務。安裝 Koha 並不自動設定 Coce 伺服器。啟用此服務前應先設定 Coce 伺服器。安裝與設定 Coce 的方法在 github 官網 https://github.com/fredericd/coce。"
+
+#: ../../source/enhancedcontentpreferences.rst:443
+msgid "CoceHost"
+msgstr "CoceHost"
+
+#: ../../source/enhancedcontentpreferences.rst:445
+msgid "Asks: Coce server URL \\_\\_\\_"
+msgstr "詢問：Coce 伺服器的 URL 是 \\_\\_\\_"
+
+#: ../../source/enhancedcontentpreferences.rst:449
+msgid "This will be the full URL (starting with http://) to your Coce server."
+msgstr "Coce 伺服器應該是完整的 URL (以 http:// 起頭)。"
+
+#: ../../source/enhancedcontentpreferences.rst:455
+msgid "CoceProviders"
+msgstr "CoceProviders"
+
+#: ../../source/enhancedcontentpreferences.rst:457
+msgid "Asks: Use the following providers to fetch the covers \\_\\_\\_"
+msgstr "詢問：從下列提供者擷取封面 \\_\\_\\_"
+
+#: ../../source/enhancedcontentpreferences.rst:461
+msgid "[Select all]"
+msgstr "[全選]"
+
+#: ../../source/enhancedcontentpreferences.rst:463
+msgid "Amazon Web Services"
+msgstr "Amazon 網頁服務"
+
+#: ../../source/enhancedcontentpreferences.rst:465
+msgid "Google Books"
+msgstr "Google 圖書"
+
+#: ../../source/enhancedcontentpreferences.rst:467
+#: ../../source/enhancedcontentpreferences.rst:1047
+msgid "Open Library"
+msgstr "開放式圖書館"
+
+#: ../../source/enhancedcontentpreferences.rst:471
+msgid "The providers chosen here will be used to gather cover images for display in your Koha catalog."
+msgstr "以在此選定的提供者於您的 Koha 目錄顯示封面。"
+
+#: ../../source/enhancedcontentpreferences.rst:477
+msgid "Google"
+msgstr "Google"
+
+#: ../../source/enhancedcontentpreferences.rst:482
+msgid "GoogleJackets"
+msgstr "GoogleJackets"
+
+#: ../../source/enhancedcontentpreferences.rst:486
+msgid "Asks: \\_\\_\\_ cover images from Google Books to search results and item detail pages on the OPAC."
+msgstr "詢問：\\_\\_\\_ 來自 Google 圖書的封面於 OPAC 的搜尋結果與館藏詳情頁面。"
+
+#: ../../source/enhancedcontentpreferences.rst:497
+msgid "This setting controls the display of applicable cover art from the free Google Books database, via the Google Books API. Please note that to use this feature, all other cover services should be turned off."
+msgstr "此設定控制經由 Google 圖書 API 取得 Google 圖書資訊庫的封面。必須關閉其他的封面服務，才能使用它。"
+
+#: ../../source/enhancedcontentpreferences.rst:505
+msgid "HTML5 Media"
+msgstr "HTML5 媒體"
+
+#: ../../source/enhancedcontentpreferences.rst:510
+msgid "HTML5MediaEnabled"
+msgstr "HTML5MediaEnabled"
+
+#: ../../source/enhancedcontentpreferences.rst:512
+msgid "Default: not at all"
+msgstr "預設值：不用"
+
+#: ../../source/enhancedcontentpreferences.rst:514
+msgid "Asks: Show a tab with a HTML5 media player for files catalogued in field 856 \\_\\_\\_"
+msgstr "詢問：在欄位 856 使用 HTML5 媒體播放器顯示分頁 \\_\\_\\_"
+
+#: ../../source/enhancedcontentpreferences.rst:519
+msgid "in OPAC and staff client"
+msgstr "在館員介面與OPAC"
+
+#: ../../source/enhancedcontentpreferences.rst:521
+msgid "in the OPAC"
+msgstr "在 OPAC"
+
+#: ../../source/enhancedcontentpreferences.rst:523
+msgid "|image49|"
+msgstr ""
+
+#: ../../source/enhancedcontentpreferences.rst:525
+msgid "in the staff client"
+msgstr "在館員介面"
+
+#: ../../source/enhancedcontentpreferences.rst:527
+msgid "|image50|"
+msgstr ""
+
+#: ../../source/enhancedcontentpreferences.rst:529
+msgid "not at all"
+msgstr "並非如此"
+
+#: ../../source/enhancedcontentpreferences.rst:533
+msgid "If you have media elements in the 856 of your MARC record this preference can run/show those media files in a separate tab using HTML5."
+msgstr "若在 MARC 記錄的 856 欄位包括媒體細目，以此偏好設定為從獨立的分頁以 HTML5 執行/顯示該媒體檔案。"
+
+#: ../../source/enhancedcontentpreferences.rst:540
+msgid "HTML5MediaExtensions"
+msgstr "HTML5MediaExtensions"
+
+#: ../../source/enhancedcontentpreferences.rst:542
+msgid "Default: webm\\|ogg\\|ogv\\|oga\\|vtt"
+msgstr "預設值：webm\\|ogg\\|ogv\\|oga\\|vtt"
+
+#: ../../source/enhancedcontentpreferences.rst:544
+msgid "Asks: Media file extensions \\_\\_\\_"
+msgstr "詢問：媒體檔案延伸檔名 \\_\\_\\_"
+
+#: ../../source/enhancedcontentpreferences.rst:548
+msgid "Enter in file extensions separated with bar (\\|)"
+msgstr "以直線 (\\|) 區隔多個檔案名稱"
+
+#: ../../source/enhancedcontentpreferences.rst:553
+msgid "HTML5MediaYouTube"
+msgstr "HTML5MediaYouTube"
+
+#: ../../source/enhancedcontentpreferences.rst:555
+msgid "Default: Don't embed"
+msgstr "預設值：不嵌入"
+
+#: ../../source/enhancedcontentpreferences.rst:559
+#, fuzzy
+msgid "To turn this on first enable :ref:`HTML5MediaEnabled <HTML5MediaEnabled-label>`"
+msgstr "啟用 :ref:`HTML5MediaEnabled` 就能打開它"
+
+#: ../../source/enhancedcontentpreferences.rst:562
+msgid "Asks: \\_\\_\\_ YouTube links as videos."
+msgstr "詢問：\\_\\_\\_ YouTube 連結為影片。"
+
+#: ../../source/enhancedcontentpreferences.rst:566
+msgid "Don't embed"
+msgstr "不嵌入"
+
+#: ../../source/enhancedcontentpreferences.rst:568
+msgid "Embed"
+msgstr "嵌入"
+
+#: ../../source/enhancedcontentpreferences.rst:572
+#, fuzzy
+msgid "This preference will allow MARC21 856$u that points to YouTube to appear as a playable video on the pages defined in :ref:`HTML5MediaEnabled <HTML5MediaEnabled-label>`."
+msgstr "此偏好允許讓 MARC21 856$u 的內容指向 YouTube 並以 :ref:`HTML5MediaEnabled` 的定義播放影片。"
+
+#: ../../source/enhancedcontentpreferences.rst:579
+msgid "LibraryThing"
+msgstr "LibraryThing"
+
+#: ../../source/enhancedcontentpreferences.rst:581
+msgid "LibraryThing for Libraries is a pay service. You must first contact LibraryThing directly for pricing and subscription information. Learn more at http://www.librarything.com/forlibraries. Also, for further configuration instructions please see the LibraryThing Wiki: http://www.librarything.com/wiki/index.php/Koha"
+msgstr "LibraryThing 是付費服務。先直接聯絡該公司取得付費與訂閱資訊。詳細的設定在 http://www.librarything.com/forlibraries。有關組態部份，參閱 LibraryThing 共筆：http://www.librarything.com/wiki/index.php/Koha"
+
+#: ../../source/enhancedcontentpreferences.rst:590
+msgid "LibraryThingForLibrariesEnabled"
+msgstr "LibraryThingForLibrariesEnabled"
+
+#: ../../source/enhancedcontentpreferences.rst:594
+msgid "Asks: \\_\\_\\_ reviews, similar items, and tags from Library Thing for Libraries on item detail pages on the OPAC."
+msgstr "詢問：\\_\\_\\_ 來自 Library Thing 的評論、相關館藏與標籤於 OPAC 館藏的詳情頁面。"
+
+#: ../../source/enhancedcontentpreferences.rst:605
+msgid "This setting is only applicable if the library has a paid subscription to the external LibraryThing for Libraries service. This service can provide patrons with the display of expanded information on catalog items such as book recommendations. It also can offer advanced features like tagged browsing, patron written reviews, and a virtual library display accessed from the details tab."
+msgstr "此設定僅適用於向 LibraryThing 取得的付費服務。它提供推薦圖書之類的額外服務。以及瀏覽標籤、讀者撰寫書評、圖書詳情等。"
+
+#: ../../source/enhancedcontentpreferences.rst:614
+#, fuzzy
+msgid "If this is set to 'show' you will need to enter a value in the :ref:`LibraryThingForLibrariesID <LibraryThingForLibrariesID-label>` system preference."
+msgstr "若設定為 '顯示' 則需在 :ref:`LibraryThingForLibrariesID` 系統偏好輸入一個值。"
+
+#: ../../source/enhancedcontentpreferences.rst:620
+msgid "LibraryThingForLibrariesID"
+msgstr "LibraryThingForLibrariesID"
+
+#: ../../source/enhancedcontentpreferences.rst:622
+msgid "Asks: Access Library Thing for Libraries using the customer ID \\_\\_\\_"
+msgstr "詢問：以帳號 \\_\\_\\_ 近用 Library Thing 網站"
+
+#: ../../source/enhancedcontentpreferences.rst:626
+msgid "This setting is only applicable if the library has a paid subscription to the external LibraryThing for Libraries service. Use the box provided to enter in the library's LibraryThing for Libraries ID as provided to the library by LibraryThing. The ID number is a series of numbers in the form ###-#########, and can be found on the library's account page at LibraryThing for Libraries. This service can provide patrons with the display of expanded information on catalog items such as book recommendations and cover art. It also can offer advanced features like tagged browsing, patron written reviews, and a virtual library display accessed from the details tab."
+msgstr "此設定僅適用於向 LibraryThing 取得付費服務代號的圖書館。在輸入盒內鍵入取自 LibraryThing for Libraries 像 ###-######### 的代號。它提供推薦圖書之類的額外服務，以及瀏覽標籤、讀者撰寫書評、圖書詳情等。"
+
+#: ../../source/enhancedcontentpreferences.rst:640
+msgid "LibraryThingForLibrariesTabbedView"
+msgstr "LibraryThingForLibrariesTabbedView"
+
+#: ../../source/enhancedcontentpreferences.rst:642
+msgid "Default: in line with bibliographic information"
+msgstr "預設值：書目資訊方式"
+
+#: ../../source/enhancedcontentpreferences.rst:644
+msgid "Asks: Show Library Thing for Libraries content \\_\\_\\_"
+msgstr "詢問：顯示來自 Library Thing for Libraries 的資訊 \\_\\_\\_"
+
+#: ../../source/enhancedcontentpreferences.rst:648
+msgid "in line with bibliographic information"
+msgstr "書目資訊方式"
+
+#: ../../source/enhancedcontentpreferences.rst:650
+msgid "in tabs"
+msgstr "在分頁"
+
+#: ../../source/enhancedcontentpreferences.rst:654
+msgid "This setting is only applicable if the library has a paid subscription to the external LibraryThing for Libraries service. This service can provide patrons with the display of expanded information on catalog items such as book recommendations and cover art. It also can offer advanced features like tagged browsing, patron written reviews, and a virtual library display accessed from the details tab."
+msgstr "此設定僅適用於向 LibraryThing 取得付費服務代號的圖書館。它顯示推薦購買與封面等資訊給讀者。同時在詳情頁面提供瀏覽標籤、讀者撰寫書評、虛擬圖書館等進階功能。"
+
+#: ../../source/enhancedcontentpreferences.rst:664
+msgid "ThingISBN"
+msgstr "ThingISBN"
+
+#: ../../source/enhancedcontentpreferences.rst:666
+#: ../../source/enhancedcontentpreferences.rst:1363
+msgid "Default: Don't use"
+msgstr "預設值：不用"
+
+#: ../../source/enhancedcontentpreferences.rst:668
+msgid "Asks: \\_\\_\\_ the ThingISBN service to show other editions of a title"
+msgstr "詢問：\\_\\_\\_ ThingISBN 服務於顯示其他版本"
+
+#: ../../source/enhancedcontentpreferences.rst:672
+#: ../../source/enhancedcontentpreferences.rst:1369
+msgid "Don't use"
+msgstr "不使用"
+
+#: ../../source/enhancedcontentpreferences.rst:674
+#: ../../source/enhancedcontentpreferences.rst:1371
+msgid "Use"
+msgstr "使用"
+
+#: ../../source/enhancedcontentpreferences.rst:678
+msgid "Set to 'Use' to display an \"Editions\" tab on the item's detail page. Editions are listed, complete with cover art (if you have one of the cover services enabled) and bibliographic information. The feed comes from LibraryThing's ThingISBN web service. This is a free service to non-commercial sites with fewer than 1,000 requests per day."
+msgstr "設定為 '使用' 於館藏詳情頁面顯示 \"版本\" 分頁。列出版本及其封面 (若已啟用封面服務) 與書目資訊。其內容來自 LibraryThing 的 ThingISBN 網頁服務。每天 1,000 筆免費提供給非營利網站。"
+
+#: ../../source/enhancedcontentpreferences.rst:686
+#, fuzzy
+msgid "Requires :ref:`FRBRizeEditions <FRBRizeEditions-label>` and/or :ref:`OPACFRBRizeEditions <OPACFRBRizeEditions-label>` set to 'show'"
+msgstr "需將 :ref:`OPACFRBRizeEditions` 與 :ref:`OPACFRBRizeEditions` 設為 '顯示'"
+
+#: ../../source/enhancedcontentpreferences.rst:691
+msgid "This is separate from Library Thing for Libraries and does not have a cost associated with it."
+msgstr "這項服務與 Library Thing for Libraries 不同它是免費。"
+
+#: ../../source/enhancedcontentpreferences.rst:697
+msgid "Local or remote cover images"
+msgstr "在地或遠端封面圖片"
+
+#: ../../source/enhancedcontentpreferences.rst:702
+msgid "AllowMultipleCovers"
+msgstr "AllowMultipleCovers"
+
+#: ../../source/enhancedcontentpreferences.rst:704
+#, fuzzy
+msgid "Asks: \\_\\_\\_ multiple images to be attached to each bibliographic record and item."
+msgstr "詢問：在一個書目記錄裡 \\_\\_\\_ 加入多個封面。"
+
+#: ../../source/enhancedcontentpreferences.rst:707
+#: ../../source/enhancedcontentpreferences.rst:1592
+msgid "Default: Don't allow"
+msgstr "預設：不允許"
+
+#: ../../source/enhancedcontentpreferences.rst:711
+#: ../../source/enhancedcontentpreferences.rst:1534
+#: ../../source/enhancedcontentpreferences.rst:1579
+#: ../../source/enhancedcontentpreferences.rst:1596
+msgid "Allow"
+msgstr "允許"
+
+#: ../../source/enhancedcontentpreferences.rst:713
+#: ../../source/enhancedcontentpreferences.rst:1536
+#: ../../source/enhancedcontentpreferences.rst:1583
+#: ../../source/enhancedcontentpreferences.rst:1598
+msgid "Don't allow"
+msgstr "不允許"
+
+#: ../../source/enhancedcontentpreferences.rst:717
+#, fuzzy
+msgid "If this preference is set to 'Allow', you can upload multiple images that will appear in the images tab of the bibliographic record in the OPAC and the staff interface."
+msgstr "若將此偏好設為 '允許' 則可以上傳多個封面至一筆書目記錄，顯示在 OPAC 與館員介面的封面分頁裡。需將 :ref:`LocalCoverImages` 與 :ref:`OPACLocalCoverImages` 設為 '顯示。^"
+
+#: ../../source/enhancedcontentpreferences.rst:721
+#, fuzzy
+msgid "|multiplecoversopac|"
+msgstr "AllowMultipleCovers"
+
+#: ../../source/enhancedcontentpreferences.rst:723
+msgid "This system preference requires that either one or both of :ref:`LocalCoverImages <LocalCoverImages-label>` and :ref:`OPACLocalCoverImages <OPACLocalCoverImages-label>` be set to 'Show'."
+msgstr ""
+
+#: ../../source/enhancedcontentpreferences.rst:730
+msgid "CustomCoverImages"
+msgstr "客製化封面"
+
+#: ../../source/enhancedcontentpreferences.rst:732
+#, fuzzy
+msgid "Asks: \\_\\_\\_ custom remote URL images in the staff interface."
+msgstr "問:\\_\\_\\_ 館員用戶端中的自定義遠端 URL 圖像。"
+
+#: ../../source/enhancedcontentpreferences.rst:744
+#, fuzzy
+msgid "If you use :ref:`CustomCoverImagesURL <CustomCoverImagesURL-label>`, this preference indicates if you want these cover images to appear in the staff interface."
+msgstr "如果您使用 :ref:`CustomCoverImagesURL`, 這個偏好顯示如果您想要這些書封顯示在館員介面。"
+
+#: ../../source/enhancedcontentpreferences.rst:747
+#, fuzzy
+msgid "Use :ref:`OPACCustomCoverImages <OPACCustomCoverImages-label>` if you want those images to appear in the OPAC."
+msgstr "使用 :ref:`OPACCustomCoverImages` 如果您想要這些書封出現在 OPAC 。"
+
+#: ../../source/enhancedcontentpreferences.rst:753
+msgid "OPACCustomCoverImages"
+msgstr "OPACLocalCoverImages"
+
+#: ../../source/enhancedcontentpreferences.rst:755
+#, fuzzy
+msgid "Asks: \\_\\_\\_ custom remote URL images at the OPAC."
+msgstr "詢問：\\_\\_\\_ 在 OPAC 自定義遠端 URL 圖像。"
+
+#: ../../source/enhancedcontentpreferences.rst:767
+#, fuzzy
+msgid "If you use :ref:`CustomCoverImagesURL <CustomCoverImagesURL-label>`, this preference indicates if you want these cover images to appear in the OPAC."
+msgstr "如果您使用 :ref:`CustomCoverImagesURL`,偏好顯示如果您希望這些書封影像顯示在OPAC。"
+
+#: ../../source/enhancedcontentpreferences.rst:770
+#, fuzzy
+msgid "Use :ref:`CustomCoverImages <CustomCoverImages-label>` if you want those images to appear in the staff interface."
+msgstr "使用 :ref:`CustomCoverImages`如果您希望那些影像出現在館員介面。"
+
+#: ../../source/enhancedcontentpreferences.rst:776
+msgid "CustomCoverImagesURL"
+msgstr "CustomCoverImagesURL"
+
+#: ../../source/enhancedcontentpreferences.rst:778
+msgid "Asks: Using the following URL: \\_\\_\\_"
+msgstr "詢問：使用以下的搜尋網址：\\_\\_\\_"
+
+#: ../../source/enhancedcontentpreferences.rst:782
+msgid "You can use codes to substitute bibliographic information in the URL: {isbn}, {issn}, {normalized_isbn}"
+msgstr "您可以使用代碼來代替在網址裡的書目資料: {isbn}, {issn}, {normalized_isbn}"
+
+#: ../../source/enhancedcontentpreferences.rst:785
+msgid "For example: http://www.mylibrarysite.com/covers/{isbn}.png"
+msgstr "範例: http://www.mylibrarysite.com/covers/{isbn}.png"
+
+#: ../../source/enhancedcontentpreferences.rst:788
+msgid "You can also use MARC fields and subfields in the URL like so: {024$a}"
+msgstr "您同樣可以在網址裡使用MARC欄位及分欄,像是: {024$a}"
+
+#: ../../source/enhancedcontentpreferences.rst:791
+msgid "For example: http://www.mylibrarysite.com/covers/{024$a}.png"
+msgstr "舉例來說: http://www.mylibrarysite.com/covers/{024$a}.png"
+
+#: ../../source/enhancedcontentpreferences.rst:794
+#, fuzzy
+msgid "Make sure to enable :ref:`CustomCoverImages <CustomCoverImages-label>` if you want those images to appear in the staff interface and :ref:`OPACCustomCoverImages <OPACCustomCoverImages-label>` if you want those images to appear in the OPAC."
+msgstr "如果你想讓這些圖片出現在館員介面，請確保啟用 :ref:`CustomCoverImages`，如果你想讓這些圖片出現在OPAC，請確保啟用 :ref:`OPACCustomCoverImages`。"
+
+#: ../../source/enhancedcontentpreferences.rst:801
+msgid "LocalCoverImages"
+msgstr "LocalCoverImages"
+
+#: ../../source/enhancedcontentpreferences.rst:803
+#, fuzzy
+msgid "Asks: \\_\\_\\_ local cover images on staff interface search and details pages."
+msgstr "詢問：\\_\\_\\_ 在地封面於館內搜尋與詳情頁面。"
+
+#: ../../source/enhancedcontentpreferences.rst:815
+#, fuzzy
+msgid "Setting this preference to 'Show' allows you to upload your own cover images to bibliographic records and display them on the detail page in the staff interface."
+msgstr "設定此偏好為 '顯示' 則允許上傳在地封面至書目記錄並顯示在 OPAC 的詳情頁面與搜尋結果。"
+
+#: ../../source/enhancedcontentpreferences.rst:819
+#: ../../source/enhancedcontentpreferences.rst:848
+msgid "See also:"
+msgstr ""
+
+#: ../../source/enhancedcontentpreferences.rst:821
+msgid ":ref:`OPACLocalCoverImages <OPACLocalCoverImages-label>`"
+msgstr ""
+
+#: ../../source/enhancedcontentpreferences.rst:823
+msgid ":ref:`CustomCoverImages <CustomCoverImages-label>`"
+msgstr ""
+
+#: ../../source/enhancedcontentpreferences.rst:825
+#: ../../source/enhancedcontentpreferences.rst:854
+msgid ":ref:`AllowMultipleCovers <AllowMultipleCovers-label>`"
+msgstr ""
+
+#: ../../source/enhancedcontentpreferences.rst:830
+msgid "OPACLocalCoverImages"
+msgstr "OPACLocalCoverImages"
+
+#: ../../source/enhancedcontentpreferences.rst:832
+msgid "Asks: \\_\\_\\_ local cover images on OPAC search and details pages."
+msgstr "詢問：\\_\\_\\_ 在地封面於 OPAC 搜尋與詳情頁面。"
+
+#: ../../source/enhancedcontentpreferences.rst:844
+#, fuzzy
+msgid "Setting this preference to 'Show' allows you to upload your own cover images to bibliographic records and display them on the detail page and search results in the OPAC."
+msgstr "設定此偏好為 '顯示' 則允許上傳在地封面至書目記錄並顯示在 OPAC 的詳情頁面與搜尋結果。"
+
+#: ../../source/enhancedcontentpreferences.rst:850
+msgid ":ref:`LocalCoverImages <LocalCoverImages-label>`"
+msgstr ""
+
+#: ../../source/enhancedcontentpreferences.rst:852
+msgid ":ref:`OPACCustomCoverImages <OPACCustomCoverImages-label>`"
+msgstr ""
+
+#: ../../source/enhancedcontentpreferences.rst:859
+msgid "Manual"
+msgstr "手冊"
+
+#: ../../source/enhancedcontentpreferences.rst:864
+msgid "KohaManualBaseURL"
+msgstr "KohaManualBaseURL"
+
+#: ../../source/enhancedcontentpreferences.rst:866
+msgid "Default: https://koha-community.org/manual/"
+msgstr "預設：https://koha-community.org/manual/"
+
+#: ../../source/enhancedcontentpreferences.rst:868
+msgid "Asks: Location of the Koha manual \\_\\_\\_"
+msgstr "詢問：Koha 手冊的位置 \\_\\_\\_"
+
+#: ../../source/enhancedcontentpreferences.rst:872
+msgid "You can specify the location of the Koha manual to use. This is the URL that will be used for the help pages when you click 'Help' at the top right corner of the page."
+msgstr "您可指定 Koha 手冊的位置。這是按下右上角 '說明' 時打開手冊的 URL。"
+
+#: ../../source/enhancedcontentpreferences.rst:876
+msgid "By default, the Koha manual is used, but you can use this system preference to substitute for your own help pages."
+msgstr "預設，使用 Koha 手冊，不過也可以透過系統偏好使用自己選定的頁面。"
+
+#: ../../source/enhancedcontentpreferences.rst:879
+#, fuzzy
+msgid "If the URL starts with '/', the value of :ref:`staffClientBaseURL <staffClientBaseURL-label>` will be used as a prefix."
+msgstr "若 URL 以 '/' 開始，則以 :ref:`staffClientBaseURL` 的值做為前置。"
+
+#: ../../source/enhancedcontentpreferences.rst:882
+msgid "Note that it will be suffixed by the version / the language / the format (/17.11/en/html)"
+msgstr "說明通常放在在版本 / 語言 / 格式 (/17.11/en/html)之後"
+
+#: ../../source/enhancedcontentpreferences.rst:888
+msgid "KohaManualLanguage"
+msgstr "KohaManualLanguage"
+
+#: ../../source/enhancedcontentpreferences.rst:890
+msgid "Default: English"
+msgstr "預設值：英文"
+
+#: ../../source/enhancedcontentpreferences.rst:892
+msgid "Asks: Language of the online manual ­\\_\\_\\_"
+msgstr "詢問： 線上手冊 \\_\\_\\_ 的語言"
+
+#: ../../source/enhancedcontentpreferences.rst:896
+msgid "By default, the language of the Koha interface will be used as the manual language. However, if the manual is not translated in that language, this system preference specifies the fallback language."
+msgstr "預設，Koha介面的語系採用手冊使用的語系。然而，若手冊未翻譯為該語系，系統偏好會回到英語。"
+
+#: ../../source/enhancedcontentpreferences.rst:904
+msgid "Novelist Select"
+msgstr "NoveList Select"
+
+#: ../../source/enhancedcontentpreferences.rst:906
+msgid "Novelist Select is not a free service. Contact your Ebsco representative to get your log in information to embed this content in the OPAC."
+msgstr "NoveList Select 不是免費服務。向 Ebsco 的業務代表洽詢取得將內容置於 OPAC 的登入資訊。"
+
+#: ../../source/enhancedcontentpreferences.rst:911
+msgid "Novelist Select does not include cover images for the search results and bibliographic detail pages. You can choose any other cover image service for this content or you can contract with Ebsco to get access to the :ref:`Baker & Taylor Content Cafe <baker-and-taylor-label>` for an added fee."
+msgstr "NoveList Select 不包括供搜尋結果與書目詳情頁面使用的封面。可與其他封面服務併用或聯繫 Ebsco 取得近用 :ref:`Baker & Taylor Content Cafe <baker-and-taylor-label>` 付費服務。"
+
+#: ../../source/enhancedcontentpreferences.rst:920
+msgid "NovelistSelectEnabled"
+msgstr "NovelistSelectEnabled"
+
+#: ../../source/enhancedcontentpreferences.rst:924
+msgid "Asks: \\_\\_\\_ Novelist Select content to the OPAC."
+msgstr "詢問：\\_\\_\\_ NoveList Select 內容於 OPAC。"
+
+#: ../../source/enhancedcontentpreferences.rst:934
+#, fuzzy
+msgid "Enabling this requires that you have entered in a user profile and password in the :ref:`NovelistSelectProfile and NovelistSelectPassword <novelistselectprofile-and-novelistselectpassword-label>` preferences"
+msgstr "必須在 :ref:`NovelistSelectProfile and NovelistSelectPassword` 偏好輸入使用者設定檔與密碼才能啟用此偏好"
+
+#: ../../source/enhancedcontentpreferences.rst:939
+#: ../../source/enhancedcontentpreferences.rst:957
+msgid "Novelist Select from Ebsco is a subscription service that can provide additional content in the OPAC."
+msgstr "來自 Ebsco 的 NoveList Select 是付費服務可在 OPAC 提供額外的內容。"
+
+#: ../../source/enhancedcontentpreferences.rst:945
+msgid "NovelistSelectProfile and NovelistSelectPassword"
+msgstr "NovelistSelectProfile 與 NovelistSelectPassword"
+
+#: ../../source/enhancedcontentpreferences.rst:947
+msgid "Asks: Access Novelist Select using user profile \\_\\_\\_ and password \\_\\_\\_."
+msgstr "詢問：以使用者帳號 \\_\\_\\_ 及密碼 \\_\\_\\_ 近用 NoveList Select。"
+
+#: ../../source/enhancedcontentpreferences.rst:952
+msgid "This information will be visible if someone views the source code on your OPAC."
+msgstr "從 OPAC 的原始碼可以看到此資訊。"
+
+#: ../../source/enhancedcontentpreferences.rst:963
+msgid "NovelistSelectStaffEnabled"
+msgstr "NovelistSelectStaffEnabled"
+
+#: ../../source/enhancedcontentpreferences.rst:967
+msgid "Asks: \\_\\_\\_ Novelist Select content to the Staff client (requires that you have entered in a user profile and password, which can be seen in image links)."
+msgstr "詢問：\\_\\_\\_ 貝克與泰勒連結書店與封面至 OPAC 與館員介面 (此項服務需要從封面連結可看到的帳號與密碼 )。"
+
+#: ../../source/enhancedcontentpreferences.rst:980
+msgid "NovelistSelectStaffProfile"
+msgstr "NovelistSelectStaffProfile"
+
+#: ../../source/enhancedcontentpreferences.rst:982
+msgid "Asks: Access Novelist Select using user profile \\_\\_\\_ on the staff client"
+msgstr "詢問：從館員介面以使用者檔案 \\_\\_\\_ 近用 NoveList Select"
+
+#: ../../source/enhancedcontentpreferences.rst:986
+msgid "Without this value being set, Novelist features will be disabled on the staff client until a correct profile is obtained from Novelist and entered into the field."
+msgstr "若未設定此值，將停用館員介面的 NoveList 的功能，直到從 NoveList 取得正確的設定檔且輸入此欄位。"
+
+#: ../../source/enhancedcontentpreferences.rst:992
+msgid "This value must be set independently of the OPAC profile for Novelist"
+msgstr "此值必須獨立於 OPAC 設定檔供 NoveList 使用"
+
+#: ../../source/enhancedcontentpreferences.rst:997
+msgid "NovelistSelectStaffView"
+msgstr "NovelistSelectStaffView"
+
+#: ../../source/enhancedcontentpreferences.rst:999
+msgid "Default: in a tab"
+msgstr "預設值：在分頁"
+
+#: ../../source/enhancedcontentpreferences.rst:1001
+msgid "Asks: Display Novelist Select staff content \\_\\_\\_."
+msgstr "詢問： 顯示 NoveList Select 的內容 \\_\\_\\_。"
+
+#: ../../source/enhancedcontentpreferences.rst:1005
+#: ../../source/enhancedcontentpreferences.rst:1036
+msgid "above the holdings table"
+msgstr "在館藏表單之上"
+
+#: ../../source/enhancedcontentpreferences.rst:1007
+#: ../../source/enhancedcontentpreferences.rst:1038
+msgid "below the holdings table"
+msgstr "在館藏表單之下"
+
+#: ../../source/enhancedcontentpreferences.rst:1009
+msgid "in a tab"
+msgstr "在分頁"
+
+#: ../../source/enhancedcontentpreferences.rst:1014
+msgid "NovelistSelectView"
+msgstr "NovelistSelectView"
+
+#: ../../source/enhancedcontentpreferences.rst:1016
+msgid "Default: in an OPAC tab"
+msgstr "預設值：在 OPAC 分頁"
+
+#: ../../source/enhancedcontentpreferences.rst:1018
+msgid "Asks: Display Novelist Select content \\_\\_\\_"
+msgstr "詢問： 顯示 Novelist Select 的內容 \\_\\_\\_"
+
+#: ../../source/enhancedcontentpreferences.rst:1022
+msgid "Novelist Select provides a lot of content, for that reason you have four choices of where to display this content. The default view is in a tab in the holdings table."
+msgstr "Novelist Select 提供不少內容，可以在四個位置顯示其內容。預設值是顯示在館藏資料表的分頁。"
+
+#: ../../source/enhancedcontentpreferences.rst:1026
+msgid "|image55|"
+msgstr ""
+
+#: ../../source/enhancedcontentpreferences.rst:1028
+msgid "The content is the same if you choose to show it above the holdings table or below it. If shown in the right column of the page it's the same content, but displays a bit differently since space is limited."
+msgstr "顯示在館藏表單的上方或下方內容是一樣的。若顯示在頁面右欄其內容亦相同，但受限於空間顯示方式略有不同。"
+
+#: ../../source/enhancedcontentpreferences.rst:1032
+msgid "|image56|"
+msgstr ""
+
+#: ../../source/enhancedcontentpreferences.rst:1040
+msgid "in an OPAC tab"
+msgstr "在 OPAC 分頁"
+
+#: ../../source/enhancedcontentpreferences.rst:1042
+msgid "under the Save Record dropdown on the right"
+msgstr "在右方儲存記錄下拉選單之下"
+
+#: ../../source/enhancedcontentpreferences.rst:1052
+msgid "OpenLibraryCovers"
+msgstr "OpenLibraryCovers"
+
+#: ../../source/enhancedcontentpreferences.rst:1056
+msgid "Asks: \\_\\_\\_ cover images from Open Library to search results and item detail pages on the OPAC."
+msgstr "詢問：在 OPAC 的搜尋結果與館藏詳情頁面 \\_\\_\\_ 來自 Open Library 的封面。"
+
+#: ../../source/enhancedcontentpreferences.rst:1067
+msgid "This setting controls the display of applicable cover art from the free Open Library database, via the Open Library API. Please note that to use this feature, all other cover services should be turned off."
+msgstr "此設定控制經由 Open Library API 取得的免費 Open Library 資料庫封面。必須關閉其他封面服務此設定才生效。"
+
+#: ../../source/enhancedcontentpreferences.rst:1075
+msgid "OpenLibrarySearch"
+msgstr "OpenLibrarySearch"
+
+#: ../../source/enhancedcontentpreferences.rst:1079
+msgid "Asks: \\_\\_\\_ search results from Open Library on the OPAC."
+msgstr "詢問：從 OPAC 的 Open Libary \\_\\_\\_ 的搜尋結果。"
+
+#: ../../source/enhancedcontentpreferences.rst:1087
+msgid "|image1187|"
+msgstr ""
+
+#: ../../source/enhancedcontentpreferences.rst:1092
+msgid "Overdrive"
+msgstr "Overdrive"
+
+#: ../../source/enhancedcontentpreferences.rst:1094
+msgid "OverDrive is an pay service. You must first contact OverDrive directly for pricing and subscription information. Enabling this service will integrate Overdrive results in to your OPAC searches. You will have to apply for these 3 pieces of information through an application as an API developer. Overdrive API applications are evaluated once a week so you may not be able to use this feature immediately after signing up. To learn more please contact your OverDrive representative."
+msgstr "OverDrive 是付費服務。必須先向 OverDreive 詢價並訂閱。啟用此服務後將把 OverDreive 的結果顯示於 OPAC 的搜尋。必須經由 API 發展者的應用程式申請這 3 件資訊。Overdirve API 應用程式每週評估一次所以不會在登入之後立即可用。詳情請洽 OverDrive 業務代表。"
+
+#: ../../source/enhancedcontentpreferences.rst:1102
+msgid "|image57|"
+msgstr ""
+
+#: ../../source/enhancedcontentpreferences.rst:1107
+msgid "OverDriveCirculation"
+msgstr "OverDriveCirculation"
+
+#: ../../source/enhancedcontentpreferences.rst:1111
+msgid "Asks: \\_\\_\\_ users to access their OverDrive circulation history, and circulate items. If you enable access, you must register auth return url of http(s)://my.opac.hostname/cgi-bin/koha/external/overdrive/auth.pl with OverDrive."
+msgstr "詢問：\\_\\_\\_ 使用者近用 OverDrive 的流通紀錄，及流通的館藏。若允許近用，必須以 OverDrive 的帳號登錄於 http(s)://my.opac.hostname/cgi-bin/koha/external/overdrive/auth.pl。"
+
+#: ../../source/enhancedcontentpreferences.rst:1124
+msgid "OverDriveClientKey and OverDriveClientSecret"
+msgstr "OverDriveClientKey and OverDriveClientSecret"
+
+#: ../../source/enhancedcontentpreferences.rst:1126
+msgid "Asks: Include OverDrive availability information with the client key \\_\\_ and client secret \\_\\_\\_"
+msgstr "詢問：包括 OverDrive 可得資訊與客戶碼 \\_\\_ 與客戶秘密 \\_\\_\\_"
+
+#: ../../source/enhancedcontentpreferences.rst:1131
+#, fuzzy
+msgid "OverDrive customers can get this information by visiting the `OverDrive Developer Portal <https://developer.overdrive.com/docs/getting-started>`__ and following the instructions found there to apply as an API developer. Once this data and the :ref:`OverDriveLibraryID <OverDriveLibraryID-label>` are populated you will see OverDrive results on your OPAC searches."
+msgstr "OverDrive 客戶可從 `OverDrive Developer Portal <https://developer.overdrive.com/docs/getting-started>`__ 網站取得此資訊並依指示申請成為 API 發展者。取得這些資料與 :ref:`OverDriveLibraryID` 設定後就能從 OPAC 看到 OverDrive 的結果。"
+
+#: ../../source/enhancedcontentpreferences.rst:1141
+msgid "OverDriveLibraryID"
+msgstr "OverDriveLibraryID"
+
+#: ../../source/enhancedcontentpreferences.rst:1143
+msgid "Asks: Show items from the OverDrive catalog of library # \\_\\_\\_"
+msgstr "詢問： 從圖書館 # 的 \\_\\_\\_ OverDrive 目錄顯示館藏"
+
+#: ../../source/enhancedcontentpreferences.rst:1147
+msgid "OverDrive customers can get this information by visiting the `OverDrive Developer Portal <https://developer.overdrive.com/docs/getting-started>`__ and following the instructions found there to apply as an API developer. Once this data and the :ref:`OverDriveClientKey and OverDriveClientSecret <overdriveclientkey-and-overdriveclientsecret-label>` are populated you will see OverDrive results on your OPAC searches."
+msgstr "OverDrive 客戶可從 `OverDrive Developer Portal <https://developer.overdrive.com/docs/getting-started>`__ 網站取得此資訊並依指示申請成為 API 發展者。取得這些資料與 :ref:`OverDriveClientKey 與 OverDriveClientSecret <overdriveclientkey-and-overdriveclientsecret-label>` 偏好的內容 OverDrive 的搜尋結果就可顯示 OPAC 裡。"
+
+#: ../../source/enhancedcontentpreferences.rst:1158
+msgid "RecordedBooks"
+msgstr "RecordedBooks"
+
+#: ../../source/enhancedcontentpreferences.rst:1160
+msgid "RecordedBooks is a pay service. You must first contact RBmedia directly for pricing and subscription information."
+msgstr "RecordedBooks 是付費服務。須先向 RecordedBooks 洽詢付費與訂閱的詳情。"
+
+#: ../../source/enhancedcontentpreferences.rst:1166
+msgid "RecordedBooksClientSecret"
+msgstr "RecordedBooksClientSecret"
+
+#: ../../source/enhancedcontentpreferences.rst:1168
+msgid "Asks: Include RecordedBooks availability information with the client secret \\_\\_\\_"
+msgstr "詢問：將記錄簿可用性資訊包含在客戶端密碼 \\_\\_\\_"
+
+#: ../../source/enhancedcontentpreferences.rst:1172
+msgid "Contact your Recorded Books representative for the library client secret code. (Visit the RBmedia homepage at https://rbmediaglobal.com/ for more information.)"
+msgstr "請聯繫您的記錄簿代表以獲取圖書館客戶端密碼。（請訪問RBmedia主頁 https://rbmediaglobal.com/ 瞭解更多資訊。)"
+
+#: ../../source/enhancedcontentpreferences.rst:1178
+msgid "RecordedBooksDomain"
+msgstr "RecordedBooksDomain"
+
+#: ../../source/enhancedcontentpreferences.rst:1180
+msgid "Asks: RecordedBooks domain \\_\\_\\_"
+msgstr "問：RecordedBooks 領域 \\_\\_\\_"
+
+#: ../../source/enhancedcontentpreferences.rst:1184
+msgid "Enter the domain that your patrons access RecordedBooks."
+msgstr "輸入你的讀者訪問RecordedBooks的領域名。"
+
+#: ../../source/enhancedcontentpreferences.rst:1189
+msgid "RecordedBooksLibraryID"
+msgstr "RecordedBooksLibraryID"
+
+#: ../../source/enhancedcontentpreferences.rst:1191
+msgid "Asks: Show items from the RecordedBooks catalog of library ID \\_\\_\\_"
+msgstr "詢問： 從圖書館ID的 \\_\\_\\_ RecordedBooks 目錄顯示館藏"
+
+#: ../../source/enhancedcontentpreferences.rst:1195
+msgid "Contact your Recorded Books representative for the catalog library id."
+msgstr "請聯繫您的Recorded Books代表，以獲得目錄圖書館的id。"
+
+#: ../../source/enhancedcontentpreferences.rst:1200
+msgid "Syndetics"
+msgstr "Syndetics"
+
+#: ../../source/enhancedcontentpreferences.rst:1202
+msgid "Syndetics is a pay service. You must first contact Syndetics directly for pricing and subscription information."
+msgstr "Syndetics 是付費服務。須先向 Syndetics 洽詢付費與訂閱的詳情。"
+
+#: ../../source/enhancedcontentpreferences.rst:1208
+msgid "SyndeticsAuthorNotes"
+msgstr "SyndeticsAuthorNotes"
+
+#: ../../source/enhancedcontentpreferences.rst:1212
+msgid "Asks: \\_\\_\\_ notes about the author of a title from Syndetics on item detail pages on the OPAC."
+msgstr "詢問：在 OPAC \\_\\_\\_ 取得自 Syndetics 書目中心的附註。"
+
+#: ../../source/enhancedcontentpreferences.rst:1223
+#, fuzzy
+msgid "When this option is set to \"Show\", Syndetics provides notes and short author biographies for more that 300,000 authors, in both fiction and nonfiction. With this option enabled the library can display Syndetics Author Notes on the OPAC. According to the Syndetics Solutions website (http://www.bowker.com/syndetics/), Author Notes include lists of contributors for many multi-author texts and compilations. The :ref:`SyndeticsClientCode <SyndeticsClientCode-label>` must be entered and the :ref:`SyndeticsEnabled <SyndeticsEnabled-label>` option must be activated before this service can be used."
+msgstr "此選項設定為 \"顯示\" 時，Syndetics 提供 30 萬個小說與非小說的附註及著者簡傳。啟用此選項時，圖書館可在 OPAC 顯示 Syndetics Author Notes。根據 Syndetics Solutions 網站 (http://www.bowker.com/syndetics/)，著者附註包括多著者與編者的內容。必須鍵入 :ref:`SyndeticsClientCode` 與開啟 :ref:`SyndeticsEnabled` 選項，此服務才能生效。"
+
+#: ../../source/enhancedcontentpreferences.rst:1236
+msgid "SyndeticsAwards"
+msgstr "SyndeticsAwards"
+
+#: ../../source/enhancedcontentpreferences.rst:1240
+msgid "Asks: \\_\\_\\_ information from Syndetics about the awards a title has won on item detail pages on the OPAC."
+msgstr "詢問：在 OPAC \\_\\_\\_ 得自 Syndetics 書目中心的作品得獎資訊。"
+
+#: ../../source/enhancedcontentpreferences.rst:1251
+#, fuzzy
+msgid "When this option is set to \"Show\", Syndetics provides its clients with a list of awards that any title has won. With this service enabled the library can display those awards for each book on its website. For each book or item that comes up during a user search, the list of awards for that title will be displayed. When a user clicks on a given award, information about that award is presented along with a list of the other titles that have won that award. If the user clicks on any title in the list, they will see holdings information about that title in their region. This option is a paid subscription service. The :ref:`SyndeticsClientCode <SyndeticsClientCode-label>` must be entered and the :ref:`SyndeticsEnabled <SyndeticsEnabled-label>` option must be activated before this service can be used."
+msgstr "此選項設定為 \"顯示\"後，Syndetics 提供著作的得獎資訊。啟用此服務後，圖書館可在網站顯示著作的得獎資訊。使用者搜尋後作品的所有得獎資訊都會呈現。點選該等資訊後，顯示該獎項的資訊，以及該獎項的完整得獎名單。點選題名時，顯示同區域內其他圖書館的館藏資訊。此選項為付費服務。必須鍵入 :ref:`SyndeticsClientCode` 並啟用 :ref:`SyndeticsEnabled` 選項才能使用此服務。"
+
+#: ../../source/enhancedcontentpreferences.rst:1268
+msgid "SyndeticsClientCode"
+msgstr "SyndeticsClientCode"
+
+#: ../../source/enhancedcontentpreferences.rst:1270
+msgid "Asks: Use the client code \\_\\_\\_ to access Syndetics."
+msgstr "詢問：使用客戶碼 \\_\\_\\_ 進入 Syndetics。"
+
+#: ../../source/enhancedcontentpreferences.rst:1274
+#, fuzzy
+msgid "Once the library signs up for Syndetics' services, Syndetics will provide the library with an access code. (Visit the Syndetics homepage at http://www.bowker.com/syndetics/ for more information.) This is the code that must be entered to access Syndetics' subscription services. Syndetics is a paid subscription service. This value must be entered before :ref:`SyndeticsEditions <SyndeticsEditions-label>` can be enabled. If the code is lost, corrupted, or forgotten, a new one can be obtained from http://www.bowker.com/syndetics/."
+msgstr "圖書館登入 Syndetics 服務後，Syndetics 將提供客戶碼給圖書館使用 (詳情見 http://www.bowker.com/syndetics/` 網站)。必須以此客戶碼登入 Syndetics 付費服務。啟用 :ref:`SyndeticsEditions` 之前必須先登入。若遺失或忘記客戶碼，可從 http://www.bowker.com/syndetics/ 取得新的客戶碼。"
+
+#: ../../source/enhancedcontentpreferences.rst:1286
+msgid "You will need to get your client code directly from Syndetics."
+msgstr "需直接從 Syndetics 取得客戶碼。"
+
+#: ../../source/enhancedcontentpreferences.rst:1291
+msgid "SyndeticsCoverImages and SyndeticsCoverImageSize"
+msgstr "SyndeticsCoverImages 與 SyndeticsCoverImageSize"
+
+#: ../../source/enhancedcontentpreferences.rst:1293
+msgid "SyndeticsCoverImages Default: Don't show"
+msgstr "SyndeticsCoverImages 預設值：不顯示"
+
+#: ../../source/enhancedcontentpreferences.rst:1295
+msgid "SyndeticsCoverImageSize Default: medium"
+msgstr "SyndeticsCoverImageSize 預設值：中"
+
+#: ../../source/enhancedcontentpreferences.rst:1297
+msgid "Asks: \\_\\_\\_ cover images from Syndetics on search results and item detail pages on the OPAC in a \\_\\_\\_ size."
+msgstr "詢問：\\_\\_\\_ 得自 Syndetics 書目中心的封面以及採用 \\_\\_\\_ 型大小於 OPAC 詳情頁面。"
+
+#: ../../source/enhancedcontentpreferences.rst:1302
+#, fuzzy
+msgid "When enabled, SyndeticsCoverImages, allows libraries to display Syndetics' collection of full-color cover images for books, videos, DVDs and CDs on their OPAC. For each book or item that comes up during a user search, the cover image for that title will be displayed. Since these cover images come in three sizes, the optimum size must be selected using the SyndeticsCoverImageSize preference after SyndeticsCoverImages are enabled. Syndetics cover images come in two sizes: mid-size (187 x 187 pixels), and large (400 x 400 pixels). Syndetics is a paid subscription service. The :ref:`SyndeticsClientCode <SyndeticsClientCode-label>` must be entered and the :ref:`SyndeticsEnabled <SyndeticsEnabled-label>` option must be activated before this service can be used. Other cover image preferences should also be disabled to avoid interference."
+msgstr "啟用 SyndeticsCoverImages 時，允許圖書館以全彩方式在 OPAC 顯示 Syndetics 有關圖書、影片、DVD 與 CD 的封面。搜尋該圖書或館藏後顯示其封面。因為封面有三種尺寸，必須在啟用 SyndeticsCoverImages 後，經由 SyndeticsCoverImageSize 設定其最佳尺寸。Syndetics 的封面有兩種尺寸：中 (187 x 187 圖素) 與大 (400 x 400 圖素)。Syndetics 是付費服務。必須鍵入 :ref:`SyndeticsClientCode` 且啟用 :ref:`SyndeticsEnabled`，才能使用此服務。同時應關閉其他的封面服務。"
+
+#: ../../source/enhancedcontentpreferences.rst:1316
+msgid "SyndeticsCoverImages Values:"
+msgstr "SyndeticsCoverImages 值："
+
+#: ../../source/enhancedcontentpreferences.rst:1322
+msgid "SyndeticsCoverImageSize Values:"
+msgstr "SyndeticsCoverImageSize 值："
+
+#: ../../source/enhancedcontentpreferences.rst:1324
+msgid "medium"
+msgstr "中等"
+
+#: ../../source/enhancedcontentpreferences.rst:1326
+msgid "large"
+msgstr "大"
+
+#: ../../source/enhancedcontentpreferences.rst:1331
+msgid "SyndeticsEditions"
+msgstr "SyndeticsEditions"
+
+#: ../../source/enhancedcontentpreferences.rst:1335
+msgid "Asks: \\_\\_\\_ information about other editions of a title from Syndetics on item detail pages on the OPAC"
+msgstr "詢問：在 OPAC 詳情頁面 \\_\\_\\_ 得自 Syndetics 書目中心的其他版本資訊"
+
+#: ../../source/enhancedcontentpreferences.rst:1340
+#, fuzzy
+msgid "When enabled this option shows information on other editions of a title from Syndetics on the item detail pages of the OPAC. Syndetics is a paid subscription service. The :ref:`SyndeticsClientCode <SyndeticsClientCode-label>` must be entered and the :ref:`SyndeticsEnabled <SyndeticsEnabled-label>` option must be activated before this service can be used."
+msgstr "啟用此選項後在 OPAC 的館藏詳情頁面顯示來自 Syndetics 該作品的其他版本資訊。Syndetics 是付費服務。必須鍵入 :ref:`SyndeticsClientCode`，並啟用 :ref:`SyndeticsEnabled` 選項才能使用此服務。"
+
+#: ../../source/enhancedcontentpreferences.rst:1355
+#, fuzzy
+msgid "Requires :ref:`OPACFRBRizeEditions <OPACFRBRizeEditions-label>` set to 'show'"
+msgstr "需將 :ref:`OPACFRBRizeEditions` 與 :ref:`OPACFRBRizeEditions` 設為 '顯示'"
+
+#: ../../source/enhancedcontentpreferences.rst:1361
+msgid "SyndeticsEnabled"
+msgstr "SyndeticsEnabled"
+
+#: ../../source/enhancedcontentpreferences.rst:1365
+msgid "Asks: \\_\\_\\_ content from Syndetics."
+msgstr "詢問：\\_\\_\\_ 從 Syndetics 取得的內容。"
+
+#: ../../source/enhancedcontentpreferences.rst:1375
+msgid "When this option is enabled any of the Syndetics options can be used."
+msgstr "啟用此偏好後就能使用 Syndetics 的選項。"
+
+#: ../../source/enhancedcontentpreferences.rst:1379
+#, fuzzy
+msgid "Requires that you enter your :ref:`SyndeticsClientCode <SyndeticsClientCode-label>` before this content will appear."
+msgstr "必須鍵入 :ref:`SyndeticsClientCode` 才能顯示其內容。"
+
+#: ../../source/enhancedcontentpreferences.rst:1386
+msgid "SyndeticsExcerpt"
+msgstr "SyndeticsExcerpt"
+
+#: ../../source/enhancedcontentpreferences.rst:1390
+msgid "Asks: \\_\\_\\_ excerpts from of a title from Syndetics on item detail pages on the OPAC."
+msgstr "詢問：在 OPAC 詳情頁面 \\_\\_\\_ 得自 Syndetics 書目中心的摘要資訊。"
+
+#: ../../source/enhancedcontentpreferences.rst:1401
+msgid "This preference allows Syndetics to display excerpts given to them from selected publishers. The excerpts are available from prominently reviewed new titles, both fiction and non-fiction. The excerpts include poems, essays, recipes, forwards and prefaces. Automatic links provided by the ISBNs within local MARC records are required to integrate Syndetics secured, high-speed Internet servers to the library OPACs. For more information see (http://www.bowker.com/syndetics/)."
+msgstr "此偏好允許 Syndetics 顯示指定出版社的摘要。包括小說與非小說的未出版新書評論。此摘要包括詩、散文、食譜、前言、導論等。以 ISBN 自動連結至在地的 MARC 記錄，顯示於圖書館的 OPAC。詳情見官網 (http://www.bowker.com/syndetics/)。"
+
+#: ../../source/enhancedcontentpreferences.rst:1413
+msgid "SyndeticsReviews"
+msgstr "SyndeticsReviews"
+
+#: ../../source/enhancedcontentpreferences.rst:1417
+msgid "Asks: \\_\\_\\_ reviews of a title from Syndetics on item detail pages on the OPAC."
+msgstr "詢問：在 OPAC 詳情頁面 \\_\\_\\_ 得自 Syndetics 書目中心的書評。"
+
+#: ../../source/enhancedcontentpreferences.rst:1428
+msgid "Syndetics Reviews is an accumulation of book reviews available from a variety of journals and serials. The reviews page displays colored images of reviewed books dust jackets, partnered with the names of the journal or serial providing the review. Clicking on an icon opens a window revealing the book title, author's name, book cover icon and the critic's opinion of the book. Automatic links provided by the ISBNs within local MARC records are required to integrate Syndetics secured, high-speed Internet servers to the library OPACs. For more information see (http://www.bowker.com/syndetics/)."
+msgstr "Syndetics 書評取材自學刊與期刊。書評頁面顯示被評圖書的全彩書衣，以及提供書評的學刊或期刊。點選圖示開啟視窗，顯示圖書的書名、著者、封面及評論者的意見。以 ISBN 自動連結至在地的 MARC 記錄，顯示於圖書館的 OPAC。詳情見官網 (http://www.bowker.com/syndetics/)。"
+
+#: ../../source/enhancedcontentpreferences.rst:1441
+msgid "SyndeticsSeries"
+msgstr "SyndeticsSeries"
+
+#: ../../source/enhancedcontentpreferences.rst:1445
+msgid "Asks: \\_\\_\\_ information on other books in a title's series from Syndetics on item detail pages on the OPAC."
+msgstr "詢問：在 OPAC 詳情頁面 \\_\\_\\_ 得自 Syndetics 的作品集叢資訊。"
+
+#: ../../source/enhancedcontentpreferences.rst:1456
+msgid "Each fiction title within a series is linked to the complete series record. The record displays each title in reading order and also displays the publication order, if different. Alternate series titles are also displayed. Automatic links provided by the ISBNs within local MARC records are required to integrate Syndetics secured, high- speed Internet servers to the library OPACs. For more information see (http://www.bowker.com/syndetics/)."
+msgstr "集叢內的小說題名連結至集叢的完整記錄。依序顯示每個題名及其不同的出版資訊。也顯示集叢的又名。以 ISBN 自動連結至在地的 MARC 記錄，顯示於圖書館的 OPAC。詳情見官網 (http://www.bowker.com/syndetics/)。"
+
+#: ../../source/enhancedcontentpreferences.rst:1467
+msgid "SyndeticsSummary"
+msgstr "SyndeticsSummary"
+
+#: ../../source/enhancedcontentpreferences.rst:1471
+msgid "Asks: \\_\\_\\_ a summary of a title from Syndetics on item detail pages on the OPAC."
+msgstr "詢問：在 OPAC 詳情頁面 \\_\\_\\_ 得自 Syndetics 書目中心的摘要資訊。"
+
+#: ../../source/enhancedcontentpreferences.rst:1482
+msgid "Providing more than 5.6 million summaries and annotations derived from book jackets, edited publisher copy, or independently written annotations from Book News, Inc. Covering fiction and non-fiction, this summaries option provides annotations on both trade and scholarly titles. For more information see (http://www.bowker.com/syndetics/)."
+msgstr "提供來自 Books News 公司的 560 萬筆取自書衣、編者及其他獨立摘要者的摘要。包括小說與非小說、商業用書與學術用書。以 ISBN 自動連結至在地的 MARC 記錄，顯示於圖書館的 OPAC。詳情見官網 (http://www.bowker.com/syndetics/)。"
+
+#: ../../source/enhancedcontentpreferences.rst:1492
+msgid "SyndeticsTOC"
+msgstr "SyndeticsTOC"
+
+#: ../../source/enhancedcontentpreferences.rst:1496
+msgid "Asks: \\_\\_\\_ the table of contents of a title from Syndetics on item detail pages on the OPAC."
+msgstr "詢問：在 OPAC 詳情頁面 \\_\\_\\_ 得自 Syndetics 書目中心的目次。"
+
+#: ../../source/enhancedcontentpreferences.rst:1507
+msgid "This preference allows staff and patrons to review the Table of Contents from a wide variety of publications from popular self-help books to conference proceedings. Specific Information access is the main purpose for this option, allowing patrons guidance to their preferred section of the book. Special arrangements with selected book services is used to obtain the table of contents for new publications each year. Automatic links provided by the ISBNs within local MARC records are required to integrate Syndetics secured, high-speed Internet servers to the library OPACs. For more information see (http://www.bowker.com/syndetics/)."
+msgstr "此偏好允許館員與讀者檢視從自學書到會議記錄各種圖書的目次。Specific Information 近用是此選項的主要目的，允許讀者進入指定的章節。可以進入新書的指定目次。整合Syndetics 之後可以 ISBN 自動連結至在地的 MARC 記錄，顯示於圖書館的 OPAC。詳情見官網 (http://www.bowker.com/syndetics/)。"
+
+#: ../../source/enhancedcontentpreferences.rst:1521
+msgid "Tagging"
+msgstr "標籤"
+
+#: ../../source/enhancedcontentpreferences.rst:1526
+msgid "TagsEnabled"
+msgstr "TagsEnabled"
+
+#: ../../source/enhancedcontentpreferences.rst:1528
+#: ../../source/enhancedcontentpreferences.rst:1573
+msgid "Default: Allow"
+msgstr "預設值：允許"
+
+#: ../../source/enhancedcontentpreferences.rst:1530
+msgid "Asks: \\_\\_\\_ patrons and staff to put tags on items."
+msgstr "詢問：\\_\\_\\_ 讀者與館員新增館藏標籤。"
+
+#: ../../source/enhancedcontentpreferences.rst:1540
+msgid "Set to 'Allow' enable tagging. A tag is metadata, a word added to identify an item. Tags allow patrons to classify materials on their own. TagsEnabled is the main switch that permits the tagging features. TagsEnable must be set to 'Allow' to allow for other tagging features."
+msgstr "設為 '允許' 就啟用標籤功能。標籤是一種後設資料，以文字辨識館藏。允許讀者以自己的方式分類館藏。TagsEnagled 是所有標籤偏好的頭。必須設為 '允許' 才能再設定其他的標籤。"
+
+#: ../../source/enhancedcontentpreferences.rst:1549
+msgid "TagsExternalDictionary"
+msgstr "TagsExternalDictionary"
+
+#: ../../source/enhancedcontentpreferences.rst:1551
+msgid "Asks: Allow tags in the dictionary of the ispell executable \\_\\_\\_ on the server to be approved without moderation."
+msgstr "詢問：允許在 Ispell 字典裡的標籤 \\_\\_\\_ 不需審核。"
+
+#: ../../source/enhancedcontentpreferences.rst:1556
+msgid "The dictionary includes a list of accepted and rejected tags. The accepted list includes all the tags that have been pre-allowed. The rejected list includes tags that are not allowed. This preference identifies the \"accepted\" dictionary used. Ispell is an open source dictionary which can be used as a list of accepted terms. Since the dictionary allows for accurately spelled obscenities, the libraries policy may dictate that modifications are made to the Ispell dictionary if this preference is use. For more information about Ispell http://www.gnu.org/software/ispell/ispell.html. Enter the path on your server to a local ispell executable, used to set $Lingua::Ispell::path."
+msgstr "字典裡有接受與拒絕兩組標籤清單。接受清單包括事先准許的標籤。拒絕清單則是不同意的標籤。此偏好使用 \"接受\" 清單。此偏好採用開放源碼的 Ispell 字典內的詞彙。因為字典允許標籤包括不合道德規範的詞彙，圖書館需要再審核其內容。詳情見官網 http://www.gnu.org/software/ispell/ispell.html。從 $Lingua::Ispell::path 設定執行 ispell 的位置。"
+
+#: ../../source/enhancedcontentpreferences.rst:1571
+msgid "TagsInputOnDetail"
+msgstr "TagsInputOnDetail"
+
+#: ../../source/enhancedcontentpreferences.rst:1575
+msgid "Asks: \\_\\_\\_ patrons to input tags on item detail pages on the OPAC."
+msgstr "詢問：\\_\\_\\_ 讀者從 OPAC 的館藏詳情頁面新增標籤。"
+
+#: ../../source/enhancedcontentpreferences.rst:1581
+msgid "|image59|"
+msgstr ""
+
+#: ../../source/enhancedcontentpreferences.rst:1588
+msgid "TagsInputOnList"
+msgstr "TagsInputOnList"
+
+#: ../../source/enhancedcontentpreferences.rst:1590
+msgid "Asks: \\_\\_\\_ patrons to input tags on search results on the OPAC."
+msgstr "詢問：\\_\\_\\_ 讀者從 OPAC 的搜尋結果新增標籤。"
+
+#: ../../source/enhancedcontentpreferences.rst:1602
+msgid "This system preference is used to control whether or not patrons can add tags to titles from the search results, lists and cart."
+msgstr ""
+
+#: ../../source/enhancedcontentpreferences.rst:1605
+msgid "When set to 'Allow', a button to add tags will appear under each search result, under each title in a list and in the cart."
+msgstr ""
+
+#: ../../source/enhancedcontentpreferences.rst:1608
+msgid "|opacsearchresultsingle|"
+msgstr ""
+
+#: ../../source/enhancedcontentpreferences.rst:1610
+msgid "Patrons will also have the possibility of selecting several titles and tagging them all."
+msgstr ""
+
+#: ../../source/enhancedcontentpreferences.rst:1616
+msgid "TagsModeration"
+msgstr "TagsModeration"
+
+#: ../../source/enhancedcontentpreferences.rst:1618
+msgid "Default: Don't require"
+msgstr "預設值：非必須"
+
+#: ../../source/enhancedcontentpreferences.rst:1620
+msgid "Asks: \\_\\_\\_ that tags submitted by patrons be reviewed by a staff member before being shown."
+msgstr "詢問：讀者新增的標籤 \\_\\_\\_ 被館員審核。"
+
+#: ../../source/enhancedcontentpreferences.rst:1625
+msgid "Don't require"
+msgstr "非必須"
+
+#: ../../source/enhancedcontentpreferences.rst:1627
+msgid "Require"
+msgstr "必須"
+
+#: ../../source/enhancedcontentpreferences.rst:1631
+msgid "When set to 'Require,^ all tags to be first filtered by the tag moderator. Only approved tags will be visible to patrons. When set to 'Don't require' tags will bypass the tag moderator and patrons' tags to be immediately visible. When this preference is enabled the moderator, a staff member, would approve the tag in the Staff Client. The moderator will have the option to approve or reject each pending tag suggestion."
+msgstr "設定為 '需要^，所有的標籤都先被標籤審核員篩選。祗有審核通過的標籤才會被讀者看到。設為 '不需要' 則略過標籤審核員這關，讀者立即可看到。啟用此偏好後，具備館員權限的標籤審核員將從館員介面審核此等標籤。標籤審核員有權核准或拒絕。"
+
+#: ../../source/enhancedcontentpreferences.rst:1639
+msgid "When moderation is required all tags go through the tag moderation tool before becoming visible."
+msgstr "需要審核時所有的標籤都經過標籤審核工具才能被看見。"
+
+#: ../../source/enhancedcontentpreferences.rst:1642
+msgid "*Get there:* More > Tools > :ref:`Tags <tag-moderation-label>`"
+msgstr "*到那裡：* 更多 > 工具 >  :ref:`Tags <tag-moderation-label>`"
+
+#: ../../source/enhancedcontentpreferences.rst:1647
+msgid "TagsShowOnDetail"
+msgstr "TagsShowOnDetail"
+
+#: ../../source/enhancedcontentpreferences.rst:1649
+msgid "Default: 10"
+msgstr "預設值：10"
+
+#: ../../source/enhancedcontentpreferences.rst:1651
+msgid "Asks: Show \\_\\_\\_ tags on item detail pages on the OPAC."
+msgstr "詢問： 顯示 \\_\\_\\_ 個標籤在 OPAC 的館藏詳情頁面。"
+
+#: ../../source/enhancedcontentpreferences.rst:1655
+#: ../../source/enhancedcontentpreferences.rst:1668
+msgid "Set the value to 0 (zero) to turn this feature off."
+msgstr "設定為 0 (零)，則關閉此功能。"
+
+#: ../../source/enhancedcontentpreferences.rst:1660
+msgid "TagsShowOnList"
+msgstr "TagsShowOnList"
+
+#: ../../source/enhancedcontentpreferences.rst:1662
+msgid "Default: 6"
+msgstr "預設值：6"
+
+#: ../../source/enhancedcontentpreferences.rst:1664
+msgid "Asks: Show \\_\\_\\_ tags on search results on the OPAC."
+msgstr "詢問：顯示 \\_\\_\\_ 個標籤在 OPAC 的搜尋結果。"
+
+#: ../../source/images.rst:1218
+msgid "Detailed record in the OPAC, the record has two local cover images displayed in the 'Image' tab. The thumbnail next to the title is the first cover image, with two dots under it to switch from one image to the other."
+msgstr ""
+
+#: ../../source/images.rst:2024
+msgid "A single search result in the OPAC, visible is a checkbox on the left, some bibliographic information, the title being a link, availability of items, star ratings, place hold option, place recall option, save to lists option and add to cart option"
+msgstr ""
+
+#: ../../source/images.rst:2859
+msgid "image46"
+msgstr ""
+
+#: ../../source/images.rst:2860
+msgid "image47"
+msgstr ""
+
+#: ../../source/images.rst:2861
+msgid "image48"
+msgstr ""
+
+#: ../../source/images.rst:2862
+msgid "image49"
+msgstr ""
+
+#: ../../source/images.rst:2863
+msgid "image50"
+msgstr ""
+
+#: ../../source/images.rst:2864
+msgid "image55"
+msgstr ""
+
+#: ../../source/images.rst:2865
+msgid "image56"
+msgstr ""
+
+#: ../../source/images.rst:2866
+msgid "image57"
+msgstr ""
+
+#: ../../source/images.rst:2867
+msgid "image59"
+msgstr ""
+
+#: ../../source/images.rst:3399
+msgid "image1187"
+msgstr ""

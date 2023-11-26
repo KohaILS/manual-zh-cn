@@ -1,0 +1,72 @@
+# Chinese translations for Koha Manual package.
+# Copyright (C) 2020, Koha Community
+# This file is distributed under the same license as the Koha Manual package.
+# Automatically generated, 2021.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Koha Manual 22.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-10-26 08:18+0200\n"
+"PO-Revision-Date: 2023-03-28 01:29+0000\n"
+"Last-Translator: Saralin <c108126114@nkust.edu.tw>\n"
+"Language-Team: none\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pootle 2.8\n"
+"X-Pootle-Path: /zh_TW/manual22.11/globalpreferences.po\n"
+"X-Pootle-Revision: 1\n"
+"X-POOTLE-MTIME: 1679966961.841518\n"
+
+#: ../../source/globalpreferences.rst:6
+#, fuzzy
+msgid "System preferences"
+msgstr "整體系統偏好"
+
+#: ../../source/globalpreferences.rst:8
+#, fuzzy
+msgid "System preferences control the way your Koha system works in general. Set these preferences before anything else in Koha."
+msgstr "整體系統偏好控制 Koha 系統的運作方式。應優先設定它們。"
+
+#: ../../source/globalpreferences.rst:11
+#, fuzzy
+msgid "*Get there:* More > Administration > System preferences"
+msgstr "*到此：*其他 > 管理 > 整體系統偏好"
+
+#: ../../source/globalpreferences.rst:13
+#, fuzzy
+msgid "System preferences can be searched (using any part of the preference name or description) using the search box on the 'Administration' page"
+msgstr "以 '管理' 頁面的搜尋盒或每個系統偏好頁面上方的搜尋盒，都可以搜尋系統偏好 (可以用系統偏好的部份名稱或說明搜尋)。"
+
+#: ../../source/globalpreferences.rst:18
+#, fuzzy
+msgid "or the search box at the top of the administration module or system preferences pages."
+msgstr "*到此：*其他 > 管理 > 整體系統偏好"
+
+#: ../../source/globalpreferences.rst:23
+#, fuzzy
+msgid "When editing system preferences a *(modified)* flag will appear next to elements that were changed until you click the 'Save all ... preferences' button."
+msgstr "編輯偏好後，在該偏好旁出現 ^(修改)^ 標籤，必須按下 '儲存所有' 鈕，該標籤才會消失："
+
+#: ../../source/globalpreferences.rst:28
+#, fuzzy
+msgid "After saving your preferences you'll get a confirmation message telling you what preferences were saved."
+msgstr "儲存偏好後，出現確認訊息，告知已儲存的偏好"
+
+#: ../../source/globalpreferences.rst:33
+#, fuzzy
+msgid "Each section of system preferences is sorted alphabetically by default. Clicking the small 'up' arrow to the right of the word 'Preference' in the header column will invert the sorting."
+msgstr "每組偏好都可以依字順排序，點選標題欄 '偏好' 右方的向下箭頭，即可"
+
+#: ../../source/globalpreferences.rst:39
+#, fuzzy
+msgid "If the system preference refers to monetary values ( :ref:`maxoutstanding <maxoutstanding-label>`, for example) the currency displayed will be the default one set in the :ref:`currencies and exchange rates <currencies-and-exchange-rates-label>` administration section."
+msgstr "若偏好採用幣值 (如 :ref:`maxoutstanding`) 顯示的幣值是預設 :ref:`幣別與匯率` 管理區塊。以下的例子 USD 即美元。"
+
+#: ../../source/globalpreferences.rst:47
+#, fuzzy
+msgid "For library systems with unique URLs for each site the system preference can be overridden by editing your koha-http.conf file. This has to be done by a system administrator or someone with access to your system files. For example, if all libraries but one want to have search terms highlighted in results, set the :ref:`OpacHighlightedWords <opachighlightedwords-and-nothighlightedwords-label>` system preference to 'Highlight', then edit the koha-http.conf for the library that wants this turned off by adding :code:`SetEnv OVERRIDE\\_SYSPREF\\_OpacHighlightedWords \"0\"`. After restarting the web server, that one library will no longer see highlighted terms. Consult with your system administrator for more information."
+msgstr "在 Koha 聯盟圖書館系統裡，若每個圖書館都有自己的網址，可以由系統管理者或其他可近用系統檔案的人，編輯 koha-http.conf 檔案，取代原有的系統偏好。例如：除了 A 成員圖書館之外，其他圖書館均希望在搜尋結果裡，強調搜尋的術語，可設定 OpacHighlightedWords 偏好為 '強調'，然後編輯 A 成員圖書館的kohahttp.conf，新增一行內容 'SetEnv OVERRIDE\\_SYSPREF\\_OpacHighlightedWords \"0\"'。重新啟動網頁伺服器後，A 成員圖書館的搜尋結果，就不會強調搜尋的術語。詳情請洽您的系統管理者。"

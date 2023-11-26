@@ -1,0 +1,784 @@
+# Chinese translations for Koha Manual package.
+# Copyright (C) 2020, Koha Community
+# This file is distributed under the same license as the Koha Manual package.
+# Automatically generated, 2021.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Koha Manual 22.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-10-26 13:37+0000\n"
+"PO-Revision-Date: 2023-03-30 12:14+0000\n"
+"Last-Translator: Frank Chou <frank@sris.com.tw>\n"
+"Language-Team: none\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pootle 2.8\n"
+"X-Pootle-Path: /zh_TW/manual22.11/acquisitionspreferences.po\n"
+"X-Pootle-Revision: 1\n"
+"X-POOTLE-MTIME: 1680178442.601392\n"
+
+#: ../../source/acquisitionspreferences.rst:6
+msgid "Acquisitions"
+msgstr "採訪"
+
+#: ../../source/acquisitionspreferences.rst:8
+msgid "*Get there:* More > Administration > Global system preferences > Acquisitions"
+msgstr "*到此：*其他 > 管理 > 整體系統偏好> 採訪"
+
+#: ../../source/acquisitionspreferences.rst:13
+#: ../../source/acquisitionspreferences.rst:18
+msgid "EDIFACT"
+msgstr "編輯器"
+
+#: ../../source/acquisitionspreferences.rst:20
+msgid "Asks: \\_\\_\\_ EDIFACT message exchange for acquisitions"
+msgstr "詢問： \\_\\_\\_ 用於獲取電子數據的消息交換"
+
+#: ../../source/acquisitionspreferences.rst:22
+msgid "Default: Enable"
+msgstr "預設值：啟用"
+
+#: ../../source/acquisitionspreferences.rst:24
+#: ../../source/acquisitionspreferences.rst:46
+#: ../../source/acquisitionspreferences.rst:69
+#: ../../source/acquisitionspreferences.rst:99
+#: ../../source/acquisitionspreferences.rst:137
+#: ../../source/acquisitionspreferences.rst:191
+#: ../../source/acquisitionspreferences.rst:226
+#: ../../source/acquisitionspreferences.rst:250
+#: ../../source/acquisitionspreferences.rst:272
+#: ../../source/acquisitionspreferences.rst:294
+#: ../../source/acquisitionspreferences.rst:317
+#: ../../source/acquisitionspreferences.rst:470
+#: ../../source/acquisitionspreferences.rst:570
+#: ../../source/acquisitionspreferences.rst:600
+msgid "Values:"
+msgstr "值："
+
+#: ../../source/acquisitionspreferences.rst:26
+msgid "Disable"
+msgstr "停用"
+
+#: ../../source/acquisitionspreferences.rst:28
+msgid "Enable"
+msgstr "啟用"
+
+#: ../../source/acquisitionspreferences.rst:30
+#: ../../source/acquisitionspreferences.rst:52
+#: ../../source/acquisitionspreferences.rst:75
+#: ../../source/acquisitionspreferences.rst:107
+#: ../../source/acquisitionspreferences.rst:143
+#: ../../source/acquisitionspreferences.rst:157
+#: ../../source/acquisitionspreferences.rst:173
+#: ../../source/acquisitionspreferences.rst:199
+#: ../../source/acquisitionspreferences.rst:232
+#: ../../source/acquisitionspreferences.rst:278
+#: ../../source/acquisitionspreferences.rst:302
+#: ../../source/acquisitionspreferences.rst:327
+#: ../../source/acquisitionspreferences.rst:355
+#: ../../source/acquisitionspreferences.rst:402
+#: ../../source/acquisitionspreferences.rst:476
+#: ../../source/acquisitionspreferences.rst:497
+#: ../../source/acquisitionspreferences.rst:521
+#: ../../source/acquisitionspreferences.rst:554
+#: ../../source/acquisitionspreferences.rst:576
+#: ../../source/acquisitionspreferences.rst:612
+msgid "Description:"
+msgstr "說明："
+
+#: ../../source/acquisitionspreferences.rst:32
+msgid "This system preference is the main switch to turn on or turn off the EDIFACT feature in Koha."
+msgstr "這個系統偏好是打開或關閉Koha中電子數據功能的主要開關。"
+
+#: ../../source/acquisitionspreferences.rst:39
+msgid "EdifactInvoiceImport"
+msgstr "EdifactInvoiceImport"
+
+#: ../../source/acquisitionspreferences.rst:41
+msgid "Asks: \\_\\_\\_ automatically import EDIFACT invoice message files when they are downloaded."
+msgstr "詢問: \\_\\_\\_ 在下載電子數據發票訊息文件時，自動導入這些文件。"
+
+#: ../../source/acquisitionspreferences.rst:44
+msgid "Default: Do"
+msgstr "預設值：要"
+
+#: ../../source/acquisitionspreferences.rst:48
+#: ../../source/acquisitionspreferences.rst:139
+msgid "Do"
+msgstr "做"
+
+#: ../../source/acquisitionspreferences.rst:50
+#: ../../source/acquisitionspreferences.rst:141
+msgid "Don't"
+msgstr "不要"
+
+#: ../../source/acquisitionspreferences.rst:54
+msgid "This feature allows libraries to delay the importing of EDI invoices until a time of their choosing. If the system preference is set to 'Don't' the invoices are imported into the database but the invoice processing is skipped. Instead, any invoice file listed in EDIfact messages with a status of 'New' will have an 'Import' button to process the invoice manually."
+msgstr "這項功能允許圖書館將EDI發票的匯入時間推遲到他們選擇的時間。如果系統偏好設置為 '不'，發票將被導入資料庫，但發票處理將被跳過。相反，在電子數據訊息中列出的任何狀態為 '新' 的發票文件將有一個 '輸入' 按鈕來手動處理發票。"
+
+#: ../../source/acquisitionspreferences.rst:63
+msgid "EdifactLSQ"
+msgstr "EdifactLSQ"
+
+#: ../../source/acquisitionspreferences.rst:65
+msgid "Asks: Map sequence code (GIR:LSQ) field to \\_\\_\\_ in items."
+msgstr "詢問：將序列代碼 (GIR:LSQ) 欄段映射到館藏中的 \\_\\_\\_。"
+
+#: ../../source/acquisitionspreferences.rst:67
+msgid "Default: location"
+msgstr "預設值：位置"
+
+#: ../../source/acquisitionspreferences.rst:71
+msgid "collection"
+msgstr "館藏"
+
+#: ../../source/acquisitionspreferences.rst:73
+msgid "location"
+msgstr "位置"
+
+#: ../../source/acquisitionspreferences.rst:77
+msgid "EDItEUR describes the LSQ segment as \"A code or other designation which identifies stock which is to be shelved in a specified sequence or collection.\" In Koha, this could be interpreted as either the item's location or collection (ccode)."
+msgstr "EDItEUR將LSQ段描述為 \"一個代碼或其他指定，用於識別要按特定順序或集合上架的庫存。\" 在Koha中，這可以被解釋為物品的位置或收藏（ccode）。"
+
+#: ../../source/acquisitionspreferences.rst:82
+msgid "This system preference is used to indicate to Koha to which field this should be mapped."
+msgstr "這個系統偏好是用來向Koha表明這應該被映射到哪個欄位。"
+
+#: ../../source/acquisitionspreferences.rst:88
+msgid "Policy"
+msgstr "政策"
+
+#: ../../source/acquisitionspreferences.rst:93
+msgid "AcqCreateItem"
+msgstr "AcqCreateItem"
+
+#: ../../source/acquisitionspreferences.rst:95
+msgid "Asks: Create an item when \\_\\_\\_."
+msgstr "詢問：當 \\_\\_\\_ 時，新增館藏。"
+
+#: ../../source/acquisitionspreferences.rst:97
+msgid "Default: placing an order"
+msgstr "預設值：下訂單"
+
+#: ../../source/acquisitionspreferences.rst:101
+msgid "cataloging a record"
+msgstr "編目紀錄"
+
+#: ../../source/acquisitionspreferences.rst:103
+msgid "placing an order"
+msgstr "下訂單"
+
+#: ../../source/acquisitionspreferences.rst:105
+msgid "receiving an order"
+msgstr "簽收訂單"
+
+#: ../../source/acquisitionspreferences.rst:109
+msgid "This preference lets you decide when you'd like to create an item record in Koha."
+msgstr "這個偏好讓你決定何時在Koha中建立一個館藏記錄。"
+
+#: ../../source/acquisitionspreferences.rst:112
+msgid "If you choose to add an item record when 'placing an order', you will enter item information in as you :ref:`add records in your basket <create-a-basket-label>`."
+msgstr "如果你在 '下訂單' 時選擇新增商品記錄，你將在 :ref:`在你的籃子裡新增記錄<create-a-basket-label>`時輸入館藏訊息。"
+
+#: ../../source/acquisitionspreferences.rst:115
+msgid "If you choose to add the item when 'receiving an order' you will be asked for item record information when you're :ref:`receiving orders <receiving-orders-label>` in acquisitions."
+msgstr "如果您選擇在 '接收訂單' 時新增館藏，當您 :ref:`接收訂單<receiving-orders-label>`在收購時，您將被要求提供館藏記錄的訊息。"
+
+#: ../../source/acquisitionspreferences.rst:119
+msgid "If you choose to add the item when 'cataloging a record' then item records will not be created in acquisitions at all. You will need to go to the :ref:`cataloging module <cataloging-label>` to :ref:`add the items <adding-items-label>`."
+msgstr "如果你選擇在 '編目記錄' 時新增館藏，那麼館藏記錄將不會在採訪中建立。你需要到 :ref:`編目模組<cataloging-label>`去 :ref:`新增館藏<adding-items-label>`。"
+
+#: ../../source/acquisitionspreferences.rst:124
+msgid "Note that this setting can be overridden when :ref:`creating a basket <create-a-basket-label>`."
+msgstr "注意，當 :ref:`建立一個籃子<create-a-basket-label>`時，這個設定可以被覆蓋。"
+
+#: ../../source/acquisitionspreferences.rst:130
+msgid "AcqEnableFiles"
+msgstr "AcqEnableFiles"
+
+#: ../../source/acquisitionspreferences.rst:132
+msgid "Asks: \\_\\_\\_ enable the ability to upload and attach arbitrary files to invoices."
+msgstr "詢問：\\_\\_\\_ 啟用上傳與附加檔案至發票的功能。"
+
+#: ../../source/acquisitionspreferences.rst:135
+msgid "Default: Don't"
+msgstr "預設值：不"
+
+#: ../../source/acquisitionspreferences.rst:145
+msgid "This preference controls whether or not you allow the :ref:`uploading of invoice files <attaching-files-to-invoices-label>` via the acquisitions module."
+msgstr "此偏好控制你是否允許通過收購模組上傳發票文件<attaching-files-to-invoices-label>`。"
+
+#: ../../source/acquisitionspreferences.rst:152
+msgid "AcqItemSetSubfieldsWhenReceiptIsCancelled"
+msgstr "AcqItemSetSubfieldsWhenReceiptIsCancelled"
+
+#: ../../source/acquisitionspreferences.rst:154
+msgid "Asks: Upon canceling a receipt, update the item's subfields if they were created when placing an order (e.g. o=5\\|a=\"bar foo\"\"). \\_\\_\\_"
+msgstr "詢問：取消在發出訂單時產生的收條 (如 o=5\\|a=\"bar foo\"\")，則需更新館藏的分欄。\\_\\_\\_"
+
+#: ../../source/acquisitionspreferences.rst:159
+#, fuzzy
+msgid "This preference is used in conjunction with the :ref:`AcqItemSetSubfieldsWhenReceived <AcqItemSetSubfieldsWhenReceived-label>` preference. If you have the system set to enter default values when you receive you will want to have those values revert back if the receipt is canceled. This preference allows you to do that."
+msgstr "此偏好與 :ref:`AcqItemSetSubfieldsWhenReceived` 偏好共用。若系統預設是簽收就鍵入預設值則取消訂單時則回覆原值。此偏好就是執行此工作。"
+
+#: ../../source/acquisitionspreferences.rst:168
+msgid "AcqItemSetSubfieldsWhenReceived"
+msgstr "AcqItemSetSubfieldsWhenReceived"
+
+#: ../../source/acquisitionspreferences.rst:170
+msgid "Asks: Upon receiving items, update their subfields if they were created when placing an order (e.g. o=5\\|a=\"foo bar\"). \\_\\_\\_"
+msgstr "詢問：簽收在發出訂單時產生的館藏 (如 o=5\\|a=\"foo bar\")，則需要更新其分欄。\\_\\_\\_"
+
+#: ../../source/acquisitionspreferences.rst:175
+msgid "This preference allows you to set default values for items that you receive via acquisitions. Enter the data as subfield=value and split your values with a bar ( \\| ). For example you can remove the Ordered status on the item automatically when you receive it just by entering 7=0 in this preference. That will set the Not for Loan status (subfield 7) to 0 which is available."
+msgstr "此偏好設定經由採訪取得館藏的預設值。鍵入的格式為分欄=值並以直線 ( \\| ) 區隔多筆分欄。如：鍵入 7=0，表示收到館藏時，自動移除館藏的訂購狀態。將把不外借狀態 (分欄 7 ) 設為 0，表示可外借。"
+
+#: ../../source/acquisitionspreferences.rst:185
+msgid "AcqViewBaskets"
+msgstr "AcqViewBaskets"
+
+#: ../../source/acquisitionspreferences.rst:187
+msgid "Asks: Show baskets \\_\\_\\_"
+msgstr "詢問：顯示採訪籃 \\_\\_\\_"
+
+#: ../../source/acquisitionspreferences.rst:189
+msgid "Default: created or managed by staff member"
+msgstr "預設：由館員新增或管理"
+
+#: ../../source/acquisitionspreferences.rst:193
+msgid "in system, regardless of owner"
+msgstr "系統內新增，包括所有的擁有者"
+
+#: ../../source/acquisitionspreferences.rst:195
+msgid "from staff member's library"
+msgstr "來自館員的圖書館"
+
+#: ../../source/acquisitionspreferences.rst:197
+msgid "created or managed by staff member"
+msgstr "由館員建立或管理"
+
+#: ../../source/acquisitionspreferences.rst:201
+msgid "When in acquisitions, this preference allows you to control whose baskets you can see when looking at a vendor."
+msgstr "在採訪時，這個偏好允許你控制在查看供應商時可以看到誰的籃子。"
+
+#: ../../source/acquisitionspreferences.rst:204
+msgid "The default value of 'created or managed by staff member' makes it so that you only see the baskets you created."
+msgstr "預設值 '由館員創建或管理' 使你只能看到你建立的籃子。"
+
+#: ../../source/acquisitionspreferences.rst:207
+msgid "Choosing to see baskets 'from staff member's library' will show you the baskets created by anyone at the branch you're logged in at."
+msgstr "選擇查看 '來自館員圖書館' 的籃子，將顯示你所登錄的分行機構的任何人所建立的籃子。"
+
+#: ../../source/acquisitionspreferences.rst:210
+msgid "Finally, you can choose to set this preference to show you all baskets regardless of who created it ('in system, regardless of owner')."
+msgstr "最後，你可以選擇將此偏好設定為向你顯示所有的籃子，無論它是誰建立的（'在系統中，無論所有者是誰'）。"
+
+#: ../../source/acquisitionspreferences.rst:213
+msgid "Regardless of which value you choose for this preference, superlibrarians can see all baskets created in the system."
+msgstr "無論你為這個偏好選擇哪個值，超級圖書館員都可以看到系統中建立的所有籃子。"
+
+#: ../../source/acquisitionspreferences.rst:219
+msgid "AcqWarnOnDuplicateInvoice"
+msgstr "AcqWarnOnDuplicateInvoice"
+
+#: ../../source/acquisitionspreferences.rst:221
+msgid "Asks: \\_\\_\\_ when the librarian tries to create an invoice with a duplicate number."
+msgstr "詢問：\\_\\_\\_ 當圖書館員以重複的號碼新增收據。"
+
+#: ../../source/acquisitionspreferences.rst:224
+msgid "Default: Do not warn"
+msgstr "預設值：不警示"
+
+#: ../../source/acquisitionspreferences.rst:228
+msgid "Do not warn"
+msgstr "不警示"
+
+#: ../../source/acquisitionspreferences.rst:230
+msgid "Warn"
+msgstr "警示"
+
+#: ../../source/acquisitionspreferences.rst:234
+msgid "When set to 'Warn', Koha will let staff know if an invoice with the same number has already been created. The staff member will have a choice to either receive on the existing invoice or create a new one with the same number."
+msgstr "當設置為 '警告' 時，Koha會讓館員知道是否已經建立了相同號碼的發票。館員可以選擇在現有的發票上接收，或者用相同的號碼建立一個新的發票。"
+
+#: ../../source/acquisitionspreferences.rst:239
+#, fuzzy
+msgid "|acqwarnonduplicateinvoice|"
+msgstr "AcqWarnOnDuplicateInvoice"
+
+#: ../../source/acquisitionspreferences.rst:244
+msgid "BasketConfirmations"
+msgstr "BasketConfirmations"
+
+#: ../../source/acquisitionspreferences.rst:246
+msgid "Asks: When closing or reopening a basket, \\_\\_\\_."
+msgstr "詢問：關閉或再打開採購籃時，\\_\\_\\_。"
+
+#: ../../source/acquisitionspreferences.rst:248
+msgid "Default: always ask for confirmation"
+msgstr "預設值：總是要求確認"
+
+#: ../../source/acquisitionspreferences.rst:252
+msgid "always ask for confirmation"
+msgstr "總是要求確認"
+
+#: ../../source/acquisitionspreferences.rst:254
+msgid "do not ask for confirmation"
+msgstr "不要求確認"
+
+#: ../../source/acquisitionspreferences.rst:256
+msgid "Descriptions:"
+msgstr "說明："
+
+#: ../../source/acquisitionspreferences.rst:258
+msgid "This preference adds the option to skip confirmations on closing and reopening a basket. If you skip the confirmation, you do not create a new basket group."
+msgstr "關閉或再打開採購籃時由此偏好控制是否確認。若略過確認，則不能新增採購籃群組。"
+
+#: ../../source/acquisitionspreferences.rst:265
+msgid "ClaimsBccCopy"
+msgstr "ClaimsBccCopy"
+
+#: ../../source/acquisitionspreferences.rst:267
+msgid "Asks: \\_\\_\\_ blind copy (BCC) to logged in user when sending serial or acquisitions claims notices."
+msgstr "答：\\_\\_\\_ 以密件收件人 (BCC) 方式送出期刊或採旁通知。"
+
+#: ../../source/acquisitionspreferences.rst:270
+msgid "Default: Don't send"
+msgstr "預設值：不送出"
+
+#: ../../source/acquisitionspreferences.rst:274
+msgid "Don't send"
+msgstr "不送出"
+
+#: ../../source/acquisitionspreferences.rst:276
+msgid "Send"
+msgstr "寄送"
+
+#: ../../source/acquisitionspreferences.rst:280
+msgid "This system preference allows you to choose whether or not you want to send a copy of the claim email to the staff member when :ref:`claiming a late serial issue <claim-late-serials-label>` or a :ref:`late acquisitions order <claims-and-late-orders-label>`."
+msgstr "這個系統偏好允許你選擇是否要在 :ref:`索賠延遲的連續期刊問題<claim-ate-serials-label>`或 :ref:`索賠延遲的連續期刊問題<claims-and-ate-orders-label>`時向館員發送一份索賠電子郵件。"
+
+#: ../../source/acquisitionspreferences.rst:288
+msgid "CurrencyFormat"
+msgstr "CurrencyFormat"
+
+#: ../../source/acquisitionspreferences.rst:290
+msgid "Asks: Display currencies using the following format \\_\\_\\_"
+msgstr "詢問： 使用下列格式顯示金額 \\_\\_\\_"
+
+#: ../../source/acquisitionspreferences.rst:292
+msgid "Default: 360,000.00 (US)"
+msgstr "預設值：360,000.00 (美元)"
+
+#: ../../source/acquisitionspreferences.rst:296
+msgid "360'000.00 (CH)"
+msgstr "360'000.00 (CH)"
+
+#: ../../source/acquisitionspreferences.rst:298
+msgid "360 000,00 (FR)"
+msgstr "360 000,00 (法國法郎)"
+
+#: ../../source/acquisitionspreferences.rst:300
+msgid "360,000.00 (US)"
+msgstr "360,000.00 (美元)"
+
+#: ../../source/acquisitionspreferences.rst:304
+msgid "This system preference controls how prices are displayed in Koha."
+msgstr "這個系統偏好控制價格在Koha中的顯示方式。"
+
+#: ../../source/acquisitionspreferences.rst:309
+msgid "EmailPurchaseSuggestions and EmailAddressForSuggestions"
+msgstr "EmailPurchaseSuggestions and EmailAddressForSuggestions"
+
+#: ../../source/acquisitionspreferences.rst:311
+msgid "Asks: Choose email address that new purchase suggestions will be sent to: \\_\\_\\_. If you choose EmailAddressForSuggestions you have to enter a valid email address: \\_\\_\\_"
+msgstr "詢問: 選擇新的購買建議將被發送到的電子郵件地址: \\_\\_\\_。 如果您選擇EmailAddressForSuggestions，您必須輸入一個有效的電子郵件地址: \\_\\_\\_"
+
+#: ../../source/acquisitionspreferences.rst:315
+msgid "Default: none"
+msgstr "預設值：無"
+
+#: ../../source/acquisitionspreferences.rst:319
+msgid "none"
+msgstr "沒有"
+
+#: ../../source/acquisitionspreferences.rst:321
+#, fuzzy
+msgid "email address of library"
+msgstr "分行的電子郵件地址"
+
+#: ../../source/acquisitionspreferences.rst:323
+msgid "EmailAddressForSuggestions"
+msgstr "EmailAddressForSuggestions"
+
+#: ../../source/acquisitionspreferences.rst:325
+msgid "KohaAdminEmailAddress"
+msgstr "KohaAdminEmailAddress"
+
+#: ../../source/acquisitionspreferences.rst:329
+msgid "If you want Koha to send purchase suggestions via email, choose which email address it should send them to"
+msgstr "如果你想讓Koha通過電子郵件寄送購買建議，請選擇它應該將建議寄送到哪個電子郵件地址"
+
+#: ../../source/acquisitionspreferences.rst:332
+msgid "none will deactivate this feature"
+msgstr "沒有將停用該功能"
+
+#: ../../source/acquisitionspreferences.rst:334
+#, fuzzy
+msgid "email address of library will use the email address entered in the :ref:`libraries settings <libraries-label>`"
+msgstr "分行機構的電子郵件地址將使用在 :ref:`圖書館設定 <libraries-label>`中輸入的電子郵件地址"
+
+#: ../../source/acquisitionspreferences.rst:337
+msgid "if you choose EmailAddressForSuggestions, enter the email address in the input field"
+msgstr "如果您選擇EmailAddressForSuggestions，請在輸入欄中輸入電子郵件地址"
+
+#: ../../source/acquisitionspreferences.rst:340
+#, fuzzy
+msgid "if you choose KohaAdminEmailAddress, the email will be sent to the main email address, as entered in :ref:`KohaAdminEmailAddress <KohaAdminEmailAddress-label>`"
+msgstr "如果你選擇KohaAdminEmailAddress，電子郵件將被發送到主要的電子郵件地址，如在 :ref:`KohaAdminEmailAddress`中輸入的"
+
+#: ../../source/acquisitionspreferences.rst:343
+msgid "You can customize the message that is sent with the :ref:`Notices and slips tool <notices-and-slips-label>`, the letter code is NEW\\_SUGGESTION"
+msgstr "你可以自定義用 :ref:`通知和單據工具<notices-and-slips-label>`發送的訊息，字母代碼為NEW\\_SUGGESTION"
+
+#: ../../source/acquisitionspreferences.rst:350
+msgid "MarcFieldsToOrder"
+msgstr "MarcFieldsToOrder"
+
+#: ../../source/acquisitionspreferences.rst:352
+msgid "Asks: Set the mapping values for a new order line created from a MARC record in a staged file."
+msgstr "詢問：於待處理檔案的 MARC 紀錄設定對映值供新增訂閱列使用。"
+
+#: ../../source/acquisitionspreferences.rst:357
+msgid "This preference includes MARC fields to check for order information to use when you :ref:`order from a new .mrc file <order-from-a-new-file-label>` or when you :ref:`order from a staged file <order-from-a-staged-file-label>` in acquisitions. You can use the following fields:"
+msgstr "這個偏好包括MARC欄位，當你 :ref:`從新的.mrc文件訂購<order-from-a-new-file-label>`或當你 :ref:`從採訪中的staged文件訂購<order-from-a-staged-file-label>`時，檢查訂購訊息的使用。你可以使用以下欄位:"
+
+#: ../../source/acquisitionspreferences.rst:362
+#: ../../source/acquisitionspreferences.rst:428
+msgid "price,"
+msgstr "價格，"
+
+#: ../../source/acquisitionspreferences.rst:364
+msgid "quantity,"
+msgstr "數量，"
+
+#: ../../source/acquisitionspreferences.rst:366
+msgid "budget\\_code,"
+msgstr "預算\\_代碼，"
+
+#: ../../source/acquisitionspreferences.rst:368
+msgid "discount,"
+msgstr "折扣，"
+
+#: ../../source/acquisitionspreferences.rst:370
+msgid "sort1, and"
+msgstr "排序1，和"
+
+#: ../../source/acquisitionspreferences.rst:372
+msgid "sort2."
+msgstr "排序2。"
+
+#: ../../source/acquisitionspreferences.rst:374
+#: ../../source/acquisitionspreferences.rst:440
+msgid "For example:"
+msgstr "範例："
+
+#: ../../source/acquisitionspreferences.rst:384
+#: ../../source/acquisitionspreferences.rst:451
+msgid "Requires YAML syntax to work"
+msgstr "需要YAML語法才能執行"
+
+#: ../../source/acquisitionspreferences.rst:386
+#: ../../source/acquisitionspreferences.rst:453
+msgid "This means"
+msgstr "這表示"
+
+#: ../../source/acquisitionspreferences.rst:388
+#: ../../source/acquisitionspreferences.rst:455
+msgid "Make sure there is NO space between the field name and the colon"
+msgstr "確保欄段名和冒號之間沒有空格"
+
+#: ../../source/acquisitionspreferences.rst:390
+#: ../../source/acquisitionspreferences.rst:457
+msgid "Make sure there IS a space between the colon and the value"
+msgstr "請確保在冒號和數值之間有一個空格"
+
+#: ../../source/acquisitionspreferences.rst:392
+#: ../../source/acquisitionspreferences.rst:459
+msgid "Make sure each pair is on its own line"
+msgstr "確認每組都在同一列中"
+
+#: ../../source/acquisitionspreferences.rst:397
+msgid "MarcItemFieldsToOrder"
+msgstr "MarcItemFieldsToOrder"
+
+#: ../../source/acquisitionspreferences.rst:399
+msgid "Asks: Set the mapping values for new item records created from a MARC record in a staged file."
+msgstr "詢問：於待處理檔案的 MARC 紀錄設定對映值供新增訂閱列使用。"
+
+#: ../../source/acquisitionspreferences.rst:404
+msgid "This preference automatically generates items in Koha with populated information based on a 9XX field and subfield. You can use the following fields:"
+msgstr "這個偏好在Koha中自動生成館藏，並根據9XX欄位和分欄填入訊息。你可以使用以下欄位:"
+
+#: ../../source/acquisitionspreferences.rst:408
+msgid "homebranch,"
+msgstr "所屬分館，"
+
+#: ../../source/acquisitionspreferences.rst:410
+msgid "holdingbranch,"
+msgstr "holdingbranch,"
+
+#: ../../source/acquisitionspreferences.rst:412
+msgid "itype,"
+msgstr "類型，"
+
+#: ../../source/acquisitionspreferences.rst:414
+msgid "nonpublic\\_note,"
+msgstr "非公開\\_說明,"
+
+#: ../../source/acquisitionspreferences.rst:416
+msgid "public\\_note,"
+msgstr "公開\\_說明，"
+
+#: ../../source/acquisitionspreferences.rst:418
+msgid "loc,"
+msgstr "loc,"
+
+#: ../../source/acquisitionspreferences.rst:420
+msgid "ccode,"
+msgstr "ccode,"
+
+#: ../../source/acquisitionspreferences.rst:422
+msgid "notforloan,"
+msgstr "notforloan,"
+
+#: ../../source/acquisitionspreferences.rst:424
+msgid "uri,"
+msgstr "uri,"
+
+#: ../../source/acquisitionspreferences.rst:426
+msgid "copyno,"
+msgstr "copyno,"
+
+#: ../../source/acquisitionspreferences.rst:430
+msgid "replacementprice, and"
+msgstr "replacementprice, 和"
+
+#: ../../source/acquisitionspreferences.rst:432
+msgid "itemcallnumber."
+msgstr "itemcallnumber."
+
+#: ../../source/acquisitionspreferences.rst:434
+msgid "You can also use the following special fields:"
+msgstr "你也可以使用以下特殊欄位:"
+
+#: ../../source/acquisitionspreferences.rst:436
+msgid "quantity, and"
+msgstr "數量, 和"
+
+#: ../../source/acquisitionspreferences.rst:438
+msgid "budget_code."
+msgstr "預算_代碼。"
+
+#: ../../source/acquisitionspreferences.rst:464
+msgid "OrderPriceRounding"
+msgstr "OrderPriceRounding"
+
+#: ../../source/acquisitionspreferences.rst:466
+msgid "Asks: \\_\\_\\_ to nearest cent."
+msgstr "詢問：\\_\\_\\_ 到最近的分值。"
+
+#: ../../source/acquisitionspreferences.rst:468
+msgid "Default: Don't round"
+msgstr "預設值：不捨入"
+
+#: ../../source/acquisitionspreferences.rst:472
+msgid "Don't round"
+msgstr "不捨入"
+
+#: ../../source/acquisitionspreferences.rst:474
+msgid "Round"
+msgstr "捨入"
+
+#: ../../source/acquisitionspreferences.rst:478
+msgid "This system preference determines whether full precision values or rounded values should be used in price calculations."
+msgstr "這個系統偏好計算價格時採用全值或進位。"
+
+#: ../../source/acquisitionspreferences.rst:481
+msgid "This is particularly important when your tax rates have more decimals than your currency"
+msgstr "當你的稅率比你的貨幣有更多的小數時，這一點尤其重要"
+
+#: ../../source/acquisitionspreferences.rst:487
+msgid "PurgeSuggestionsOlderThan"
+msgstr "PurgeSuggestionsOlderThan"
+
+#: ../../source/acquisitionspreferences.rst:489
+msgid "Asks: Keep accepted or rejected purchase suggestions for a period of \\_\\_\\_ days."
+msgstr "詢問：在 \\_\\_\\_ 日內持續接受或拒絕採訪建議。"
+
+#: ../../source/acquisitionspreferences.rst:494
+msgid "Leave this field empty if you don't want to activate this automatic feature."
+msgstr "如果你不想啟用這個自動功能，就把這個欄位留空。"
+
+#: ../../source/acquisitionspreferences.rst:499
+msgid "Enter the number of days after which you want to automatically delete accepted or rejected purchase suggestions."
+msgstr "輸入日數，就能在該期限內自動接受或拒絕採訪建議。"
+
+#: ../../source/acquisitionspreferences.rst:502
+msgid "For example: [30] Sets purgation of suggestions for those older than 30 days."
+msgstr "例如：[30] 設定對超過 30 天的清除建議。"
+
+#: ../../source/acquisitionspreferences.rst:506
+msgid "The number of days is based on the 'managed on' date."
+msgstr "天數是基於 '管理日' 的日期。"
+
+#: ../../source/acquisitionspreferences.rst:508
+msgid "This system preference requires the cronjob :ref:`purge_suggestions.pl <cron-clean-up-old-suggestions-label>` to be active and called without a specific number of days ('--days' parameter)."
+msgstr "這個系統偏好要求工作排程 :ref:`清除_建議.pl <cron-clean-up-old-suggestions-label>`處於啟用狀態，並在沒有特定天數（'--天數'參數）的情況下調用。"
+
+#: ../../source/acquisitionspreferences.rst:515
+msgid "TaxRates"
+msgstr "稅率"
+
+#: ../../source/acquisitionspreferences.rst:517
+msgid "Asks: Tax rates are \\_\\_\\_"
+msgstr "詢問：稅率是\\_\\_\\_"
+
+#: ../../source/acquisitionspreferences.rst:519
+msgid "Default: 0"
+msgstr "預設值：0"
+
+#: ../../source/acquisitionspreferences.rst:523
+msgid "This preference allows the library to define goods and services tax rates for acquisitions."
+msgstr "這一優惠政策允許圖書館定義採訪的商品和服務稅率。"
+
+#: ../../source/acquisitionspreferences.rst:526
+msgid "The first item in the list will be selected by default."
+msgstr "列表中的第一個館藏的選擇將被預設。"
+
+#: ../../source/acquisitionspreferences.rst:530
+msgid "Enter this value as a number (.06) versus a percent (6%)."
+msgstr "以小數輸入此值 (.06)，不要用百分比符號 (6%)。"
+
+#: ../../source/acquisitionspreferences.rst:532
+msgid "For more than one value, separate with \\| (pipe)."
+msgstr "對於多個值，用 \\| (豎槓)分隔 。"
+
+#: ../../source/acquisitionspreferences.rst:534
+msgid "For example"
+msgstr "範例"
+
+#: ../../source/acquisitionspreferences.rst:536
+msgid "0|0.05|0.1496"
+msgstr "0|0.05|0.1496"
+
+#: ../../source/acquisitionspreferences.rst:538
+msgid "will give you choices of tax rates of 0%, 5% and 14.96%"
+msgstr "你可以選擇0%、5%和14.96%的稅率"
+
+#: ../../source/acquisitionspreferences.rst:542
+msgid "The database only accepts values up to 4 decimals, further values will be rounded."
+msgstr "資料庫只接受4位小數以內的數值，更多的數值將被四捨五入。"
+
+#: ../../source/acquisitionspreferences.rst:548
+msgid "UniqueItemFields"
+msgstr "UniqueItemFields"
+
+#: ../../source/acquisitionspreferences.rst:550
+msgid "Asks: The following database columns should be unique in an item: \\_\\_\\_"
+msgstr "詢問：以下資料庫列在館藏中應該是唯一的：\\_\\_\\_"
+
+#: ../../source/acquisitionspreferences.rst:552
+msgid "Default: barcode"
+msgstr "預設值：條碼"
+
+#: ../../source/acquisitionspreferences.rst:556
+msgid "If this preference is left blank when adding items in acquisitions there will be no check for uniqueness. This means that a duplicate barcode can be created in acquisitions which will cause errors later when checking items in and out."
+msgstr "若此偏好空白，採訪新增館藏時，將不檢查館藏的唯一性。也就是條碼號可能重複出現在多筆館藏記錄裡，將來借出與還入時，必然出現問題。"
+
+#: ../../source/acquisitionspreferences.rst:564
+msgid "UseACQFrameworkForBiblioRecords"
+msgstr "UseACQFrameworkForBiblioRecords"
+
+#: ../../source/acquisitionspreferences.rst:566
+msgid "Asks: \\_\\_\\_ the framework 'ACQ' for bibliographic records fields"
+msgstr "詢問：\\_\\_\\_ 供書目記錄欄位 'ACQ' 框架使用"
+
+#: ../../source/acquisitionspreferences.rst:568
+msgid "Default: Don't use"
+msgstr "預設值：不使用"
+
+#: ../../source/acquisitionspreferences.rst:572
+msgid "Don't use"
+msgstr "不使用"
+
+#: ../../source/acquisitionspreferences.rst:574
+msgid "Use"
+msgstr "使用"
+
+#: ../../source/acquisitionspreferences.rst:578
+msgid "This system preference allows you to use the :ref:`ACQ bibliographic framework <marc-bibliographic-frameworks-label>` to customize the bibliographic record fields that are shown when ordering from acquisitions"
+msgstr "此系統偏好允許您使用 :ref:`ACQ書目框架<marc-bibliographic-frameworks-label>`客製化採訪模組訂單的書目紀錄欄位"
+
+#: ../../source/acquisitionspreferences.rst:583
+msgid "Note that this does not affect the item fields (in MARC21, field 952), which are always taken from the ACQ framework regardless of this system preference"
+msgstr "請注意，這並不影響館藏欄位（在MARC21中，欄位952），無論這個系統的偏好如何，這些欄位總是取自ACQ框架"
+
+#: ../../source/acquisitionspreferences.rst:589
+msgid "Printing"
+msgstr "列印"
+
+#: ../../source/acquisitionspreferences.rst:594
+msgid "OrderPdfFormat"
+msgstr "OrderPdfFormat"
+
+#: ../../source/acquisitionspreferences.rst:596
+msgid "Asks: Use the \\_\\_\\_ layout when printing basket groups."
+msgstr "詢問： 使用佈局 \\_\\_\\_ 佈局列印採購籃群組。"
+
+#: ../../source/acquisitionspreferences.rst:598
+msgid "Default: English 3-page"
+msgstr "預設：英文 3-頁"
+
+#: ../../source/acquisitionspreferences.rst:604
+msgid "Values will depend on the installed languages in your Koha installation."
+msgstr "值將取決於你的Koha安裝中所安裝的語言。"
+
+#: ../../source/acquisitionspreferences.rst:606
+#, fuzzy
+msgid "1-page"
+msgstr "2-頁"
+
+#: ../../source/acquisitionspreferences.rst:608
+msgid "2-page"
+msgstr "2-頁"
+
+#: ../../source/acquisitionspreferences.rst:610
+msgid "3-page"
+msgstr "3-頁"
+
+#: ../../source/acquisitionspreferences.rst:614
+msgid "This preference determines how :ref:`basket groups <create-a-basket-group-label>` are printed when exported as PDFs."
+msgstr "這個偏好決定了在輸出PDFs時如何影印 :ref:`購物籃組 <create-a-basket-group-label>`。"
+
+#: ../../source/acquisitionspreferences.rst:617
+#, fuzzy
+msgid "A 1-page layout will have vendor information and ordered titles on the same page"
+msgstr "2-頁的版面將在第一頁提供供應商訊息，在第二頁提供訂購的標題"
+
+#: ../../source/acquisitionspreferences.rst:620
+msgid "A 2-page layout will have vendor information on the first page and ordered titles on the second page"
+msgstr "2-頁的版面將在第一頁提供供應商訊息，在第二頁提供訂購的標題"
+
+#: ../../source/acquisitionspreferences.rst:623
+#, fuzzy
+msgid "A 3-page layout will additionally have a page with basket information"
+msgstr "3-頁佈局還將有一個包含購物籃訊息的頁面"
+
+#: ../../source/images.rst:710
+msgid "Screenshot of a warning message that says 'This invoice number has already been used. Would you like to receive on an existing invoice?' with an option to receive on the existing invoice or 'Create new invoice anyway'."
+msgstr ""

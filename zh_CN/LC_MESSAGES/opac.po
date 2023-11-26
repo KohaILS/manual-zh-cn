@@ -1,0 +1,2826 @@
+# Compendium of zh_TW.
+msgid ""
+msgstr ""
+"Project-Id-Version: Koha Manual 22.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-10-26 13:37+0000\n"
+"PO-Revision-Date: 2023-04-21 08:30+0000\n"
+"Last-Translator: Saralin <c108126114@nkust.edu.tw>\n"
+"Language-Team: Koha Translation Team\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: application/x-publican; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pootle 2.8\n"
+"X-POOTLE-MTIME: 1682065850.980897\n"
+"X-Pootle-Path: /zh_TW/manual22.11/opac.po\n"
+"X-Pootle-Revision: 1\n"
+
+#: ../../source/images.rst:511
+msgid "Example of adding a patron attribute type with code SHOW_BCODE, the description is \"Show barcode on patrons' checkouts in the OPAC\" and the authorized value is YES_NO"
+msgstr ""
+
+#: ../../source/images.rst:1023
+msgid "The Concerns tab of a bibliographic record in the staff interface, it contains a table with the concerns reported for this record"
+msgstr ""
+
+#: ../../source/images.rst:1883
+msgid "At the top of the page in the OPAC, next to the cart, a pop up message says '2 item(s) added to your cart' and there is a small 2 next to the cart"
+msgstr ""
+
+#: ../../source/images.rst:1886
+msgid "In search results in the OPAC, With selected results dropdown menu is open and the mouse cursor is on the New list option"
+msgstr ""
+
+#: ../../source/images.rst:1889
+msgid "An option to update auto-renewal preferences"
+msgstr ""
+
+#: ../../source/images.rst:1892
+msgid "Patron's 'Your summary' page with AllowCheckoutNotes enabled, there is a column titled 'Report a problem' in the checkouts table, with a button 'Add note' for each checkout"
+msgstr ""
+
+#: ../../source/images.rst:1895
+msgid "The detailed view of a bibliographic record, the selected tab at the bottom is Author identifiers, both authors are listed with their Scopus ID"
+msgstr ""
+
+#: ../../source/images.rst:1898
+msgid "The detailed view of a bibliographic record, in the options on the left, the 'More searches' option is open and options to search for this title in various external catalogs are displayed"
+msgstr ""
+
+#: ../../source/images.rst:1901
+msgid "List of options: Place hold, Place recall, Print, Request article, Save to your lists, Add to your cart, Suggest for purchase, Report a concern, Unhighlight, Send to device, Save record, More searches"
+msgstr ""
+
+#: ../../source/images.rst:1904
+#, fuzzy
+msgid "Content of the cart"
+msgstr "新增題名入書車"
+
+#: ../../source/images.rst:1907
+msgid "Content of the cart, expanded. Shown is the title, author, subjects, copyright date, notes, url and item location and status of the first title in the cart."
+msgstr ""
+
+#: ../../source/images.rst:1910
+msgid "Window for the patron to report a problem about on of their checkouts"
+msgstr ""
+
+#: ../../source/images.rst:1913
+msgid "Main page of the OPAC, the mouse cursor is on the Lists button at the top and the list of lists is open"
+msgstr ""
+
+#: ../../source/images.rst:1916
+msgid "The 'Curbside pickups' tab in the patron's account in the OPAC, shows a 'Schedule a pickup' tab, a library is chosen in the library drop-down, a date is selected in the date field, all the time slots for that day are displayed and one is chosen in green, one is greyed out"
+msgstr ""
+
+#: ../../source/images.rst:1919
+msgid "Confirmation message when deleting a list: Are you sure you want to delete this list? Followed by the name of the list and the number of items in the list. The options are Yes, delete and No, do not delete."
+msgstr ""
+
+#: ../../source/images.rst:1922
+msgid "Discharge tab in the patron account in the OPAC with a 'Get your discharge' link"
+msgstr ""
+
+#: ../../source/images.rst:1925
+msgid "Discharge tab in the patron account in the OPAC"
+msgstr ""
+
+#: ../../source/images.rst:1928
+msgid "Options to download the contents of the cart: BibTeX, ISBD, MARC, RIS and custom CSV profiles"
+msgstr ""
+
+#: ../../source/images.rst:1931
+msgid "Edit list form"
+msgstr ""
+
+#: ../../source/images.rst:1934
+msgid "'Sending your cart' form"
+msgstr ""
+
+#: ../../source/images.rst:1937
+msgid "'Sending your list' form"
+msgstr ""
+
+#: ../../source/images.rst:1940
+msgid "The smiling face emoji in the input box is activated and a list of emojis is open underneath"
+msgstr ""
+
+#: ../../source/images.rst:1943
+msgid "Under the login fields, there is a 'Forgot your password' link"
+msgstr ""
+
+#: ../../source/images.rst:1949
+msgid "A single search result in the OPAC, the option 'Add to cart' is replaced by 'In your cart (remove)'"
+msgstr ""
+
+#: ../../source/images.rst:1952
+msgid "Libraries page in the opac"
+msgstr ""
+
+#: ../../source/images.rst:1961
+msgid "Library-specific page for a Test library, showing the address lines, city, state, zip/postal code, country, phone, fax, website, and OpacLibraryInfo HTML customization"
+msgstr ""
+
+#: ../../source/images.rst:1964
+msgid "Contents of a list"
+msgstr ""
+
+#: ../../source/images.rst:1967
+msgid "Warning message saying Please note Your account has outstanding fees & charges of 12.50. Holds are blocked because your fine balance is over the limit."
+msgstr ""
+
+#: ../../source/images.rst:1970
+msgid "The Charges tab in a patron's summary page on the OPAC"
+msgstr ""
+
+#: ../../source/images.rst:1973
+msgid "The Holds tab in a patron's summary page on the OPAC"
+msgstr ""
+
+#: ../../source/images.rst:1976
+msgid "The Holds tab in a patron's summary page on the OPAC, OPACAllowUserToChangeBranch is enabled for pending holds, there is a Change link under the current pickup library's name"
+msgstr ""
+
+#: ../../source/images.rst:1979
+msgid "Pop-up window for the patron to choose a new pickup library for their hold"
+msgstr ""
+
+#: ../../source/images.rst:1982
+msgid "The Recalls tab in a patron's summary page on the OPAC"
+msgstr ""
+
+#: ../../source/images.rst:1985
+msgid "The Overdues tab in a patron's summary page on the OPAC"
+msgstr ""
+
+#: ../../source/images.rst:1988
+#, fuzzy
+msgid "Create a new list form"
+msgstr "新增虛擬書架"
+
+#: ../../source/images.rst:1991
+#, fuzzy
+msgid "New purchase suggestion form"
+msgstr "您的採訪建議"
+
+#: ../../source/images.rst:2000
+msgid "Warning message saying Please note You cannot renew your books online. Reason: Your fines exceed 1.00."
+msgstr ""
+
+#: ../../source/images.rst:2003
+msgid "Screenshot of the holds history table in the patron's account on the OPAC."
+msgstr ""
+
+#: ../../source/images.rst:2006
+msgid "\"Log in to your account\" section on the OPAC homepage. Underneath the Log in button is the mention: \"Don't have an account? Register here.\""
+msgstr ""
+
+#: ../../source/images.rst:2012
+msgid "Main page of the OPAC"
+msgstr ""
+
+#: ../../source/images.rst:2018
+msgid "Top of the your summary page, under the title of the page, it is written Welcome Mary Burton, Click here if you're not Mary Burton and below that is a text that says This is OpacMySummaryNote."
+msgstr ""
+
+#: ../../source/images.rst:2021
+#, fuzzy
+msgid "Bibliographic record details page in the OPAC"
+msgstr "書目紀錄"
+
+#: ../../source/images.rst:2024
+msgid "A single search result in the OPAC, visible is a checkbox on the left, some bibliographic information, the title being a link, availability of items, star ratings, place hold option, place recall option, save to lists option and add to cart option"
+msgstr ""
+
+#: ../../source/images.rst:2027
+msgid "Search results list in the OPAC, facets are on the left"
+msgstr ""
+
+#: ../../source/images.rst:2030
+msgid "A message at the top of the 'Checkout history' page in the patron's account on the OPAC that reads \"Congratulations, you have saved a total of $ 76.65 by using the library.\""
+msgstr ""
+
+#: ../../source/images.rst:2033
+msgid "A small box with the number of checkouts, overdues, holds, pending charges and savings"
+msgstr ""
+
+#: ../../source/images.rst:2036
+msgid "A message at the top of the 'Your summary' page in the patron's account on the OPAC that reads \"Congratulations, you have saved a total of $ 76.65 by using the library.\""
+msgstr ""
+
+#: ../../source/images.rst:2039
+msgid "A small box with the number of checkouts, overdues, holds and pending charges has replaced the login fields"
+msgstr ""
+
+#: ../../source/images.rst:2042
+msgid "The password recovery form"
+msgstr ""
+
+#: ../../source/images.rst:2048
+#, fuzzy
+msgid "Personal details tab"
+msgstr "您的個人詳情"
+
+#: ../../source/images.rst:2051
+#, fuzzy
+msgid "The form to request a recall in the OPAC"
+msgstr "要求催還的選項出現在 OPAC 的不同地方："
+
+#: ../../source/images.rst:2054
+msgid "The Recalls history page in a patron's account in the OPAC"
+msgstr ""
+
+#: ../../source/images.rst:2057
+msgid "The Relatives' charges tab in a patron's summary page on the OPAC"
+msgstr ""
+
+#: ../../source/images.rst:2060
+msgid "The Relatives' checkouts tab in a patron's summary page on the OPAC"
+msgstr ""
+
+#: ../../source/images.rst:2063
+msgid "The report a concern form"
+msgstr ""
+
+#: ../../source/images.rst:2066
+msgid "The report a problem page"
+msgstr ""
+
+#: ../../source/images.rst:2069
+msgid "Confirmation message says You will receive an email shortly. Please click the link in this email to finish the process of resetting your password. This link is valid for 2 days starting now. Return to the main page"
+msgstr ""
+
+#: ../../source/images.rst:2072
+msgid "An error message says No account was found with the provided information. Please contact the library if you need further assistance."
+msgstr ""
+
+#: ../../source/images.rst:2075
+msgid "The 'Curbside pickups' tab in the patron's account in the OPAC, shows a 'Schedule a pickup' tab, with a drop-down to choose the library"
+msgstr ""
+
+#: ../../source/images.rst:2078
+msgid "Library catalog search box at the top of the page in the OPAC"
+msgstr ""
+
+#: ../../source/images.rst:2081
+msgid "Share confirmation message: An invitation to share list Shakespeare will be sent shortly to email address of the other patron. You will receive an email notification if someone accepts your share before it expires."
+msgstr ""
+
+#: ../../source/images.rst:2084
+msgid "Share a list with another patron form"
+msgstr ""
+
+#: ../../source/images.rst:2087
+msgid "The sorting drop-down menu offers various options to sort the search results, such as relevance, popularity, author, call number, publication or copyright date, acquisition date, and title"
+msgstr ""
+
+#: ../../source/images.rst:2090
+msgid "Subscription tab in a detailed record in the OPAC"
+msgstr ""
+
+#: ../../source/images.rst:2093
+msgid "There is a link 'New purchase suggestion' under the title of the page"
+msgstr ""
+
+#: ../../source/images.rst:2096
+msgid "A message reading 'Not finding what you're looking for? Make a purchase suggestion', there is a link under the words 'purchase suggestion'"
+msgstr ""
+
+#: ../../source/images.rst:2099
+msgid "A link labeled 'Purchase suggestions' appears under the search bar on the main page of the OPAC"
+msgstr ""
+
+#: ../../source/images.rst:2102
+msgid "A message reading \"A similar document already exists: Shakespeare's Sonnets . Click on \"Confirm your suggestion\" to ignore this message.\" The title is a link to the record."
+msgstr ""
+
+#: ../../source/images.rst:2105
+msgid "Suspend hold pop up modal asking until which date to suspend the hold (clear date to suspend indefinitely) and to confirm the suspension"
+msgstr ""
+
+#: ../../source/images.rst:2108
+msgid "List of search results on the OPAC, several titles are selected, the 'Tag' button at the top has been replaced by an input box name 'New tag' with and 'Add' button and a '(done)' link"
+msgstr ""
+
+#: ../../source/images.rst:2111
+msgid "Bibliographic record details page in the OPAC, the 'Add tag(s)' link has been replaced by an input field name 'New tag(s), separated by a comma', inside the input field on the right is a smiling face emoji (emoji picker), followed 'Add' button and a '(done)' link"
+msgstr ""
+
+#: ../../source/images.rst:2114
+msgid "A single search result in the OPAC, under the 'Add tag' button is an input box 'New tag(s), separated by a comma' with and 'Add' button and a '(done)' link"
+msgstr ""
+
+#: ../../source/images.rst:2117
+msgid "View of the patron's checkout history on the OPAC"
+msgstr ""
+
+#: ../../source/images.rst:2120
+msgid "The 'Comment' tab in the OPAC, show Your comment, the date of the comment, the comment itself, with an 'Edit' link and the patron's avatar"
+msgstr ""
+
+#: ../../source/images.rst:2123
+msgid "The 'Curbside pickups' tab in the patron's account in the OPAC, shows a 'Your pickups' tab, with one scheduled pickup with the library, the date and time, notes and action buttons (Alert staff of your arrival and Cancel this pickup)"
+msgstr ""
+
+#: ../../source/images.rst:2126
+msgid "List of private lists in a patron's account on the OPAC"
+msgstr ""
+
+#: ../../source/images.rst:2129
+msgid "View of the account summary on the OPAC"
+msgstr ""
+
+#: ../../source/images.rst:2293
+msgid "'Messages for you' box in the patron's online account with a message reading \"'Please bring a proof of address on your next visit to the library.' Written on 15/05/2023 by Centerville\" and a dismiss button"
+msgstr ""
+
+#: ../../source/images.rst:2365
+msgid "Example of modifying patron attributes in a patron's file. The mouse cursor is on the 'Yes' option for \"Show barcode on patron's checkouts in the OPAC\""
+msgstr ""
+
+#: ../../source/images.rst:2693
+msgid "Prompt on staff interface homepage to view pending article requests, pending purchase suggestions, patrons requesting modifications, pending catalog concerns, pending checkout notes, and pending OPAC problem reports"
+msgstr ""
+
+#: ../../source/images.rst:3215
+msgid "image943"
+msgstr ""
+
+#: ../../source/images.rst:3216
+msgid "image944"
+msgstr ""
+
+#: ../../source/images.rst:3218
+msgid "image946"
+msgstr ""
+
+#: ../../source/images.rst:3219
+msgid "image947"
+msgstr ""
+
+#: ../../source/images.rst:3220
+msgid "image948"
+msgstr ""
+
+#: ../../source/images.rst:3221
+msgid "image949"
+msgstr ""
+
+#: ../../source/images.rst:3222
+msgid "image950"
+msgstr ""
+
+#: ../../source/images.rst:3223
+msgid "image951"
+msgstr ""
+
+#: ../../source/images.rst:3224
+msgid "image952"
+msgstr ""
+
+#: ../../source/images.rst:3225
+msgid "image953"
+msgstr ""
+
+#: ../../source/images.rst:3226
+msgid "image954"
+msgstr ""
+
+#: ../../source/images.rst:3227
+msgid "image955"
+msgstr ""
+
+#: ../../source/images.rst:3228
+msgid "image956"
+msgstr ""
+
+#: ../../source/images.rst:3229
+msgid "image957"
+msgstr ""
+
+#: ../../source/images.rst:3230
+msgid "image958"
+msgstr ""
+
+#: ../../source/images.rst:3231
+msgid "image959"
+msgstr ""
+
+#: ../../source/images.rst:3232
+msgid "image960"
+msgstr ""
+
+#: ../../source/images.rst:3233
+msgid "image963"
+msgstr ""
+
+#: ../../source/images.rst:3234
+msgid "image964"
+msgstr ""
+
+#: ../../source/images.rst:3248
+msgid "image982"
+msgstr ""
+
+#: ../../source/images.rst:3249
+msgid "image984"
+msgstr ""
+
+#: ../../source/images.rst:3250
+msgid "image985"
+msgstr ""
+
+#: ../../source/images.rst:3251
+msgid "image986"
+msgstr ""
+
+#: ../../source/images.rst:3252
+msgid "image987"
+msgstr ""
+
+#: ../../source/images.rst:3255
+msgid "image991"
+msgstr ""
+
+#: ../../source/images.rst:3256
+msgid "image992"
+msgstr ""
+
+#: ../../source/images.rst:3257
+msgid "image993"
+msgstr ""
+
+#: ../../source/images.rst:3258
+msgid "image995"
+msgstr ""
+
+#: ../../source/images.rst:3259
+msgid "image996"
+msgstr ""
+
+#: ../../source/images.rst:3260
+msgid "image997"
+msgstr ""
+
+#: ../../source/images.rst:3261
+msgid "image998"
+msgstr ""
+
+#: ../../source/images.rst:3262
+msgid "image1000"
+msgstr ""
+
+#: ../../source/images.rst:3263
+msgid "image1001"
+msgstr ""
+
+#: ../../source/images.rst:3264
+msgid "image1011"
+msgstr ""
+
+#: ../../source/images.rst:3265
+msgid "image1012"
+msgstr ""
+
+#: ../../source/images.rst:3266
+msgid "image1013"
+msgstr ""
+
+#: ../../source/images.rst:3267
+msgid "image1014"
+msgstr ""
+
+#: ../../source/images.rst:3268
+msgid "image1015"
+msgstr ""
+
+#: ../../source/images.rst:3272
+msgid "image1019"
+msgstr ""
+
+#: ../../source/images.rst:3273
+msgid "image1020"
+msgstr ""
+
+#: ../../source/images.rst:3274
+msgid "image1021"
+msgstr ""
+
+#: ../../source/images.rst:3275
+msgid "image1022"
+msgstr ""
+
+#: ../../source/images.rst:3276
+msgid "image1024"
+msgstr ""
+
+#: ../../source/images.rst:3277
+msgid "image1025"
+msgstr ""
+
+#: ../../source/images.rst:3278
+msgid "image1026"
+msgstr ""
+
+#: ../../source/images.rst:3279
+msgid "image1027"
+msgstr ""
+
+#: ../../source/images.rst:3280
+msgid "image1028"
+msgstr ""
+
+#: ../../source/images.rst:3281
+msgid "image1029"
+msgstr ""
+
+#: ../../source/images.rst:3443
+msgid "image1295"
+msgstr ""
+
+#: ../../source/images.rst:3444
+msgid "image1296"
+msgstr ""
+
+#: ../../source/images.rst:3445
+msgid "image1297"
+msgstr ""
+
+#: ../../source/images.rst:3449
+msgid "image1301"
+msgstr ""
+
+#: ../../source/images.rst:3450
+msgid "image1306"
+msgstr ""
+
+#: ../../source/images.rst:3451
+msgid "image1307"
+msgstr ""
+
+#: ../../source/images.rst:3452
+msgid "image1308"
+msgstr ""
+
+#: ../../source/images.rst:3453
+msgid "image1309"
+msgstr ""
+
+#: ../../source/images.rst:3454
+msgid "image1311"
+msgstr ""
+
+#: ../../source/images.rst:3500
+msgid "image1373"
+msgstr ""
+
+#: ../../source/images.rst:3501
+msgid "image1374"
+msgstr ""
+
+#: ../../source/images.rst:3502
+msgid "image1375"
+msgstr ""
+
+#: ../../source/opac.rst:6
+msgid "OPAC"
+msgstr "OPAC"
+
+#: ../../source/opac.rst:11
+msgid "Search results"
+msgstr "搜尋結果"
+
+#: ../../source/opac.rst:13
+msgid "To search the OPAC you can either choose to enter your search words in the box at the top of the OPAC or click on the 'Advanced search' link to perform a more detailed search."
+msgstr "從 OPAC 首頁上方的搜尋鍵入搜尋的字詞，也可按 '進階搜尋' 連結，打開更詳細的搜尋頁面。"
+
+#: ../../source/opac.rst:17
+msgid "|searchboxopac|"
+msgstr ""
+
+#: ../../source/opac.rst:21
+#, fuzzy
+msgid "For more on searching check the :ref:`Searching<searching-label>` chapter in this manual."
+msgstr "搜尋的詳情，參見本手冊的 '`搜尋 <#searching>`__' 專章。"
+
+#: ../../source/opac.rst:27
+msgid "Results overview"
+msgstr "檢視結果"
+
+#: ../../source/opac.rst:29 ../../source/opac.rst:115 ../../source/opac.rst:443
+#: ../../source/opac.rst:580 ../../source/opac.rst:834
+#, fuzzy
+msgid "|opacsearchresults|"
+msgstr "搜尋結果"
+
+#: ../../source/opac.rst:31
+#, fuzzy
+msgid "After performing a search, the number of results found for the search will appear above the results."
+msgstr "搜尋結果的數量將顯示在搜尋結果之上"
+
+#: ../../source/opac.rst:34
+#, fuzzy
+msgid "By default, the search results are sorted based on the :ref:`OPACdefaultSortField and OPACdefaultSortOrder <opacdefaultsortfield-and-opacdefaultsortorder-label>` system preference values. To change the sort order of these results, you can choose another sorting method from the drop-down menu on the right."
+msgstr "將依照 :ref:`OPACdefaultSortField and OPACdefaultSortOrder <opacdefaultsortfield-and-opacdefaultsortorder-label>` 系統偏好值排序搜尋結果。改變它就能夠從右方的選單選擇其他排序。"
+
+#: ../../source/opac.rst:39
+msgid "|sortingresults|"
+msgstr ""
+
+#: ../../source/opac.rst:41
+msgid "Under each title in the results list, there will be a series of values from the record's leader (field 000)."
+msgstr ""
+
+#: ../../source/opac.rst:44 ../../source/opac.rst:439 ../../source/opac.rst:576
+#: ../../source/opac.rst:691 ../../source/opac.rst:779
+#, fuzzy
+msgid "|opacsearchresultsingle|"
+msgstr "搜尋結果"
+
+#: ../../source/opac.rst:48
+msgid "These values have nothing to do with the item types or collection codes you have applied to your records or items. This data is all pulled from the record's control fields."
+msgstr ""
+
+#: ../../source/opac.rst:52
+msgid "This can be turned on or off with the :ref:`DisplayOPACiconsXSLT <DisplayOPACiconsXSLT-label>` system preference."
+msgstr ""
+
+#: ../../source/opac.rst:55
+#, fuzzy
+msgid "Below each title, there will be the availability for the items attached to the record."
+msgstr "每筆資料的下方顯示此紀錄館藏在館內的可得性。"
+
+#: ../../source/opac.rst:60
+#, fuzzy
+msgid "Even if you filtered on one library location, all locations that hold the item will appear on the search results."
+msgstr "即使指定圖書館的館藏地，但仍顯示所有圖書館的可得性。"
+
+#: ../../source/opac.rst:65
+#, fuzzy
+msgid "An item's hold status does not affect whether or not the item is 'available' until the item is in 'waiting' status. Items with on-shelf holds will show as available until a staff member has pulled them from the shelf and checked the item in make it show 'waiting'."
+msgstr "館藏的預約狀態不受其 '可及性' 的影響，直到該館藏進入 '等待' 狀態。在架被預約的館藏仍顯示為可及，直到館員將它從書架取下，並把它登入為 '等待' 狀態。"
+
+#: ../../source/opac.rst:70
+#, fuzzy
+msgid "If any :ref:`enhanced content system preferences <enhanced-content-system-preferences-label>` are turned on, there may be cover images next to the search results."
+msgstr "若已開啟 :ref:`強化內容系統偏好 <enhanced-content-system-preferences-label> 則可在搜尋結果看到書衣。"
+
+#: ../../source/opac.rst:73
+#, fuzzy
+msgid "If :ref:`Did you mean? <did-you-mean?-label>` options are set, there will be a yellow bar across the top of your results will other related searches."
+msgstr "若已設定 :ref:`您的意思是？ <did-you-mean?-label>` 選項則在搜尋結果上方會出現黃色的橫幅顯示相關的搜尋。"
+
+#: ../../source/opac.rst:77
+msgid "|image943|"
+msgstr ""
+
+#: ../../source/opac.rst:79
+msgid "If you performed an advanced search you see an option to go back and edit your advanced search blow the list of results pages."
+msgstr "在進階搜尋的結果清單下，可選擇回到上次的進階搜尋，再編輯該次的進階搜尋。"
+
+#: ../../source/opac.rst:82
+msgid "|image1295|"
+msgstr ""
+
+#: ../../source/opac.rst:87
+msgid "Filters"
+msgstr "篩選器"
+
+#: ../../source/opac.rst:89
+msgid "To filter your results click on the links below the 'Refine your search' menu on the left of your screen"
+msgstr "勾選螢幕左方搜尋結果下方的 '縮小您的搜尋' 選單，就能篩選搜尋的結果"
+
+#: ../../source/opac.rst:92
+msgid "|image944|"
+msgstr ""
+
+#: ../../source/opac.rst:94
+#, fuzzy
+msgid "Depending on your setting for the :ref:`DisplayLibraryFacets <DisplayLibraryFacets-label>` system preference you will see filters for your home, holding or both libraries."
+msgstr "依照 :ref:`DisplayLibraryFacets` 系統偏好的設定您可以篩選所屬圖書館、館藏圖書館或兩者。"
+
+#: ../../source/opac.rst:98
+msgid "|image1296|"
+msgstr ""
+
+#: ../../source/opac.rst:100
+msgid "After clicking a facet you can remove that filter from your results by clicking the small 'x' that appears to the right of the facet."
+msgstr "按下其中一個層面後，可按該層面右方的小 'x' 從結果中移除篩選器。"
+
+#: ../../source/opac.rst:103
+msgid "|image1297|"
+msgstr ""
+
+#: ../../source/opac.rst:108
+msgid "Search RSS feeds"
+msgstr "搜尋 RSS feeds"
+
+#: ../../source/opac.rst:110
+msgid "You will be able to subscribe to your search results as an RSS feed by clicking the RSS icon in your address bar or next to the number of results. To learn more about what RSS feeds are check out `this tutorial video <http://www.youtube.com/watch?v=0klgLsSxGsU>`__."
+msgstr "點選搜尋結果數量旁的 RSS 圖示即可訂閱您的搜尋結果。詳情請查看 :ref:`此教學影片 <http://www.youtube.com/watch?v=0klgLsSxGsU>`__。"
+
+#: ../../source/opac.rst:117
+msgid "Subscribing to search results as RSS feeds will allow you to see when a new item is added to the catalog in your area of interest."
+msgstr "以 RSS 方式訂閱搜尋結果，將允許您看到有興趣的新增館藏。"
+
+#: ../../source/opac.rst:123
+msgid "Bibliographic record"
+msgstr "書目紀錄"
+
+#: ../../source/opac.rst:125
+msgid "When you click on a title from the search results, you're brought to the bibliographic detail of the record. This page is broken down in several different areas."
+msgstr "按搜尋結果的題名，進入該書目記錄的詳情。此頁面分為幾個區塊。"
+
+#: ../../source/opac.rst:129
+msgid "At the top of your screen will be the title and the GMD:"
+msgstr "螢幕最上方是題名及其 GMD："
+
+#: ../../source/opac.rst:131
+msgid "|image946|"
+msgstr ""
+
+#: ../../source/opac.rst:133
+msgid "Below the title the authors will be listed. These come from your 1xx and 7xx fields. Clicking the author will run a search for other titles with that author."
+msgstr "在題名之下列出著者。它們來自書目記錄的欄位 1xx 與 7xx。按作者連結則搜尋該著者的其他題名。"
+
+#: ../../source/opac.rst:137
+msgid "|image947|"
+msgstr ""
+
+#: ../../source/opac.rst:139
+msgid "If you have an authority file you will see a magnifying glass to the right of author (and other) authorities. Clicking that magnifying glass will take you directly to the authority record."
+msgstr "使用權威記錄檔案時，在著者 (及其他) 權威旁會出現一個放大鏡。按該放大鏡可直接開啟權威記錄。"
+
+#: ../../source/opac.rst:143
+msgid "|image948|"
+msgstr ""
+
+#: ../../source/opac.rst:145
+#, fuzzy
+msgid "If you have your :ref:`DisplayOPACiconsXSLT <DisplayOPACiconsXSLT-label>` preference set to 'show' you will see a material type that is determined by values in your fixed fields (learn more in the :ref:`XSLT material type icons <material-type-cataloging-guide-label>` cataloging guide."
+msgstr "把 :ref:`DisplayOPACiconsXSLT` 偏好設為 '顯示'，就能看到定長欄 (詳情在 :ref:`XSLT 資料類型圖示 <material-type-cataloging-guide-label>` 編目指南內的資料類型預設值。"
+
+#: ../../source/opac.rst:150
+msgid "|image949|"
+msgstr ""
+
+#: ../../source/opac.rst:152
+msgid "Next you'll see the description of the record you're viewing:"
+msgstr "接著可看到檢視記錄的說明："
+
+#: ../../source/opac.rst:154
+msgid "|image950|"
+msgstr ""
+
+#: ../../source/opac.rst:156
+msgid "Following that information you'll find the subject headings which can be clicked to search for other titles on similar topics"
+msgstr "接著是主題標目的資訊，按下後搜尋類似主題的其他題名"
+
+#: ../../source/opac.rst:159
+msgid "|image951|"
+msgstr ""
+
+#: ../../source/opac.rst:161
+msgid "If your record has a table of contents or summary it will appear next to the 'Summary' or 'Table of contents' label"
+msgstr "若紀錄有目次或摘要，將顯示在 '摘要' 或 '目次' 標籤旁"
+
+#: ../../source/opac.rst:164
+msgid "|image952|"
+msgstr ""
+
+#: ../../source/opac.rst:166
+msgid "If your record has data in the 856 fields you'll see the links to the right of the 'Online resources' label"
+msgstr "856 欄位的資料將顯示在 '線上資源' 標籤的右方連結"
+
+#: ../../source/opac.rst:169
+msgid "|image953|"
+msgstr ""
+
+#: ../../source/opac.rst:171
+msgid "If the title you're viewing is in a public list then you'll see a list of those to the right of the 'List(s) this item appears in' label and if it has tags they will appear below the 'Tags from this library' label"
+msgstr "若檢視的題名已經在公共虛擬書架內，則在 '列出收錄此館藏的虛擬書架' 標籤右方可看到該虛擬書架的名稱，若已有標籤也顯示在 '此圖書館的標籤' 之下"
+
+#: ../../source/opac.rst:175
+msgid "|image954|"
+msgstr ""
+
+#: ../../source/opac.rst:177
+msgid "In the tabs below the details you will find your holdings data"
+msgstr "在分頁的詳情下可找到館藏資料"
+
+#: ../../source/opac.rst:179
+msgid "|image955|"
+msgstr ""
+
+#: ../../source/opac.rst:181 ../../source/opac.rst:1269
+#: ../../source/opac.rst:1646 ../../source/opac.rst:1652
+msgid "**Note**"
+msgstr "**說明**"
+
+#: ../../source/opac.rst:183
+msgid "You can customize the columns of this table in the :ref:`'Table settings'<column-settings-label>` section of the Administration module (table id: holdingst)."
+msgstr "您可以在管理模組的 :ref:`'Table settings'<column-settings-label>` 部份, 在OPAC項目中自定義此表的列（table id：holdingst）。"
+
+#: ../../source/opac.rst:187
+msgid "Any notes (5xx fields) that have been cataloged will appear under 'Title notes'"
+msgstr "編目時加入的附註 (5xx欄位) 都出現在 '題名附註' 分頁下"
+
+#: ../../source/opac.rst:190
+msgid "|image956|"
+msgstr ""
+
+#: ../../source/opac.rst:192
+msgid "If the bibliographic record is linked to a subscription in the :ref:`Serials module<serials-label>`, there will be a 'Subscriptions' tab with the subscription and issues information."
+msgstr "如果書目記錄鏈接到 :ref:`Serials 模塊<serials-label>` 中的訂閱時，則會有一個帶有訂閱和發行訊息的“訂閱”選項頁籤。"
+
+#: ../../source/opac.rst:196
+msgid "|subscriptiontab|"
+msgstr ""
+
+#: ../../source/opac.rst:200
+msgid "You can customize the columns of this table in the :ref:`'Table settings'<column-settings-label>` section of the Administration module (table id: subscriptionst)."
+msgstr "您可以在管理模組的 :ref:`'欄組態'<column-settings-label>`部份, 自定義此表的列(table id: subscriptionst)。"
+
+#: ../../source/opac.rst:206
+msgid "If you chose a notice in the 'Patron notification' field when :ref:`adding the subscription <add-a-subscription-label>`, there will be a button patrons can click to be notified by email when a new issue is received."
+msgstr ""
+
+#: ../../source/opac.rst:210
+msgid "If you're allowing comments they will appear in the next tab"
+msgstr "若允許讀者評論則該等評論將出現在下個分頁"
+
+#: ../../source/opac.rst:212
+msgid "|image957|"
+msgstr ""
+
+#: ../../source/opac.rst:214
+msgid "If the :ref:`OPACAuthorIdentifiers system preference <opacauthoridentifiers-label>` is turned on, and that your author authority records have standard identifiers, there will be an 'Author identifiers' tab showing the identifiers with links to the author record on the source website."
+msgstr ""
+
+#: ../../source/opac.rst:219
+msgid "|authoridentifiersopac|"
+msgstr ""
+
+#: ../../source/opac.rst:221
+msgid "And finally if you have enabled FRBR and you have other editions of the title in your collection you will see the 'Editions' tab."
+msgstr "若已啟用 FRBR 則同名的其他版本館藏將出現在 '版本' 分頁。"
+
+#: ../../source/opac.rst:224
+msgid "|image958|"
+msgstr ""
+
+#: ../../source/opac.rst:226
+msgid "To the right of the details you'll find a series of boxes. The first box is a list of buttons to help navigate the search results. From there you can see the next or previous result from your search or return to the results."
+msgstr "在詳情頁面右方有一些盒子。第一個盒子是協助瀏覽搜尋結果的鈕。可看到前一筆或後一筆的結果。"
+
+#: ../../source/opac.rst:231
+msgid "|image959|"
+msgstr ""
+
+#: ../../source/opac.rst:233
+msgid "Clicking 'Browse results' at the top of the right column will open up your search results on the detail page"
+msgstr "按上方右欄的 '瀏覽結果'，將在詳情頁面打開搜尋結果"
+
+#: ../../source/opac.rst:236
+msgid "|image960|"
+msgstr ""
+
+#: ../../source/opac.rst:238
+msgid "Below the search buttons you'll find the links to place a hold, print the record, save the record to your lists, add it to your cart or send to a device (using a QR code)."
+msgstr "在搜尋按鈕下您將找到預留的連結, 列印記錄, 儲存紀錄到您的清單上,添加它到您的購物車或是發送到一個裝置(使用一個QR code)."
+
+#: ../../source/opac.rst:242
+#, fuzzy
+msgid "Another option that will appear on this right hand side bar, if a library is allowing purchase suggestions (see the :ref:`suggestion <suggestion-label>` system preference), is the ability to 'Suggest for Purchase'. Clicking this link will bring the user to the :ref:`purchase suggestion form<purchase-suggestions-opac-label>` to fill out."
+msgstr "如果圖書館允許購買建議（參見 :ref:`建議`系統偏好），另一個選項將出現在這個右側欄中，就是 '購買建議' 的功能。點擊這個連結將把使用者帶到 :ref:`採購建議表格<purchase-suggestions-opac-label>`來填寫。"
+
+#: ../../source/opac.rst:248 ../../source/opac.rst:284
+#: ../../source/opac.rst:784 ../../source/opac.rst:1789
+msgid "|biboptions|"
+msgstr ""
+
+#: ../../source/opac.rst:250
+#, fuzzy
+msgid "Clicking 'More searches' will show the list of libraries you entered in your :ref:`OPACSearchForTitleIn <OPACSearchForTitleIn-label>` preference"
+msgstr "勾選 '更多搜尋' 將顯示您鍵入 :ref:`OPACSearchForTitleIn` 偏好的其他圖書館清單"
+
+#: ../../source/opac.rst:253
+msgid "|bibmoresearch|"
+msgstr ""
+
+#: ../../source/opac.rst:255
+#, fuzzy
+msgid "Under the 'Save record' label you will find a series of file formats you can save the record as. This list can be customized by altering the :ref:`OpacExportOptions <OpacExportOptions-label>` system preference."
+msgstr "在 '儲存記錄' 標籤下可找到儲存該筆記錄的多種格式。可經由 :ref:`OpacExportOptions` 系統偏好改變其內容。"
+
+#: ../../source/opac.rst:259
+msgid "|image963|"
+msgstr ""
+
+#: ../../source/opac.rst:261
+msgid "If at any time you want to change the view from the 'Normal' view to see the Marc or the ISBD you can click the tabs across the top of the record"
+msgstr "任何時候都可以按紀錄上方的分頁鈕，改變檢視書目記錄從 '基本檢視' 轉為 MARC 或 ISBD"
+
+#: ../../source/opac.rst:264
+msgid "|image964|"
+msgstr ""
+
+#: ../../source/opac.rst:269
+msgid "Reporting concerns about bibliographic records"
+msgstr ""
+
+#: ../../source/opac.rst:271
+#, fuzzy
+msgid "If the :ref:`OpacCatalogConcerns <opaccatalogconcerns-label>` system preference is enabled, patrons will be able to report concerns regarding specific bibliographic records."
+msgstr "如果 :ref:`OPACHoldsHistory` 系統偏好設定為 '允許'，讀者就可以看到他們目前和過去的所有預約。"
+
+#: ../../source/opac.rst:275
+msgid "This is similar to the :ref:`problem report feature <opac-report-problem-label>` but is linked to a specific bibliographic record, and there is the possibility to have a resolution."
+msgstr ""
+
+#: ../../source/opac.rst:279
+msgid "To report a new concern,"
+msgstr ""
+
+#: ../../source/opac.rst:281
+msgid "In the bibliographic record's detail page, click the 'Report a concern' link in the options at the right side."
+msgstr ""
+
+#: ../../source/opac.rst:288
+msgid "Patrons must be logged in to report a concern. If they are not logged in, the system will ask them for their login information."
+msgstr ""
+
+#: ../../source/opac.rst:291
+msgid "Fill in the concern form."
+msgstr ""
+
+#: ../../source/opac.rst:293
+msgid "|reportaconcern|"
+msgstr ""
+
+#: ../../source/opac.rst:295
+msgid "Title: enter a title describing succinctly the problem."
+msgstr ""
+
+#: ../../source/opac.rst:297
+msgid "Please describe your concern: enter details about the problem, being the more descriptive possible so that the staff member who receives this is able to replicate and see the problem."
+msgstr ""
+
+#: ../../source/opac.rst:301
+msgid "An example of what is expected in the description is provided in the field:"
+msgstr ""
+
+#: ../../source/opac.rst:323
+#, fuzzy
+msgid "This text is customizable in the :ref:`HTML customizations tool <html-customizations-label>`, by changing the 'CatalogConcernTemplate' entry."
+msgstr "表格頂部的訊息文字可以用 :ref:`HTML 自定義工具<html-customizations-label>`替換，顯示位置OpacSuggestionInstructions。"
+
+#: ../../source/opac.rst:327
+#, fuzzy
+msgid "The text at the bottom of the form (\"Please describe your concern clearly...\") is also customizable in the :ref:`HTML customizations tool <html-customizations-label>`, by changing the 'CatalogConcernHelp' entry."
+msgstr "表格頂部的訊息文字可以用 :ref:`HTML 自定義工具<html-customizations-label>`替換，顯示位置OpacSuggestionInstructions。"
+
+#: ../../source/opac.rst:332
+msgid "Click 'Submit'."
+msgstr ""
+
+#: ../../source/opac.rst:334
+msgid "This will send an email to the cataloging team to notify them that a new concern has been created. The email will be sent to the email address in the :ref:`CatalogerEmails <catalogeremails-label>` system preference. The email sent is the TICKET\\_NOTIFY notice, which can be customized in the :ref:`Notices and slips tool <notices-and-slips-label>`."
+msgstr ""
+
+#: ../../source/opac.rst:340
+msgid "An email will also be sent to the reporter to notify them that the concern has been received. The email sent is the TICKET\\_ACKNOWLEDGE notice, which can be customized in the :ref:`Notices and slips tool <notices-and-slips-label>`."
+msgstr ""
+
+#: ../../source/opac.rst:345
+msgid "Concerns reported about this record are visible in the 'Concerns' tab."
+msgstr ""
+
+#: ../../source/opac.rst:347
+msgid "|concernstab|"
+msgstr ""
+
+#: ../../source/opac.rst:349
+msgid "All concern tickets will be visible in the catalog concerns report."
+msgstr ""
+
+#: ../../source/opac.rst:351
+msgid "Newly opened concern reports will also appear in the notification section at the bottom of the staff interface main page."
+msgstr ""
+
+#: ../../source/opac.rst:354 ../../source/opac.rst:1330
+msgid "|pendingrequests|"
+msgstr ""
+
+#: ../../source/opac.rst:359
+msgid "Lists and the cart"
+msgstr "虛擬書架與書目清單"
+
+#: ../../source/opac.rst:361
+#, fuzzy
+msgid "A cart is a temporary holding place for records you're interested in finding during this session. That means that once you log out of the OPAC or close the browser you lose the items in your cart."
+msgstr "書車是暫時放置書目記錄的地方。登出 OPAC 或關閉瀏覽器，都將失去書車裡的內容。虛擬書架是較為長期存放書目記錄的地方。詳情見本手冊的 `館員介面虛擬書架 <#stafflists>`__。"
+
+#: ../../source/opac.rst:365
+msgid "A list is a more permanent location for saving items."
+msgstr ""
+
+#: ../../source/opac.rst:367
+msgid "To learn more about lists, check the :ref:`Lists and cart <lists-and-cart-label>` chapter of this manual, which deal with these features in the staff interface."
+msgstr ""
+
+#: ../../source/opac.rst:373 ../../source/opac.rst:1587
+msgid "Lists"
+msgstr "虛擬書架"
+
+#: ../../source/opac.rst:375
+#, fuzzy
+msgid "Patrons can manage their own private lists by visiting the 'Lists' section of their account."
+msgstr "讀者登入後，就能管理其帳戶下的 '我的虛擬書架' 區塊。"
+
+#: ../../source/opac.rst:378 ../../source/opac.rst:513
+#: ../../source/opac.rst:1595
+msgid "|yourlists|"
+msgstr ""
+
+#: ../../source/opac.rst:383
+msgid "Creating lists"
+msgstr "新增虛擬書架"
+
+#: ../../source/opac.rst:385
+#, fuzzy
+msgid "To create a list the patron simply needs to click the 'New list' link and populate the form that appears."
+msgstr "按 '新增虛擬書架' 連結，出現新增虛擬書架的表單"
+
+#: ../../source/opac.rst:388
+msgid "|newlist|"
+msgstr ""
+
+#: ../../source/opac.rst:390
+msgid "List name: the patron must enter a list name, it is the only required field"
+msgstr ""
+
+#: ../../source/opac.rst:392
+msgid "Sort this list by: the patron can choose how they want the list sorted (by title, author, publication year, call number or date added to the list)."
+msgstr ""
+
+#: ../../source/opac.rst:395
+msgid "Category: the patron can choose to keep this list private or make it public. A public list will be visible to all OPAC users."
+msgstr ""
+
+#: ../../source/opac.rst:400
+#, fuzzy
+msgid "This field will only appear if the :ref:`OpacAllowPublicListCreation <opacallowpubliclistcreation-label>` system preference is set to 'Allow'. Otherwise all lists created by patrons will be private."
+msgstr "若在 :ref:`OpacAllowPublicListCreation` 系統偏好內設定不允許讀者新增公共虛擬書架，則讀者祗能新增私人虛擬書架。"
+
+#: ../../source/opac.rst:405
+msgid "Allow changes to content from: the patron can choose who will be able to add or remove titles from the list."
+msgstr ""
+
+#: ../../source/opac.rst:408
+msgid "Nobody: nobody, including the patron themselves will be able to add or remove titles."
+msgstr ""
+
+#: ../../source/opac.rst:411
+msgid "Owner only: only the patron who created the list will be able to add or remove titles. If the list is public or shared, the OPAC users or sharers will not be able to change the list contents."
+msgstr ""
+
+#: ../../source/opac.rst:415
+msgid "Anyone seeing this list: everyone who has access to the list will be able to add or remove titles. If the list is public, this means everyone. If the list is private, only the owner will have the ability to change the contents. And if the list is shared, the owner and sharers will have this ability."
+msgstr ""
+
+#: ../../source/opac.rst:420
+msgid "Staff only: this option will only appear to staff members, to make the list editable by all staff members."
+msgstr ""
+
+#: ../../source/opac.rst:423
+msgid "Lists can also be created by choosing the 'New list' option in the 'Add to' menu on the search results"
+msgstr "從搜尋結果的 '新增至' 選單裡的 '新增虛擬書架' 選項，就可以新增虛擬書架"
+
+#: ../../source/opac.rst:426
+msgid "|addtonewlist|"
+msgstr ""
+
+#: ../../source/opac.rst:431
+msgid "Adding titles to lists"
+msgstr "新增題名至虛擬書架"
+
+#: ../../source/opac.rst:433
+msgid "Titles can be added to lists from the search results or from the bibliographic record."
+msgstr ""
+
+#: ../../source/opac.rst:436
+msgid "In the search results, the option to add items to the list appear below each result ('Save to lists' button)"
+msgstr ""
+
+#: ../../source/opac.rst:441 ../../source/opac.rst:578
+msgid "and across the top of the results page, next to 'Select titles to: Add to...'"
+msgstr ""
+
+#: ../../source/opac.rst:445
+msgid "To add a single title to a list, click the 'Save to lists' option and then choose the list you'd like to add the title to. To add multiple titles to a list check the boxes on the left of the titles you want to add and then choose the list you want to add the titles to from the 'Add too' pull down at the top of the screen."
+msgstr "按選定單筆書目後，按 '儲存至虛擬書架' 選項，再選擇虛擬書架名稱，就完成新增書目的工作。也可勾選多筆書目記錄左方的方格，再從螢莫上方的 '同時新增' 選單裡選擇虛擬書架，完成新增多筆書目的工作。"
+
+#: ../../source/opac.rst:451
+msgid "From the bibliographic record, the option to save the title to a list is in the menu on the right."
+msgstr ""
+
+#: ../../source/opac.rst:454 ../../source/opac.rst:600
+msgid "|opacrecorddetails|"
+msgstr ""
+
+#: ../../source/opac.rst:456
+msgid "Titles can also be added to a list from the :ref:`cart <cart-opac-label>`."
+msgstr ""
+
+#: ../../source/opac.rst:461
+msgid "Viewing lists contents"
+msgstr "檢視虛擬書架內容"
+
+#: ../../source/opac.rst:463
+msgid "To view the contents of a list, click on the list name under the 'Lists' button."
+msgstr "按 '虛擬書架' 名稱下的虛擬書架鈕，即可檢視虛擬書架的內容。"
+
+#: ../../source/opac.rst:466
+msgid "|chooselist|"
+msgstr ""
+
+#: ../../source/opac.rst:468
+msgid "The contents of the list will look similar to your search results pages except that there will be different menu options across the top of the list."
+msgstr "虛擬書架的內容有點像是搜尋結果頁面，祗是上方的選單略有不同。"
+
+#: ../../source/opac.rst:472
+msgid "|listview|"
+msgstr ""
+
+#: ../../source/opac.rst:474
+msgid "To the right of the list title there is an RSS icon that will allow you to subscribe to updates to the list."
+msgstr "在虛擬書架右側有個 RSS 圖示允許您訂閱該虛擬書架的更新。"
+
+#: ../../source/opac.rst:479
+msgid "The RSS icon only appears on public lists."
+msgstr ""
+
+#: ../../source/opac.rst:481
+msgid "Using the menu options above the list you can place multiple items on hold, download the list contents, email the list or print the list out."
+msgstr "使用虛擬書架上方的選單可以預約多筆館藏、下載虛擬書架內容、電郵或列印該虛擬書架。"
+
+#: ../../source/opac.rst:484
+msgid "To place a hold on one or more list items check the box to the left of the item and click the 'Place hold' link at the top"
+msgstr "勾選清單左方的小方塊，再按選單上方的 '預約' 連結完成預約工作"
+
+#: ../../source/opac.rst:487
+msgid "To download the list contents click the 'Download list' link and choose the format you'd like to download the list in"
+msgstr "按上方的 '下載虛擬書架' 連結，再指定下載的格式，就能下載該筆虛擬書架"
+
+#: ../../source/opac.rst:490
+msgid "To email the list contents to someone, click the 'Send list' link and enter in your email details in the form that pops up"
+msgstr "按 '送出虛擬書架' 連結並在彈出表單裡鍵入電子郵件，就能把虛擬書架內容送出去"
+
+#: ../../source/opac.rst:493
+msgid "|emailist|"
+msgstr ""
+
+#: ../../source/opac.rst:497
+#, fuzzy
+msgid "The message sent when emailing the list is LIST, which can be customized in the :ref:`Notices and slips tool <notices-and-slips-label>`."
+msgstr "電子郵件的內容可以使用 :ref:`通知和單據工具 <notices-and-slips-label>` 進行自定義。 信件密碼為密碼\\_重設。"
+
+#: ../../source/opac.rst:500
+msgid "To print the contents of your list out click the 'Print list' link"
+msgstr "按 '列印虛擬書架' 連結即可列印該筆虛擬書架的內容"
+
+#: ../../source/opac.rst:505
+msgid "Managing lists"
+msgstr "管理虛擬書架"
+
+#: ../../source/opac.rst:507
+#, fuzzy
+msgid "Once the list is saved, patrons can begin :ref:`adding items to it <adding-titles-to-lists-label>`. From the :ref:`'Lists' tab <your-lists-label>` in their account, the patron can edit and delete the lists they have created by clicking the appropriate button to the right of the list name."
+msgstr "儲存虛擬書架後就可以新增書目。從讀者記錄裡的 '我的虛擬書架' 分頁，按虛擬書架名稱右方的連結，就可以編輯與刪除其建立的虛擬書架。"
+
+#: ../../source/opac.rst:515
+#, fuzzy
+msgid "To edit the list's title or sorting patrons click the 'Edit' button to the right of the list description."
+msgstr "按虛擬書架右方的 '編輯' 連結，就能夠編輯虛擬書架的題名與排序它。"
+
+#: ../../source/opac.rst:518
+msgid "|editlist|"
+msgstr ""
+
+#: ../../source/opac.rst:520
+msgid "When clicking 'Delete' next to a list you will be asked to confirm that you want to delete the list."
+msgstr "按虛擬書架旁的 '刪除' 連結，經過確認後就可刪除該虛擬書架。"
+
+#: ../../source/opac.rst:523
+msgid "|deletelist|"
+msgstr ""
+
+#: ../../source/opac.rst:525
+#, fuzzy
+msgid "If the :ref:`OpacAllowSharingPrivateLists <OpacAllowSharingPrivateLists-label>` system preference is set to 'Allow', patrons will see the 'Share' button on the list of lists and the 'Share list' button at the top of each individual list. Clicking this will ask you to enter the email address of a patron."
+msgstr "若設定 :ref:`OpacAllowSharingPrivateLists` 偏好允許讀者共享私人虛擬書架，就可看到虛擬書架清單裡的 '共享' 連結，以及在每個虛擬書架上方看到 '共享虛擬書架' 連結。按此連結並鍵入讀者的電子郵件就能和對方共享虛擬書架。"
+
+#: ../../source/opac.rst:530
+msgid "|sharelist|"
+msgstr ""
+
+#: ../../source/opac.rst:532
+msgid "Once the email address is entered Koha will present you with a confirmation message"
+msgstr "鍵入電子郵件後，Koha 將顯示確認訊息"
+
+#: ../../source/opac.rst:535
+msgid "|shareconfirmation|"
+msgstr ""
+
+#: ../../source/opac.rst:537
+msgid "and will send a message to that patron."
+msgstr "且送訊息給該讀者。"
+
+#: ../../source/opac.rst:539
+msgid "Once the other patron accepts the shared list, the sharing patron will receive a confirmation."
+msgstr ""
+
+#: ../../source/opac.rst:544
+msgid "The message sent to share the list is SHARE\\_INVITE and the message sent to the sharing patron to confirm the other patron has accepted the share is SHARE\\_ACCEPT. Both messages are customizable in the :ref:`Notices and slips tool <notices-and-slips-label>`."
+msgstr ""
+
+#: ../../source/opac.rst:549
+msgid "The other patron will see the shared list with their own private lists (the type will be 'Shared' rather than 'Private'). They will also have the option to remove the share, if they don't want to have access to this list anymore."
+msgstr ""
+
+#: ../../source/opac.rst:553
+msgid "The owner of the shared list will have the option to transfer the ownership of the list to one of the patrons with whom the list is shared."
+msgstr ""
+
+#: ../../source/opac.rst:556
+msgid "If the :ref:`TagsInputOnDetail <TagsInputOnDetail-label>` system preference is enabled, patrons will have the possibility of :ref:`adding tags to titles <opac-tagging-label>` from the list view."
+msgstr ""
+
+#: ../../source/opac.rst:563
+msgid "Cart"
+msgstr "借出籃"
+
+#: ../../source/opac.rst:568
+msgid "Adding titles to the cart"
+msgstr "新增題名入書車"
+
+#: ../../source/opac.rst:570
+msgid "Titles can be added to the cart from the search results or from the bibliographic record."
+msgstr ""
+
+#: ../../source/opac.rst:573
+msgid "In the search results, the option to add items to the cart appear below each result ('Add to cart' button)"
+msgstr ""
+
+#: ../../source/opac.rst:582
+msgid "Clicking the 'Add to cart' button under a single result will add the one title to your cart."
+msgstr ""
+
+#: ../../source/opac.rst:585
+#, fuzzy
+msgid "To add multiple titles at once, check the box to the left of each result and then choose 'Cart' from the 'Add to' pull down at the top of the screen. Once titles are added to the cart you will be presented with a confirmation at the top of the page."
+msgstr "按 '新增至書車' 鈕就可新增一筆書目至書車。勾選多筆書目左方的方格，再從螢幕上方的 '新增至' 下拉選單，選取 '書車' 就能新增多筆書目。然後，出現確認訊息"
+
+#: ../../source/opac.rst:590
+msgid "|addedtocart|"
+msgstr ""
+
+#: ../../source/opac.rst:592
+msgid "From the results you will see which items are in your cart and will be able to remove those items by clicking '(remove)'."
+msgstr "從搜尋結果可以看到被加入書車的館藏，按 '(移除)' 鈕就能從書車中移除。"
+
+#: ../../source/opac.rst:595
+msgid "|iteminyourcart|"
+msgstr ""
+
+#: ../../source/opac.rst:597
+msgid "From the bibliographic record, the option to add the title to the cart is in the menu on the right."
+msgstr ""
+
+#: ../../source/opac.rst:605
+msgid "Managing the cart"
+msgstr "管理書車"
+
+#: ../../source/opac.rst:607
+#, fuzzy
+msgid "Once there are titles in the cart, you can manage the contents by clicking on the 'Cart' button usually found at the top of the screen. Your cart will open in a new window."
+msgstr "按螢幕上方的 '書車' 鈕，就能管理其中的書目。您的書車將在新的視窗開啟。"
+
+#: ../../source/opac.rst:611
+msgid "|cartcontents|"
+msgstr ""
+
+#: ../../source/opac.rst:613
+msgid "From this window you are presented with several options. Across the top of the cart are several buttons."
+msgstr "在此視窗有若干選項。書車上方有若干選擇鈕。"
+
+#: ../../source/opac.rst:616
+#, fuzzy
+msgid "More details: clicking this will show additional information about the titles in the cart (ISBNs, subjects, publisher info, notes and more)."
+msgstr "首先是 '更多詳情' 鈕。按它，顯示書車內各書目的詳情 (ISBN、主題、出版者資訊、附註等)。"
+
+#: ../../source/opac.rst:619
+msgid "|cartmoredetails|"
+msgstr ""
+
+#: ../../source/opac.rst:621
+msgid "When clicked, tThe 'More details' button will become 'Brief display'. Clicking this will return to the default display in table form of the title, author, copyright date and item location and status."
+msgstr ""
+
+#: ../../source/opac.rst:625
+#, fuzzy
+msgid "Send: the option to send the contents of the cart to an email address. This is handy if you want to send the resources you found at the library to your home email account to refer to later or to send to a patron researching a specific topic. Clicking this link will open up a new window that asks for the email address and message to send."
+msgstr "接著是送出書車內容至電子郵件地址的選項。可以把它們送給自己供日後的參考，或送給研究該專題的讀者。點選之後會開啟新視窗，再鍵入電子郵件地址與信件的主題等。"
+
+#: ../../source/opac.rst:631
+msgid "|emailcart|"
+msgstr ""
+
+#: ../../source/opac.rst:635
+#, fuzzy
+msgid "The cart can only be emailed by logged in users. This will prevent the cart email function from being used for spamming."
+msgstr "必須登入才能發送書車。如此做法可避免誤發。"
+
+#: ../../source/opac.rst:640
+#, fuzzy
+msgid "The message sent when emailing the cart is CART, which can be customized in the :ref:`Notices and slips tool <notices-and-slips-label>`."
+msgstr "電子郵件的內容可以使用 :ref:`通知和單據工具 <notices-and-slips-label>` 進行自定義。 信件密碼為密碼\\_重設。"
+
+#: ../../source/opac.rst:643
+#, fuzzy
+msgid "Download: you can download the contents of the cart in several pre-defined formats or using a :ref:`CSV profile <csv-profiles-label>` that you defined in the tools module."
+msgstr "此外，還可以把書車的內容以多種預設格式下載，或以在工具模組預設的 :ref:`CSV 設定檔 <csv-profiles-label>` 格式。"
+
+#: ../../source/opac.rst:647
+msgid "|downloadcart|"
+msgstr ""
+
+#: ../../source/opac.rst:649
+msgid "Empty and close: this will empty the cart and close the window."
+msgstr ""
+
+#: ../../source/opac.rst:651
+msgid "Hide window: this will close the window, but the cart will not be emptied."
+msgstr ""
+
+#: ../../source/opac.rst:653
+msgid "Print: this will print out the contents of the cart."
+msgstr ""
+
+#: ../../source/opac.rst:655
+msgid "In addition to the various different ways to save the contents of the cart, there are ways to add value to the data in your cart."
+msgstr ""
+
+#: ../../source/opac.rst:658
+msgid "Select one or more titles from the cart and choose one of the options:"
+msgstr ""
+
+#: ../../source/opac.rst:660
+msgid "Remove: this will remove the selected titles from the cart."
+msgstr ""
+
+#: ../../source/opac.rst:662
+msgid "Add to a list: this will add the selected titles to a :ref:`list <adding-titles-to-lists-label>`"
+msgstr ""
+
+#: ../../source/opac.rst:665
+msgid "Place hold: this will :ref:`place a hold <placing-holds-label>` on all selected titles"
+msgstr ""
+
+#: ../../source/opac.rst:668
+msgid "Tag: if the :ref:`TagsInputOnDetail <TagsInputOnDetail-label>` system preference is enabled, patrons will be able to :ref:`add tags to selected titles <opac-tagging-label>`."
+msgstr ""
+
+#: ../../source/opac.rst:675
+msgid "Placing holds"
+msgstr "預約"
+
+#: ../../source/opac.rst:677
+#, fuzzy
+msgid "Patrons can place holds on items via the OPAC if they're logged in and you have the :ref:`OPACHoldRequests <OPACHoldRequests-label>` preference set to 'Allow'. If the item can be placed on hold the option to place it on hold will appear in several different places."
+msgstr "登入 OPAC 的讀者，且館員把 :ref:`OPACHoldRequests` 偏好設為 '允許'，讀者就可以預約館藏。允許被預約的館藏訊息將出現在若干不同的位置。"
+
+#: ../../source/opac.rst:682
+msgid "When viewing a list or search results page you'll see the option to place hold on multiple items by checking the boxes to the left of the results and clicking 'Place hold' at the top"
+msgstr "檢視虛擬書架或在搜尋結果頁面，勾選書目記錄左方的方格，按上方的 '預約' 鈕，就能預約該筆館藏"
+
+#: ../../source/opac.rst:686
+msgid "|image982|"
+msgstr ""
+
+#: ../../source/opac.rst:688
+msgid "When viewing a list or search results page you'll see the option to place the item on hold below the basic information about the title"
+msgstr "檢視虛擬書架或在搜尋結果頁面，在每筆館藏的基本資料下都有預約選項"
+
+#: ../../source/opac.rst:693
+msgid "When viewing an individual title you'll see the option to place a hold in the box on the right side of the screen"
+msgstr "檢視個別書目時，在螢幕的右方有個區塊，包括預約連結"
+
+#: ../../source/opac.rst:696
+msgid "|image984|"
+msgstr ""
+
+#: ../../source/opac.rst:698
+msgid "No matter which of the above links you click to place your hold you'll be brought to the same hold screen."
+msgstr "不論以何種連結進入預約，都會進入同個預約畫面。"
+
+#: ../../source/opac.rst:701
+msgid "|image985|"
+msgstr ""
+
+#: ../../source/opac.rst:703
+msgid "Check the box to the left of the items you'd like to place on hold"
+msgstr "按館藏左方的方格就可預約該館藏"
+
+#: ../../source/opac.rst:705
+msgid "The title includes a link back to the detail page for the record"
+msgstr "題名包括連結回紀錄的詳情頁面"
+
+#: ../../source/opac.rst:707
+msgid "The priority shows where in the holds queue this hold will fall"
+msgstr "順位顯示預約佇列中此預約位置"
+
+#: ../../source/opac.rst:709
+#, fuzzy
+msgid "If allowed by your :ref:`OPACAllowUserToChooseBranch <OPACAllowUserToChooseBranch-label>` preference the patron can choose where they'd like to pick up their hold. The list of available pickup locations will include all libraries that have 'Pickup location' set to 'Yes' on the library configuration page."
+msgstr "若 :ref:`OPACAllowUserToChooseBranch` 偏好允許，讀者就可選擇提取預約的圖書館。可以提取的清單包括在圖書館組態頁面把其 '提取位置' 設為 '是的'。"
+
+#: ../../source/opac.rst:715
+msgid "If you would like to see more options you can click 'Show more options'"
+msgstr "按 '顯示更多選項'，就能看到更多選項"
+
+#: ../../source/opac.rst:718
+msgid "Place hold form with more options"
+msgstr "更多選項裡的預約表單"
+
+#: ../../source/opac.rst:720
+#, fuzzy
+msgid "If you have the :ref:`AllowHoldItemTypeSelection <AllowHoldItemTypeSelection-label>` preference set to 'Allow' and the record had more than one item type attached you will see an option to choose to limit the hold to a specific item type"
+msgstr "把 :ref:`AllowHoldItemTypeSelection` 偏好設 '允許' 且該筆記錄有多筆館藏類型，則可選擇預約特定的館藏類型"
+
+#: ../../source/opac.rst:726
+msgid "|image1301|"
+msgstr ""
+
+#: ../../source/opac.rst:728
+#, fuzzy
+msgid "If allowed by your :ref:`OPACAllowHoldDateInFuture <OPACAllowHoldDateInFuture-label>` preference, the 'Hold starts on date' column will show. This field allows the patron to have their hold start on a future date."
+msgstr "若設定 :ref:`OPACAllowHoldDateInFuture` 偏好為允許，則出現 '預約開始日期' 欄位。此欄位允許讀者指定預約開始的日期。"
+
+#: ../../source/opac.rst:733
+msgid "By default holds placed in the system remain until canceled, but if the patron fills in a 'Hold not needed after' date then the hold has an expiration date."
+msgstr "預約的效力一直留在系統內，但讀者可以在 '此日期後取消預約' 欄位內鍵入日期事先指定取消預約的日期。"
+
+#: ../../source/opac.rst:737 ../../source/opac.rst:962
+#: ../../source/opac.rst:1445 ../../source/opac.rst:1578
+msgid "**Important**"
+msgstr "**重要**"
+
+#: ../../source/opac.rst:739
+msgid "Expired holds are removed by the :ref:`expired holds cron job <cron-expired-holds-label>`, this is not an automatic process and must be set up by your system administrator"
+msgstr "取消預約的工作由 :ref:`Expired Holds 工作排程 <cron-expired-holds-label>` 執行，此排程需由系統管理者設定才會自動執行"
+
+#: ../../source/opac.rst:743
+#, fuzzy
+msgid "If allowed by the :ref:`OpacHoldNotes <OpacHoldNotes-label>` preference then patrons can leave notes about their holds for the library by clicking the 'Edit notes' button"
+msgstr "若把 :ref:`OpacHoldNotes` 偏好設為允許，讀者可以按 '編輯說明' 鈕鍵入有關預約的文字供圖書館參考"
+
+#: ../../source/opac.rst:747
+msgid "|image986|"
+msgstr ""
+
+#: ../../source/opac.rst:749
+msgid "If the :ref:`EnableItemGroupHolds <enableitemgroupholds-label>` system preference is set to 'Enable' and the record has :ref:`item groups <item-groups-label>`, the patron can choose to place a hold on the next available item of a group, rather than the next available item on the whole record or a specific item."
+msgstr ""
+
+#: ../../source/opac.rst:755
+msgid "Depending on the rules you set regarding item specific holds in your :ref:`circulation and fines rules <circulation-and-fines-rules-label>` the patron will be allowed to choose whether to place the hold on the next available copy and/or a specific copy."
+msgstr "按照 :ref:`流通與罰款規則 <circulation-and-fine-rules-label>` 的設定，讀者可以在預約時指定可借的單件或特定單件。"
+
+#: ../../source/opac.rst:760
+msgid "|image987|"
+msgstr ""
+
+#: ../../source/opac.rst:762
+msgid "After clicking the 'Place hold' button the patron will be brought to their account page where they'll see all of the items they have on hold."
+msgstr "按下預約鈕後，讀者進入其帳號頁面可看到所有預約的館藏。"
+
+#: ../../source/opac.rst:768
+msgid "Requesting recalls"
+msgstr "要求催還"
+
+#: ../../source/opac.rst:770
+msgid "If your library accepts recalls (see :ref:`setting up recalls<recalls-setup-label>` for more information), patrons will be able to place recalls on items."
+msgstr "如果你的圖書館接受催還（見 :ref:`設定催還<recalls-setup-label>`了解更多訊息），讀者就可以對館藏進行催還。"
+
+#: ../../source/opac.rst:774
+msgid "The option to request a recall appears in various places in the OPAC:"
+msgstr "要求催還的選項出現在 OPAC 的不同地方："
+
+#: ../../source/opac.rst:776
+msgid "In the results list after a search, the 'Place recall' option appears at the bottom of each recallable result."
+msgstr "在搜尋後的結果列表中，'放置催還'選項出現在每個可催還結果的底部。"
+
+#: ../../source/opac.rst:781
+msgid "In the detailed record. the 'Place recall' option appears on the right side of the screen (or bottom in mobile view) in the options"
+msgstr "在詳細記錄中。 '地點催還'選項出現在選項中螢幕的右側（或移動視圖的底部）"
+
+#: ../../source/opac.rst:786
+msgid "Either of those links will lead to the recall form."
+msgstr "這些連結中的任何一個都將指向催還表格。"
+
+#: ../../source/opac.rst:788
+msgid "|placerecallform|"
+msgstr ""
+
+#: ../../source/opac.rst:790
+msgid "Pick up location: the patron can choose where they'd like to pick up their recalled item."
+msgstr "領取地點：讀者可以選擇他們想領取催還館藏的地點。"
+
+#: ../../source/opac.rst:793
+msgid "Recall not needed after: if the patron not need this item after a certain date, they can enter it here. The recall will be automatically expired (with the :ref:`expire\\_recalls.pl cronjob<cron-expire-recalls-label>`) after that date."
+msgstr "之後不需要催還：如果讀者在某個日期之後不需要這個館藏，他們可以在這裡輸入它。催還將在該日期後自動過期（用 :ref:`expire\\_recalls.pl 工作排程<cron-expire-recalls-label>`）。"
+
+#: ../../source/opac.rst:798
+msgid "Recall next available item or Recall a specific item: the patron can choose to recall any item or a specific one. If they choose 'Recall a specific item', they will be asked to select the item in the list."
+msgstr "催還下一個可用的館藏或催還一個特定的館藏：讀者可以選擇催還任何館藏或一個特定的館藏。如果他們選擇 '催還一個特定的館藏'，他們將被要求在列表中選擇該館藏。"
+
+#: ../../source/opac.rst:802
+#, fuzzy
+msgid "Once the patron confirms their recall request, they will have get a message saying the the patron who currently has the item will be notified."
+msgstr "一旦讀者確認他們的催還請求，他們將收到一條消息，說明將通知當前擁有該館藏的讀者。 該請求將新增到他們帳戶摘要中的催還選項卡，以及  他們的催還歷史列表中。"
+
+#: ../../source/opac.rst:807
+msgid "The notice sent to the patron who currently has the item is RETURN\\_RECALLED\\_ITEM. It can be edited in the :ref:`Notices and slips tool <notices-and-slips-label>`."
+msgstr ""
+
+#: ../../source/opac.rst:811
+#, fuzzy
+msgid "The request will be added to the recalls tab in their account summary, as well as in  their recall history list."
+msgstr "一旦讀者確認他們的催還請求，他們將收到一條消息，說明將通知當前擁有該館藏的讀者。 該請求將新增到他們帳戶摘要中的催還選項卡，以及  他們的催還歷史列表中。"
+
+#: ../../source/opac.rst:817
+msgid "Enhanced content"
+msgstr "強化內容"
+
+#: ../../source/opac.rst:822
+msgid "Tagging"
+msgstr "標籤"
+
+#: ../../source/opac.rst:824
+#, fuzzy
+msgid "Depending on the settings for the :ref:`TagsEnabled <TagsEnabled-label>`, :ref:`TagsInputOnList <TagsInputOnList-label>` and :ref:`TagsInputOnDetail <TagsInputOnDetail-label>` system preferences, patrons may be able to add tags to bibliographic records from the search results and/or from the bibliographic records' detail page."
+msgstr "適度的設定 :ref:`TagsEnabled`、:ref:`TagsInputOnList` 與 :ref:`TagsInputOnDetail` 偏好後，就能夠從搜尋結果與書目記錄內新增標籤。若允許讀者從搜尋結果畫面新增標籤，就能從每個搜尋結果下看到輸入盒，以及在螢幕上方看到 '標籤' 選項。"
+
+#: ../../source/opac.rst:830
+msgid "If you are allowing patrons to add tags from the search results list (see :ref:`TagsInputOnDetail <TagsInputOnDetail-label>`), patron will see an 'Add tag' button below each result and a 'Tag' option at the top of the screen."
+msgstr ""
+
+#: ../../source/opac.rst:836
+#, fuzzy
+msgid "To add a tag to one item, click 'Add tag', type the tag or tags (separated by commas) in the 'New tag' box and click 'Add'. You will be presented with a confirmation of your tags being added."
+msgstr "在 '新增標籤' 盒鍵入標籤 (以逗點區隔) 並按 '新增' 鈕，就能新增標籤給館藏。還需確認該新增。"
+
+#: ../../source/opac.rst:840
+msgid "|tagsadded-results|"
+msgstr ""
+
+#: ../../source/opac.rst:842
+msgid "From the results you can also tag items in bulk by clicking the checkboxes on the left and then clicking the 'Tag' button at the top. After clicking the button it will change into an input box for you to add tags to all of the items you have selected."
+msgstr "按搜尋結果頁面的左上方的 '標籤' 鈕，可對多個館藏新增標籤。按鈕之後，改變輸入盒供新增標籤給所有選定的館藏。"
+
+#: ../../source/opac.rst:847
+msgid "|tagaddmultiple-results|"
+msgstr ""
+
+#: ../../source/opac.rst:849
+msgid "If the :ref:`TagsInputOnDetail <TagsInputOnDetail-label>` system preference is enabled, patrons will also have the possibility to add tags from a :ref:`list <lists-opac-label>` and from the :ref:`cart <cart-opac-label>`."
+msgstr ""
+
+#: ../../source/opac.rst:853
+msgid "If the :ref:`TagsInputOnDetail <TagsInputOnDetail-label>` system preference is enabled, patrons will have the possibility of adding tags from the record detail page by clicking the 'Add tag(s)' link. The link will be replaced by an input box."
+msgstr ""
+
+#: ../../source/opac.rst:858
+msgid "|tagadd-detail|"
+msgstr ""
+
+#: ../../source/opac.rst:860
+#, fuzzy
+msgid "Emojis can also be included using the emoji picker when adding tags from the record detail page."
+msgstr "新增標籤時，也可以納入表情符號"
+
+#: ../../source/opac.rst:863
+msgid "|emojipicker|"
+msgstr ""
+
+#: ../../source/opac.rst:868
+msgid "Comments"
+msgstr "評論"
+
+#: ../../source/opac.rst:870
+#, fuzzy
+msgid "Patrons can leave comments in the OPAC if you have the :ref:`OPACComments <OPACComments-label>` preference set to allow this. Each bibliographic record has a comments tab below the bibliographic information."
+msgstr "若把 :ref:`OPACComments` 偏好設為允許，讀者就可以從 OPAC 輸入對書目的評論。在書目記錄資訊下方，每個書目記錄都有自已的評論分頁。"
+
+#: ../../source/opac.rst:875
+msgid "|image991|"
+msgstr ""
+
+#: ../../source/opac.rst:877
+msgid "If the patron is logged in they will see a link to add a comment to the item. Clicking this link will open a pop up window with a box for their comments."
+msgstr "讀者登入後可看新增評論給館藏的連結。按此連結將彈出包括其評論盒的視窗。"
+
+#: ../../source/opac.rst:881
+msgid "|image992|"
+msgstr ""
+
+#: ../../source/opac.rst:883
+msgid "Once the comment has been typed and the 'Submit' button clicked, the patron will see their comment as pending and other patrons will simply see that there are no comments on the item."
+msgstr "鍵入評論後按 '送出' 鈕，讀者將看到其評論列入待決，其他讀者還看到此評論。"
+
+#: ../../source/opac.rst:887
+msgid "|image993|"
+msgstr ""
+
+#: ../../source/opac.rst:889
+#, fuzzy
+msgid "Once the comment is approved the patron will see the number of comments on the 'Comments' tab and their comment labeled amongst the other comments. If the :ref:`ShowReviewerPhoto <ShowReviewerPhoto-label>` system preference is set to 'Show', the patron's photo pulled from the `Libravatar <https://www.libravatar.org>`_ library will be displayed next to their comment."
+msgstr "評論通過審核後將在 '評論' 分頁顯示評論數及其內容。若設定 :ref:`ShowReviewerPhoto` 偏好為 '顯示' 則可看到從 :ref:`Libravatar <https://www.libravatar.org>`__ 圖書館取得的照片。"
+
+#: ../../source/opac.rst:895
+msgid "|yourcomment|"
+msgstr ""
+
+#: ../../source/opac.rst:897
+#, fuzzy
+msgid "Other patrons will see the comment with the name of the patron who left the comment (unless you have set the :ref:`ShowReviewer <ShowReviewer-label>` preference to not show patron names)."
+msgstr "其他讀者可看到同名讀者留下的所有評論 (除非設定 :ref:`ShowReviewer` 偏好為不顯示讀者名稱)。"
+
+#: ../../source/opac.rst:901
+msgid "|image995|"
+msgstr ""
+
+#: ../../source/opac.rst:903
+#, fuzzy
+msgid "If you have your :ref:`OpacShowRecentComments <OpacShowRecentComments-label>` set to show then you'll see the approved comments on that page."
+msgstr "若設定 :ref:`OpacShowRecentComments` 為顯示，則可在此頁看到被審核通過的評論。"
+
+#: ../../source/opac.rst:906
+msgid "|image996|"
+msgstr ""
+
+#: ../../source/opac.rst:908
+msgid "From this page patrons can subscribe to the recent comments using RSS if they would like."
+msgstr "讀者可從此頁面以 RSS 訂閱最新的評論。"
+
+#: ../../source/opac.rst:914
+msgid "Zotero"
+msgstr "Zotero"
+
+#: ../../source/opac.rst:916
+msgid "Zotero is a Firefox add on that allows for the saving and generating of a bibliography. Learn more about and download Zotero at http://zotero.org."
+msgstr "Zotero 是 Firefox 的外掛程式，藉以儲存與產生書目。下載與詳情見官網 http://zotero.org。"
+
+#: ../../source/opac.rst:920
+msgid "When on the search results in the Koha OPAC, if you have Zotero installed, you will see a folder icon in the address bar to the right of the URL. Clicking that folder will open up a list of titles on the page for you to pick from to add to Zotero."
+msgstr "安裝 Zoteor 後，從 Koha OPAC 的搜尋結果，在 URL 右方看到一個 Zotero 的圖示。按下該圖示開啟題名清單，由此加入 Zotero。"
+
+#: ../../source/opac.rst:925
+msgid "|image997|"
+msgstr ""
+
+#: ../../source/opac.rst:927
+msgid "Select the titles you want to add to Zotero and then click the 'OK' button. This will add the title to Zotero. You can see the title by opening your Zotero library."
+msgstr "選擇題名，再按 'OK' 鈕。就能加入 Zotero。打開 Zotero 可看到新加入的書目。"
+
+#: ../../source/opac.rst:931
+msgid "|image998|"
+msgstr ""
+
+#: ../../source/opac.rst:936
+msgid "Custom RSS feeds"
+msgstr "客製化 RSS Feeds"
+
+#: ../../source/opac.rst:938
+msgid "Using the :ref:`RSS feeds cron job <cron-rss-feeds-label>` you can generate an RSS feed for any SQL query (for example a new acquisitions RSS feed). The cron job is run on the command line to produce an RSS XML document."
+msgstr "使用 :ref:`RSS 送出工作排程<cron-rss-feeds-label>` 就能產生供 SQL 使用的 RSS (譬如新增採訪 RSS 送出)。工作排程依 RSS XML 文件要求的命令執行。"
+
+#: ../../source/opac.rst:942
+msgid "The output should be placed in a directory accessible to the OPAC (or staff) web interface so that users can download the RSS feed."
+msgstr "輸出的文件應置於近用 OPAC (或館員介面) 的網頁，使用者才能下載 RSS 摘要。"
+
+#: ../../source/opac.rst:945
+msgid "An example of usage can be found at: misc/cronjobs/rss.pl lastAcquired.conf"
+msgstr "使用的範例在這裡：misc/cronjobs/rss.pl lastAcquired.conf"
+
+#: ../../source/opac.rst:948
+msgid "Normally the RSS cron job should be run periodically (e.g., daily) to keep the feed up-to-date."
+msgstr "通常定期 (每天) 執行 rss.pl 更新其內容。"
+
+#: ../../source/opac.rst:951
+msgid "The configuration file (e.g., lastAcquired.conf) lists"
+msgstr "組態檔 (如：lastAcquired.conf) 清單"
+
+#: ../../source/opac.rst:953
+msgid "name of the template file to use"
+msgstr "使用的模板檔名"
+
+#: ../../source/opac.rst:955
+msgid "path of output file"
+msgstr "匯出檔案的路徑"
+
+#: ../../source/opac.rst:957
+msgid "SQL query"
+msgstr "SQL 查詢"
+
+#: ../../source/opac.rst:959
+msgid "The RSS cron job runs the SQL query, then feeds the output of the query through the template to produce the output file."
+msgstr "rss.pl 執行 SQL 查詢，然後經由暫存送出查詢結果的檔案。"
+
+#: ../../source/opac.rst:964
+msgid "To use custom RSS feeds you need to turn on the :ref:`RSS cron job <cron-rss-feeds-label>`."
+msgstr "必須先打開 :ref:`RSS 工作排程<cron-rss-feeds-label>` 才能夠客製化 RSS 送出。"
+
+#: ../../source/opac.rst:969
+msgid "OPAC self registration"
+msgstr "OPAC 自助註冊"
+
+#: ../../source/opac.rst:971
+#, fuzzy
+msgid "If you allow it, patrons can register for their own accounts via the OPAC. If you have the :ref:`PatronSelfRegistration <PatronSelfRegistration-label>` preference set to 'Allow' then patrons will see a link to register below the log in box."
+msgstr "若圖書館允許，讀者可以經由 OPAC 註冊自己的帳號。若設定 :ref:`PatronSelfRegistration` 偏好為 '允許' 則讀者可以在 OPAC 首頁右方的登入盒下看到註冊連結。"
+
+#: ../../source/opac.rst:976
+msgid "|opachomeloginform|"
+msgstr ""
+
+#: ../../source/opac.rst:978
+#, fuzzy
+msgid "When the patron clicks the 'Register here' link they will be brought to a registration page. The options on the registration page can be controlled by editing the :ref:`PatronSelfRegistrationBorrowerMandatoryField <PatronSelfRegistrationBorrowerMandatoryField-label>` and the :ref:`PatronSelfRegistrationBorrowerUnwantedField <PatronSelfRegistrationBorrowerUnwantedField-label>` preferences."
+msgstr "註者按 '在此註冊' 連結後，進入註冊頁面。此頁面的欄位與必備性由 :ref:`PatronSelfRegistrationBorrowerMandatoryField` 與 :ref:`PatronSelfRegistrationBorrowerUnwantedField` 偏好控制。"
+
+#: ../../source/opac.rst:986
+msgid "|image1000|"
+msgstr ""
+
+#: ../../source/opac.rst:988
+#, fuzzy
+msgid "Once the patron has submitted their registration they will either be sent an email to confirm their account (if you have the :ref:`PatronSelfRegistrationVerifyByEmail <PatronSelfRegistrationVerifyByEmail-label>` preference to require this) or presented with their new username and password. If the :ref:`PatronSelfRegistrationPrefillForm <PatronSelfRegistrationPrefillForm-label>` system preference is set to 'Show and prefill', they will be presented with the prefilled login form."
+msgstr "讀者確認送出註冊後，Koha 發出確認信至註冊時填入的電子郵件信箱 (若已設定 :ref:`PatronSelfRegistrationVerifyByEmail` 偏好要求) ，或顯示新的讀者號與密碼。"
+
+#: ../../source/opac.rst:995
+msgid "|image1001|"
+msgstr ""
+
+#: ../../source/opac.rst:999
+msgid "To be notified when a patron registers via the OPAC, use the :ref:`EmailPatronRegistrations <emailpatronregistrations-and-emailaddressforpatronregistrations-label>` system preference."
+msgstr ""
+
+#: ../../source/opac.rst:1001
+msgid "Patrons registered in this way will not have a cardnumber until assigned one by the library, but will have access to all OPAC functionality immediately. For this reason it is recommended that you:"
+msgstr "自助註冊的讀者還沒有圖書館發給的讀者號，但已可立馬使用 OPAC 的所有功能。因此，建議您："
+
+#: ../../source/opac.rst:1005
+#, fuzzy
+msgid "set up a provisional :ref:`patron category <adding-a-patron-category-label>` for self registered patrons (such as 'Self Registered) instead of using an existing patron category and set that value in the :ref:`PatronSelfRegistrationDefaultCategory <PatronSelfRegistrationDefaultCategory-label>` preference"
+msgstr "設定一個暫時性的 :ref:`讀者類型 <adding-a-patron-category-label>` 供自助註冊讀者 (例如 '自助註冊) 使用，而不要用已存在的讀者類型，且在 :ref:`PatronSelfRegistrationDefaultCategory` 偏好設定其值"
+
+#: ../../source/opac.rst:1011
+#, fuzzy
+msgid "give this patron category minimal circulation privileges in the :ref:`circulation and fines rules <circulation-and-fines-rules-label>` (such as allowing a couple holds, but no check outs)"
+msgstr "並在 :ref:`流通與罰款規則` 裡，給予該等讀者足夠的權限 (但不能借出)"
+
+#: ../../source/opac.rst:1015
+msgid "That way patrons will either have to come in to the library to verify their identity before given a cardnumber and the ability to check items out or the library will have to come up with internal policy on generating cardnumbers before providing them to self registered patrons. Once this is done the library can change the category to one that is more appropriate (be it an adult, resident, non resident, student, etc) and add a cardnumber/barcode."
+msgstr "如此一來，讀者必須親自到館確認其身份，給予讀者證號碼，擁有借出的權限。館員更改其類型，給予身份 (成年人、居民、非居民、學生等) 並讀者證號碼。"
+
+#: ../../source/opac.rst:1026
+msgid "Your account"
+msgstr "我的帳號"
+
+#: ../../source/opac.rst:1028
+#, fuzzy
+msgid "If the :ref:`opacuserlogin <opacuserlogin-label>` system preference is set to 'Allow', patrons can log in and access their account."
+msgstr "如果 :ref:`opacuserlogin` 系統偏好設定為'允許'，讀者可以登錄並訪問他們的帳號。"
+
+#: ../../source/opac.rst:1031
+msgid "Once logged in patrons are brought to their :ref:`account summary <your-summary-label>`."
+msgstr "登入後，讀者將被帶到他們的 :ref:`帳號匯總 <your-summary-label>`。"
+
+#: ../../source/opac.rst:1034
+#, fuzzy
+msgid "If patrons access the home page while logged in, and :ref:`OPACUserSummary <OPACUserSummary-label>` is set to 'Show', they will see a small summary of their account instead of the login fields."
+msgstr "如果讀者在登入時訪問主頁，並且 :ref:`OPACUserSummary`被設定為'顯示'，他們將看到他們帳戶的一個小摘要，而不是登入欄位。"
+
+#: ../../source/opac.rst:1038
+msgid "|OPACUserSummary|"
+msgstr ""
+
+#: ../../source/opac.rst:1040
+msgid "If :ref:`OPACShowSavings <opacshowsavings-label>` is set to display savings in the summary box, this summary section will also contain the savings the patron made by using the library rather than purchasing the items."
+msgstr ""
+
+#: ../../source/opac.rst:1044
+msgid "|OPACShowSavings-summarybox|"
+msgstr ""
+
+#: ../../source/opac.rst:1046
+msgid "From any page on the OPAC, clicking on their name at the top right of the page will bring a patron back to their account."
+msgstr "在 OPAC 的任何頁面上，單擊頁面右上角的姓名，都會將訂閱會員帶回他們的帳戶。"
+
+#: ../../source/opac.rst:1052
+msgid "Resetting your password"
+msgstr "重設密碼"
+
+#: ../../source/opac.rst:1054
+#, fuzzy
+msgid "If you have the :ref:`OpacResetPassword <OpacResetPassword-label>` system preference set to 'Allow', patrons can reset their password by clicking the 'Forgot your password?' link found under the login box."
+msgstr "把 :ref:`OpacResetPassword` 偏好設定為允許讀者重設其密碼，讀者就可以按登入盒下方的 '忘記密碼？' 連結，重設其密碼。"
+
+#: ../../source/opac.rst:1058
+msgid "|forgotpwlink|"
+msgstr ""
+
+#: ../../source/opac.rst:1060
+msgid "Once clicked, they will be presented with a form asking for their username and their email address."
+msgstr "點擊後，他們將看到一個表格，要求他們提供使用者名稱和電子郵件地址。"
+
+#: ../../source/opac.rst:1063
+msgid "|passwordrecover|"
+msgstr ""
+
+#: ../../source/opac.rst:1067
+msgid "Patrons **must** have an email address on file to reset their password. If they don't have an email address already in their file, they will get an error message"
+msgstr "讀者**必須**有一個電子郵件地址用於重置密碼。 如果他們的文件中沒有電子郵件地址，他們將收到一條錯誤消息"
+
+#: ../../source/opac.rst:1071
+msgid "|reseterror|"
+msgstr ""
+
+#: ../../source/opac.rst:1073
+msgid "The system will then email the patron instructions for resetting their password."
+msgstr "系統發送電子郵件，指示讀者重設密碼。"
+
+#: ../../source/opac.rst:1076
+msgid "|resetconfirm|"
+msgstr ""
+
+#: ../../source/opac.rst:1078
+msgid "The content of the email can be customized with the :ref:`Notices and slips tool <notices-and-slips-label>`. The code of the letter is PASSWORD\\_RESET."
+msgstr "電子郵件的內容可以使用 :ref:`通知和單據工具 <notices-and-slips-label>` 進行自定義。 信件密碼為密碼\\_重設。"
+
+#: ../../source/opac.rst:1082 ../../source/opac.rst:1362
+msgid "If the :ref:`NotifyPasswordChange <notifypasswordchange-label>` system preference is enabled, the patron will receive a notification indicating their password was changed."
+msgstr ""
+
+#: ../../source/opac.rst:1086
+#, fuzzy
+msgid "The content of that email can be customized with the :ref:`Notices and slips tool <notices-and-slips-label>`. The code of the letter is PASSWORD\\_CHANGE."
+msgstr "電子郵件的內容可以使用 :ref:`通知和單據工具 <notices-and-slips-label>` 進行自定義。 信件密碼為密碼\\_重設。"
+
+#: ../../source/opac.rst:1093
+msgid "Your summary"
+msgstr "我的摘要"
+
+#: ../../source/opac.rst:1095
+msgid "From the 'your summary' tab, patrons will see all of the items they have checked out with the overdue items highlighted in red."
+msgstr "在 '你的摘要' 標籤中，讀者將看到他們所借出的所有館藏，其中逾期的館藏以紅色標示。"
+
+#: ../../source/opac.rst:1098
+#, fuzzy
+msgid "|yoursummary|"
+msgstr "我的摘要"
+
+#: ../../source/opac.rst:1100
+msgid ":ref:`OPAC messages <opac-messages-label>` and :ref:`OPAC notes <opac-notes-label>` will be displayed at the top of this page. For OPAC messages, the patron will have the option to dismiss the message. This will hide the message from their OPAC account and mark it as read, but it will not delete the message."
+msgstr ""
+
+#: ../../source/opac.rst:1105
+msgid "|opacmessage2|"
+msgstr ""
+
+#: ../../source/opac.rst:1107
+msgid "You can add content to this page with the :ref:`OpacMySummaryNote HTML customization location <html-customizations-label>`. Content added there will appear above the patron's summary and below the welcome message."
+msgstr ""
+
+#: ../../source/opac.rst:1112
+msgid "|OpacMySummaryNote|"
+msgstr ""
+
+#: ../../source/opac.rst:1114 ../../source/opac.rst:1402
+msgid "If :ref:`OPACShowSavings <opacshowsavings-label>` is set to display savings in the 'your summary' page, this section will also contain the savings the patron made by using the library rather than purchasing the items."
+msgstr ""
+
+#: ../../source/opac.rst:1118
+msgid "|OPACShowSavings-yoursummary|"
+msgstr ""
+
+#: ../../source/opac.rst:1120
+#, fuzzy
+msgid "If :ref:`OpacRenewalAllowed <OpacRenewalAllowed-label>` set to 'Allow', patrons will be able to renew their checkouts from the OPAC."
+msgstr "如果 :ref:`OpacRenewalAllowed` 設定為'允許'，讀者將能夠從 OPAC 續借。"
+
+#: ../../source/opac.rst:1123
+#, fuzzy
+msgid "If the patron has pending charges exceeding the value set in :ref:`OPACFineNoRenewals <OPACFineNoRenewals-label>`, a note will display explaining that renewals cannot be made."
+msgstr "如果讀者的未結費用超過 :ref:`OPACFineNoRenewals`中設定的值，將顯示一個說明，解釋不能進行續借。"
+
+#: ../../source/opac.rst:1127
+msgid "|OPACFineNoRenewals|"
+msgstr ""
+
+#: ../../source/opac.rst:1129
+#, fuzzy
+msgid "A note will display if the patron cannot place holds due to their charges exceeding the value set in the :ref:`maxoutstanding <maxoutstanding-label>` system preference."
+msgstr "如果讀者因其費用超過 :ref:`maxoutstanding`系統偏好中設定的值而不能進行預約，則會顯示一個說明。"
+
+#: ../../source/opac.rst:1132
+msgid "|maxoutstanding|"
+msgstr ""
+
+#: ../../source/opac.rst:1134
+#, fuzzy
+msgid "If :ref:`AllowPatronToControlAutoRenewal <AllowPatronToControlAutoRenewal-label>` is set to 'Allow patrons', patrons will be able to choose whether or not they want their checkouts to be renewed automatically. If they choose ‘Yes’, items for which automatic renewal is enabled in the circulation rules will renew as expected. If they choose ‘No’, the automatic renewals that would have applied to this patron’s checkouts will not take place."
+msgstr "如果 :ref:`AllowPatronToControlAutoRenewal` 被設定為 '允許讀者'，讀者可以選擇他們是否希望他們的借閱被自動更新。如果他們選擇 \"是\"，流通規則中啟用了自動更新的館藏將按預期更新。如果他們選擇 \"不\"，適用於該讀者借閱的自動更新將不會發生。"
+
+#: ../../source/opac.rst:1138
+msgid "|allowautorenewal|"
+msgstr ""
+
+#: ../../source/opac.rst:1140
+#, fuzzy
+msgid "If you have HTML entered in the :ref:`OPACMySummaryHTML <OPACMySummaryHTML-label>` preference then you will see that to the right of the 'Fines' column."
+msgstr "若在 :ref:`OPACMySummaryHTML` 偏好輸入 HTML 格式的內容，就可在 '罰款' 欄右方看到其內容。"
+
+#: ../../source/opac.rst:1145
+#, fuzzy
+msgid "By default, the barcode is not displayed in the patron's checkout table on the OPAC. If your patrons would like to see the items barcodes on their list of checked out items you can set up a :ref:`patron attribute <patron-attribute-types-label>` with the value of SHOW\\_BCODE and :ref:`authorized value <authorized-values-label>` of YES\\_NO."
+msgstr "若設定 :ref:`讀者屬性 <patron-attribute-types-label>` 值為 SHOW\\_BCODE 且把 `容許值 <authorized-values-label>` 定為 YES\\_NO，讀者就能從借出館藏清單看到借出館藏的條碼。"
+
+#: ../../source/opac.rst:1151
+msgid "|SHOW_BCODEadd|"
+msgstr ""
+
+#: ../../source/opac.rst:1153
+#, fuzzy
+msgid "Then, on the :ref:`patron's record set the value <editing-patrons-label>` for SHOW\\_BCODE to 'Yes'."
+msgstr "然後在 :ref:`讀者紀錄設定值 <editing-patrons-label>` 裡把 SHOW\\_BCODE 設為 yes。"
+
+#: ../../source/opac.rst:1156
+msgid "|SHOW_BCODEattribute|"
+msgstr ""
+
+#: ../../source/opac.rst:1158
+#, fuzzy
+msgid "This will add a column to the checkout summary in the OPAC that shows the patron the barcodes of the items they have checked out."
+msgstr "將在 OPAC 新增借出摘要欄，顯示借出館藏的條碼。"
+
+#: ../../source/opac.rst:1161
+#, fuzzy
+msgid "If you would like your patrons to leave a note on an item they have checked out :ref:`AllowCheckoutNotes <allowcheckoutnotes-label>` preference must be set to allow."
+msgstr "必須把 :ref:`allowcheckoutnotes` 偏好設為允許，才能讓讀者評論其借出的館藏。"
+
+#: ../../source/opac.rst:1164
+#, fuzzy
+msgid "In the patron's summary of checkouts, there will be an added column to allow the patron to leave a note (for example: missing first page, or DVD is scratched)."
+msgstr "在讀者借出摘要內，將出現新的欄框供讀者留下評論 (如：少了第一頁、或DVD刮傷)。讀者確認的評論將在還入館藏後被館員讀取。"
+
+#: ../../source/opac.rst:1168
+msgid "|AllowCheckoutNotes|"
+msgstr ""
+
+#: ../../source/opac.rst:1170
+msgid "When the patron clicks on 'Add note', they will be able to write a note about this checkout."
+msgstr ""
+
+#: ../../source/opac.rst:1173
+msgid "|checkoutnote|"
+msgstr ""
+
+#: ../../source/opac.rst:1175
+msgid "Staff will be able to :ref:`see and manage checkout notes <checkoutnotes-label>` from the staff interface."
+msgstr ""
+
+#: ../../source/opac.rst:1178
+#, fuzzy
+msgid "If their guarantee has allowed it via :ref:`their privacy <your-privacy-label>`, or alternatively, if the staff is allowed to change this privacy setting in the staff interface with the :ref:`AllowStaffToSetCheckoutsVisibilityForGuarantor <AllowStaffToSetCheckoutsVisibilityForGuarantor-label>` system preference and this setting is turned on, when the guarantor logs in they will see a tab labeled \"Relatives' checkouts\" on their summary tab."
+msgstr "如果他們的擔保人通過 :ref:`他們的隱私權 <your-privacy-label>`允許這樣做，或是如果館員被允許在館員介面用 :ref:`AllowStaffToSetCheckoutsVisibilityForGuarantor`系統偏好來改變這一隱私設定，並且這一設定被打開，當擔保人登入時，他們將在他們的摘要標籤上看到一個標記為 \"親屬的借出\"。"
+
+#: ../../source/opac.rst:1184 ../../source/opac.rst:1462
+msgid "|relativecheckouts|"
+msgstr ""
+
+#: ../../source/opac.rst:1186
+msgid "Clicking on the 'Overdue' tab will show only the items that are overdue."
+msgstr "按 '逾期' 分頁將祗顯示逾期的館藏。"
+
+#: ../../source/opac.rst:1188
+msgid "|myoverdues|"
+msgstr ""
+
+#: ../../source/opac.rst:1190
+#, fuzzy
+msgid "The 'Fines' tab will show just a total of what the patron owes. Clicking on the total will take them to the 'your fines' tab where they will see a complete breakdown of their fines and bills. If you don't charge fines at your library you can turn the display of these tabs off by setting the :ref:`OPACFinesTab <OPACFinesTab-label>` preference to 'Don't allow.'"
+msgstr "於 '罰款' 分頁顯示讀者的待付罰款總額。安總額後進入 '我的罰款' 分頁，才能看到各筆罰款的明細。若圖書館不向讀者收取罰款，可以把 :ref:`OPACFinesTab` 偏好設為 '不允許'，就不會顯示罰款分頁。"
+
+#: ../../source/opac.rst:1196
+msgid "|mycharges|"
+msgstr ""
+
+#: ../../source/opac.rst:1198
+#, fuzzy
+msgid "If their guarantee has allowed it via :ref:`their privacy <your-privacy-label>`, or alternatively, if the staff is allowed to change this privacy setting in the staff interface with the :ref:`AllowStaffToSetFinesVisibilityForGuarantor <AllowStaffToSetFinesVisibilityForGuarantor-label>` system preference and this setting is turned on, when the guarantor logs in they will see a tab labeled \"Relatives' charges\" on their summary tab."
+msgstr "如果他們的擔保人通過 :ref:`他們的隱私權 <your-privacy-label>`允許這樣做，或是如果館員被允許在館員介面上通過 :ref:`AllowStaffToSetFinesVisibilityForGuarantor`系統偏好改變這一隱私設定，並且這一設定被打開，當擔保人登入時，他們將在其摘要標籤上看到一個標有 \"親屬費用 \"的標籤。"
+
+#: ../../source/opac.rst:1204
+msgid "|relativecharges|"
+msgstr ""
+
+#: ../../source/opac.rst:1206
+msgid "The 'Holds' tab shows the patron the status of all of the items they have on hold."
+msgstr "'預約' 分頁顯示讀者所有的預約館藏。"
+
+#: ../../source/opac.rst:1209
+msgid "|myholds|"
+msgstr ""
+
+#: ../../source/opac.rst:1211
+#, fuzzy
+msgid "Depending on the value of the :ref:`SuspendHoldsOpac <SuspendHoldsOpac-label>` system preference, patrons can suspend their own holds if they are not in transit or already waiting for them. When they click 'Suspend' they will be presented with the option to choose a date for their hold to resume."
+msgstr "讀者可以取消或延遲 (依 :ref:`SuspendHoldsOpac` 系統偏好的設定而定) 不在轉移中或到館待提取的館藏。若按 '延遲' 鈕則出現選取恢復的日期。"
+
+#: ../../source/opac.rst:1216
+msgid "|suspenduntil|"
+msgstr ""
+
+#: ../../source/opac.rst:1218
+msgid "They can also suspend all of their holds indefinitely or until a specific date if they choose by filling in the suspend options at the bottom of the page."
+msgstr "也可以無限期地延遲預約，或從頁面下方指定延遲至指定日期。"
+
+#: ../../source/opac.rst:1224
+#, fuzzy
+msgid "If the :ref:`AutoResumeSuspendedHolds <AutoResumeSuspendedHolds-label>` system preference is set to \"Don't allow\", patrons will not have the option to put an end date on the hold suspension."
+msgstr "若設定 :ref:`AutoResumeSuspendedHolds` 偏好為 \"不允許\" 則看不到延遲預約的選項"
+
+#: ../../source/opac.rst:1228
+msgid "From this tab, patrons can also cancel holds. Depending on the :ref:`waiting hold cancellation policy <defaultwaitingholdcancellationpolicy-label>`, they may also be able to cancel holds that are already waiting for them."
+msgstr ""
+
+#: ../../source/opac.rst:1232
+msgid "Depending on the value of the :ref:`OPACAllowUserToChangeBranch <opacallowusertochangebranch-label>` system preference, the patron may be able to change the pickup library of holds. When one or more status is selected in the system preference, a 'Change' link will appear under the current pickup library's name for holds that have that status."
+msgstr ""
+
+#: ../../source/opac.rst:1238
+msgid "|myholds-changepickuplibrary|"
+msgstr ""
+
+#: ../../source/opac.rst:1240
+msgid "When the patron clicks on the 'Change' link, there is a pop-up with a selection of libraries that allow hold pickups."
+msgstr ""
+
+#: ../../source/opac.rst:1243
+msgid "|myholds-changepickuplibrary-modal|"
+msgstr ""
+
+#: ../../source/opac.rst:1245
+msgid "If your library :ref:`allows recalls<recalls-label>`, the patron can see the recalls they have requested and their various statuses in the 'Recalls' tab."
+msgstr "如果你的圖書館 :ref:`允許催還<recalls-label>`，讀者可以在'催還'標籤中看到他們要求的催還和它們的各種狀態。"
+
+#: ../../source/opac.rst:1248
+msgid "|myrecalls|"
+msgstr ""
+
+#: ../../source/opac.rst:1250 ../../source/opac.rst:1709
+msgid "The patron can cancel a recall by clicking the 'Cancel' button, provided that it is not already awaiting pickup."
+msgstr "讀者可以通過點擊'取消'按鈕來取消催還，前提是它還沒有等待被領取。"
+
+#: ../../source/opac.rst:1256
+msgid "Patron flags"
+msgstr "讀者旗標"
+
+#: ../../source/opac.rst:1258
+#, fuzzy
+msgid "If you have :ref:`flagged your patron's account <add-patron-flags-label>` they may see one of the following error messages at the top of their account."
+msgstr "館員 `標記讀者帳號 <#patronflags>`__ 後，讀者可能在其帳號上方以下的錯誤訊息。"
+
+#: ../../source/opac.rst:1261
+msgid "Card marked as lost"
+msgstr "借書證被通報遺失"
+
+#: ../../source/opac.rst:1263
+msgid "|image1011|"
+msgstr ""
+
+#: ../../source/opac.rst:1265
+msgid "Patron address in question"
+msgstr "請更新地址"
+
+#: ../../source/opac.rst:1267
+msgid "|image1012|"
+msgstr ""
+
+#: ../../source/opac.rst:1271
+#, fuzzy
+msgid "this error message will not include a link to the update form if you have :ref:`OPACPatronDetails <OPACPatronDetails-label>` set to 'Don't allow'"
+msgstr "若把 :ref:`OPACPatronDetails` 偏好設為 '不允許' 則此錯誤訊息不能連結至更新表格"
+
+#: ../../source/opac.rst:1275
+msgid "Patron marked restricted"
+msgstr "讀者權限被限制"
+
+#: ../../source/opac.rst:1277
+msgid "|image1013|"
+msgstr ""
+
+#: ../../source/opac.rst:1282
+msgid "Your fines"
+msgstr "您的罰款"
+
+#: ../../source/opac.rst:1284
+msgid "If your library charges fines the next tab on the left is 'your fines'. Opening this tab will show the patron an entire history of their accounting at the library."
+msgstr "若有罰款下個分頁就是 '我的罰款'。開啟後顯示所有的罰款記錄。"
+
+#: ../../source/opac.rst:1288
+msgid "|image1014|"
+msgstr ""
+
+#: ../../source/opac.rst:1290
+msgid "If you are allowing patrons to pay their fines using PayPal with the :ref:`EnablePayPalOpacPayments <enablepaypalopacpayments-and-paypalsandboxmode-label>` preference there will be checkboxes to the left of each fine with an outstanding amount."
+msgstr "若已設定 :ref:`EnablePayPalOpacPayments <enablepaypalopacpayments-and-paypalsandboxmode-label>` 偏好，允許讀者以 PayPal 支付罰款，則在待付罰款左方將出現勾選盒。"
+
+#: ../../source/opac.rst:1295
+msgid "|image1306|"
+msgstr ""
+
+#: ../../source/opac.rst:1297
+msgid "At the bottom the patron will see the option to pay with PayPal for the items they have checked."
+msgstr "在最下方，讀者可看到以 PayPal 支付館藏的勾選內容。"
+
+#: ../../source/opac.rst:1300
+msgid "|image1015|"
+msgstr ""
+
+#: ../../source/opac.rst:1302
+msgid "After paying they will be presented with a confirmation"
+msgstr "付款後將出現確認訊息"
+
+#: ../../source/opac.rst:1304
+msgid "|image1307|"
+msgstr ""
+
+#: ../../source/opac.rst:1306
+msgid "And you will see that the fine was paid using PayPal on the staff side."
+msgstr "在館員端可看到已使用 PayPal 支付罰款。"
+
+#: ../../source/opac.rst:1309
+msgid "|image1308|"
+msgstr ""
+
+#: ../../source/opac.rst:1314
+msgid "Your personal details"
+msgstr "您的個人詳情"
+
+#: ../../source/opac.rst:1316
+#, fuzzy
+msgid "If you have your :ref:`OPACPatronDetails <OPACPatronDetails-label>` preference set to 'Allow', your patrons will see a form filled in with their contacting information by clicking on the 'Your personal details' tab. You can control what fields patrons see and can modify via the OPAC by setting the :ref:`PatronSelfModificationBorrowerUnwantedField <patronselfmodificationborrowerunwantedfield-label>` and :ref:`PatronSelfModificationMandatoryField <patronselfmodificationmandatoryfield-label>` preferences."
+msgstr "把 :ref:`OPACPatronDetails` 偏好設為 '允許'，讀者就能從 '我的詳情' 頁面鍵入連絡資訊。經由設定 :ref:`PatronSelfRegistrationBorrowerMandatoryField` 與 :ref:`PatronSelfRegistrationBorrowerUnwantedField` 偏好，就能掌握讀者可從 OPAC 看到與編輯的欄位。"
+
+#: ../../source/opac.rst:1322
+#, fuzzy
+msgid "|personaldetails|"
+msgstr "您的個人詳情"
+
+#: ../../source/opac.rst:1324
+msgid "Patrons can edit their details in this form and click 'Submit changes' to have their edits sent to the library for review before their record is updated. Staff will see all patrons requesting modification to their record listed below the modules on the main dashboard along with anything else awaiting library attention."
+msgstr "讀者可從這個表單編輯詳情，再按最下方的 '送出改變' 把修改的結果送交館員審核。館員可在頁面下方看到所有需要審核的資料。"
+
+#: ../../source/opac.rst:1332
+#, fuzzy
+msgid "If the :ref:`OPACPatronDetails <OPACPatronDetails-label>` preference is set to 'Don't allow' then patrons will simply see their details and a message stating that they should contact the library for changes."
+msgstr "若把 :ref:`OPACPatronDetails` 偏好設為 '不允許' 則讀者祗能看到其帳號詳情，不能修改它。"
+
+#: ../../source/opac.rst:1339
+msgid "Your tags"
+msgstr "您的標籤"
+
+#: ../../source/opac.rst:1341
+#, fuzzy
+msgid "If your library has :ref:`TagsEnabled <TagsEnabled-label>` set to 'Allow' then the next tab on the left will be 'your tags'. This tab will show patrons all of the tags in the system as a cloud and then all of the tags they have applied in a list format. From here patrons have the ability to remove tags that they have added if they want."
+msgstr "若把 :ref:`TagsEnabled` 偏好設為 '允許' 則下個分頁是 '我的標籤'。此分頁顯示該讀者的所有標籤。讀者可以刪除自建的標籤。"
+
+#: ../../source/opac.rst:1347
+msgid "|image1019|"
+msgstr ""
+
+#: ../../source/opac.rst:1352
+msgid "Change your password"
+msgstr "改變您的密碼"
+
+#: ../../source/opac.rst:1354
+#, fuzzy
+msgid "Next, if you have :ref:`OpacPasswordChange <OpacPasswordChange-label>` set to 'Allow' the next tab will be 'change your password,' where patrons can change their password for logging into the OPAC. Patrons will be presented with a standard form asking them to enter their old password and then their new password twice."
+msgstr "接著，若把 :ref:`OpacPasswordChange` 偏好設為 '允許'，則下個分頁是 '變更您的密碼'，讀者登入 OPAC 後可變更密碼。先鍵入舊密碼，再登入新密碼兩次。"
+
+#: ../../source/opac.rst:1360
+msgid "|image1020|"
+msgstr ""
+
+#: ../../source/opac.rst:1366
+#, fuzzy
+msgid "The content of this email can be customized with the :ref:`Notices and slips tool <notices-and-slips-label>`. The code of the letter is PASSWORD\\_CHANGE."
+msgstr "電子郵件的內容可以使用 :ref:`通知和單據工具 <notices-and-slips-label>` 進行自定義。 信件密碼為密碼\\_重設。"
+
+#: ../../source/opac.rst:1373
+msgid "Your search history"
+msgstr "您的搜尋紀錄"
+
+#: ../../source/opac.rst:1375
+#, fuzzy
+msgid "If you have your :ref:`EnableOpacSearchHistory <EnableOpacSearchHistory-label>` preference set to 'Keep' then your patrons can access their search history via the 'your search history' tab."
+msgstr "若把 :ref:`EnableOpacSearchHistory` 偏好設為 '允許' 則讀者可以經由 '我的搜尋記錄' 分頁，近用其搜尋記錄。"
+
+#: ../../source/opac.rst:1379
+msgid "|image1021|"
+msgstr ""
+
+#: ../../source/opac.rst:1381
+msgid "The search history is a record of all searches run by the patron. Clicking on any of the search phrases will re-run the search for the patron. The search history can be deleted by the patron at any time by clicking the 'Delete your search history' link found at the top of this tab or by clicking the little red 'x' next to the 'Search history' link at the top right of the OPAC."
+msgstr "搜尋記錄是讀者在 OPAC 的搜尋過程。按任何一個搜尋就重新執行一遍。任何時間讀者可以按分頁上方的 '刪除您的搜尋記錄' 連結或在 OPAC 右上角的紅色 'x'，刪除其內容。"
+
+#: ../../source/opac.rst:1388
+msgid "|image1022|"
+msgstr ""
+
+#: ../../source/opac.rst:1393
+#, fuzzy
+msgid "Checkout history"
+msgstr "您的借出記錄"
+
+#: ../../source/opac.rst:1395
+#, fuzzy
+msgid "If the :ref:`opacreadinghistory <opacreadinghistory-label>` system preference is set to 'Allow', patrons will have access to the 'Checkout history' tab. This will show the patron their entire borrowing history, unless they have asked the library to not keep that information via the :ref:`'Privacy' tab <your-privacy-label>`."
+msgstr "設定 :ref:`opacreadinghistory` 偏好後，讀者就能看到 '我的借出記錄' 分頁。若設定 :ref:`OPACPrivacy` 偏好為 '允許' 讀者就可以經由 '我的隱私' 分頁，要求圖書館不保留其借閱記錄。"
+
+#: ../../source/opac.rst:1400
+#, fuzzy
+msgid "|yourcheckouthistory|"
+msgstr "您的借出記錄"
+
+#: ../../source/opac.rst:1406
+#, fuzzy
+msgid "|OPACShowSavings-checkouthistory|"
+msgstr "您的借出記錄"
+
+#: ../../source/opac.rst:1411
+msgid "Your privacy"
+msgstr "您的隱私"
+
+#: ../../source/opac.rst:1413
+#, fuzzy
+msgid "The 'your privacy' tab will appear if you have both the :ref:`opacreadinghistory <opacreadinghistory-label>` and the :ref:`OPACPrivacy <OPACPrivacy-label>` preferences set to 'Allow.' This tab will allow the patrons to decide how the library keeps their circulation history data."
+msgstr "若設定 :ref:`opacreadinghistory` 與 :ref:`OPACPrivacy` 偏好為 '允許' 讀者就能看到 '我的隱私' 分頁。讀者從此分頁要求圖書館適度的處理其流度記錄。"
+
+#: ../../source/opac.rst:1419
+msgid "|image1024|"
+msgstr ""
+
+#: ../../source/opac.rst:1421
+msgid "The patron can choose from three options:"
+msgstr "讀者有三個選項："
+
+#: ../../source/opac.rst:1423
+msgid "Forever: keep my reading history without limit. This is the option for users who want to keep track of what they are reading."
+msgstr "永久有效：永久保留您的閱讀記錄。這是讀者自己的選擇。"
+
+#: ../../source/opac.rst:1426
+msgid "Default: keep my reading history according to local laws. This is the default option : the library will keep your reading history for the duration permitted by local laws."
+msgstr "預設：依法保留您的借出記錄。這是預設選項：圖書館依法保留相當期間的借出記錄。"
+
+#: ../../source/opac.rst:1430
+msgid "Never: Delete my reading history immediately. This will delete all record of the item that was checked-out upon check-in."
+msgstr "絕不：立即刪除我的閱讀記錄。將在還入時，刪除所有借出與還入的記錄。"
+
+#: ../../source/opac.rst:1433
+msgid "Depending on the patron's suggestions the contents of the ':ref:`Your reading history <your-checkout-history-label>`' tab and the ':ref:`Circulation History <circulation-history-label>`' tab in the staff client may change."
+msgstr "館員介面的 ':ref:`我的閱讀紀錄 <your-reading-history-label>`' 分頁與 ':ref:`流通紀錄 <circulation-history-label>`' 分頁，都依讀者的建議而改變。"
+
+#: ../../source/opac.rst:1437
+msgid "Regardless of the patron's choice they can delete their reading history in bulk at any time by clicking the 'Immediate deletion' button."
+msgstr "不論選擇何種隱私規則，都可以點選 '立即刪除' 鈕，批次刪除所有的閱讀紀錄。"
+
+#: ../../source/opac.rst:1440
+msgid "|image1025|"
+msgstr ""
+
+#: ../../source/opac.rst:1442
+msgid "Clicking this button will not delete items that are currently checked out, but will clear the patron's past reading history."
+msgstr "按此鈕不會刪除借出中的館藏，但將清除讀者的閱讀紀錄。"
+
+#: ../../source/opac.rst:1447
+#, fuzzy
+msgid "In order for the patron to be able to delete their reading history you must have the :ref:`AnonymousPatron <AnonymousPatron-label>` preference set."
+msgstr "必須設定 :ref:`AnonymousPatron` 偏好才能讓讀者刪除其借閱紀錄。"
+
+#: ../../source/opac.rst:1451
+#, fuzzy
+msgid "If you're allowing guarantees to grand permission to their guarantors to view their current checkouts with the :ref:`AllowPatronToSetCheckoutsVisibilityForGuarantor <AllowPatronToSetCheckoutsVisibilityForGuarantor-label>` preference they will see that option on this screen."
+msgstr "設定 :ref:`AllowPatronToSetCheckoutsVisibilityForGuarantor` 偏好後，保證人就可以從畫面看到被保證人的借出資料。"
+
+#: ../../source/opac.rst:1457
+msgid "|image1309|"
+msgstr ""
+
+#: ../../source/opac.rst:1459
+msgid "When the guarantor logs in they will see a tab labeled \"Relatives' checkouts\" on their summary tab."
+msgstr "保證人登入後，在其摘要分頁有個分頁標示為 \"親屬借出\"。"
+
+#: ../../source/opac.rst:1467
+msgid "Your holds history"
+msgstr "您的預約記錄"
+
+#: ../../source/opac.rst:1469
+#, fuzzy
+msgid "If the :ref:`OPACHoldsHistory <OPACHoldsHistory-label>` system preference is set to 'Allow', patrons will be able to see all their current and past holds."
+msgstr "如果 :ref:`OPACHoldsHistory` 系統偏好設定為 '允許'，讀者就可以看到他們目前和過去的所有預約。"
+
+#: ../../source/opac.rst:1472
+#, fuzzy
+msgid "|opacholdshistory|"
+msgstr "您的預約記錄"
+
+#: ../../source/opac.rst:1477
+msgid "Your purchase suggestions"
+msgstr "您的採訪建議"
+
+#: ../../source/opac.rst:1479
+#, fuzzy
+msgid "If your library allows patrons to make purchase suggestions the next tab will show all suggestions that the patron made to the library and their statuses. To disable this tab and the suggestion functionality set the :ref:`suggestion <suggestion-label>` preference to 'Don't allow.'"
+msgstr "若圖書館允許讀者提出採訪建議，則下個分頁顯示所有讀者提出的採訪建議及其狀態。設定 :ref:`採訪建議` 偏好為 '不允許' 就不會出現該分頁。"
+
+#: ../../source/opac.rst:1484
+msgid "|image1026|"
+msgstr ""
+
+#: ../../source/opac.rst:1486
+#, fuzzy
+msgid "If you have :ref:`OPACViewOthersSuggestions <OPACViewOthersSuggestions-label>` set to 'Show' then patrons will be able to search suggestions from the top of this list."
+msgstr "若設定 :ref:`OPACViewOthersSuggestions` 為 '顯示' 則讀者可以從此清單上方搜尋採訪建議。"
+
+#: ../../source/opac.rst:1493
+#, fuzzy
+msgid "Messaging"
+msgstr "您的訊息"
+
+#: ../../source/opac.rst:1495
+#, fuzzy
+msgid "If your library has the :ref:`EnhancedMessagingPreferences <EnhancedMessagingPreferences-label>` and the :ref:`EnhancedMessagingPreferencesOPAC <EnhancedMessagingPreferencesOPAC-label>` preferences set to 'Allow' then your patrons will be able to choose which messages they receive from the library (with the exception of overdue notices which the library controls)."
+msgstr "若把 :ref:`EnhancedMessagingPreferences` 和 :ref:`EnhancedMessagingPreferencesOPAC` 偏好都設為 '允許'，讀者就可以選擇接收圖書館訊息的種類 (不含圖書館控制的逾期通知)。"
+
+#: ../../source/opac.rst:1502
+msgid "|image1027|"
+msgstr ""
+
+#: ../../source/opac.rst:1504
+#, fuzzy
+msgid "If you use an outside driver for sending text messages set with the :ref:`SMSSendDriver <SMSSendDriver-label>` preference, you will see an additional column to receive these messages as SMS (or text messages) and a field for a cell (or SMS) number."
+msgstr "若以外部的設備送出文字簡訊，須設定 :ref:`SMSSendDriver` 偏好，出現額外的欄位用於接收 SMS (或文字訊息) 與行動電話 (或 SMS) 號碼的欄位。"
+
+#: ../../source/opac.rst:1509
+msgid "|image1028|"
+msgstr ""
+
+#: ../../source/opac.rst:1511
+#, fuzzy
+msgid "If you are using the Email protocol for sending text messages set with the :ref:`SMSSendDriver <SMSSendDriver-label>` preference, you will see an additional column to receive these messages as SMS (or text messages), a field for a cell (or SMS) number, and a pull down listing :ref:`cellular providers entered in administration <sms-cellular-providers-label>`."
+msgstr "若以電子郵件協定發送文字簡訊，則需設定 :ref:`SMSSendDriver` 偏好，出現額外的欄位顯示接收的 SMS (或文字訊息)、行動電話 (或 SMS) 號碼，及下拉清單 :ref:`cellular providers entered in administration <sms-cellular-providers-label>`。"
+
+#: ../../source/opac.rst:1517
+msgid "|image1029|"
+msgstr ""
+
+#: ../../source/opac.rst:1519
+#, fuzzy
+msgid "If you are using the :ref:`i-tiva Talking Tech <talkingtechitivaphonenotification-label>` service you will see an additional column to receive these messages via Phone."
+msgstr "使用 :ref:`Itiva Talking Tech <talkingtechitivaphonenotification-label>` 服務後將經由電話接收額外的簡訊。"
+
+#: ../../source/opac.rst:1523
+msgid "|image1311|"
+msgstr ""
+
+#: ../../source/opac.rst:1525
+msgid "These notices are:"
+msgstr "這些通知是："
+
+#: ../../source/opac.rst:1527
+msgid "Advanced notice: A notice in advance of the patron's items being due (The patron can choose the number of days in advance)"
+msgstr "提早通知：用於通知讀者其借出的館藏即將到期 (讀者可指定提前的天數)"
+
+#: ../../source/opac.rst:1530 ../../source/opac.rst:1547
+msgid "Item checkout: A notice that lists all the of the items the patron has just checked out and/or renewed, this is an electronic form of the checkout receipt"
+msgstr "借出館藏：通知讀者剛借出或續借的館藏，就是電子版的借出收條"
+
+#: ../../source/opac.rst:1534
+msgid "Hold filled: A notice when you have confirmed the hold is waiting for the patron"
+msgstr "預約可取：讀者預約書籍已在館可取"
+
+#: ../../source/opac.rst:1537
+msgid "Item due: A notice on the day and item is due back at the library"
+msgstr "到期通知：館藏到期當天的通知"
+
+#: ../../source/opac.rst:1539
+msgid "Item check-in: A notice that lists all the of the items the patron has just checked in"
+msgstr "還入館藏：讀者剛還入的館藏清單"
+
+#: ../../source/opac.rst:1544
+#, fuzzy
+msgid "This notice can be customized by editing the CHECKIN notice in the :ref:`Notices and slips tool <notices-and-slips-label>`."
+msgstr "電子郵件的內容可以使用 :ref:`通知和單據工具 <notices-and-slips-label>` 進行自定義。 信件密碼為密碼\\_重設。"
+
+#: ../../source/opac.rst:1553
+#, fuzzy
+msgid "This notice can be customized by editing the CHECKOUT notice in the :ref:`Notices and slips tool <notices-and-slips-label>`."
+msgstr "電子郵件的內容可以使用 :ref:`通知和單據工具 <notices-and-slips-label>` 進行自定義。 信件密碼為密碼\\_重設。"
+
+#: ../../source/opac.rst:1556
+msgid "Auto renewal: A notice that notifies the patron that their checkouts have been automatically renewed, or if there was a problem with their automatic renewal."
+msgstr ""
+
+#: ../../source/opac.rst:1562
+msgid "This notice can be customized by editing the AUTO\\_RENEWAL or AUTO\\_RENEWAL\\_DGST notices in the :ref:`Notices and slips tool <notices-and-slips-label>`."
+msgstr ""
+
+#: ../../source/opac.rst:1566
+msgid "This option will only appear if the :ref:`AutoRenewalNotices <AutoRenewalNotices-label>` is set to \"according to patrons messaging preferences\"."
+msgstr ""
+
+#: ../../source/opac.rst:1570
+msgid "Patrons can choose to receive their notices as a digest by checking the 'Digest only?' box along with the delivery method. A digest is a combination of all the messages of that type (so all items due in 3 days in one email) in to one email instead of multiple emails for each alert."
+msgstr "按 '祗有摘要?' 盒後讀者就祗接收摘要式通知。把所有此類型 (3 天內到期的資訊置於一個電子郵件) 的訊息納入一個電子郵件寄出。"
+
+#: ../../source/opac.rst:1575
+#, fuzzy
+msgid "If the :ref:`TranslateNotices <TranslateNotices-label>` preference is set to Allow the patron will also see an option to choose 'Preferred language for notices' with a dropdown list of available languages."
+msgstr "如果 :ref:`TranslateNotices`偏好設定為允許，讀者也會看到一個選擇 '偏好的通知語言' 的選項，有一個可用語言的下拉列表。"
+
+#: ../../source/opac.rst:1580
+msgid "You must choose a delivery method (SMS or email or phone) along with 'Digest only?' if you would like to receive a digest of the messages."
+msgstr "詢問 '祗要摘要嗎？' 同時須選擇傳送方式 (SMS 或電子郵件或電話)，讀者才能收到該摘要的訊息。"
+
+#: ../../source/opac.rst:1589
+#, fuzzy
+msgid "If the :ref:`virtualshelves <virtualshelves-label>` system preference is set to 'Allow', patron will see a 'Lists' tab."
+msgstr "如果 :ref:`opacuserlogin` 系統偏好設定為'允許'，讀者可以登錄並訪問他們的帳號。"
+
+#: ../../source/opac.rst:1592
+msgid "From here, patrons can view public lists and :ref:`create or edit their own private lists <creating-lists-label>`."
+msgstr ""
+
+#: ../../source/opac.rst:1600
+msgid "Ask for a discharge"
+msgstr "要求離館"
+
+#: ../../source/opac.rst:1602
+#, fuzzy
+msgid "If the :ref:`useDischarge <useDischarge-label>` system preference is enabled, patrons will be able to request a discharge via the OPAC. A discharge is a certificate that says the patron has no current checkouts and no holds."
+msgstr "若啟用 :ref:`useDischarge` 偏好，則讀者就可經由 OPAC 請求離館。"
+
+#: ../../source/opac.rst:1606
+#, fuzzy
+msgid "Patrons can request a discharge from the library by going to the 'Ask for discharge' tab in their online account."
+msgstr "讀者登入後，就能管理其帳戶下的 '我的虛擬書架' 區塊。"
+
+#: ../../source/opac.rst:1609
+msgid "|dischargetab|"
+msgstr ""
+
+#: ../../source/opac.rst:1611
+msgid "From here they can request a discharge by clicking the 'Ask for a discharge' button. They will receive a confirmation of their request."
+msgstr ""
+
+#: ../../source/opac.rst:1614
+msgid "Once the :ref:`discharge is approved by library staff <approve-discharge-label>`, the patron will see a download link to download a PDF of their discharge."
+msgstr ""
+
+#: ../../source/opac.rst:1617
+msgid "|dischargedownload|"
+msgstr ""
+
+#: ../../source/opac.rst:1622
+msgid "Your routing lists"
+msgstr "您的傳閱清單"
+
+#: ../../source/opac.rst:1624
+msgid "If you are named as a recipient on any :ref:`serial routing lists <create-a-routing-list-label>` you will see them listed here. The following note is displayed \"You are subscribed to the routing lists for following serial titles. If you wish to make changes, please contact the library\"."
+msgstr "如果您被指定為任何:ref:`serial routing lists <create-a-routing-list-label>`您將會看見他們被列在這裡. 顯示以下說明\"您已訂閱以下連續性標題的傳閱清單. 如果您想改變, 請聯繫圖書館\"."
+
+#: ../../source/opac.rst:1633
+msgid "Your interlibrary loan requests"
+msgstr "您的館際互借請求"
+
+#: ../../source/opac.rst:1635
+#, fuzzy
+msgid "If your library has the :ref:`ILLModule <ILLModule-label>` preference set to ‘Enable’ patrons will have the option to make ILL requests when logged in to their OPAC account. From here they can view their existing requests and place new ones."
+msgstr "如果您的圖書館的 :ref:`ILLModule`優先設定為當顧客登錄他們OPAC的帳戶顧客‘能夠’擁有選擇發送館際互借請求.  從這裡他們可以查看他們現有的請求以及提出新的請求."
+
+#: ../../source/opac.rst:1639
+msgid "|image1373|"
+msgstr ""
+
+#: ../../source/opac.rst:1641
+msgid "To place a new interlibrary loan request click on ‘Create a new request’ and choose a request form."
+msgstr "提出一個新的館際互借請求請點擊‘創建一個新的請求’和選擇請求的類型."
+
+#: ../../source/opac.rst:1644
+msgid "|image1374|"
+msgstr ""
+
+#: ../../source/opac.rst:1648
+#, fuzzy
+msgid "The options displayed are dependent on your ILL configuration. See the ILL backends wiki page at https://wiki.koha-community.org/wiki/ILL_backends further explanation."
+msgstr "顯示的選項獨立於您館際互借的配置.  請在https://wiki.koha-community.org/wiki/ILL_backends參閱館際互借後端wiki頁面的進一步說明."
+
+#: ../../source/opac.rst:1654
+#, fuzzy
+msgid "If you have entered copyright text in the :ref:`ILLModuleCopyrightClearance <ILLModuleCopyrightClearance-label>` preference the text displays here and you need to click ‘Yes’ to accept before continuing."
+msgstr "如果您在 :ref:`ILLModuleCopyrightClearance`優先輸入著作權正文正文將顯示在這裡以及在繼續前你需要點擊‘Yes’接受."
+
+#: ../../source/opac.rst:1658
+#, fuzzy
+msgid "Complete the publication details as fully as possible. Depending on the form in use you may see the option to add Custom fields for additional information such as notes. Destination branch is a required field, this is the branch you would like the request to be sent to."
+msgstr "盡可能充分完成出版細節. 根據使用的表格你可能看見添加了自訂欄位為選項已獲取額外的資訊像是說明.  目標分館是必填欄位, 這個是你希望請求傳遞到的分館."
+
+#: ../../source/opac.rst:1663
+msgid "|image1375|"
+msgstr ""
+
+#: ../../source/opac.rst:1665
+msgid "Click on 'Create' to submit your request to the library for processing."
+msgstr "點擊'創建'提交您的請求給圖書館進行處理."
+
+#: ../../source/opac.rst:1667
+#, fuzzy
+msgid "Your submitted request will be listed with a status of ‘New request’. Once processed the status will be updated to ‘Requested’."
+msgstr "您提交的請求將會被列為‘新的請求’的狀態.  處理後狀態將更新為‘已請求’."
+
+#: ../../source/opac.rst:1670
+msgid "Click on ‘View’ to make changes or cancel your request."
+msgstr "點擊‘查看’來改變或是取消您的請求."
+
+#: ../../source/opac.rst:1672
+#, fuzzy
+msgid "You cannot edit the form details but you can add a note to request a modification and then click on ‘Submit modifications’ at the bottom of the screen. Your modification will be sent to the library for processing."
+msgstr "您無法編輯表格的細節但是您可以添加請求修改的便條之後點擊螢幕底下的‘提交修改’.  您的修改將會被傳遞給圖書館進行處理."
+
+#: ../../source/opac.rst:1678
+msgid "When a patron modifies an inter-library loan request, an email is sent to library staff so that they can view the changes from the :ref:`ILL module <managing-ILL-requests-label>`."
+msgstr ""
+
+#: ../../source/opac.rst:1682
+#, fuzzy
+msgid "The email sent is based on the ILL\\_REQUEST\\_MODIFIED template. It can be customized in the :ref:`Notices and slips tool <notices-and-slips-label>`."
+msgstr "電子郵件的內容可以使用 :ref:`通知和單據工具 <notices-and-slips-label>` 進行自定義。 信件密碼為密碼\\_重設。"
+
+#: ../../source/opac.rst:1685
+msgid "For new requests you will also have the option to ‘Request cancellation’. Your request will be updated with the status ‘Cancellation requested’ and can then be removed by library staff."
+msgstr "對於新的請求您也可以選擇‘取消請求’. 您的請求狀態將會被更新成‘取消請求’之後就會被圖書館員移除."
+
+#: ../../source/opac.rst:1691
+msgid "When a patron cancels an inter-library loan request, an email is sent to library staff so that they can cancel it from the :ref:`ILL module <managing-ILL-requests-label>`."
+msgstr ""
+
+#: ../../source/opac.rst:1695
+#, fuzzy
+msgid "The email sent is based on the ILL\\_REQUEST\\_CANCEL template. It can be customized in the :ref:`Notices and slips tool <notices-and-slips-label>`."
+msgstr "電子郵件的內容可以使用 :ref:`通知和單據工具 <notices-and-slips-label>` 進行自定義。 信件密碼為密碼\\_重設。"
+
+#: ../../source/opac.rst:1701
+msgid "Your recalls history"
+msgstr "您的催還記錄"
+
+#: ../../source/opac.rst:1703
+msgid "If your library :ref:`allows recalls<recalls-label>`, the patron can see all their past and current recalls they have requested and their various statuses in the 'your recalls history' tab."
+msgstr "如果你的圖書館 :ref:`允許催還<recalls-label>`，讀者可以在'你的催還曆史'標籤中看到他們過去和現在申請的所有催還，以及他們的各種狀態。"
+
+#: ../../source/opac.rst:1707
+#, fuzzy
+msgid "|recallshistory|"
+msgstr "您的催還記錄"
+
+#: ../../source/opac.rst:1715
+msgid "Curbside pickups"
+msgstr ""
+
+#: ../../source/opac.rst:1717
+msgid "If your library offers :ref:`curbside pickup <curbside-pickup-configuration-label>`, the patron will be able to see their scheduled pickups under 'Curbside pickups'."
+msgstr ""
+
+#: ../../source/opac.rst:1720
+msgid "|yourcurbsidepickups|"
+msgstr ""
+
+#: ../../source/opac.rst:1722
+msgid "The patron has the option to indicate that they are outside the library by clicking 'Alert staff of your arrival'."
+msgstr ""
+
+#: ../../source/opac.rst:1725
+msgid "The patron also has the option to cancel their scheduled pickup with the 'Cancel this pickup' button."
+msgstr ""
+
+#: ../../source/opac.rst:1728
+msgid "If the 'Patron-scheduled pickup' setting is turned on in the :ref:`curbside pickup configuration <curbside-pickup-configuration-label>`, the patron will be able to schedule their own curbside pickup appointment."
+msgstr ""
+
+#: ../../source/opac.rst:1732
+msgid "|scheduleapickup|"
+msgstr ""
+
+#: ../../source/opac.rst:1734
+msgid "The patron must first choose a library at which they want to pick up their items"
+msgstr ""
+
+#: ../../source/opac.rst:1739
+msgid "Only libraries with curbside pickup enabled will be displayed in the drop-down menu."
+msgstr ""
+
+#: ../../source/opac.rst:1742
+msgid "Furthermore, if the 'Enable for waiting holds only' setting is turned on, only the libraries at which the patron has waiting holds will be enabled."
+msgstr ""
+
+#: ../../source/opac.rst:1745
+#, fuzzy
+msgid "The patron must then choose a date"
+msgstr "讀者有三個選項："
+
+#: ../../source/opac.rst:1749
+msgid "Only dates with available time slots will be displayed."
+msgstr ""
+
+#: ../../source/opac.rst:1751
+msgid "The possible pickup times will be displayed, depending on the day of the week"
+msgstr ""
+
+#: ../../source/opac.rst:1753
+msgid "|curbsidepickuptimeslots|"
+msgstr ""
+
+#: ../../source/opac.rst:1757
+msgid "The number in parentheses under each time slot is the number of available appointments for that time. If the maximum number of appointments has been reached, based on the 'Maximum patrons per interval' setting in the :ref:`curbside pickup configuration<curbside-pickup-configuration-label>`, the time slot will be greyed out and the patron will not be able to select it."
+msgstr ""
+
+#: ../../source/opac.rst:1764
+msgid "The patron can optionally add a note about their pickup"
+msgstr ""
+
+#: ../../source/opac.rst:1766
+msgid "The patron must then click 'Schedule pickup' to save their appointment"
+msgstr ""
+
+#: ../../source/opac.rst:1771
+msgid "Purchase suggestions"
+msgstr "採購建議"
+
+#: ../../source/opac.rst:1773
+#, fuzzy
+msgid "If your library has the :ref:`suggestion <suggestion-label>` preference set to 'Allow', patrons will have the option to make purchase suggestions in several areas in the OPAC."
+msgstr "若圖書館設定 :ref:`suggestion` 偏好設為 '允許' 讀者就能從 OPAC 的多個區域提出採訪建議。"
+
+#: ../../source/opac.rst:1776
+#, fuzzy
+msgid "If you are allowing everyone to see the purchase suggestions made by others with the :ref:`OPACViewOthersSuggestions <OPACViewOthersSuggestions-label>` preference, there will be a link at the top of your OPAC under the search box."
+msgstr "若設定 :ref:`OPACViewOthersSuggestions` 偏好允許每個人都能看到其他人的採訪建議，則在 OPAC 的搜尋盒下將出現一個連結。"
+
+#: ../../source/opac.rst:1780
+msgid "|suggestfromsearch|"
+msgstr ""
+
+#: ../../source/opac.rst:1782
+msgid "There will be a link when the patron finds nothing for their search."
+msgstr "讀者搜尋不著時將出現一個連結。"
+
+#: ../../source/opac.rst:1784
+msgid "|suggestfromnoresults|"
+msgstr ""
+
+#: ../../source/opac.rst:1786
+msgid "There will be a 'Suggest for purchase' option in the detailed view of a bibliographic record."
+msgstr "在書目記錄的詳細視圖中將有一個'建議購買'的選項。"
+
+#: ../../source/opac.rst:1791
+msgid "And there will be a link in the :ref:`Your purchase suggestions <your-purchase-suggestions-label>` tab in the patron's account."
+msgstr "在讀者帳戶中的 :ref:`你的購買建議 <your-purchase-suggestions-label>` 標籤會有一個連結。"
+
+#: ../../source/opac.rst:1795
+msgid "|suggestfrommyaccount|"
+msgstr ""
+
+#: ../../source/opac.rst:1797
+msgid "Clicking any one of these links will open the purchase suggestion form."
+msgstr "按任何一個連結將打開採訪建議表單。"
+
+#: ../../source/opac.rst:1799
+#, fuzzy
+msgid "|newsuggestion|"
+msgstr "採購建議"
+
+#: ../../source/opac.rst:1801
+msgid "The informational text at the top of the form can be replaced using the :ref:`HTML customizations tool<html-customizations-label>`, display location OpacSuggestionInstructions."
+msgstr "表格頂部的訊息文字可以用 :ref:`HTML 自定義工具<html-customizations-label>`替換，顯示位置OpacSuggestionInstructions。"
+
+#: ../../source/opac.rst:1805
+msgid "From the form only the 'Title' is required by default."
+msgstr "預設情況下，表單中僅需要'標題'。"
+
+#: ../../source/opac.rst:1807
+#, fuzzy
+msgid "Mandatory fields can be set using the :ref:`OPACSuggestionMandatoryFields <OPACSuggestionMandatoryFields-label>` system preference."
+msgstr "可以使用 :ref:`OPACSuggestionMandatoryFields` 系統偏好設定必填欄位。"
+
+#: ../../source/opac.rst:1810
+#, fuzzy
+msgid "The :ref:`OPACSuggestionUnwantedFields <OPACSuggestionUnwantedFields-label>` system preference can be used to hide unnecessary fields."
+msgstr " :ref:`OPACSuggestionUnwantedFields`系統偏好可用於隱藏不必要的欄位。"
+
+#: ../../source/opac.rst:1813
+#, fuzzy
+msgid "The :ref:`OPACSuggestionAutoFill <opacsuggestionautofill-label>` system preference can be used to help patrons fill out the form using information from Google Books."
+msgstr " :ref:`OPACSuggestionUnwantedFields`系統偏好可用於隱藏不必要的欄位。"
+
+#: ../../source/opac.rst:1817
+msgid "The item type list can be edited by editing the SUGGEST\\_FORMAT :ref:`authorized value list<authorized-values-label>`."
+msgstr "可以透過編輯建議\\_格式 :ref:`容許值 <authorized-values-label>`來編輯項目種類表單。"
+
+#: ../../source/opac.rst:1820
+msgid "The 'Reason for suggestion' list can be edited by editing the OPAC\\_SUG :ref:`authorized value list<authorized-values-label>`."
+msgstr "'建議的原因 '列表可以通過編輯OPAC\\_SUG :ref:`容許值列表<authorized-values-label>`來編輯。"
+
+#: ../../source/opac.rst:1823
+msgid "If the item already exists in the catalog, the patron will see a message with what Koha thinks is the corresponding title. Matches are made on the title/ author, ISBN or ISSN. If the title isn't what the patron is trying to suggest, they can click 'Confirm your suggestion', to suggest it anyway."
+msgstr ""
+
+#: ../../source/opac.rst:1828
+msgid "|suggestionmatch|"
+msgstr ""
+
+#: ../../source/opac.rst:1830
+msgid "Once the form is submitted the purchase suggestion will appear in the :ref:`acquisitions module<managing-purchase-suggestions-label>` for the librarians to manage."
+msgstr "一旦提交表單，採購建議將出現在 :ref:`採訪模組<managing-purchase-suggestions-label>` ，供圖書館員管理。"
+
+#: ../../source/opac.rst:1834
+msgid "If a purchase suggestion has been ordered through the :ref:`acquisitions module<managing-purchase-suggestions-label>`, the patron's purchase suggestion title will be clickable and bring the patron directly to the ordered record in the OPAC."
+msgstr "如果通過 :ref:`採訪模組<managing-purchase-suggestions-label>訂購了購買建議，讀者的購買建議標題將可以點擊，並將讀者直接帶到OPAC中的訂購記錄。"
+
+#: ../../source/opac.rst:1842
+msgid "Libraries"
+msgstr ""
+
+#: ../../source/opac.rst:1844
+msgid "The 'Libraries' page shows the contact information (address lines, city, state, zip/postal code, country, phone number, fax number, website) for :ref:`libraries <libraries-label>` in the system that are set as 'Public'."
+msgstr ""
+
+#: ../../source/opac.rst:1848
+msgid "|librariespage|"
+msgstr ""
+
+#: ../../source/opac.rst:1850
+msgid "The library name is a link to a specific page for this library. This second page also includes :ref:`'OpacLibraryInfo' HTML customizations <html-customizations-label>` for this library."
+msgstr ""
+
+#: ../../source/opac.rst:1855
+msgid "|librarypage|"
+msgstr ""
+
+#: ../../source/opac.rst:1860
+msgid "Reporting problems"
+msgstr ""
+
+#: ../../source/opac.rst:1862
+msgid "If the :ref:`OPACReportProblem <opacreportproblem-label>` system preference is enabled, patrons will have the option to report problems on the OPAC (broken links or inaccurate information for example)."
+msgstr ""
+
+#: ../../source/opac.rst:1866
+msgid "At the bottom of each page is a 'Report a problem' link."
+msgstr ""
+
+#: ../../source/opac.rst:1868
+msgid "|opacmain|"
+msgstr ""
+
+#: ../../source/opac.rst:1870
+msgid "When the patron clicks on the link, they are brought to a form where they can specify what exactly is the problem."
+msgstr ""
+
+#: ../../source/opac.rst:1873
+msgid "|reportproblem|"
+msgstr ""
+
+#: ../../source/opac.rst:1875
+msgid "The problem report is sent to the Koha administrator by email (to the address in :ref:`KohaAdminEmailAddress <KohaAdminEmailAddress-label>`), and will appear in the :ref:`OPAC problem reports tool <opac-problem-reports-tool>`. If the :ref:`library <libraries-label>` has an email address, the patron will have the choice to either send the problem report to the library or to the administrator."
+msgstr ""
+
+#: ../../source/opac.rst:1883
+#, fuzzy
+msgid "The notice sent by email is customizable in the :ref:`Notices and slips tool <notices-and-slips-label>`. The letter code is PROBLEM\\_REPORT."
+msgstr "電子郵件的內容可以使用 :ref:`通知和單據工具 <notices-and-slips-label>` 進行自定義。 信件密碼為密碼\\_重設。"

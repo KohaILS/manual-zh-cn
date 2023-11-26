@@ -1,0 +1,634 @@
+# Chinese translations for Koha Manual package.
+# Copyright (C) 2018, Koha Community
+# This file is distributed under the same license as the Koha Manual package.
+# Automatically generated, 2019.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Koha Manual 22.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-10-26 08:18+0200\n"
+"PO-Revision-Date: 2020-10-08 06:50+0000\n"
+"Last-Translator: Frank Chou <frank@sris.com.tw>\n"
+"Language-Team: none\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pootle 2.8\n"
+"X-POOTLE-MTIME: 1602139819.288441\n"
+"X-Pootle-Path: /zh_TW/manual22.11/erm.po\n"
+"X-Pootle-Revision: 1\n"
+
+#: ../../source/erm.rst:6
+msgid "E-Resource management"
+msgstr ""
+
+#: ../../source/erm.rst:11
+msgid "Search Bar"
+msgstr ""
+
+#: ../../source/erm.rst:13
+msgid "The search bar allows you to quickly search agreement records and (Local) packages or titles. Packages or titles from third-party knowledge bases are not searchable from here. Go to the eHoldings link to search these."
+msgstr ""
+
+#: ../../source/erm.rst:23
+msgid "ERM Home Page"
+msgstr ""
+
+#: ../../source/erm.rst:25 ../../source/erm.rst:291
+msgid "Get there: More > E-Resource management"
+msgstr ""
+
+#: ../../source/erm.rst:32
+msgid "Agreements"
+msgstr ""
+
+#: ../../source/erm.rst:34
+msgid "In ERM terms, Agreements describe what electronic subscriptions you can access whereas Licenses are used to describe what you can do with those resources."
+msgstr ""
+
+#: ../../source/erm.rst:39
+msgid "Set up"
+msgstr ""
+
+#: ../../source/erm.rst:41
+msgid "Before you start to create new Agreement records, ensure your staff users have the :ref:`user permission <patron-permissions-label>` to work with ERM records and that you have reviewed the :ref:`ERM\\_ authorized values <authorized-values-label>` to suit your needs. Also, ensure you have reviewed the :ref:`ERM system preferences <erm-system-preferences-label>`."
+msgstr ""
+
+#: ../../source/erm.rst:47
+msgid "Create an Agreement record"
+msgstr ""
+
+#: ../../source/erm.rst:49 ../../source/erm.rst:131
+msgid "From the ERM Home page click on the Agreements link in the left hand menu"
+msgstr ""
+
+#: ../../source/erm.rst:52 ../../source/erm.rst:134
+msgid "Get there: More > E-Resource management > Agreements"
+msgstr ""
+
+#: ../../source/erm.rst:54
+msgid "Use the + New Agreement button at the top of the Agreements table"
+msgstr ""
+
+#: ../../source/erm.rst:58
+msgid "You are required to give the Agreement a Name, Description and Status. The status determines if this agreement is active or not. All other fields are optional."
+msgstr ""
+
+#: ../../source/erm.rst:62
+msgid "The agreement can, optionally, be attached to an existing :ref:`Vendor record <vendors-label>` in the acquisitions module. This allows you to keep a record of who supplied the e-resources and also to create purchase orders against it."
+msgstr ""
+
+#: ../../source/erm.rst:66
+msgid "The Closure reason field will stay grayed out until you give the agreement the status of “closed” at which point it will become active."
+msgstr ""
+
+#: ../../source/erm.rst:69
+msgid "The License info box can be used here if you **don’t** intend to use the Licenses part of ERM but still want to record information about a license alongside the agreement."
+msgstr ""
+
+#: ../../source/erm.rst:75
+msgid "**Periods** - Multiple periods can be attached to an Agreement record. The period describes the duration of the relationship you have with the provider. Every time you renew an agreement you can record a new agreement period so that you have a historical record of how many times it has been renewed. You can also create agreement periods for future dates. So, for example, you may have a current period, some historical periods and an upcoming period. The cancellation deadline can be used in reporting to alert you to upcoming end dates and therefore alert you to initiate the renewal with the provider."
+msgstr ""
+
+#: ../../source/erm.rst:87
+msgid "**Users** - In this context, a user is a staff user who has some involvement with the Agreement. They could be staff involved in procuring the e-resource, sorting out the licensing, the subject specialist etc. This means we can attach multiple users to an agreement. In order to be attached to an agreement a staff user **must** have the ERM permission, otherwise they will **not** appear in the list when you try and select a user. This also keeps the list of patrons to a small, manageable, size by excluding your library patrons. When you attach a user you also assign them a role from the ERM_USER_ROLES authorized value."
+msgstr ""
+
+#: ../../source/erm.rst:100
+msgid "**Licenses** - If you want to link an agreement to a license record you created under licenses use the “Add new license” button. An agreement can be attached to one or more license records. Select the license name from the drop-down list of licenses you have previously created and give it a status. The Physical location is where you may have stored a paper version of the document within your library. You can also specify notes and a URI (if the license is actually available online)."
+msgstr ""
+
+#: ../../source/erm.rst:110
+msgid "**Related Agreements** - A related agreement is any agreement which has some relevance to an agreement already in the system. For example, an agreement which has superseded an existing agreement. You can link an agreement to one or many other agreements."
+msgstr ""
+
+#: ../../source/erm.rst:117
+msgid "**Agreement Documents** - You can attach one or more documents to an agreement record. This is not meant to be for license documents (which are attached to license records) but other correspondence with a provider, information about the resources etc. If you decide to only record agreement information and not licenses then you can, of course, also attach the license documents themselves. The physical location is where any paper version of the correspondence is held in the library and the URI a link to any online copy."
+msgstr ""
+
+#: ../../source/erm.rst:129
+msgid "Search and View an Agreement record"
+msgstr ""
+
+#: ../../source/erm.rst:138
+msgid "You will be presented with a list of existing agreements in the system ordered by the agreement name. You can use the table or column filters to search and filter data you are looking for (for example, all agreements with the Status: closed)."
+msgstr ""
+
+#: ../../source/erm.rst:143
+msgid "Clicking on the Name of the agreement will take you through to the full view."
+msgstr ""
+
+#: ../../source/erm.rst:148
+msgid "The full view summarizes all the information you entered when you were creating the agreement. The vendor it is attached to (which is a hypertext link to the vendor record), the Status, any agreement periods, any users associated with the agreement, any related agreements and, importantly, what the agreement covers; that is, which vendor packages are included as part of the agreement. You will notice that the Related agreements field is also a hypertext link to the other agreement and this is bi-directional. The link to the Packages is also a hypertext link and takes you to the eHoldings module."
+msgstr ""
+
+#: ../../source/erm.rst:158
+msgid "A package is a collection of e-resource titles which have been bundled together for distribution by a provider/vendor. Rather than selling you a license to use a single title, a vendor will typically sell you a selection of e-resources bundled together in a named package (e.g. Journal Archives). This can often contain 10s or even 100s of titles. Custom packages are often negotiated locally in various parts of the world with providers. The benefit of buying in packages means that the library does not have to undertake individual negotiation with publishers for specific titles, this is left to the provider."
+msgstr ""
+
+#: ../../source/erm.rst:168
+msgid "**Agreement Filters** - At the top of the Agreements page you will notice a Filter box. The purpose of this is to allow you to quickly filter expired agreements or agreements which may have an upcoming renewal (and therefore might require action)."
+msgstr ""
+
+#: ../../source/erm.rst:178
+msgid "Licenses"
+msgstr ""
+
+#: ../../source/erm.rst:180
+msgid "A license explains what you can do with the content you have subscribed to. It is, in effect, the contract or Terms of Use."
+msgstr ""
+
+#: ../../source/erm.rst:183 ../../source/erm.rst:193 ../../source/erm.rst:245
+msgid "Get there: More > E-Resource management > Licenses"
+msgstr ""
+
+#: ../../source/erm.rst:185
+msgid "Licenses work alongside Agreements or, if you’d prefer to simply record a list of licenses you have, it can work on its own."
+msgstr ""
+
+#: ../../source/erm.rst:189
+msgid "Create a License Record"
+msgstr ""
+
+#: ../../source/erm.rst:191 ../../source/erm.rst:243
+msgid "From the ERM Home page click on the Licenses link in the left hand menu"
+msgstr ""
+
+#: ../../source/erm.rst:195
+msgid "Use the + New license button at the top of the Licenses table"
+msgstr ""
+
+#: ../../source/erm.rst:199
+msgid "You are required to give the License a Name, Description, Type and Status. The status determines if this agreement is active or not. All other fields are optional."
+msgstr ""
+
+#: ../../source/erm.rst:203
+msgid "The license can, optionally, be attached to an existing :ref:`Vendor record <vendors-label>` in the acquisitions module. This allows you to keep a record of which vendor the license is with."
+msgstr ""
+
+#: ../../source/erm.rst:207
+msgid "The license will have both a start date and end date, these may differ from the dates in an agreement period."
+msgstr ""
+
+#: ../../source/erm.rst:212
+msgid "**Users** - In this context, a user is a staff user who has some involvement with the License. They could be staff involved in negotiating or signing the license for example. This means we can attach multiple users to a license. In order to be attached to a license a staff user must have the ERM permission, otherwise they will not appear in the list when you try and select a user. This also keeps the list of patrons to a small, manageable, size by excluding your library patrons. When you attach a user you also assign them a role from the ERM_USER_ROLES authorized value."
+msgstr ""
+
+#: ../../source/erm.rst:224
+msgid "**License Documents** - You can attach one or more documents to a license record. From here you can attach PDF copies of license or terms of use. The physical location is where any paper version of the correspondence is held in the library and the URI provides a link to any online copy."
+msgstr ""
+
+#: ../../source/erm.rst:232
+msgid "**NB:** The file size of any uploaded documents for both licenses and agreements is limited to the value of the *max_allowed_packet* size in your MariaDB configuration file. If you exceed this size you will get a file size warning. Speak to your system administrator to increase this value."
+msgstr ""
+
+#: ../../source/erm.rst:241
+msgid "Search and View a License record"
+msgstr ""
+
+#: ../../source/erm.rst:249
+msgid "You will be presented with a list of existing licences in the system ordered by the license name. You can use the table or column filters to search and filter data you are looking for (for example, all licences with the Status: expired)."
+msgstr ""
+
+#: ../../source/erm.rst:254
+msgid "Clicking on the Name of the license will take you through to the full view."
+msgstr ""
+
+#: ../../source/erm.rst:259
+msgid "The full view summarizes all the information you entered when you were creating the license. The vendor it is attached to (which is a hypertext link to the vendor record), the Status, Type, start and end dates, any users associated with the license and, importantly, the link to the license document(s)."
+msgstr ""
+
+#: ../../source/erm.rst:268
+msgid "eHoldings"
+msgstr ""
+
+#: ../../source/erm.rst:270
+msgid "Definition of terms:"
+msgstr ""
+
+#: ../../source/erm.rst:273
+msgid "**Resource** - a resource is an instance of a title. Consequently a resource would have a separate resource ID for each occurrence of the title in a package. For example:-"
+msgstr ""
+
+#: ../../source/erm.rst:275
+msgid "Teise / Law belongs in"
+msgstr ""
+
+#: ../../source/erm.rst:277
+msgid "DOAJ"
+msgstr ""
+
+#: ../../source/erm.rst:279
+msgid "Criminal Justice Abstracts with Full Text"
+msgstr ""
+
+#: ../../source/erm.rst:281
+msgid "etc."
+msgstr ""
+
+#: ../../source/erm.rst:283
+msgid "**Knowledge base (KB)** - A knowledge base is an extensive database maintained by a knowledge base supplier (for example, EBSCO) that contains information about electronic resources such as title lists and coverage dates etc. Knowledge bases typically organize the resources provided by a content provider into collections or databases that reflect specific content provider offerings, for example packages of e-journals, e-books, or other materials."
+msgstr ""
+
+#: ../../source/erm.rst:285
+msgid "**Providers** - The provider of the e-resource, for example, the vendor, consortia or publisher."
+msgstr ""
+
+#: ../../source/erm.rst:287
+msgid "**Packages** - A collection of e-resource titles bundled together and distributed by a provider."
+msgstr ""
+
+#: ../../source/erm.rst:289
+msgid "**Titles** - The individual e-resources, for example a journal or e-book, usually contained within a package."
+msgstr ""
+
+#: ../../source/erm.rst:293
+msgid "On the left-hand navigation menu you will see links for each provider you have configured in the ERMProviders system preference."
+msgstr ""
+
+#: ../../source/erm.rst:299
+msgid "EBSCO"
+msgstr ""
+
+#: ../../source/erm.rst:301
+msgid "The integration with the EBSCO global knowledge base is facilitated via their `HoldingsIQ <https://developer.ebsco.com/knowledge-services/holdingsiq/reference>`__ tool. This is a bi-directional API that allows you to update or read from EBSCO’s knowledge base of millions of titles. Your instance of the EBSCO knowledge base becomes searchable and manageable via Koha using your Customer ID in the configuration. Remember, the knowledgebase always sits at EBSCO, you are just manipulating it through Koha in the same way you would if you were using EBSCOadmin. No content data is held locally in your Koha system."
+msgstr ""
+
+#: ../../source/erm.rst:313 ../../source/erm.rst:619
+msgid "Packages"
+msgstr ""
+
+#: ../../source/erm.rst:315
+msgid "Get there: More > E-Resource management > EBSCO > Packages"
+msgstr ""
+
+#: ../../source/erm.rst:317
+msgid "On the Package home screen you will see a search box"
+msgstr ""
+
+#: ../../source/erm.rst:321 ../../source/erm.rst:427
+msgid "Koha acts as a “proxy” for the EBSCO HoldingsIQ service so any search you do here is done in real-time against the EBSCO knowledgebase (using your Customer ID in the system preference). There are two filters: -"
+msgstr ""
+
+#: ../../source/erm.rst:325
+msgid "**Content type** - This filter is provided by EBSCO as part of their HoldingsIQ API and allows you to narrow down your search to a particular content type (as defined by EBSCO)."
+msgstr ""
+
+#: ../../source/erm.rst:327
+msgid "**Select status** - This filter is provided by EBSCO as part of their HoldingsIQ API and allows you to narrow down your search to material that you may already have added to your holdings through EBSCOadmin. So, for example, you can search for packages that you have already subscribed to."
+msgstr ""
+
+#: ../../source/erm.rst:329
+msgid "Any package which is already selected is indicated by a check mark on the right hand side of the title."
+msgstr ""
+
+#: ../../source/erm.rst:334
+msgid "In brackets you can see the EBSCO package ID."
+msgstr ""
+
+#: ../../source/erm.rst:336
+msgid "When you click on a package link you will be taken to the full view of the package."
+msgstr ""
+
+#: ../../source/erm.rst:341
+msgid "Some information displayed here is brought through from the HoldingsIQ API, you can see the Vendor (this is NOT the Koha vendor), the Content type and the Package type. You can also see from this screen that the package contains (in this case) 877 titles. As with the package list, you can see from here (by the check marks) which titles have been selected and which not."
+msgstr ""
+
+#: ../../source/erm.rst:348
+msgid "Clicking on the Show filters link will give you some additional filters to allow you to search within the package for a particular title or group of titles. This can be by Publication type, Selection status (titles already selected, or not, in EBSCOadmin) and a title search box."
+msgstr ""
+
+#: ../../source/erm.rst:355
+msgid "**Add package to an Agreement**"
+msgstr ""
+
+#: ../../source/erm.rst:357
+msgid "In the example above, you can see that this package has already been added to the existing Agreement record in Koha (called Journal Archives). A package can be added to multiple Agreement records. Clicking the hypertext link will take you to the agreement record."
+msgstr ""
+
+#: ../../source/erm.rst:362
+msgid "Once you have made this connection you will see the package listed on the agreement record."
+msgstr ""
+
+#: ../../source/erm.rst:367
+msgid "To add to a new package, click on the Add new agreement button and you will be taken to a dialogue box with a list of agreements that can be filtered. Use the Select button to make the connection between the two records."
+msgstr ""
+
+#: ../../source/erm.rst:374
+msgid "Use the Delete icon to remove a package from an agreement."
+msgstr ""
+
+#: ../../source/erm.rst:378
+msgid "If you try to add a package to the same agreement more than once you will receive the following error message: -"
+msgstr ""
+
+#: ../../source/erm.rst:383
+msgid "**Add/Remove package from holdings**"
+msgstr ""
+
+#: ../../source/erm.rst:385
+msgid "From the package view you are also able to add or remove a complete package from your EBSCO holdings."
+msgstr ""
+
+#: ../../source/erm.rst:390
+msgid "This makes an API call via the HoldingsIQ service to add or remove the package from your EBSCO central holdings. Because this is a real-time call you should see your holdings updated in EBSCOadmin as well."
+msgstr ""
+
+#: ../../source/erm.rst:394
+msgid "You can also click on a title link here and go into the detail of a specific title in a package."
+msgstr ""
+
+#: ../../source/erm.rst:399
+msgid "The Resource # you can see at the top of the screen is the EBSCO resource ID. The metadata you see is also returned by the HoldingsIQ API from the EBSCO knowledge base. You can see the Publication title, name, Publication type, and print/online IDs and the coverage dates. Remember the coverage dates of a title may be different depending on the package that the title is included in. You can also see both the Vendor and the Package (which is a hypertext link back to the full package you have come from)."
+msgstr ""
+
+#: ../../source/erm.rst:408
+msgid "**Add/Remove title from package**"
+msgstr ""
+
+#: ../../source/erm.rst:410
+msgid "You can add or remove a title from a package you are subscribed to"
+msgstr ""
+
+#: ../../source/erm.rst:414
+msgid "Although you may subscribe to a complete package there may be individual titles you wish to specifically include/exclude. Use the ‘Add/remove title to holdings’ button to do this."
+msgstr ""
+
+#: ../../source/erm.rst:419 ../../source/erm.rst:496
+msgid "Titles"
+msgstr ""
+
+#: ../../source/erm.rst:421
+msgid "Get there: More > E-Resource management > EBSCO > Titles"
+msgstr ""
+
+#: ../../source/erm.rst:423
+msgid "On the Titles home screen you will see a search box"
+msgstr ""
+
+#: ../../source/erm.rst:431
+msgid "**Publication type** - This filter is provided by EBSCO as part of their HoldingsIQ API and allows you to narrow down your search to a particular publication type (as defined by EBSCO)."
+msgstr ""
+
+#: ../../source/erm.rst:433
+msgid "**Select status** - This filter is provided by EBSCO as part of their HoldingsIQ API and allows you to narrow down your search to titles that you may already have added to your holdings through EBSCOadmin. So, for example, you can search for titles that you have already subscribed to."
+msgstr ""
+
+#: ../../source/erm.rst:435
+msgid "Any title which is already selected is indicated by a check mark on the right hand side of the title."
+msgstr ""
+
+#: ../../source/erm.rst:440
+msgid "You will also notice that this search also searches for Local titles in addition to EBSCO titles. Any local titles will be indicated above the title list and this is a hypertext link to take you through to the Local titles table."
+msgstr ""
+
+#: ../../source/erm.rst:447
+msgid "By clicking on a title you can go into the full record view of it."
+msgstr ""
+
+#: ../../source/erm.rst:451
+msgid "At the top you see the Title #. This is the EBSCO title reference. The rest of the metadata all comes from the HoldingsIQ API and includes things like IDs, publishers etc."
+msgstr ""
+
+#: ../../source/erm.rst:455
+msgid "You can also see here every Package that this title is contained in. The check mark indicates that you are already subscribed to this package. So, in the example above, we have this title via the ScienceDirect package but not Scholars Portal."
+msgstr ""
+
+#: ../../source/erm.rst:460
+msgid "If you click on the Package link you will see the view of that resource within that package."
+msgstr ""
+
+#: ../../source/erm.rst:465
+msgid "This includes the coverage provided by that provider."
+msgstr ""
+
+#: ../../source/erm.rst:467
+msgid "If you want to selectively add or remove that title from your package holdings you can do that from this screen."
+msgstr ""
+
+#: ../../source/erm.rst:472
+msgid "You can also see the EBSCO resource ID on this screen. Remember that the resource ID represents the instance of a title within a package."
+msgstr ""
+
+#: ../../source/erm.rst:475
+msgid "If you want to go back to the title record you can click on the Title link."
+msgstr ""
+
+#: ../../source/erm.rst:478
+msgid "On the Title page you are also provided with filters to narrow down your search. You get to this by clicking on the Show/Hide filters link."
+msgstr ""
+
+#: ../../source/erm.rst:483
+msgid "This is useful if you want to narrow down your query to a specific package or to packages that are already selected in your holdings."
+msgstr ""
+
+#: ../../source/erm.rst:487
+msgid "Local"
+msgstr ""
+
+#: ../../source/erm.rst:489
+msgid "Local holdings are electronic holdings which are not contained in a global knowledge base but, instead (unlike EBSCO holdings) are stored in the local Koha database tables (erm_eholdings_titles)."
+msgstr ""
+
+#: ../../source/erm.rst:498 ../../source/erm.rst:529 ../../source/erm.rst:666
+msgid "Get there: More > E-Resource management > eHoldings > Local > Titles"
+msgstr ""
+
+#: ../../source/erm.rst:500
+msgid "On the Local Titles home screen you will see a list of currently created local titles."
+msgstr ""
+
+#: ../../source/erm.rst:505
+msgid "You can use the table and column filters to narrow down your list to a selected title or group of titles."
+msgstr ""
+
+#: ../../source/erm.rst:508
+msgid "By clicking on a title you can go to the full view of the record."
+msgstr ""
+
+#: ../../source/erm.rst:512
+msgid "From here you can Edit or Delete the record."
+msgstr ""
+
+#: ../../source/erm.rst:514
+msgid "If the record belongs to a locally created package you will see that information here."
+msgstr ""
+
+#: ../../source/erm.rst:519
+msgid "If the title is part of more than one package you can use the table filters to restrict your search further. Clicking on the Package link will take you through to the package itself."
+msgstr ""
+
+#: ../../source/erm.rst:524
+msgid "Create a new local title record"
+msgstr ""
+
+#: ../../source/erm.rst:526
+msgid "From the ERM Home page click on the Titles link in the left hand menu under Local."
+msgstr ""
+
+#: ../../source/erm.rst:531
+msgid "Use the + New Title button at the top of the Titles table"
+msgstr ""
+
+#: ../../source/erm.rst:535
+msgid "You should see a metadata template. This template is based on `KBART <https://www.niso.org/standards-committees/kbart>`__ metadata."
+msgstr ""
+
+#: ../../source/erm.rst:540
+msgid "When you save the title, Koha will also automatically create a bibliographic record for you with as much of the metadata as possible. We map the KBART metadata to MARC21 in the following way: -"
+msgstr ""
+
+#: ../../source/erm.rst:544
+msgid "publication_title = biblio.title"
+msgstr ""
+
+#: ../../source/erm.rst:546
+msgid "print_identifier = 020$a||020$z||022$a||022$y"
+msgstr ""
+
+#: ../../source/erm.rst:548
+msgid "online_identifier = 020$a||020$z||022$a||022$y"
+msgstr ""
+
+#: ../../source/erm.rst:550
+msgid "date_first_issue_online = 866$a (before '-')"
+msgstr ""
+
+#: ../../source/erm.rst:552
+msgid "date_last_issue_online = 866$a (after '-')"
+msgstr ""
+
+#: ../../source/erm.rst:554
+msgid "num_first_vol_online = 863$a (before '-')"
+msgstr ""
+
+#: ../../source/erm.rst:556
+msgid "num_last_vol_online = 863$a (after '-')"
+msgstr ""
+
+#: ../../source/erm.rst:558
+msgid "title_url = 856$u"
+msgstr ""
+
+#: ../../source/erm.rst:560
+msgid "first_author = biblio.first_author"
+msgstr ""
+
+#: ../../source/erm.rst:562
+msgid "coverage_depth = title_url ? 'fulltext' : 'print'"
+msgstr ""
+
+#: ../../source/erm.rst:564
+msgid "notes = $852$z"
+msgstr ""
+
+#: ../../source/erm.rst:566
+msgid "publisher_name = 260$b"
+msgstr ""
+
+#: ../../source/erm.rst:568
+msgid "When you save the record and look at the full view you will see a link to the bibliographic record."
+msgstr ""
+
+#: ../../source/erm.rst:573
+msgid "At the bottom of the creation/edit template you will see the option to add the title to a local package."
+msgstr ""
+
+#: ../../source/erm.rst:578
+msgid "The package record must already exist before you try to link to it from the dropdown menu. You can also specify the Vendor, start and end dates and a reference to a proxy server if one is required for this service (this is not currently used in Koha, for reference only)."
+msgstr ""
+
+#: ../../source/erm.rst:583
+msgid "A title can belong to multiple packages."
+msgstr ""
+
+#: ../../source/erm.rst:588
+msgid "Import a new local title record from a List"
+msgstr ""
+
+#: ../../source/erm.rst:590
+msgid "If you want to quickly add multiple title records to your Local holdings then you have the option to import from a Koha `List <https://koha-community.org/manual/latest/en/html/lists.html>`__."
+msgstr ""
+
+#: ../../source/erm.rst:596
+msgid "First of all, create a Koha List (as described elsewhere in this manual) and add some bibliographic information to it (either by creating the record manually or by importing it via z39.50 or Stage MARC records). Once the List has been created you will see it in the table selection."
+msgstr ""
+
+#: ../../source/erm.rst:603
+msgid "First select the package you want to add the titles to and then select the list from the selection in the table. Use the Import button to link them together."
+msgstr ""
+
+#: ../../source/erm.rst:607
+msgid "You will see a message “import in progress” and the job should be completed in a few moments. You can click on the Job number if you want to view progress."
+msgstr ""
+
+#: ../../source/erm.rst:613
+msgid "At this point you should see the titles in both the title list and also attached to your selected package."
+msgstr ""
+
+#: ../../source/erm.rst:621 ../../source/erm.rst:650
+msgid "Get there: More > E-Resource management > eHoldings > Local > Packages"
+msgstr ""
+
+#: ../../source/erm.rst:623
+msgid "On the Local Package home screen you will see a list of currently created local packages."
+msgstr ""
+
+#: ../../source/erm.rst:628
+msgid "Clicking on a package name will take you through to the full view."
+msgstr ""
+
+#: ../../source/erm.rst:632
+msgid "You can use the table filter to narrow down the titles if you need to."
+msgstr ""
+
+#: ../../source/erm.rst:634
+msgid "Clicking on the title will take you to the title full view and clicking on the Vendor will take you through to the vendor record in acquisitions."
+msgstr ""
+
+#: ../../source/erm.rst:638
+msgid "From this screen you can also use the Edit or Delete buttons."
+msgstr ""
+
+#: ../../source/erm.rst:640
+msgid "When you Edit a package you have the option to attach it to an Agreement you have already created."
+msgstr ""
+
+#: ../../source/erm.rst:645
+msgid "This package will then be viewable on the agreement record."
+msgstr ""
+
+#: ../../source/erm.rst:648
+msgid "Create a new local package record"
+msgstr ""
+
+#: ../../source/erm.rst:652
+msgid "Select the + New package button"
+msgstr ""
+
+#: ../../source/erm.rst:656
+msgid "The Package name is a required field. You must have already created your agreement prior to attaching it to a package."
+msgstr ""
+
+#: ../../source/erm.rst:661
+msgid "The Vendor, Type, Content type and Notes fields are optional."
+msgstr ""
+
+#: ../../source/erm.rst:664
+msgid "Remove a local title from a package record"
+msgstr ""
+
+#: ../../source/erm.rst:668
+msgid "Search for the title you want to remove from the Local titles list."
+msgstr ""
+
+#: ../../source/erm.rst:672
+msgid "Click through to the title detail and use the Edit button"
+msgstr ""
+
+#: ../../source/erm.rst:674
+msgid "At the bottom of the screen use the “Remove from this package” link"
+msgstr ""

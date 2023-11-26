@@ -1,0 +1,125 @@
+# Chinese translations for Koha Manual package.
+# Copyright (C) 2020, Koha Community
+# This file is distributed under the same license as the Koha Manual package.
+# Automatically generated, 2021.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Koha Manual 22.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-07-12 07:29-0300\n"
+"PO-Revision-Date: 2023-04-15 06:08+0000\n"
+"Last-Translator: Saralin <c108126114@nkust.edu.tw>\n"
+"Language-Team: none\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pootle 2.8\n"
+"X-Pootle-Path: /zh_TW/manual22.11/localusepreferences.po\n"
+"X-Pootle-Revision: 1\n"
+"X-POOTLE-MTIME: 1681538939.592065\n"
+
+#: ../../source/localusepreferences.rst:6
+#, fuzzy
+msgid "Local use"
+msgstr "在地使用"
+
+#: ../../source/localusepreferences.rst:8
+msgid "These preferences are defined locally."
+msgstr "此等偏好是供在地使用。"
+
+#: ../../source/localusepreferences.rst:10
+#, fuzzy
+msgid "*Get there:* More > Administration > Global system preferences > Local Use"
+msgstr "*到那裡：* 其他 > 管理 > 整體系統偏好 > 在地使用"
+
+#: ../../source/localusepreferences.rst:13
+msgid "**Note**"
+msgstr "**說明**"
+
+#: ../../source/localusepreferences.rst:15
+msgid "Sometimes preferences which are either new or outdated will appear in this tab, if you didn't add any preferences to this tab then it's best to ignore preferences listed here."
+msgstr "太新的或過時的偏好，置於此分頁；圖書館自己沒有新增偏好，最好忽略這裡面的偏好。"
+
+#: ../../source/localusepreferences.rst:22
+msgid "INTRAdidyoumean"
+msgstr "INTRAdidyoumean"
+
+#: ../../source/localusepreferences.rst:24
+#: ../../source/localusepreferences.rst:34
+#: ../../source/localusepreferences.rst:59
+#: ../../source/localusepreferences.rst:69
+#: ../../source/localusepreferences.rst:79
+msgid "Default: blank"
+msgstr "預設值：空白"
+
+#: ../../source/localusepreferences.rst:26
+msgid "Asks: Did you mean? configuration for the Intranet. Do not change, as this is controlled by /cgi-bin/koha/admin/didyoumean.pl."
+msgstr "詢問：您的意思是什麼？組態給 Intranet 內使用。不要改變，由 /cgi-bin/koha/admin/didyoumean.pl 控制其內容。"
+
+#: ../../source/localusepreferences.rst:32
+msgid "OPACdidyoumean"
+msgstr "OPACdidyoumean"
+
+#: ../../source/localusepreferences.rst:36
+msgid "Asks: Did you mean? configuration for the OPAC. Do not change, as this is controlled by /cgi-bin/koha/admin/didyoumean.pl."
+msgstr "詢問：您的意思是什麼？組態給 OPAC 使用。不要改變，由 /cgi-bin/koha/admin/didyoumean.pl 控制其內容。"
+
+#: ../../source/localusepreferences.rst:42
+msgid "printcirculationships"
+msgstr "printcirculationships"
+
+#: ../../source/localusepreferences.rst:44
+msgid "Default: ON"
+msgstr "預設值：ON"
+
+#: ../../source/localusepreferences.rst:46
+msgid "Asks: If ON, enable printing circulation receipts"
+msgstr "詢問：若開啟，則可以列印流通收據"
+
+#: ../../source/localusepreferences.rst:48
+msgid "Values:"
+msgstr "值:"
+
+#: ../../source/localusepreferences.rst:50
+msgid "ON"
+msgstr "在"
+
+#: ../../source/localusepreferences.rst:52
+msgid "OFF"
+msgstr "關閉"
+
+#: ../../source/localusepreferences.rst:57
+msgid "UsageStatsID"
+msgstr "UsageStatsID"
+
+#: ../../source/localusepreferences.rst:61
+#: ../../source/localusepreferences.rst:71
+msgid "Asks: This preference is part of Koha but it should not be deleted or updated manually."
+msgstr "詢問：此偏好是 Koha 的一部份不應以人工方式刪除或更新。"
+
+#: ../../source/localusepreferences.rst:67
+msgid "UsageStatsLastUpdateTime"
+msgstr "UsageStatsLastUpdateTime"
+
+#: ../../source/localusepreferences.rst:77
+msgid "UsageStatsPublicID"
+msgstr "UsageStatsPublicID"
+
+#: ../../source/localusepreferences.rst:81
+msgid "Asks: Public ID for Hea website"
+msgstr "詢問：Hea 網站用的公共 ID"
+
+#: ../../source/localusepreferences.rst:86
+msgid "Version"
+msgstr "版本"
+
+#: ../../source/localusepreferences.rst:88
+msgid "Default: automatically generated"
+msgstr "預設值：自動產生"
+
+#: ../../source/localusepreferences.rst:90
+msgid "Asks: The Koha database version. WARNING: Do not change this value manually. It is maintained by the webinstaller"
+msgstr "詢問：Koha 資料庫版本。警示：不可以人工方式改變此內容。由網頁安裝器維護"

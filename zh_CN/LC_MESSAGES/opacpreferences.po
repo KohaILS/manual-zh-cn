@@ -1,0 +1,4282 @@
+# Chinese translations for Koha Manual package.
+# Copyright (C) 2020, Koha Community
+# This file is distributed under the same license as the Koha Manual package.
+# Automatically generated, 2021.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Koha Manual 22.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-10-26 13:37+0000\n"
+"PO-Revision-Date: 2023-03-30 08:39+0000\n"
+"Last-Translator: Frank Chou <frank@sris.com.tw>\n"
+"Language-Team: none\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pootle 2.8\n"
+"X-Pootle-Path: /zh_TW/manual22.11/opacpreferences.po\n"
+"X-Pootle-Revision: 1\n"
+"X-POOTLE-MTIME: 1680165581.650549\n"
+
+#: ../../source/images.rst:707
+msgid "856 field in the cataloging form; 856q contains img and 856u contains a link to an image"
+msgstr ""
+
+#: ../../source/images.rst:746
+#, fuzzy
+msgid "Screenshot of the XSLT icons in the search results in the OPAC"
+msgstr "這個系統偏好控制OPAC中a :ref:`清單 <lists-label>`的記錄顯示。"
+
+#: ../../source/images.rst:788
+msgid "The holdings tab in the OPAC only says 1 item is on order."
+msgstr ""
+
+#: ../../source/images.rst:791
+msgid "Detailed record page in the OPAC, one of the 856 field is displayed as an image in the record"
+msgstr ""
+
+#: ../../source/images.rst:794
+msgid "Search results in the OPAC, one of the 856 field is displayed as an image in the listing"
+msgstr ""
+
+#: ../../source/images.rst:797
+msgid "A browser tab opened to the OPAC's main page, there is the little 'K' favicon followed by the page title 'Koha online catalog'"
+msgstr ""
+
+#: ../../source/images.rst:803
+msgid "A dropdown menu labeled 'Display news for' allows the OPAC user to choose which library for which to see news"
+msgstr ""
+
+#: ../../source/images.rst:806
+msgid "A pop up window with all the authors of a record in a list with checkboxes"
+msgstr ""
+
+#: ../../source/images.rst:818
+#, fuzzy
+msgid "When the not for loan status is in the Reference_NFL_Statuses list, it will appear as 'Available for reference' in the OPAC. The image shows a search result in the OPAC with one item 'Available for reference' (in green text)"
+msgstr "當非借出狀態出現在 Reference\\_NFL\\_Statuses 清單中時，它將在OPAC中以綠色文字顯示 '可供參考'。"
+
+#: ../../source/images.rst:821
+#, fuzzy
+msgid "When the not for loan status is NOT in the Reference_NFL_Statuses list, it will appear as 'Not available' in the OPAC. The image shows a search result in the OPAC with one item 'Not available' (in red text)"
+msgstr "當不外借狀態不在Reference\\_NFL\\_Statuses 清單中時，它將在OPAC中以紅色文字顯示為 '不可用'。"
+
+#: ../../source/images.rst:830
+msgid "A comment in the 'Recent comments' section, showing the title and bibliographic information, the comment, the date of the comment, the reviewer's name and their picture"
+msgstr ""
+
+#: ../../source/images.rst:930
+msgid "024 field in an authority record, first indicator contains 7, second indicator is empty, subfield 2 contains 'scopus' and subfield a contains a number"
+msgstr ""
+
+#: ../../source/images.rst:1895
+msgid "The detailed view of a bibliographic record, the selected tab at the bottom is Author identifiers, both authors are listed with their Scopus ID"
+msgstr ""
+
+#: ../../source/images.rst:1898
+msgid "The detailed view of a bibliographic record, in the options on the left, the 'More searches' option is open and options to search for this title in various external catalogs are displayed"
+msgstr ""
+
+#: ../../source/images.rst:1994
+msgid "Advanced search tabbed limits for item type, shelving location and collection"
+msgstr ""
+
+#: ../../source/images.rst:2006
+msgid "\"Log in to your account\" section on the OPAC homepage. Underneath the Log in button is the mention: \"Don't have an account? Register here.\""
+msgstr ""
+
+#: ../../source/images.rst:2015
+msgid "Library and library group dropdown menu in the simple search bar in the OPAC"
+msgstr ""
+
+#: ../../source/images.rst:2021
+#, fuzzy
+msgid "Bibliographic record details page in the OPAC"
+msgstr "書目記錄詳情頁"
+
+#: ../../source/images.rst:2027
+msgid "Search results list in the OPAC, facets are on the left"
+msgstr ""
+
+#: ../../source/images.rst:2030
+msgid "A message at the top of the 'Checkout history' page in the patron's account on the OPAC that reads \"Congratulations, you have saved a total of $ 76.65 by using the library.\""
+msgstr ""
+
+#: ../../source/images.rst:2033
+#, fuzzy
+msgid "A small box with the number of checkouts, overdues, holds, pending charges and savings"
+msgstr "詢問：\\_\\_\\_ 在首頁顯示使用者的借出、逾期、預約與罰款"
+
+#: ../../source/images.rst:2036
+msgid "A message at the top of the 'Your summary' page in the patron's account on the OPAC that reads \"Congratulations, you have saved a total of $ 76.65 by using the library.\""
+msgstr ""
+
+#: ../../source/images.rst:2117
+#, fuzzy
+msgid "View of the patron's checkout history on the OPAC"
+msgstr "讀者的借出的歷史清單"
+
+#: ../../source/images.rst:2129
+msgid "View of the account summary on the OPAC"
+msgstr ""
+
+#: ../../source/images.rst:2693
+msgid "Prompt on staff interface homepage to view pending article requests, pending purchase suggestions, patrons requesting modifications, pending catalog concerns, pending checkout notes, and pending OPAC problem reports"
+msgstr ""
+
+#: ../../source/images.rst:2708
+msgid "Confirm requests to update patron records in the staff interface"
+msgstr ""
+
+#: ../../source/images.rst:2868
+#, fuzzy
+msgid "image63"
+msgstr "影像/bmp"
+
+#: ../../source/images.rst:2869
+#, fuzzy
+msgid "image64"
+msgstr "影像/bmp"
+
+#: ../../source/images.rst:2870
+#, fuzzy
+msgid "image67"
+msgstr "影像/bmp"
+
+#: ../../source/images.rst:2871
+#, fuzzy
+msgid "image75"
+msgstr "影像/bmp"
+
+#: ../../source/images.rst:2872
+#, fuzzy
+msgid "image76"
+msgstr "影像/bmp"
+
+#: ../../source/images.rst:2873
+#, fuzzy
+msgid "image78"
+msgstr "影像/bmp"
+
+#: ../../source/images.rst:2874
+#, fuzzy
+msgid "image82"
+msgstr "影像/bmp"
+
+#: ../../source/images.rst:2875
+#, fuzzy
+msgid "image83"
+msgstr "影像/bmp"
+
+#: ../../source/images.rst:2876
+#, fuzzy
+msgid "image88"
+msgstr "影像/bmp"
+
+#: ../../source/images.rst:2877
+#, fuzzy
+msgid "image91"
+msgstr "影像/bmp"
+
+#: ../../source/images.rst:2878
+#, fuzzy
+msgid "image92"
+msgstr "影像/bmp"
+
+#: ../../source/images.rst:2879
+#, fuzzy
+msgid "image93"
+msgstr "影像/bmp"
+
+#: ../../source/images.rst:2880
+#, fuzzy
+msgid "image94"
+msgstr "影像/bmp"
+
+#: ../../source/images.rst:2881
+#, fuzzy
+msgid "image95"
+msgstr "影像/bmp"
+
+#: ../../source/images.rst:2882
+#, fuzzy
+msgid "image96"
+msgstr "影像/bmp"
+
+#: ../../source/images.rst:2885
+#, fuzzy
+msgid "image99"
+msgstr "影像/bmp"
+
+#: ../../source/images.rst:2886
+msgid "image100"
+msgstr ""
+
+#: ../../source/images.rst:2887
+msgid "image102"
+msgstr ""
+
+#: ../../source/images.rst:2888
+msgid "image104"
+msgstr ""
+
+#: ../../source/images.rst:3400
+msgid "image1192"
+msgstr ""
+
+#: ../../source/images.rst:3401
+msgid "image1195"
+msgstr ""
+
+#: ../../source/images.rst:3402
+msgid "image1196"
+msgstr ""
+
+#: ../../source/opacpreferences.rst:6 ../../source/opacpreferences.rst:2338
+msgid "OPAC"
+msgstr "OPAC"
+
+#: ../../source/opacpreferences.rst:8
+msgid "*Get there:* More > Administration > Global system preferences > OPAC"
+msgstr "*到此：*其他 > 管理 > 整體系統偏好> OPAC"
+
+#: ../../source/opacpreferences.rst:13
+msgid "Advanced search options"
+msgstr "進階搜尋選項"
+
+#: ../../source/opacpreferences.rst:18
+msgid "OpacAdvancedSearchTypes"
+msgstr "OpacAdvancedSearchTypes"
+
+#: ../../source/opacpreferences.rst:20
+msgid "Asks: Show tabs in the OPAC advanced search for limiting searches on the \\_\\_\\_ fields."
+msgstr "詢問：在 OPAC 進階搜尋中顯示欄標，以限制對 \\_\\_\\_ 欄位的搜尋。"
+
+#: ../../source/opacpreferences.rst:23
+msgid "Default: itemtypes"
+msgstr "預設值：itemtype"
+
+#: ../../source/opacpreferences.rst:25 ../../source/opacpreferences.rst:74
+#: ../../source/opacpreferences.rst:106 ../../source/opacpreferences.rst:140
+#: ../../source/opacpreferences.rst:187 ../../source/opacpreferences.rst:234
+#: ../../source/opacpreferences.rst:262 ../../source/opacpreferences.rst:288
+#: ../../source/opacpreferences.rst:324 ../../source/opacpreferences.rst:406
+#: ../../source/opacpreferences.rst:447 ../../source/opacpreferences.rst:467
+#: ../../source/opacpreferences.rst:545 ../../source/opacpreferences.rst:606
+#: ../../source/opacpreferences.rst:625 ../../source/opacpreferences.rst:637
+#: ../../source/opacpreferences.rst:701 ../../source/opacpreferences.rst:726
+#: ../../source/opacpreferences.rst:744 ../../source/opacpreferences.rst:781
+#: ../../source/opacpreferences.rst:806 ../../source/opacpreferences.rst:826
+#: ../../source/opacpreferences.rst:868 ../../source/opacpreferences.rst:882
+#: ../../source/opacpreferences.rst:895 ../../source/opacpreferences.rst:931
+#: ../../source/opacpreferences.rst:978 ../../source/opacpreferences.rst:1005
+#: ../../source/opacpreferences.rst:1040 ../../source/opacpreferences.rst:1078
+#: ../../source/opacpreferences.rst:1123 ../../source/opacpreferences.rst:1163
+#: ../../source/opacpreferences.rst:1183 ../../source/opacpreferences.rst:1230
+#: ../../source/opacpreferences.rst:1254 ../../source/opacpreferences.rst:1282
+#: ../../source/opacpreferences.rst:1304 ../../source/opacpreferences.rst:1326
+#: ../../source/opacpreferences.rst:1355 ../../source/opacpreferences.rst:1405
+#: ../../source/opacpreferences.rst:1452 ../../source/opacpreferences.rst:1465
+#: ../../source/opacpreferences.rst:1490 ../../source/opacpreferences.rst:1509
+#: ../../source/opacpreferences.rst:1542 ../../source/opacpreferences.rst:1597
+#: ../../source/opacpreferences.rst:1650 ../../source/opacpreferences.rst:1686
+#: ../../source/opacpreferences.rst:1722 ../../source/opacpreferences.rst:1745
+#: ../../source/opacpreferences.rst:1790 ../../source/opacpreferences.rst:1830
+#: ../../source/opacpreferences.rst:1862 ../../source/opacpreferences.rst:1912
+#: ../../source/opacpreferences.rst:1932 ../../source/opacpreferences.rst:1977
+#: ../../source/opacpreferences.rst:2029 ../../source/opacpreferences.rst:2058
+#: ../../source/opacpreferences.rst:2079 ../../source/opacpreferences.rst:2126
+#: ../../source/opacpreferences.rst:2149 ../../source/opacpreferences.rst:2178
+#: ../../source/opacpreferences.rst:2215 ../../source/opacpreferences.rst:2250
+#: ../../source/opacpreferences.rst:2293 ../../source/opacpreferences.rst:2342
+#: ../../source/opacpreferences.rst:2385 ../../source/opacpreferences.rst:2426
+#: ../../source/opacpreferences.rst:2449 ../../source/opacpreferences.rst:2489
+#: ../../source/opacpreferences.rst:2538 ../../source/opacpreferences.rst:2587
+#: ../../source/opacpreferences.rst:2628 ../../source/opacpreferences.rst:2650
+#: ../../source/opacpreferences.rst:2677 ../../source/opacpreferences.rst:2727
+#: ../../source/opacpreferences.rst:2748 ../../source/opacpreferences.rst:2788
+#: ../../source/opacpreferences.rst:2819 ../../source/opacpreferences.rst:2847
+#: ../../source/opacpreferences.rst:2900 ../../source/opacpreferences.rst:2964
+#: ../../source/opacpreferences.rst:2991 ../../source/opacpreferences.rst:3043
+#: ../../source/opacpreferences.rst:3084 ../../source/opacpreferences.rst:3097
+#: ../../source/opacpreferences.rst:3122 ../../source/opacpreferences.rst:3152
+#: ../../source/opacpreferences.rst:3184 ../../source/opacpreferences.rst:3199
+#: ../../source/opacpreferences.rst:3221 ../../source/opacpreferences.rst:3251
+#: ../../source/opacpreferences.rst:3266 ../../source/opacpreferences.rst:3298
+#: ../../source/opacpreferences.rst:3329 ../../source/opacpreferences.rst:3345
+#: ../../source/opacpreferences.rst:3396 ../../source/opacpreferences.rst:3411
+#: ../../source/opacpreferences.rst:3430 ../../source/opacpreferences.rst:3453
+#: ../../source/opacpreferences.rst:3474 ../../source/opacpreferences.rst:3519
+#: ../../source/opacpreferences.rst:3550 ../../source/opacpreferences.rst:3572
+#: ../../source/opacpreferences.rst:3593 ../../source/opacpreferences.rst:3619
+#: ../../source/opacpreferences.rst:3640 ../../source/opacpreferences.rst:3676
+#: ../../source/opacpreferences.rst:3703 ../../source/opacpreferences.rst:3727
+#: ../../source/opacpreferences.rst:3776 ../../source/opacpreferences.rst:3792
+#: ../../source/opacpreferences.rst:3818 ../../source/opacpreferences.rst:3847
+#: ../../source/opacpreferences.rst:3868
+msgid "Description:"
+msgstr "說明："
+
+#: ../../source/opacpreferences.rst:27
+msgid "On the advanced search page in the OPAC, you can choose to allow filters on one or all of the following: item types (itemtypes), collection codes (ccode) and shelving location (loc)."
+msgstr "在OPAC的進階搜尋頁面上，你可以選擇允許對以下一項或全部進行篩選：館藏類型（itemtypes）、館藏代碼（ccode）和書架位置（loc）。"
+
+#: ../../source/opacpreferences.rst:31
+#, fuzzy
+msgid "|opacadvancedsearch-itypetabs|"
+msgstr "OpacAdvancedSearchTypes"
+
+#: ../../source/opacpreferences.rst:33
+msgid "Separate multiple values with a pipe (\\|). For example, enter itemtypes\\|loc to allow to limit searches on item type and shelving location."
+msgstr "用豎線 （\\|） 分隔多個值。例如，輸入 itemtypes\\|loc 以允許限制對館藏類型和書架位置的搜尋。"
+
+#: ../../source/opacpreferences.rst:36
+msgid "The order in which the options are entered in the system preference is the order in which the tabs will appear. The first option in the system preference is the selected tab."
+msgstr "在系統偏好中輸入選項的順序就是欄標出現的順序。系統偏好中的第一個選項是選定的欄標。"
+
+#: ../../source/opacpreferences.rst:40
+msgid "If left empty, \"itemtypes\" is used."
+msgstr "如果留空，則使用 \"itemtypes\"。"
+
+#: ../../source/opacpreferences.rst:42
+msgid "Values within the search type are OR'ed together, while each different search type is AND'ed together in the query limits."
+msgstr "搜尋類型中的值是被 OR' 一起運算的，而每個不同的搜尋類型在查詢限制中是被 AND' 一起的。"
+
+#: ../../source/opacpreferences.rst:45 ../../source/opacpreferences.rst:160
+#: ../../source/opacpreferences.rst:207 ../../source/opacpreferences.rst:307
+#: ../../source/opacpreferences.rst:584 ../../source/opacpreferences.rst:1556
+#: ../../source/opacpreferences.rst:1611 ../../source/opacpreferences.rst:1664
+msgid "See also:"
+msgstr "參見："
+
+#: ../../source/opacpreferences.rst:47
+#, fuzzy
+msgid ":ref:`AdvancedSearchTypes <AdvancedSearchTypes-label>`"
+msgstr ":ref:`AdvancedSearchTypes`"
+
+#: ../../source/opacpreferences.rst:52
+msgid "OpacAdvSearchMoreOptions"
+msgstr "OpacAdvSearchMoreOptions"
+
+#: ../../source/opacpreferences.rst:54
+msgid "Asks: Show search options for the expanded view \\_\\_\\_"
+msgstr "詢問：顯示搜尋選項供延伸檢視 \\_\\_\\_"
+
+#: ../../source/opacpreferences.rst:56
+msgid "Default: Select all"
+msgstr "預設：全選"
+
+#: ../../source/opacpreferences.rst:58 ../../source/opacpreferences.rst:90
+#: ../../source/opacpreferences.rst:128 ../../source/opacpreferences.rst:175
+#: ../../source/opacpreferences.rst:224 ../../source/opacpreferences.rst:251
+#: ../../source/opacpreferences.rst:282 ../../source/opacpreferences.rst:332
+#: ../../source/opacpreferences.rst:441 ../../source/opacpreferences.rst:504
+#: ../../source/opacpreferences.rst:680 ../../source/opacpreferences.rst:695
+#: ../../source/opacpreferences.rst:718 ../../source/opacpreferences.rst:773
+#: ../../source/opacpreferences.rst:796 ../../source/opacpreferences.rst:833
+#: ../../source/opacpreferences.rst:925 ../../source/opacpreferences.rst:972
+#: ../../source/opacpreferences.rst:999 ../../source/opacpreferences.rst:1024
+#: ../../source/opacpreferences.rst:1113 ../../source/opacpreferences.rst:1248
+#: ../../source/opacpreferences.rst:1272 ../../source/opacpreferences.rst:1298
+#: ../../source/opacpreferences.rst:1320 ../../source/opacpreferences.rst:1344
+#: ../../source/opacpreferences.rst:1375 ../../source/opacpreferences.rst:1428
+#: ../../source/opacpreferences.rst:1446 ../../source/opacpreferences.rst:1522
+#: ../../source/opacpreferences.rst:1577 ../../source/opacpreferences.rst:1630
+#: ../../source/opacpreferences.rst:1739 ../../source/opacpreferences.rst:1778
+#: ../../source/opacpreferences.rst:1836 ../../source/opacpreferences.rst:1856
+#: ../../source/opacpreferences.rst:1883 ../../source/opacpreferences.rst:1904
+#: ../../source/opacpreferences.rst:1924 ../../source/opacpreferences.rst:1950
+#: ../../source/opacpreferences.rst:1971 ../../source/opacpreferences.rst:1994
+#: ../../source/opacpreferences.rst:2011 ../../source/opacpreferences.rst:2048
+#: ../../source/opacpreferences.rst:2073 ../../source/opacpreferences.rst:2099
+#: ../../source/opacpreferences.rst:2120 ../../source/opacpreferences.rst:2143
+#: ../../source/opacpreferences.rst:2172 ../../source/opacpreferences.rst:2207
+#: ../../source/opacpreferences.rst:2283 ../../source/opacpreferences.rst:2316
+#: ../../source/opacpreferences.rst:2334 ../../source/opacpreferences.rst:2357
+#: ../../source/opacpreferences.rst:2374 ../../source/opacpreferences.rst:2412
+#: ../../source/opacpreferences.rst:2443 ../../source/opacpreferences.rst:2581
+#: ../../source/opacpreferences.rst:2622 ../../source/opacpreferences.rst:2644
+#: ../../source/opacpreferences.rst:2671 ../../source/opacpreferences.rst:2721
+#: ../../source/opacpreferences.rst:2808 ../../source/opacpreferences.rst:2835
+#: ../../source/opacpreferences.rst:2863 ../../source/opacpreferences.rst:2894
+#: ../../source/opacpreferences.rst:2943 ../../source/opacpreferences.rst:2958
+#: ../../source/opacpreferences.rst:2985 ../../source/opacpreferences.rst:3035
+#: ../../source/opacpreferences.rst:3144 ../../source/opacpreferences.rst:3215
+#: ../../source/opacpreferences.rst:3323 ../../source/opacpreferences.rst:3390
+#: ../../source/opacpreferences.rst:3447 ../../source/opacpreferences.rst:3468
+#: ../../source/opacpreferences.rst:3511 ../../source/opacpreferences.rst:3544
+#: ../../source/opacpreferences.rst:3566 ../../source/opacpreferences.rst:3587
+#: ../../source/opacpreferences.rst:3613 ../../source/opacpreferences.rst:3697
+#: ../../source/opacpreferences.rst:3721 ../../source/opacpreferences.rst:3748
+#: ../../source/opacpreferences.rst:3812 ../../source/opacpreferences.rst:3841
+msgid "Values:"
+msgstr "值："
+
+#: ../../source/opacpreferences.rst:60 ../../source/opacpreferences.rst:92
+#: ../../source/opacpreferences.rst:2233 ../../source/opacpreferences.rst:2336
+#: ../../source/opacpreferences.rst:3750
+msgid "[Select all]"
+msgstr "[全選]"
+
+#: ../../source/opacpreferences.rst:62 ../../source/opacpreferences.rst:94
+msgid "Item types"
+msgstr "館藏類型"
+
+#: ../../source/opacpreferences.rst:64 ../../source/opacpreferences.rst:96
+msgid "Language"
+msgstr "語言"
+
+#: ../../source/opacpreferences.rst:66 ../../source/opacpreferences.rst:98
+msgid "Location and availability"
+msgstr "位置與可及性"
+
+#: ../../source/opacpreferences.rst:68 ../../source/opacpreferences.rst:100
+msgid "Publication date"
+msgstr "出版年"
+
+#: ../../source/opacpreferences.rst:70 ../../source/opacpreferences.rst:102
+msgid "Sorting"
+msgstr "排序"
+
+#: ../../source/opacpreferences.rst:72 ../../source/opacpreferences.rst:104
+msgid "Subtypes"
+msgstr "次類型"
+
+#: ../../source/opacpreferences.rst:76
+msgid "The settings in this preference will determine which search fields will show when the patron is using the 'More options' mode on the advanced search page."
+msgstr "此設定決定在進階搜尋頁面使用 '更多選項' 時可以顯示的搜尋欄位。"
+
+#: ../../source/opacpreferences.rst:83
+msgid "OpacAdvSearchOptions"
+msgstr "OpacAdvSearchOptions"
+
+#: ../../source/opacpreferences.rst:85
+msgid "Default: Item types, Language, Location and availability, Publication date, Sorting"
+msgstr "預設：館藏類型、語系、書架位置與可得性、出版日期、排序"
+
+#: ../../source/opacpreferences.rst:88
+msgid "Asks: Show search options \\_\\_\\_"
+msgstr "詢問：顯示搜尋選項 \\_\\_\\_"
+
+#: ../../source/opacpreferences.rst:108
+msgid "The settings in this preference will determine which search fields will show when the patron is using the 'Fewer options' mode on the advanced search page."
+msgstr "這個偏好的設定將決定在進階搜尋頁面使用 '較少選項' 時顯示的搜尋欄位。"
+
+#: ../../source/opacpreferences.rst:115
+msgid "Appearance"
+msgstr "外觀"
+
+#: ../../source/opacpreferences.rst:117
+msgid "These preferences control how things appear in the OPAC."
+msgstr "這些偏好控制 OPAC 顯示內容的外觀。"
+
+#: ../../source/opacpreferences.rst:122
+#, fuzzy
+msgid "AuthorityXSLTOpacDetailsDisplay"
+msgstr "OPACXSLTDetailsDisplay"
+
+#: ../../source/opacpreferences.rst:124
+#, fuzzy
+msgid "Asks: Display authority details in the OPAC using the XSLT stylesheet at: \\_\\_\\_"
+msgstr "詢問：在 OPAC 的結果頁面使用 \\_\\_\\_ 做為 XSLT 樣式表"
+
+#: ../../source/opacpreferences.rst:126 ../../source/opacpreferences.rst:173
+#, fuzzy
+msgid "Default: Empty"
+msgstr "預設值：itemtype"
+
+#: ../../source/opacpreferences.rst:130 ../../source/opacpreferences.rst:177
+msgid "Leave empty to disable XSLT display"
+msgstr ""
+
+#: ../../source/opacpreferences.rst:132 ../../source/opacpreferences.rst:179
+#: ../../source/opacpreferences.rst:1526 ../../source/opacpreferences.rst:1581
+#: ../../source/opacpreferences.rst:1634
+msgid "Enter a path to an XSLT file"
+msgstr "輸入一個XSLT文件的路徑"
+
+#: ../../source/opacpreferences.rst:134 ../../source/opacpreferences.rst:181
+#, fuzzy
+msgid "For example, :code:`/path/to/koha/and/your/stylesheet.xsl`"
+msgstr "例如，/path/to/koha/and/your/stylesheet.xsl"
+
+#: ../../source/opacpreferences.rst:136 ../../source/opacpreferences.rst:183
+#: ../../source/opacpreferences.rst:1538 ../../source/opacpreferences.rst:1593
+#: ../../source/opacpreferences.rst:1646
+msgid "Enter an URL to an external stylesheet"
+msgstr "輸入一個外部樣式表的URL"
+
+#: ../../source/opacpreferences.rst:138 ../../source/opacpreferences.rst:185
+#: ../../source/opacpreferences.rst:1540 ../../source/opacpreferences.rst:1595
+#: ../../source/opacpreferences.rst:1648
+msgid "For example, http://mykohaopac.org/stylesheet.xsl"
+msgstr "例如，http://mykohaopac.org/stylesheet.xsl"
+
+#: ../../source/opacpreferences.rst:142 ../../source/opacpreferences.rst:189
+#, fuzzy
+msgid "XSLT stylesheets allow for the customization of the details shown on the screen when viewing an authority record. This system preference will allow you to either use the default look that comes with Koha (no XSLT) or design your own stylesheet."
+msgstr "XSLT 樣式表允許客製化檢視書目記錄詳情。此偏好允許您使用 Koha 的預設值或設計自己的樣式表。"
+
+#: ../../source/opacpreferences.rst:147
+#, fuzzy
+msgid "This system preference controls the display of the authority records in the OPAC."
+msgstr "該系統偏好控制OPAC中詳細書目記錄的顯示。"
+
+#: ../../source/opacpreferences.rst:150 ../../source/opacpreferences.rst:197
+#, fuzzy
+msgid "In a multi-language system, you can enter :code:`{langcode}` in the internal path or external URL to tell Koha to look in the right language folder"
+msgstr "在多語系環境下可在路徑裡輸入 {langcode} 告知 Koha 取用正確的資料夾"
+
+#: ../../source/opacpreferences.rst:153 ../../source/opacpreferences.rst:200
+#, fuzzy
+msgid "For example, :code:`http://mykohaopac.org/{langcode}/stylesheet.xsl`"
+msgstr "例如，http://mykohaopac.org/{langcode}/stylesheet.xsl"
+
+#: ../../source/opacpreferences.rst:155 ../../source/opacpreferences.rst:202
+msgid "If you have different stylesheets for different authority types, use the :code:`{authtypecode}` placeholder for the authority type code"
+msgstr ""
+
+#: ../../source/opacpreferences.rst:158 ../../source/opacpreferences.rst:205
+#, fuzzy
+msgid "For example, :code:`http://mykohaopac.org/{authtypecode}/stylesheet.xsl`"
+msgstr "例如，http://mykohaopac.org/{langcode}/stylesheet.xsl"
+
+#: ../../source/opacpreferences.rst:162
+#, fuzzy
+msgid ":ref:`AuthorityXSLTOpacResultsDisplay <authorityxsltopacresultsdisplay-label>`"
+msgstr ":ref:`XSLTResultsDisplay`"
+
+#: ../../source/opacpreferences.rst:164 ../../source/opacpreferences.rst:311
+#: ../../source/opacpreferences.rst:588 ../../source/opacpreferences.rst:1613
+#: ../../source/opacpreferences.rst:1666
+#, fuzzy
+msgid ":ref:`OPACXSLTDetailsDisplay <OPACXSLTDetailsDisplay-label>`"
+msgstr ":ref:`OPACXSLTDetailsDisplay`"
+
+#: ../../source/opacpreferences.rst:169
+#, fuzzy
+msgid "AuthorityXSLTOpacResultsDisplay"
+msgstr "OPACXSLTResultsDisplay"
+
+#: ../../source/opacpreferences.rst:171
+#, fuzzy
+msgid "Asks: Display authority results in the OPAC using the XSLT stylesheet at: \\_\\_\\_"
+msgstr "詢問：在 OPAC 的結果頁面使用 \\_\\_\\_ 做為 XSLT 樣式表"
+
+#: ../../source/opacpreferences.rst:194
+#, fuzzy
+msgid "This system preference controls the display of the authority search results in the OPAC."
+msgstr "這個系統偏好控制OPAC中a :ref:`清單 <lists-label>`的記錄顯示。"
+
+#: ../../source/opacpreferences.rst:209 ../../source/opacpreferences.rst:1558
+#: ../../source/opacpreferences.rst:1668
+#, fuzzy
+msgid ":ref:`OPACXSLTListsDisplay <OPACXSLTListsDisplay-label>`"
+msgstr ":ref:`OPACXSLTListsDisplay`"
+
+#: ../../source/opacpreferences.rst:211 ../../source/opacpreferences.rst:309
+#: ../../source/opacpreferences.rst:590 ../../source/opacpreferences.rst:1560
+#: ../../source/opacpreferences.rst:1615
+#, fuzzy
+msgid ":ref:`OPACXSLTResultsDisplay <OPACXSLTResultsDisplay-label>`"
+msgstr ":ref:`OPACXSLTResultsDisplay`"
+
+#: ../../source/opacpreferences.rst:213
+#, fuzzy
+msgid ":ref:`AuthorityXSLTResultsDisplay <authorityxsltresultsdisplay-label>`"
+msgstr ":ref:`XSLTResultsDisplay`"
+
+#: ../../source/opacpreferences.rst:218
+msgid "BiblioDefaultView"
+msgstr "BiblioDefaultView"
+
+#: ../../source/opacpreferences.rst:220
+msgid "Default: in simple form"
+msgstr "預設值：簡單格式"
+
+#: ../../source/opacpreferences.rst:222
+#, fuzzy
+msgid "Asks: By default, show bibliographic records \\_\\_\\_"
+msgstr "詢問：預設，顯示書目格式為 \\_\\_\\_"
+
+#: ../../source/opacpreferences.rst:226
+msgid "as specified in the ISBD template."
+msgstr "如 ISBD 模版所示。"
+
+#: ../../source/opacpreferences.rst:228
+#, fuzzy
+msgid "See :ref:`ISBD <ISBD-label>` preference for more information"
+msgstr "詳情見 :ref:`ISBD` 偏好"
+
+#: ../../source/opacpreferences.rst:230
+msgid "in simple form."
+msgstr "簡單格式。"
+
+#: ../../source/opacpreferences.rst:232
+msgid "in their MARC format."
+msgstr "MARC 格式。"
+
+#: ../../source/opacpreferences.rst:236
+#, fuzzy
+msgid "This system preference determines the level of bibliographic detail that the patron will see on the OPAC detail page. The simple form displays the graphical interface; MARC format displays the MARC21 cataloging view; ISBD displays the ISBD (International Standard Bibliographic Description, AACR2) view."
+msgstr "此偏好決定讀者在 OPAC 看到的書目記錄詳盡程度別。簡單格式顯示圖形介面；MARC 格式顯示 MARC21的編目表單；ISBD 模板顯示 ISBD（國際書目著錄標準，AACR2）內容。"
+
+#: ../../source/opacpreferences.rst:245
+msgid "COinSinOPACResults"
+msgstr "COinSinOPACResults"
+
+#: ../../source/opacpreferences.rst:247 ../../source/opacpreferences.rst:2716
+msgid "Default: Include"
+msgstr "預設值：包括"
+
+#: ../../source/opacpreferences.rst:249
+msgid "Asks: \\_\\_\\_ COinS / OpenURL / Z39.88 in OPAC search results."
+msgstr "詢問：OPAC 搜尋結果 \\_\\_\\_ COinS / OpenURL / Z39.88。"
+
+#: ../../source/opacpreferences.rst:253 ../../source/opacpreferences.rst:2725
+msgid "Don't include"
+msgstr "不包括"
+
+#: ../../source/opacpreferences.rst:255
+msgid "If you choose not to include COinS on the search results, it will still be loaded on the individual bibliographic records."
+msgstr "若選擇於搜尋結果內不包括 COinS，它仍儲存在個別的書目記錄裡。"
+
+#: ../../source/opacpreferences.rst:258 ../../source/opacpreferences.rst:2723
+msgid "Include"
+msgstr "包括"
+
+#: ../../source/opacpreferences.rst:260
+msgid "Enabling this feature will slow OPAC search response times."
+msgstr "啟用此功能將減慢 OPAC 的回應時間。"
+
+#: ../../source/opacpreferences.rst:264
+msgid "COinS stands for ContextObjects in Spans. COinS is a method to embed bibliographic metadata in the HTML code of web pages. This allows bibliographic software to publish machine-readable bibliographic items and client reference management software (such as Zotero) to retrieve bibliographic metadata. The metadata can also be sent to an OpenURL resolver. This allows, for instance, searching for a copy of a book in one's own library."
+msgstr "COinS 是 ContextObjects in Spans 的縮寫。COinS 是把書目後設資料嵌入網頁 HTML 碼的方法。允許書目軟體出版機讀書目館藏與客戶參照管理軟體 (如 Zotero) 取用書目後設資料。同時可以送給 OpenURL 解析器。允許搜尋自己圖書館裡的複本館藏。"
+
+#: ../../source/opacpreferences.rst:275
+msgid "DisplayOPACiconsXSLT"
+msgstr "DisplayOPACiconsXSLT"
+
+#: ../../source/opacpreferences.rst:277
+msgid "Asks: \\_\\_\\_ the format, audience, and material type icons and descriptions in XSLT MARC 21 results and detail pages in the OPAC."
+msgstr "詢問：\\_\\_\\_ 在OPAC的XSLT MARC21 結果與詳細頁面裡的格式、預期讀者及資料類型圖示。"
+
+#: ../../source/opacpreferences.rst:280 ../../source/opacpreferences.rst:320
+#: ../../source/opacpreferences.rst:693 ../../source/opacpreferences.rst:816
+#: ../../source/opacpreferences.rst:1243 ../../source/opacpreferences.rst:1294
+#: ../../source/opacpreferences.rst:1316 ../../source/opacpreferences.rst:1737
+#: ../../source/opacpreferences.rst:1946 ../../source/opacpreferences.rst:2071
+#: ../../source/opacpreferences.rst:2116 ../../source/opacpreferences.rst:2141
+#: ../../source/opacpreferences.rst:3810
+msgid "Default: Don't show"
+msgstr "預設值：不顯示"
+
+#: ../../source/opacpreferences.rst:284 ../../source/opacpreferences.rst:334
+#: ../../source/opacpreferences.rst:697 ../../source/opacpreferences.rst:835
+#: ../../source/opacpreferences.rst:927 ../../source/opacpreferences.rst:1250
+#: ../../source/opacpreferences.rst:1300 ../../source/opacpreferences.rst:1322
+#: ../../source/opacpreferences.rst:1741 ../../source/opacpreferences.rst:1952
+#: ../../source/opacpreferences.rst:2075 ../../source/opacpreferences.rst:2122
+#: ../../source/opacpreferences.rst:2145 ../../source/opacpreferences.rst:2445
+#: ../../source/opacpreferences.rst:3513 ../../source/opacpreferences.rst:3723
+#: ../../source/opacpreferences.rst:3814
+msgid "Don't show"
+msgstr "不顯示"
+
+#: ../../source/opacpreferences.rst:286 ../../source/opacpreferences.rst:336
+#: ../../source/opacpreferences.rst:699 ../../source/opacpreferences.rst:837
+#: ../../source/opacpreferences.rst:929 ../../source/opacpreferences.rst:1252
+#: ../../source/opacpreferences.rst:1302 ../../source/opacpreferences.rst:1324
+#: ../../source/opacpreferences.rst:1348 ../../source/opacpreferences.rst:1743
+#: ../../source/opacpreferences.rst:1954 ../../source/opacpreferences.rst:2077
+#: ../../source/opacpreferences.rst:2124 ../../source/opacpreferences.rst:2147
+#: ../../source/opacpreferences.rst:2447 ../../source/opacpreferences.rst:3515
+#: ../../source/opacpreferences.rst:3725 ../../source/opacpreferences.rst:3816
+msgid "Show"
+msgstr "顯示"
+
+#: ../../source/opacpreferences.rst:290
+msgid "This system preference is used to show or hide the format, audience and material type information pulled from the control fields of the MARC 21 bibliographic record."
+msgstr "這個系統偏好用於顯示或隱藏從MARC 21書目記錄的控制欄段中提取的格式、預期讀者及資料類型圖示。"
+
+#: ../../source/opacpreferences.rst:294
+#, fuzzy
+msgid "|DisplayOPACiconsXSLT|"
+msgstr "DisplayOPACiconsXSLT"
+
+#: ../../source/opacpreferences.rst:298
+msgid "See the :ref:`XSLT material type icons <material-type-cataloging-guide-label>` for more information on these icons."
+msgstr "這些圖示的詳情見 :ref:`XSLT 資料類型圖示 <material-type-cataloging-guide-label>`。"
+
+#: ../../source/opacpreferences.rst:303
+#, fuzzy
+msgid "This is only used in XSLT displays, so :ref:`OPACXSLTResultsDisplay <OPACXSLTResultsDisplay-label>` and/or :ref:`OPACXSLTDetailsDisplay <OPACXSLTDetailsDisplay-label>` must be set to use an XSLT stylesheet for this to show (default or custom)"
+msgstr "這只在XSLT顯示中使用，:ref:`OPACXSLTResultsDisplay` 與 :ref:`OPACXSLTDetailsDisplay` 必須設定 (預設或客製) 為使用XSLT樣式表才能顯示它"
+
+#: ../../source/opacpreferences.rst:313
+#, fuzzy
+msgid ":ref:`DisplayIconsXSLT <DisplayIconsXSLT-label>`"
+msgstr ":ref:`DisplayIconsXSLT`"
+
+#: ../../source/opacpreferences.rst:318
+msgid "hidelostitems"
+msgstr "hidelostitems"
+
+#: ../../source/opacpreferences.rst:322
+msgid "Asks: \\_\\_\\_ lost items on search and detail pages."
+msgstr "詢問：在搜尋與詳情頁面 \\_\\_\\_ 遺失的館藏。"
+
+#: ../../source/opacpreferences.rst:326
+msgid "Items that are marked lost by the library can either be shown or not shown on the OPAC. By setting the value to \"Don't show,\" the lost item is not shown on the OPAC. By setting the value \"Show,\" the lost item is shown on the OPAC for patrons to view with a status of 'lost.^"
+msgstr "被標記為遺失的館藏，可以顯示或不顯示於 OPAC。設定為 \"不顯示\"，則 OPAC 不顯示被標記為遺失的館。設定為 \"顯示\"，則 OPAC 顯示被標記為 '遺失^ 的館藏"
+
+#: ../../source/opacpreferences.rst:338
+msgid "|image63|"
+msgstr ""
+
+#: ../../source/opacpreferences.rst:343
+msgid "HighlightOwnItemsOnOPAC and HighlightOwnItemsOnOPACWhich"
+msgstr "HighlightOwnItemsOnOPAC 與 HighlightOwnItemsOnOPACWhich"
+
+#: ../../source/opacpreferences.rst:345
+msgid "HighlightOwnItemsOnOPAC Default: Don't emphasize"
+msgstr "HighlightOwnItemsOnOPAC 預設值：不強調"
+
+#: ../../source/opacpreferences.rst:347
+msgid "HighlightOwnItemsOnOPACWhich Default: patron's home library"
+msgstr "HighlightOwnItemsOnOPACWhich 預設值：讀者所屬圖書館"
+
+#: ../../source/opacpreferences.rst:349
+msgid "Asks: \\_\\_\\_ results from the \\_\\_\\_ by moving the results to the front and increasing the size or highlighting the rows for those results."
+msgstr "詢問：\\_\\_\\_ 結果來自移動結果至 \\_\\_\\_ 前方，並加大字型或強調結果列。"
+
+#: ../../source/opacpreferences.rst:352
+msgid "HighlightOwnItemsOnOPAC Values:"
+msgstr "HighlightOwnItemsOnOPAC 值："
+
+#: ../../source/opacpreferences.rst:354
+msgid "Don't emphasize"
+msgstr "不強調"
+
+#: ../../source/opacpreferences.rst:356
+msgid "Emphasize"
+msgstr "強調"
+
+#: ../../source/opacpreferences.rst:358
+msgid "HighlightOwnItemsOnOPACWhich Values:"
+msgstr "HighlightOwnItemsOnOPACWhich 值："
+
+#: ../../source/opacpreferences.rst:360
+#, fuzzy
+msgid "OPAC's library based via the URL"
+msgstr "經由 URL 的 OPAC 分館"
+
+#: ../../source/opacpreferences.rst:362
+msgid "The library is chosen based on the Apache environment variable BRANCHCODE. For example, this could be added to the OPAC section of koha-httpd.conf: SetEnv BRANCHCODE \"CPL\""
+msgstr "根據 Apache 環境裡的 BRANCHCODE 變數決定分館。如：在 koha-httpd.conf 的 OPAC 區塊裡，加入這列字 SetEnv BRANCHCODE \"CPL\""
+
+#: ../../source/opacpreferences.rst:366
+msgid "patron's home library"
+msgstr "讀者所屬分館"
+
+#: ../../source/opacpreferences.rst:368
+msgid "The items emphasized will be those of the same library as the patron's library. If no one is logged into the OPAC, no items will be highlighted."
+msgstr "只強調與讀者所屬分館相同的館藏。若沒有登入 OPAC，則不強調任何館藏。"
+
+#: ../../source/opacpreferences.rst:372 ../../source/opacpreferences.rst:476
+#: ../../source/opacpreferences.rst:482 ../../source/opacpreferences.rst:487
+#: ../../source/opacpreferences.rst:759 ../../source/opacpreferences.rst:1350
+#: ../../source/opacpreferences.rst:1875 ../../source/opacpreferences.rst:1889
+#: ../../source/opacpreferences.rst:1942 ../../source/opacpreferences.rst:1956
+#: ../../source/opacpreferences.rst:2107 ../../source/opacpreferences.rst:2495
+#: ../../source/opacpreferences.rst:2545 ../../source/opacpreferences.rst:2657
+#: ../../source/opacpreferences.rst:2706 ../../source/opacpreferences.rst:2926
+#: ../../source/opacpreferences.rst:2979 ../../source/opacpreferences.rst:2998
+#: ../../source/opacpreferences.rst:3015 ../../source/opacpreferences.rst:3021
+#: ../../source/opacpreferences.rst:3272 ../../source/opacpreferences.rst:3303
+#: ../../source/opacpreferences.rst:3489 ../../source/opacpreferences.rst:3529
+msgid "**Important**"
+msgstr "**重要**"
+
+#: ../../source/opacpreferences.rst:374
+#, fuzzy
+msgid "This system preference will only effect sites that are not using an XSLT stylesheet. XSLT stylesheets are defined in the :ref:`OPACXSLTResultsDisplay <OPACXSLTResultsDisplay-label>` and :ref:`OPACXSLTDetailsDisplay <OPACXSLTDetailsDisplay-label>` preferences."
+msgstr "此偏好只影響未使用 XSLT 樣式表的網站。XSLT 樣式表設定在 :ref:`OPACXSLTResultsDisplay` 與 :ref:`OPACXSLTDetailsDisplay` 偏好內。"
+
+#: ../../source/opacpreferences.rst:382
+msgid "LibraryName"
+msgstr "LibraryName"
+
+#: ../../source/opacpreferences.rst:384
+msgid "Asks: Show \\_\\_\\_ as the name of the library on the OPAC."
+msgstr "詢問： 在 OPAC 顯示 \\_\\_\\_ 做為圖書館的名稱。"
+
+#: ../../source/opacpreferences.rst:386 ../../source/opacpreferences.rst:390
+#: ../../source/opacpreferences.rst:423 ../../source/opacpreferences.rst:427
+#: ../../source/opacpreferences.rst:754 ../../source/opacpreferences.rst:821
+#: ../../source/opacpreferences.rst:957 ../../source/opacpreferences.rst:984
+#: ../../source/opacpreferences.rst:2702 ../../source/opacpreferences.rst:2733
+#: ../../source/opacpreferences.rst:2919 ../../source/opacpreferences.rst:3053
+#: ../../source/opacpreferences.rst:3167 ../../source/opacpreferences.rst:3276
+#: ../../source/opacpreferences.rst:3283 ../../source/opacpreferences.rst:3307
+#: ../../source/opacpreferences.rst:3484
+msgid "**Note**"
+msgstr "**註記**"
+
+#: ../../source/opacpreferences.rst:388
+msgid "This value will appear in the title bar of the browser"
+msgstr "此內容將顯示在瀏覽器的題名區"
+
+#: ../../source/opacpreferences.rst:392
+msgid "Add a news item with the opacheader display location with the :ref:`news tool <news-label>` if you'd like to add a library name above your search box on the OPAC"
+msgstr "如果你想在OPAC上的搜尋框上方新增一個圖書館名稱，可以用 :ref:`新聞工具 <news-label>`新增一個新聞館藏與opacheader顯示位置。"
+
+#: ../../source/opacpreferences.rst:396
+msgid "|image64|"
+msgstr ""
+
+#: ../../source/opacpreferences.rst:401
+msgid "OpacAdditionalStylesheet"
+msgstr "OpacAdditionalStylesheet"
+
+#: ../../source/opacpreferences.rst:403
+msgid "Asks: Include the additional CSS stylesheet \\_\\_\\_ to override specified settings from the default stylesheet."
+msgstr "詢問：使用新增的 CSS 樣式表 \\_\\_\\_ 取代預設樣式表的設定。"
+
+#: ../../source/opacpreferences.rst:408
+msgid "The preference can look for stylesheets in the template directory for your OPAC language, for instance: /koha-tmpl/opac-tmpl/prog/en/css. If you upload a custom file, opac-mystyles.css to this directory, you can specify it by entering opac-mystyles.css in your opaccolorstylesheet system preference. This adds your custom stylesheet as a linked stylesheet alongside the OPAC's default CSS files. This method is preferable because linked stylesheets are cached by the user's browser, meaning upon repeat visits to your site the user's browser will not have to re-download the stylesheet, instead using the copy in the browser's cache."
+msgstr "此偏好從您的 OPAC 語系裡的模版資料夾找尋樣式表，如：/koha-tmpl/opac-tmpl/prog/en/css。若上傳客製化檔案，opac-mystyles.css 至此資料夾，就可在此偏好鍵入該檔名 opac-mystyles.css。與 OPAC 預設的 CSS 樣式檔併存。建議採用此方法畎為被讀者選用的樣式表，將保留在讀者瀏覽器的快取裡，下次再拜訪時，直接從快取內抓出，不需要重複載入。"
+
+#: ../../source/opacpreferences.rst:419
+msgid "If you would rather, you can upload your CSS to another server and enter the full URL pointing to it's location remember to begin the URL with http://"
+msgstr "當然，也可以選用其他伺服器裡的 CSS 並鍵入完整的 URL 址 http://"
+
+#: ../../source/opacpreferences.rst:425
+msgid "Leave this field blank to disable it"
+msgstr "空白表示不用它"
+
+#: ../../source/opacpreferences.rst:429
+msgid "This file will add a linked CSS, not replace the existing default CSS."
+msgstr "此檔案將新增連結的 CSS，不取代既有的預設 CSS。"
+
+#: ../../source/opacpreferences.rst:435
+msgid "OpacAddMastheadLibraryPulldown"
+msgstr "OpacAddMastheadLibraryPulldown"
+
+#: ../../source/opacpreferences.rst:437
+msgid "Asks: \\_\\_\\_ a library select pulldown menu on the OPAC masthead."
+msgstr "詢問：在 OPAC 的刊頭 \\_\\_\\_ 下拉式圖書館選單。"
+
+#: ../../source/opacpreferences.rst:439
+msgid "Default: Don't add"
+msgstr "預設：不新增"
+
+#: ../../source/opacpreferences.rst:443
+msgid "Add"
+msgstr "新增"
+
+#: ../../source/opacpreferences.rst:445
+#, fuzzy
+msgid "Don't add"
+msgstr "不增加"
+
+#: ../../source/opacpreferences.rst:449
+msgid "When set to 'Add' this system preference will add a dropdown menu of :ref:`libraries <libraries-label>` and :ref:`library groups <library-groups-label>` in the simple search bar in the OPAC."
+msgstr ""
+
+#: ../../source/opacpreferences.rst:454
+#, fuzzy
+msgid "|OpacAddMastheadLibraryPulldown|"
+msgstr "OpacAddMastheadLibraryPulldown"
+
+#: ../../source/opacpreferences.rst:456
+msgid "This will search for records that have items whose home library is the selected library. It's the same as the :ref:`library limit on the advanced search page <advanced-search-location-availability-label>`."
+msgstr ""
+
+#: ../../source/opacpreferences.rst:463
+msgid "OPACBaseURL"
+msgstr "OPACBaseURL"
+
+#: ../../source/opacpreferences.rst:465
+msgid "Asks: The OPAC is located at \\_\\_\\_"
+msgstr "詢問：OPAC 位於 \\_\\_\\_"
+
+#: ../../source/opacpreferences.rst:469
+#, fuzzy
+msgid "This system preference is looking for the URL of your public catalog (OPAC) with the http:// in front of it (enter http://www.mycatalog.com instead of www.mycatalog.com). Once it is filled in Koha will use it to generate permanent links in your RSS feeds, for your social network share buttons and in your staff interface when generating links to bibliographic records in the OPAC."
+msgstr "此偏好讓您鍵入公用目錄 (OPAC) 的 URL 之前不必加入 http:// (鍵入 www.mycatalog.com 而不是 http://www.mycatalog.com)。填入之後 Koha 將使用它在 RSS feeds 產生永久的連結至 OPAC 的書目紀錄，供您的社會網路共享鈕與館員介面使用。"
+
+#: ../../source/opacpreferences.rst:478
+msgid "Do not include a trailing slash in the URL this will break links created using this URL. (example: http://www.google.com not http://www.google.com/)"
+msgstr "不要加入 URL 最後的斜撇否則會打斷此 URL 的連結。(如：www.google.com 不要用 www.google.com/)"
+
+#: ../../source/opacpreferences.rst:484
+msgid "This must be filled in with the URL of your public catalog for RSS, unAPI, and search plugins to work."
+msgstr "必須鍵入公用目錄的 URL 供 RSS、unAPI、與搜尋外掛使用。"
+
+#: ../../source/opacpreferences.rst:489
+#, fuzzy
+msgid "This must be filled in with the URL of your public catalog to show 'OPAC View' links from bibliographic records in the staff interface:"
+msgstr "必須鍵入公用目錄的 URL 才能從館員介面的書目紀錄裡顯示 '顯示 OPAC' 連結："
+
+#: ../../source/opacpreferences.rst:492
+msgid "|image67|"
+msgstr ""
+
+#: ../../source/opacpreferences.rst:498
+msgid "OPACDisplay856uAsImage"
+msgstr "OPACDisplay856uAsImage"
+
+#: ../../source/opacpreferences.rst:500
+msgid "Asks: Display the URI in the 856u field as an image on: \\_\\_\\_"
+msgstr "詢問：將 856u 欄位的 URI 以圖片形式顯示於：\\_\\_\\_"
+
+#: ../../source/opacpreferences.rst:502
+msgid "Default: Neither details or results page"
+msgstr "預設值：既不在詳情頁面也不在結果頁面"
+
+#: ../../source/opacpreferences.rst:506
+msgid "Both results and details pages"
+msgstr "同在搜尋結果與書目詳情頁面"
+
+#: ../../source/opacpreferences.rst:510
+#, fuzzy
+msgid "Both :ref:`OPACXSLTDetailsDisplay <OPACXSLTDetailsDisplay-label>` and :ref:`OPACXSLTResultsDisplay <OPACXSLTResultsDisplay-label>` need to have values in order for this preference to work."
+msgstr "必須同時打開 :ref:`OPACXSLTDetailsDisplay`與 :ref:`OPACXSLTResultsDisplay` 偏好，此偏好才啟作用。 "
+
+#: ../../source/opacpreferences.rst:515 ../../source/opacpreferences.rst:528
+#: ../../source/opacpreferences.rst:543
+msgid "This is only implemented for MARC21."
+msgstr "只適用於 MARC21。"
+
+#: ../../source/opacpreferences.rst:517
+msgid "Detail page only"
+msgstr "詳情頁面"
+
+#: ../../source/opacpreferences.rst:519
+#, fuzzy
+msgid "|OPACDisplay856uAsImage-detail|"
+msgstr "OPACDisplay856uAsImage"
+
+#: ../../source/opacpreferences.rst:523
+#, fuzzy
+msgid ":ref:`OPACXSLTDetailsDisplay <OPACXSLTDetailsDisplay-label>` needs to have a value in it for this preference to work."
+msgstr "必須同時打開 :ref:`OPACXSLTDetailsDisplay` 此偏好才有作用。"
+
+#: ../../source/opacpreferences.rst:530
+msgid "Neither details or results page"
+msgstr "既不在詳情頁面也不在結果頁面"
+
+#: ../../source/opacpreferences.rst:532
+msgid "Results page only"
+msgstr "只限結果頁面"
+
+#: ../../source/opacpreferences.rst:534
+#, fuzzy
+msgid "|OPACDisplay856uAsImage-results|"
+msgstr "OPACDisplay856uAsImage"
+
+#: ../../source/opacpreferences.rst:538
+#, fuzzy
+msgid ":ref:`OPACXSLTResultsDisplay <OPACXSLTResultsDisplay-label>` needs to have a value in it for this preference to work."
+msgstr ":ref:`OPACXSLTResultsDisplay` 必須有資料才能使用此偏好。"
+
+#: ../../source/opacpreferences.rst:547
+msgid "In addition to this option being set, the corresponding XSLT option must be turned on."
+msgstr "除了這個選項被設定外，相應的XSLT選項必須被打開。"
+
+#: ../../source/opacpreferences.rst:550
+msgid "Also, the corresponding 856q field must have a valid MIME image extension (e.g., \"jpg\") or MIME image type (i.e. starting with \"image/\"), or the generic indicator \"img\" entered in the field."
+msgstr "此外，相應的856q欄段必須有一個有效的MIME圖像擴展名（例如，\"jpg\"）或MIME圖像類型（即以 \"image/\"開頭），或在該欄段中輸入通用指標 \"img\"。"
+
+#: ../../source/opacpreferences.rst:554
+msgid "|856imagemarc|"
+msgstr ""
+
+#: ../../source/opacpreferences.rst:558
+msgid "**Common image MIME types**"
+msgstr "**常見圖片 MIME 類型**"
+
+#: ../../source/opacpreferences.rst:561
+msgid "File extension"
+msgstr "檔案延伸"
+
+#: ../../source/opacpreferences.rst:561
+msgid "File type"
+msgstr "檔案類型"
+
+#: ../../source/opacpreferences.rst:561
+msgid "Image MIME type"
+msgstr "圖片 MIME 類型"
+
+#: ../../source/opacpreferences.rst:563
+msgid "Bitmap"
+msgstr "點陣圖"
+
+#: ../../source/opacpreferences.rst:563
+msgid "bmp"
+msgstr "bmp"
+
+#: ../../source/opacpreferences.rst:563
+msgid "image/bmp"
+msgstr "影像/bmp"
+
+#: ../../source/opacpreferences.rst:565
+msgid "Graphic interchange format (gif)"
+msgstr "圖像互換格式 (gif)"
+
+#: ../../source/opacpreferences.rst:565
+msgid "gif"
+msgstr "gif"
+
+#: ../../source/opacpreferences.rst:565
+msgid "image/gif"
+msgstr "圖片/gif"
+
+#: ../../source/opacpreferences.rst:567 ../../source/opacpreferences.rst:569
+msgid "JPEG image"
+msgstr "JPEG 圖片"
+
+#: ../../source/opacpreferences.rst:567 ../../source/opacpreferences.rst:569
+msgid "image/jpeg"
+msgstr "圖片/jpeg"
+
+#: ../../source/opacpreferences.rst:567
+msgid "jpg"
+msgstr "jpg"
+
+#: ../../source/opacpreferences.rst:569
+msgid "jpeg"
+msgstr "jpeg"
+
+#: ../../source/opacpreferences.rst:571
+msgid "Scalable vector graphic"
+msgstr "可縮放向量圖形"
+
+#: ../../source/opacpreferences.rst:571
+msgid "image/svg+xml"
+msgstr "圖片/svg+xml"
+
+#: ../../source/opacpreferences.rst:571
+msgid "svg"
+msgstr "svg"
+
+#: ../../source/opacpreferences.rst:573 ../../source/opacpreferences.rst:575
+msgid "TIF image"
+msgstr "TIF 圖片"
+
+#: ../../source/opacpreferences.rst:573 ../../source/opacpreferences.rst:575
+msgid "image/tiff"
+msgstr "圖片/tiff"
+
+#: ../../source/opacpreferences.rst:573
+msgid "tiff"
+msgstr "tiff"
+
+#: ../../source/opacpreferences.rst:575
+msgid "tif"
+msgstr "tif"
+
+#: ../../source/opacpreferences.rst:578
+#, fuzzy
+msgid "When all of the requirements are met, an image file will be displayed instead of the standard link text. Clicking on the image will open it in the same way as clicking on the link text. When you click on the image it should open to full size, in the current window or in a new window depending on the value in the system pref :ref:`OPACURLOpenInNewWindow <OPACURLOpenInNewWindow-label>`."
+msgstr "當所有的要求都滿足時，將顯示一個影像文件，而不是標準的連結文字。點擊該影像將以與點擊連結文字相同的方式打開它。當你點擊圖片時，它應該以全尺寸打開，在當前窗口或新窗口中，這取決於系統pref :ref:`OPACURLOpenInNewWindow`中的值。"
+
+#: ../../source/opacpreferences.rst:586
+#, fuzzy
+msgid ":ref:`Display856uAsImage <Display856uAsImage-label>`"
+msgstr ":ref:`Display856uAsImage`"
+
+#: ../../source/opacpreferences.rst:592
+#, fuzzy
+msgid ":ref:`OPACURLOpenInNewWindow <OPACURLOpenInNewWindow-label>`"
+msgstr ":ref:`OPACURLOpenInNewWindow`"
+
+#: ../../source/opacpreferences.rst:597
+msgid "OpacExportOptions"
+msgstr "OpacExportOptions"
+
+#: ../../source/opacpreferences.rst:599
+msgid "Default:"
+msgstr "預設值："
+
+#: ../../source/opacpreferences.rst:601
+msgid "|image1192|"
+msgstr ""
+
+#: ../../source/opacpreferences.rst:603
+msgid "Asks: Select export options that should be available from OPAC detail page: \\_\\_\\_"
+msgstr "詢問：選定出現在 OPAC 詳情頁面的選項：\\_\\_\\_"
+
+#: ../../source/opacpreferences.rst:608
+#, fuzzy
+msgid "In the OPAC on the right of each bibliographic record there is a menu that allows for saving the record in various formats. This patch will allow you to define which options are in the pull down menu. Available options are: BIBTEX (bibtex), Dublin Core (dc), MARCXML (marcxml), MARC-8 encoded MARC (marc8), Unicode/UTF-8 encoded MARC (utf8), Unicode/UTF-8 encoded MARC without local use -9xx, x9x, xx9- fields and subfields (marcstd), MODS (mods), and RIS (ris)."
+msgstr "在 OPAC 的每筆記錄右方有個選單以多種格式儲存該記錄。此偏好有多種選擇。如：BIBTEX (bibtex)、Dublin Core (dc)、MARCXML (marcxml)、MARC-8 encoded MARC (marc8)、Unicode/UTF-8 encoded MARC (utf8)、Unicode/UTF-8 encoded MARC 不含在地使用的欄位與分欄 -9xx、x9x、xx9 欄位與分欄 (marcstd)、MODS (mods)、與 RIS (ris)。"
+
+#: ../../source/opacpreferences.rst:619
+msgid "OPACFallback"
+msgstr "OPACFallback"
+
+#: ../../source/opacpreferences.rst:621 ../../source/opacpreferences.rst:1424
+msgid "Default: bootstrap"
+msgstr "預設：bootstrap"
+
+#: ../../source/opacpreferences.rst:623
+msgid "Asks: Use the \\_\\_\\_ theme as the fallback theme on the OPAC."
+msgstr "問：使用 \\_\\_\\_ 主題做為 OPAC 的預備主題。"
+
+#: ../../source/opacpreferences.rst:627
+msgid "The purpose of this preference is to provide a way to choose to what theme to fallback on when you have a partial theme in place."
+msgstr "此偏好的目的是讓圖書館選擇自己的喜好主題。"
+
+#: ../../source/opacpreferences.rst:633
+msgid "OpacFavicon"
+msgstr "OpacFavicon"
+
+#: ../../source/opacpreferences.rst:635
+msgid "Asks: Use the image at \\_\\_\\_ for the OPAC's favicon."
+msgstr "詢問： 選用 \\_\\_\\_ 做為 OPAC 的網頁圖示。"
+
+#: ../../source/opacpreferences.rst:639
+msgid "The favicon is the little icon that appears next to the page title in the tab in most browsers. The default value for this field (if left blank) is the small 'K' of the Koha logo on a white background."
+msgstr "圖標是大多數瀏覽器中出現在標籤頁標題旁邊的小圖標。這個欄位的預設值（如果留空）是白色背景上的Koha標誌的小 'K'。"
+
+#: ../../source/opacpreferences.rst:643
+#, fuzzy
+msgid "|OpacFavicon|"
+msgstr "OpacFavicon"
+
+#: ../../source/opacpreferences.rst:645
+msgid "Enter a complete URL (starting with http:// or https://) to your image"
+msgstr "輸入一個完整的URL（以http:// 或https:// 開始），以顯示你的影像"
+
+#: ../../source/opacpreferences.rst:649
+msgid "Turn your logo into a favicon with the `Favicon Generator <http://antifavicon.com/>`__."
+msgstr "以網頁圖示產生器 :ref:`Favicon Generator <http://antifavicon.com/>`__ 將標識轉換為網頁圖示。"
+
+#: ../../source/opacpreferences.rst:655
+msgid "OpacHighlightedWords and NotHighlightedWords"
+msgstr "OpacHighlightedWords 與 NotHighlightedWords"
+
+#: ../../source/opacpreferences.rst:657
+msgid "OpacHighlightedWords Default: Don't highlight"
+msgstr "OpacHighlightedWords 預設：不突顯"
+
+#: ../../source/opacpreferences.rst:659
+msgid "NotHighlightedWords Default: and\\|or\\|not"
+msgstr "NotHighlightedWords 預設：與\\|或\\|否"
+
+#: ../../source/opacpreferences.rst:661
+msgid "Asks: \\_\\_\\_ words the patron searched for in their search results and detail pages; To prevent certain words from ever being highlighted, enter a list of stopwords here \\_\\_\\_ (separate columns with \\|)"
+msgstr "詢問：\\_\\_\\_ 顧客在搜尋結果和詳細資訊頁面中搜尋的單詞;為了防止某些單詞被突出顯示，請在這裡輸入非索引字清單 \\_\\_\\_（用 \\| 分隔）"
+
+#: ../../source/opacpreferences.rst:665
+msgid "OpacHighlightedWords Values:"
+msgstr "OpacHighlightedWords 值："
+
+#: ../../source/opacpreferences.rst:667
+msgid "Don't highlight"
+msgstr "不強調"
+
+#: ../../source/opacpreferences.rst:669
+msgid "Highlight"
+msgstr "重點"
+
+#: ../../source/opacpreferences.rst:674
+msgid "OPACHoldingsDefaultSortField"
+msgstr "OPACHoldingsDefaultSortField"
+
+#: ../../source/opacpreferences.rst:676
+msgid "Default: First column of the table"
+msgstr "預設值：表單的第一欄"
+
+#: ../../source/opacpreferences.rst:678
+msgid "Asks: \\_\\_\\_ is the default sort field for the holdings table"
+msgstr "詢問：在館藏分頁 \\_\\_\\_ 館藏條碼"
+
+#: ../../source/opacpreferences.rst:682
+msgid "First column of the table"
+msgstr "表單的第一欄"
+
+#: ../../source/opacpreferences.rst:684
+msgid "Holding library"
+msgstr "預約圖書館"
+
+#: ../../source/opacpreferences.rst:686
+msgid "Home library"
+msgstr "所屬圖書館"
+
+#: ../../source/opacpreferences.rst:691
+msgid "OpacKohaUrl"
+msgstr "OpacKohaUrl"
+
+#: ../../source/opacpreferences.rst:703
+msgid "When this preference is set to 'Show' text will appear in the bottom right of the OPAC footer stating 'Powered by Koha' and linking to the official Koha website."
+msgstr "當此偏好設置為 '顯示' 時，OPAC頁腳的右下方將出現文字，說明 '由Koha提供' 並連結到Koha官方網站。"
+
+#: ../../source/opacpreferences.rst:707
+msgid "|image75|"
+msgstr ""
+
+#: ../../source/opacpreferences.rst:712
+msgid "OpacLangSelectorMode"
+msgstr "OpacLangSelectorMode"
+
+#: ../../source/opacpreferences.rst:714
+msgid "Default: only footer"
+msgstr "預設值：只有頁腳"
+
+#: ../../source/opacpreferences.rst:716
+msgid "Asks: Display language selector on \\_\\_\\_."
+msgstr "詢問： 在 \\_\\_\\_ 顯示語文選擇器。"
+
+#: ../../source/opacpreferences.rst:720
+msgid "both top and footer"
+msgstr "頁首與頁尾"
+
+#: ../../source/opacpreferences.rst:722
+msgid "only footer"
+msgstr "只限頁尾"
+
+#: ../../source/opacpreferences.rst:724
+msgid "top"
+msgstr "頂端"
+
+#: ../../source/opacpreferences.rst:728
+#, fuzzy
+msgid "If you have the :ref:`opaclanguagesdisplay <opaclanguagesdisplay-label>` preference set to display language options in the public catalog, then this preference will allow you to control where the language selector shows. You can choose to show it only on the top or bottom or in both places."
+msgstr "若把 :ref:`opaclanguagesdisplay` 偏好設為顯示公共目錄的語文選項，則此偏好允許您控制顯示的語文。您可選擇顯示在頁首或頁尾或兩者皆顯示。"
+
+#: ../../source/opacpreferences.rst:737
+msgid "opaclayoutstylesheet"
+msgstr "opaclayoutstylesheet"
+
+#: ../../source/opacpreferences.rst:739
+msgid "Default: opac.css"
+msgstr "預設值：opac.css"
+
+#: ../../source/opacpreferences.rst:741
+msgid "Asks: Use the CSS stylesheet /css/ \\_\\_\\_ on all pages in the OPAC, instead of the default"
+msgstr "詢問：在 OPAC 裡不用預設值，改用 /css/ \\_\\_\\_ 做為 CSS 樣式表"
+
+#: ../../source/opacpreferences.rst:746
+msgid "This setting's function is to point to the \\*.css file used to define the OPAC layout. A \\*.css file is a cascading stylesheet which is used in conjunction with HTML to set how the HTML page is formatted and will look on the OPAC. There are two stylesheets that come with the system; opac.css and opac2.css. A custom stylesheet may also be used. The stylesheets listed in the opaclayoutstylesheet preference are held on the Koha server."
+msgstr "此設定的功能是把 OPAC 預設的佈局指向 \\*.css。\\*.css 檔案是層疊樣式表，與 HTML 一起使用，做為設定 HTML 頁面的格式與顯示在 OPAC 的樣子。Koha 有兩個樣式表：opac.css 與 opac2.css。也可以使用客製化的樣式表。樣式表清單在 opaclayoutstylesheet 偏好儲存在 Koha 伺服器裡。"
+
+#: ../../source/opacpreferences.rst:756
+msgid "Leave this field blank to disable it and let Koha use the default file instead"
+msgstr "空白則停用它改為使用 Koha 內建的檔案"
+
+#: ../../source/opacpreferences.rst:761
+msgid "Using a custom value in this preference causes Koha to completely ignore the default layout stylesheet."
+msgstr "在此偏好使用客製化的值造成 Koha 完全忽視預設的樣式表佈局。"
+
+#: ../../source/opacpreferences.rst:767
+msgid "OpacLocationBranchToDisplay"
+msgstr "OpacLocationBranchToDisplay"
+
+#: ../../source/opacpreferences.rst:769
+msgid "Default: holding library"
+msgstr "預設值：典藏圖書館"
+
+#: ../../source/opacpreferences.rst:771
+msgid "Asks: Display the \\_\\_\\_ for items on the OPAC record details page."
+msgstr "詢問：在詳情頁面顯示 \\_\\_\\_ 筆 OPAC 館藏記錄。"
+
+#: ../../source/opacpreferences.rst:775 ../../source/opacpreferences.rst:1226
+msgid "holding library"
+msgstr "典藏圖書館"
+
+#: ../../source/opacpreferences.rst:777
+msgid "home and holding library"
+msgstr "所屬圖書館與所在圖書館"
+
+#: ../../source/opacpreferences.rst:779 ../../source/opacpreferences.rst:1028
+#: ../../source/opacpreferences.rst:1228
+msgid "home library"
+msgstr "所屬圖書館"
+
+#: ../../source/opacpreferences.rst:783
+msgid "Defines whether to display the holding library, the home library, or both for the opac details page."
+msgstr "設定是否在 OPAC 詳情頁面顯示所在圖書館、所屬圖書館、或兩者同時顯示。"
+
+#: ../../source/opacpreferences.rst:789
+msgid "OpacLocationOnDetail"
+msgstr "OpacLocationOnDetail"
+
+#: ../../source/opacpreferences.rst:791
+msgid "Default: below the holding library"
+msgstr "預設值：位於典藏圖書館之下"
+
+#: ../../source/opacpreferences.rst:793
+msgid "Asks: Display the shelving location \\_\\_\\_ for items on the OPAC record details page."
+msgstr "詢問：在 OPAC 詳情頁面顯示 \\_\\_\\_ 筆館藏的書架位置。"
+
+#: ../../source/opacpreferences.rst:798
+msgid "below both home and holding libraries"
+msgstr "位於所屬圖書館與典藏圖書館之下"
+
+#: ../../source/opacpreferences.rst:800
+msgid "on a separate column"
+msgstr "位於獨立於欄位"
+
+#: ../../source/opacpreferences.rst:802
+msgid "below the holding library"
+msgstr "館藏圖書館之下"
+
+#: ../../source/opacpreferences.rst:804
+msgid "below the home library"
+msgstr "所屬圖書館之下"
+
+#: ../../source/opacpreferences.rst:808
+msgid "Defines where the shelving location should be displayed, under the home library, the holding library, or both, or in a separate column."
+msgstr "設定顯示所屬圖書館、所在圖書館、或兩者的書架位置。"
+
+#: ../../source/opacpreferences.rst:814
+msgid "OpacMaintenance"
+msgstr "OpacMaintenance"
+
+#: ../../source/opacpreferences.rst:818
+msgid "Asks: \\_\\_\\_ a warning that the OPAC is under maintenance, instead of the OPAC itself."
+msgstr "詢問：Koha維修時 \\_\\_\\_ 警示訊息，不使用 OPAC 本身。"
+
+#: ../../source/opacpreferences.rst:823
+msgid "this shows the same warning as when the database needs to be upgraded, but unconditionally."
+msgstr "資料庫需要無條件更新時，顯示相同的警示訊息。"
+
+#: ../../source/opacpreferences.rst:828
+#, fuzzy
+msgid "This system preference allows the system administrator to turn off the OPAC during maintenance and display a message to users. When this preference is switched to \"Show\" the OPAC is not usable. The text of this message is not editable at this time."
+msgstr "此偏好允許系統管理者在維護階段關閉 OPAC 並顯示特定訊息給讀者。目前此偏好是切換給 \"顯示\" OPAC 不能用。還不能編輯該等訊息。"
+
+#: ../../source/opacpreferences.rst:839
+#, fuzzy
+msgid "When this preference is set to show the maintenance message the ability to search the OPAC is disabled and a message appears. The default message can be altered by using the :ref:`OpacMaintenanceNotice <OpacMaintenanceNotice-label>` preference."
+msgstr "此偏好用於設定顯示維護訊息，停用搜尋 OPAC 及顯示訊息。預設可以用 :ref:`OpacMaintenanceNotice` 偏好啟用訊息。"
+
+#: ../../source/opacpreferences.rst:844
+msgid "|image76|"
+msgstr ""
+
+#: ../../source/opacpreferences.rst:849
+msgid "OpacMaintenanceNotice"
+msgstr "OpacMaintenanceNotice"
+
+#: ../../source/opacpreferences.rst:851
+msgid "Asks: Show the following HTML when OpacMaintenance is enabled"
+msgstr "詢問：啟用 OpacMaintenance 時顯示以下的 HTML"
+
+#: ../../source/opacpreferences.rst:853
+msgid "Descritpion:"
+msgstr "說明："
+
+#: ../../source/opacpreferences.rst:855
+#, fuzzy
+msgid "This system preference will allow you to set the text the OPAC displays when the :ref:`OpacMaintenance <OpacMaintenance-label>` preference is set to 'Show.^"
+msgstr "當 :ref:`OpacMaintenance` 偏好設為 '顯示^ 時，此偏好允許設定 OPAC 顯示的文字。"
+
+#: ../../source/opacpreferences.rst:862
+msgid "OpacMaxItemsToDisplay"
+msgstr "OpacMaxItemsToDisplay"
+
+#: ../../source/opacpreferences.rst:864 ../../source/opacpreferences.rst:1718
+msgid "Default: 50"
+msgstr "預設值：50"
+
+#: ../../source/opacpreferences.rst:866
+#, fuzzy
+msgid "Asks: Display up to \\_\\_\\_ items on the bibliographic record detail page"
+msgstr "詢問：顯示 \\_\\_\\_ 筆館藏於書目詳情頁面"
+
+#: ../../source/opacpreferences.rst:870
+#, fuzzy
+msgid "This system preference will help with slow load times on the bibliographic detail pages by limiting the number of items to display by default. If the bibliographic record has more items than this, a link is displayed instead that allows the user to choose to display all items."
+msgstr "限制在書目詳情頁面顯示的館藏筆數有助於減少載入的時間。若應顯示的書目筆數超過此偏好，出現連結允許讀者選擇顯示全部。"
+
+#: ../../source/opacpreferences.rst:878
+msgid "OpacMetaDescription"
+msgstr "OpacMetaDescription"
+
+#: ../../source/opacpreferences.rst:880
+msgid "Asks: This description will show in search engine results (160 characters)."
+msgstr "詢問：此說明將顯示在搜尋引擎結果中（160個字元）。"
+
+#: ../../source/opacpreferences.rst:884
+#, fuzzy
+msgid "This system preference adds functionality to add a meta description tag with content (up to 160 characters). This is used by search engines to add a description to the library in search results."
+msgstr "這個偏好增加了新增元說明標籤內容的功能（最多160個字符）。這被搜尋引擎用來在搜尋結果中為圖書館新增說明。"
+
+#: ../../source/opacpreferences.rst:890
+msgid "OPACMySummaryHTML"
+msgstr "OPACMySummaryHTML"
+
+#: ../../source/opacpreferences.rst:892
+msgid "Asks: Include a \"Links\" column on the \"your summary\" tab when a user is logged in to the OPAC, with the following HTML (leave blank to disable)."
+msgstr "詢問：讀者登入 OPAC 使用以下的 HTML 時 (空白則停用)，在 \"我的摘要\" 分頁裡包括 \"連結\" 欄位。"
+
+#: ../../source/opacpreferences.rst:897
+msgid "In this preference you can enter HTML that will appear on the 'Checked Out' tab on the 'your summary' section when logged in to the OPAC. The placeholders {BIBLIONUMBER}, {TITLE}, {ISBN} and {AUTHOR} will be replaced with information from the displayed record. This can be used to enter in 'share' links for social networks or generate searches against other library catalogs."
+msgstr "從此偏好鍵入的 HTML 將顯示在 OPAC '我的摘要' 區塊內的 '借出' 分頁。原來的 {BIBLIONUMBER}、{TITLE}、{ISBN} 與 {AUTHOR} 都以顯示的記錄取代之。可以放在社交網站或搜尋裡當成 '共享' 連結。"
+
+#: ../../source/opacpreferences.rst:904
+msgid "|image78|"
+msgstr ""
+
+#: ../../source/opacpreferences.rst:906
+msgid "Sample Data:"
+msgstr "範例資料："
+
+#: ../../source/opacpreferences.rst:919
+msgid "OpacNoItemTypeImages"
+msgstr "OpacNoItemTypeImages"
+
+#: ../../source/opacpreferences.rst:921
+#, fuzzy
+msgid "Asks: \\_\\_\\_ itemtype icons in the OPAC."
+msgstr "詢問：在 OPAC \\_\\_\\_ 給讀者看。"
+
+#: ../../source/opacpreferences.rst:923 ../../source/opacpreferences.rst:1340
+#: ../../source/opacpreferences.rst:1505 ../../source/opacpreferences.rst:2441
+#: ../../source/opacpreferences.rst:3506 ../../source/opacpreferences.rst:3719
+msgid "Default: Show"
+msgstr "預設值：顯示"
+
+#: ../../source/opacpreferences.rst:933
+#, fuzzy
+msgid "This system preference allows the system administrator to determine if users will be able to set and see an item type icon in the catalog in the OPAC."
+msgstr "這個偏好允許系統管理員確定使用者是否能夠在館員介面的目錄中設置和查看專案類型圖示。"
+
+#: ../../source/opacpreferences.rst:936
+#, fuzzy
+msgid "If images of item types are disabled, text labels for item types will still appear in the OPAC."
+msgstr "如館藏類型的影像被禁用，館藏類型的文字標籤仍會出現在館員介面。"
+
+#: ../../source/opacpreferences.rst:939
+#, fuzzy
+msgid "The :ref:`noItemTypeImages <noItemTypeImages-label>` system preference is used to show or hide the itemtype images in the staff interface."
+msgstr " :ref:`noItemTypeImages`系統偏好用於顯示或隱藏館員介面中的館藏類型圖片。"
+
+#: ../../source/opacpreferences.rst:945
+msgid "OPACNoResultsFound"
+msgstr "OPACNoResultsFound"
+
+#: ../../source/opacpreferences.rst:947
+msgid "No Default"
+msgstr "無預設值"
+
+#: ../../source/opacpreferences.rst:949
+msgid "Asks: Display this HTML when no results are found for a search in the OPAC"
+msgstr "詢問：在 OPAC 未找到結果時顯示此 HTML"
+
+#: ../../source/opacpreferences.rst:952
+msgid "This HTML will display below the existing notice that no results were found for your search."
+msgstr "搜尋無結果時在現有說明之下顯示此 HTML。"
+
+#: ../../source/opacpreferences.rst:955
+msgid "|image82|"
+msgstr ""
+
+#: ../../source/opacpreferences.rst:959
+msgid "You can insert placeholders {QUERY\\_KW} that will be replaced with the keywords of the query."
+msgstr "可插入 {QUERY\\_KW} 取代詢問的關鍵詞。"
+
+#: ../../source/opacpreferences.rst:965
+msgid "OPACPlayMusicalInscripts"
+msgstr "OPACPlayMusicalInscripts"
+
+#: ../../source/opacpreferences.rst:967
+msgid "Default: Don't play"
+msgstr "預設值：不播放"
+
+#: ../../source/opacpreferences.rst:969
+msgid "Asks: \\_\\_\\_ MIDI representation of musical inscripts on the OPAC record details page."
+msgstr "詢問：在詳情頁面顯示 \\_\\_\\_ MIDI音樂詞譜。"
+
+#: ../../source/opacpreferences.rst:974
+msgid "Don't play"
+msgstr "不播放"
+
+#: ../../source/opacpreferences.rst:976
+msgid "Play"
+msgstr "播放"
+
+#: ../../source/opacpreferences.rst:980
+#, fuzzy
+msgid "This system preference controls whether a short audio clip is available to play when musical inscripts are added to the detailed view of a bibliographic record."
+msgstr "此偏好控制一個可被播放的短的聲音片斷, 當音樂詞譜加入了書目詳頁的記錄中。"
+
+#: ../../source/opacpreferences.rst:986
+#, fuzzy
+msgid "The :ref:`OPACShowMusicalInscripts <OPACShowMusicalInscripts-label>` preference must be set to 'Show' for these clips to display."
+msgstr ":ref:`OPACShowMusicalInscripts`　偏好必需設定為表演這些音樂片段"
+
+#: ../../source/opacpreferences.rst:992
+msgid "OpacPublic"
+msgstr "OpacPublic"
+
+#: ../../source/opacpreferences.rst:994 ../../source/opacpreferences.rst:3839
+msgid "Default: Enable"
+msgstr "預設值：啟用"
+
+#: ../../source/opacpreferences.rst:996
+msgid "Asks: \\_\\_\\_ Koha OPAC as public. Private OPAC requires authentication before accessing the OPAC."
+msgstr "詢問：\\_\\_\\_ Koha OPAC 為公開的。若為私用 OPAC 則需帳號密碼才能使用 OPAC。"
+
+#: ../../source/opacpreferences.rst:1001 ../../source/opacpreferences.rst:1973
+msgid "Don't enable"
+msgstr "停用"
+
+#: ../../source/opacpreferences.rst:1003 ../../source/opacpreferences.rst:1975
+#: ../../source/opacpreferences.rst:3701 ../../source/opacpreferences.rst:3845
+msgid "Enable"
+msgstr "啟用"
+
+#: ../../source/opacpreferences.rst:1007
+#, fuzzy
+msgid "This system preference determines if your OPAC is accessible and searchable by anyone or only by members of the library. If set to 'Don't enable' only members who are logged into the OPAC can search. Most libraries will leave this setting at its default of 'Enable' to allow their OPAC to be searched by anyone and only require login for access to personalized content."
+msgstr "此偏好設定 OPAC 的公開或僅限讀者使用。設定為 '停用' 即限登入的讀者才能使用它。大部份圖書館設定為 '啟用' 讓任何人都可搜尋館藏只在近用個人內容時才需要登入。"
+
+#: ../../source/opacpreferences.rst:1017
+msgid "OPACResultsLibrary"
+msgstr "OPACResultsLibrary"
+
+#: ../../source/opacpreferences.rst:1019
+msgid "Default: home library"
+msgstr "預設值：所屬圖書館"
+
+#: ../../source/opacpreferences.rst:1021
+msgid "Asks: For search results in the OPAC, show the item's \\_\\_\\_. Please note that this feature is currently available for MARC21 and UNIMARC."
+msgstr "詢問：OPAC 的搜尋結果，顯示在館藏的 \\_\\_\\_。此功能只限 MARC21 與 UNIMARC。"
+
+#: ../../source/opacpreferences.rst:1026
+msgid "current location"
+msgstr "現在位置"
+
+#: ../../source/opacpreferences.rst:1033
+#, fuzzy
+msgid "OPACResultsMaxItems"
+msgstr "OPACResultsLibrary"
+
+#: ../../source/opacpreferences.rst:1035
+#, fuzzy
+msgid "Asks: Show no more than \\_\\_\\_ individual (available) items on the OPAC XSLT search results"
+msgstr "詢問：顯示 \\_\\_\\_ 供 OPAC 搜尋館藏之用。"
+
+#: ../../source/opacpreferences.rst:1038
+#, fuzzy
+msgid "Default: 1"
+msgstr "預設值：1|2"
+
+#: ../../source/opacpreferences.rst:1042
+#, fuzzy
+msgid "This system preference is used to limit the number of available items shown in the search results in the OPAC."
+msgstr "這個系統偏好用於限制讀者在一定天數內提出建議的數量。"
+
+#: ../../source/opacpreferences.rst:1045
+msgid "If you show a lot of information in :ref:`OpacItemLocation <opacitemlocation-label>` and have a lot of items, the view can get cluttered or overwhelming for patrons. Use this system preference to show only the information for a limited number of individual items. By default, the details (such as location, call number, etc.) of only one item are displayed in the search results."
+msgstr ""
+
+#: ../../source/opacpreferences.rst:1051
+msgid "Patrons can still click through to the detailed record to see the details of each individual item."
+msgstr ""
+
+#: ../../source/opacpreferences.rst:1054
+#, fuzzy
+msgid "This system preference affects the display for 'available' and 'available for reference' items"
+msgstr "該系統偏好用於指定哪些不外借狀態應顯示為 '可供參考'"
+
+#: ../../source/opacpreferences.rst:1059
+msgid "Statuses that are 'available for reference' are managed in the :ref:`Reference_NFL_Statuses <reference_nfl_statuses-label>`."
+msgstr ""
+
+#: ../../source/opacpreferences.rst:1064
+msgid ":ref:`OPACResultsMaxItemsUnavailable <opacresultsmaxitemsunavailable-label>` does the same as this preference for unavailable items."
+msgstr ""
+
+#: ../../source/opacpreferences.rst:1070
+msgid "OPACResultsMaxItemsUnavailable"
+msgstr ""
+
+#: ../../source/opacpreferences.rst:1072
+msgid "Asks: If OPACResultsUnavailableGroupingBy is set to \"library and substatus\", show no more than \\_\\_\\_ individual (unavailable) items per library and category (like Checked out, Damaged, On hold, etc.)"
+msgstr ""
+
+#: ../../source/opacpreferences.rst:1076 ../../source/opacpreferences.rst:2914
+#: ../../source/opacpreferences.rst:3409
+msgid "Default: 0"
+msgstr "預設值：0"
+
+#: ../../source/opacpreferences.rst:1080
+#, fuzzy
+msgid "This system preference is used to limit the number of unavailable items shown in the search results in the OPAC."
+msgstr "這個系統偏好用於限制讀者在一定天數內提出建議的數量。"
+
+#: ../../source/opacpreferences.rst:1083
+msgid "By default, no individual information (such as location, call number, etc.) is shown for unavailable items."
+msgstr ""
+
+#: ../../source/opacpreferences.rst:1088
+msgid "This preference only works if :ref:`OPACResultsUnavailableGroupingBy <opacresultsunavailablegroupingby-label>` is set to 'library and substatus'."
+msgstr ""
+
+#: ../../source/opacpreferences.rst:1092
+msgid "If :ref:`OPACResultsUnavailableGroupingBy <opacresultsunavailablegroupingby-label>` is set to 'library and substatus', and this preference is set to a value higher than 0, you will see the details specified in :ref:`OpacItemLocation <opacitemlocation-label>` for the number of items set."
+msgstr ""
+
+#: ../../source/opacpreferences.rst:1097
+msgid "If :ref:`OPACResultsUnavailableGroupingBy <opacresultsunavailablegroupingby-label>` is set to 'library only', it will only show the library name with the number of unavailable items for this library in parentheses."
+msgstr ""
+
+#: ../../source/opacpreferences.rst:1101
+msgid "And if :ref:`OPACResultsUnavailableGroupingBy <opacresultsunavailablegroupingby-label>` is set to 'substatus only', it will only show the status ('checked out', 'withdrawn', 'on hold', or 'damaged') with the number of unavailable items with this status in parentheses, across all libraries."
+msgstr ""
+
+#: ../../source/opacpreferences.rst:1109
+#, fuzzy
+msgid "OPACResultsUnavailableGroupingBy"
+msgstr "OPACResultsLibrary"
+
+#: ../../source/opacpreferences.rst:1111
+msgid "Asks: [...] Group unavailable items by \\_\\_\\_."
+msgstr ""
+
+#: ../../source/opacpreferences.rst:1115
+#, fuzzy
+msgid "library and substatus"
+msgstr "預設值: 圖書館及索書號"
+
+#: ../../source/opacpreferences.rst:1117
+#, fuzzy
+msgid "library only"
+msgstr "LibraryName"
+
+#: ../../source/opacpreferences.rst:1119
+msgid "substatus only"
+msgstr ""
+
+#: ../../source/opacpreferences.rst:1121
+#, fuzzy
+msgid "Default: library and substatus"
+msgstr "預設值: 圖書館及索書號"
+
+#: ../../source/opacpreferences.rst:1125
+#, fuzzy
+msgid "This system preference is used to group unavailable items in the OPAC search results."
+msgstr "這個系統偏好控制著OPAC上的 '報告問題' 功能。"
+
+#: ../../source/opacpreferences.rst:1128
+msgid "In this context, 'substatus' refers to the nature of the unavailability (for example, 'Checked out', 'withdrawn', or 'on hold')"
+msgstr ""
+
+#: ../../source/opacpreferences.rst:1131
+msgid "If set to 'library and substatus' the OPAC search results will show the number of items for each substatus in each library."
+msgstr ""
+
+#: ../../source/opacpreferences.rst:1134
+msgid "If :ref:`OPACResultsMaxItemsUnavailable <opacresultsmaxitemsunavailable-label>` is set to a value higher than 0, it will also show the information specified in :ref:`OpacItemLocation <opacitemlocation-label>` for the number of items set in :ref:`OPACResultsMaxItemsUnavailable <opacresultsmaxitemsunavailable-label>`"
+msgstr ""
+
+#: ../../source/opacpreferences.rst:1140
+msgid "If set to 'library only', the OPAC search results will show the number of unavailable items for each library, regardless of their substatus."
+msgstr ""
+
+#: ../../source/opacpreferences.rst:1145 ../../source/opacpreferences.rst:1153
+msgid "This option will disable :ref:`OPACResultsMaxItemsUnavailable <opacresultsmaxitemsunavailable-label>`"
+msgstr ""
+
+#: ../../source/opacpreferences.rst:1148
+msgid "If set to 'substatus only', the OPAC search results will show the number of unavailable items by substatus, across all the libraries."
+msgstr ""
+
+#: ../../source/opacpreferences.rst:1159
+msgid "OPACResultsSidebar"
+msgstr "OPACResultsSidebar"
+
+#: ../../source/opacpreferences.rst:1161
+msgid "Asks: Include the following HTML under the facets in OPAC search results"
+msgstr "詢問：在 OPAC 搜尋結果顯示該等 HTML 內容"
+
+#: ../../source/opacpreferences.rst:1165
+msgid "The HTML entered in this preference will appear on the search results pages below the list of facets on the left side of the screen."
+msgstr "此偏好的 HTML 將顯示在螢幕左側的搜尋結果項下。"
+
+#: ../../source/opacpreferences.rst:1171
+msgid "OPACSearchForTitleIn"
+msgstr "OPACSearchForTitleIn"
+
+#: ../../source/opacpreferences.rst:1173
+msgid "Asks: Include a \"More Searches\" box on the detail pages of items on the OPAC, with the following HTML (leave blank to disable)"
+msgstr "詢問：在 OPAC 詳情頁面的 \"更多搜尋\" 盒裡，加入以下的 HTML (空白則停用)"
+
+#: ../../source/opacpreferences.rst:1176
+#, fuzzy
+msgid "Default::"
+msgstr "預設值："
+
+#: ../../source/opacpreferences.rst:1185
+msgid "Enter search links to other catalogs, these will appear in the 'More searches' option in the detailed record in the OPAC."
+msgstr ""
+
+#: ../../source/opacpreferences.rst:1188
+msgid "|bibmoresearch|"
+msgstr ""
+
+#: ../../source/opacpreferences.rst:1190
+#, fuzzy
+msgid "The placeholders :code:`{BIBLIONUMBER}`, :code:`{CONTROLNUMBER}`, :code:`{OCLC_NO}`, :code:`{TITLE}`, :code:`{ISBN}`, :code:`{ISSN}` and :code:`{AUTHOR}` will be replaced with information from the displayed record."
+msgstr "占位符 {BIBLIONUMBER}、{CONTROLNUMBER}、{TITLE}、{ISBN}、{ISSN} 和 {AUTHOR} 將替換為所顯示記錄中的資訊。"
+
+#: ../../source/opacpreferences.rst:1194
+msgid "To search by OCLC number in Worldcat,"
+msgstr ""
+
+#: ../../source/opacpreferences.rst:1196
+msgid "the record must have the OCLC number in 035$a, with the (OCoLC) prefix, for example::"
+msgstr ""
+
+#: ../../source/opacpreferences.rst:1201
+msgid "the link to add in the preference is::"
+msgstr ""
+
+#: ../../source/opacpreferences.rst:1208
+msgid "OpacSeparateHoldings and OpacSeparateHoldingsBranch"
+msgstr "OpacSeparateHoldings 與 OpacSeparateHoldingsBranch"
+
+#: ../../source/opacpreferences.rst:1210
+msgid "OpacSeparateHoldings default: Don't separate"
+msgstr "OpacSeparateHoldings 預設值：不區隔"
+
+#: ../../source/opacpreferences.rst:1212
+msgid "OpacSeparateHoldingsBranch default: home library"
+msgstr "OpacSeparateHoldingsBranch 預設值：所屬圖書館"
+
+#: ../../source/opacpreferences.rst:1214
+msgid "Asks: \\_\\_\\_ items display into two tabs, where the first tab contains items whose \\_\\_\\_ is the logged in user's library. The second tab will contain all other items."
+msgstr "詢問：\\_\\_\\_ 館藏顯示為兩個分頁，第一分頁包括館藏是 \\_\\_\\_ 登入讀者的圖書館。第二分頁將包括所有的其他館藏。"
+
+#: ../../source/opacpreferences.rst:1218
+msgid "OpacSeparateHoldings values:"
+msgstr "OpacSeparateHoldings 值："
+
+#: ../../source/opacpreferences.rst:1220
+msgid "Don't separate"
+msgstr "不區隔"
+
+#: ../../source/opacpreferences.rst:1222
+msgid "Separate"
+msgstr "區隔"
+
+#: ../../source/opacpreferences.rst:1224
+msgid "OpacSeparateHoldingsBranch values:"
+msgstr "OpacSeparateHoldingsBranch 值："
+
+#: ../../source/opacpreferences.rst:1232
+#, fuzzy
+msgid "This system preference lets you decide if you would like to have the holding information on the bibliographic detail page in the OPAC split in to multiple tabs. The default is to show all holdings on one tab."
+msgstr "此偏好設定OPAC 書目詳情頁面的館藏資料是否拆成多個分頁。預設值是把所有館藏放在同一個分頁內。"
+
+#: ../../source/opacpreferences.rst:1236
+msgid "|image83|"
+msgstr ""
+
+#: ../../source/opacpreferences.rst:1241
+msgid "OPACShowCheckoutName"
+msgstr "OPACShowCheckoutName"
+
+#: ../../source/opacpreferences.rst:1245
+msgid "Asks: \\_\\_\\_ the name of the patron that has an item checked out on item detail pages on the OPAC."
+msgstr "詢問：在 OPAC 的詳情頁面 \\_\\_\\_ 借出館藏讀者的姓名。"
+
+#: ../../source/opacpreferences.rst:1256
+#, fuzzy
+msgid "This system preference allows all patrons to see who has the item checked out if it is checked out. In small corporate libraries (where the OPAC is behind a firewall and not publicly available) this can be helpful so coworkers can just contact the patron with the book themselves. In larger public and academic libraries setting this to 'Show' would pose serious privacy issues."
+msgstr "此偏好讓所有讀者可以看到借出館藏的讀者。在小型的公司行號圖書館裡 (其 OPAC 隱身在防火牆之後不公開) 這種設計有助於同事共享圖書資訊。但在大型公共圖書館或學術圖書館裡把此偏好設為 '顯示' 就有嚴重的隱私權問題。"
+
+#: ../../source/opacpreferences.rst:1266
+msgid "OPACShowHoldQueueDetails"
+msgstr "OPACShowHoldQueueDetails"
+
+#: ../../source/opacpreferences.rst:1268
+msgid "Default: Don't show any hold details"
+msgstr "預設值：不顯示任何預約細節"
+
+#: ../../source/opacpreferences.rst:1270
+msgid "Asks: \\_\\_\\_ to patrons in the OPAC."
+msgstr "詢問：在 OPAC \\_\\_\\_ 給讀者看。"
+
+#: ../../source/opacpreferences.rst:1274
+msgid "Don't show any hold details"
+msgstr "不顯示任何預約細節"
+
+#: ../../source/opacpreferences.rst:1276
+msgid "Show holds"
+msgstr "顯示預約"
+
+#: ../../source/opacpreferences.rst:1278
+msgid "Show holds and their priority level"
+msgstr "顯示預約與優先順位"
+
+#: ../../source/opacpreferences.rst:1280
+msgid "Show priority level"
+msgstr "顯示優先順位"
+
+#: ../../source/opacpreferences.rst:1284
+#, fuzzy
+msgid "This system preference allows you to choose the type of hold information to make available to patrons when logged in to their account on the OPAC. If you select to include hold priority information the list of holds will initially be sorted by priority."
+msgstr "此偏好允許讀者選定預約資訊。若包括預約優先資訊，也會依序顯示。"
+
+#: ../../source/opacpreferences.rst:1292
+msgid "OPACShowMusicalInscripts"
+msgstr "OPACShowMusicalInscripts"
+
+#: ../../source/opacpreferences.rst:1296
+msgid "Asks: \\_\\_\\_ musical inscripts on the OPAC record details page."
+msgstr "詢問：在詳情頁面顯示 \\_\\_\\_ 音樂詞譜。"
+
+#: ../../source/opacpreferences.rst:1306
+#, fuzzy
+msgid "This system preference allows musical inscripts to be displayed in the detailed view of a bibliographic record on the OPAC. MARC data for the inscripts is added to the 031 MARC21 tag of the record. Audio clips can also be displayed if the :ref:`OPACPlayMusicalInscripts <OPACPlayMusicalInscripts-label>` preference set to 'Play'."
+msgstr "此偏好允許樂譜顯示在OPAC的書目詳頁。MARC2.1 資料則是顯示在031段。聲音片斷可被播放，如果 :ref:`OPACPlayMusicalInscripts` 偏好設定為「播放」。"
+
+#: ../../source/opacpreferences.rst:1314
+msgid "OpacShowRecentComments"
+msgstr "OpacShowRecentComments"
+
+#: ../../source/opacpreferences.rst:1318
+msgid "Asks: \\_\\_\\_ a link to recent comments in the OPAC masthead."
+msgstr "詢問：在 OPAC 的標頭 \\_\\_\\_ 最新的評論。"
+
+#: ../../source/opacpreferences.rst:1328
+#, fuzzy
+msgid "If you have chosen to allow comments in your OPAC by setting :ref:`OPACComments <OPACComments-label>` to 'Allow' you can include a link to the recent comments under the search box at the top of your OPAC with this preference."
+msgstr "設定 :ref:`OPACComments` 為 '允許' 就可以檢視 OPAC 上方搜尋盒下的最新評論。"
+
+#: ../../source/opacpreferences.rst:1333
+msgid "|image88|"
+msgstr ""
+
+#: ../../source/opacpreferences.rst:1338
+msgid "OPACShowUnusedAuthorities"
+msgstr "OPACShowUnusedAuthorities"
+
+#: ../../source/opacpreferences.rst:1342
+msgid "Asks: \\_\\_\\_ unused authorities in the OPAC authority browser."
+msgstr "詢問：在 OPAC \\_\\_\\_ 未使用的權威記錄。"
+
+#: ../../source/opacpreferences.rst:1346
+msgid "Do not show"
+msgstr "不顯示"
+
+#: ../../source/opacpreferences.rst:1352
+#, fuzzy
+msgid "Requires that the :ref:`OpacAuthorities <OpacAuthorities-label>` preference is set to 'Allow'"
+msgstr "需將 :ref:`OpacAuthorities` 偏好設為 '允許'"
+
+#: ../../source/opacpreferences.rst:1357
+#, fuzzy
+msgid "When patrons search your authority file via the OPAC they will see all authorities in your system even if you don't have them linked to any bibliographic records. This system preference lets you determine what the default behavior is when searching authorities via the OPAC. If you choose 'Do not show' it will only show patrons authority records that are linked to bibliographic records in the search results. Otherwise the system will show all authority records even if they aren't linked to records."
+msgstr "經由 OPAC 搜尋權威檔案時，即使沒有將權威記錄與書目記錄連結，使用者仍可看到系統內所有的權威記錄。此偏好控制經由 OPAC 搜尋權威檔案時預設的作為。若選擇 '不顯示' 它只顯示連結搜尋結果的權威記錄連結。否則，系統將顯示所有的權威記錄，即使沒有連結至書目記錄。"
+
+#: ../../source/opacpreferences.rst:1369
+msgid "OpacStarRatings"
+msgstr "OpacStarRatings"
+
+#: ../../source/opacpreferences.rst:1371
+msgid "Asks: Show star-ratings on \\_\\_\\_ pages."
+msgstr "詢問：在 \\_\\_\\_ 頁面顯示星級評鑑。"
+
+#: ../../source/opacpreferences.rst:1373
+msgid "Default: no"
+msgstr "預設值：否"
+
+#: ../../source/opacpreferences.rst:1377
+msgid "results, details and patron"
+msgstr "結果、細節和讀者"
+
+#: ../../source/opacpreferences.rst:1379
+msgid "star ratings appear in"
+msgstr "星級評分出現在"
+
+#: ../../source/opacpreferences.rst:1381
+msgid "the results list"
+msgstr "結果清單"
+
+#: ../../source/opacpreferences.rst:1383
+#, fuzzy
+msgid "|opacsearchresults|"
+msgstr "OpacBrowseResults"
+
+#: ../../source/opacpreferences.rst:1385
+msgid "the bibliographic record details page"
+msgstr "書目記錄詳情頁"
+
+#: ../../source/opacpreferences.rst:1387
+msgid "|opacrecorddetails|"
+msgstr ""
+
+#: ../../source/opacpreferences.rst:1389
+msgid "the patron's checkouts list"
+msgstr "讀者的借出清單"
+
+#: ../../source/opacpreferences.rst:1391
+msgid "|yoursummary|"
+msgstr ""
+
+#: ../../source/opacpreferences.rst:1393
+msgid "the patron's checkout history list"
+msgstr "讀者的借出的歷史清單"
+
+#: ../../source/opacpreferences.rst:1395
+msgid "|yourcheckouthistory|"
+msgstr ""
+
+#: ../../source/opacpreferences.rst:1397
+msgid "only details"
+msgstr "只有詳情"
+
+#: ../../source/opacpreferences.rst:1399
+msgid "star ratings appear in the bibliographic record details page"
+msgstr "星級評分出現在書目記錄詳情頁中"
+
+#: ../../source/opacpreferences.rst:1401
+msgid "no"
+msgstr "無"
+
+#: ../../source/opacpreferences.rst:1403
+msgid "star ratings are deactivated"
+msgstr "星級評分被停用"
+
+#: ../../source/opacpreferences.rst:1407
+msgid "Star ratings are a way for your patrons to leave ratings without having to leave a full review."
+msgstr "星級評價是一種讓你的讀者留下評價的方式，而不需要留下完整的評論。"
+
+#: ../../source/opacpreferences.rst:1410
+msgid "Patrons who are not logged in will only be able to see the stars, and the average rating."
+msgstr "沒有登錄的讀者只能看到星評和平均評分。"
+
+#: ../../source/opacpreferences.rst:1413
+msgid "Logged in patrons can click on the stars on the bibliographic record details page, in their current checkouts list or checkout history list to leave their own rating."
+msgstr "已登錄的讀者可以點擊書目記錄詳情頁上的星星，在他們目前的借出清單或借出歷史清單中，留下自己的評價。"
+
+#: ../../source/opacpreferences.rst:1417
+msgid "Clicking on the stars in the search results will not submit a rating."
+msgstr "點擊搜尋結果中的星星不會提交評級。"
+
+#: ../../source/opacpreferences.rst:1422
+msgid "opacthemes"
+msgstr "opacthemes"
+
+#: ../../source/opacpreferences.rst:1426
+msgid "Asks: Use the \\_\\_\\_ theme on the OPAC."
+msgstr "詢問： 在 OPAC 裡，使用 \\_\\_\\_ 主題。"
+
+#: ../../source/opacpreferences.rst:1430
+msgid "bootstrap"
+msgstr "bootstrap"
+
+#: ../../source/opacpreferences.rst:1432
+msgid "Bootstrap Theme"
+msgstr "Bootstrap Theme"
+
+#: ../../source/opacpreferences.rst:1434
+msgid "This theme is completely responsive"
+msgstr "此主題已完成"
+
+#: ../../source/opacpreferences.rst:1439
+msgid "OPACURLOpenInNewWindow"
+msgstr "OPACURLOpenInNewWindow"
+
+#: ../../source/opacpreferences.rst:1441
+msgid "Default: don't"
+msgstr "預設值：不使用"
+
+#: ../../source/opacpreferences.rst:1443
+msgid "Asks: When patrons click on a link to another website from your OPAC (like Amazon or OCLC), \\_\\_\\_ open the website in a new window."
+msgstr "詢問：從 OPAC 點選連結至其他網站(如：博客來或 OCLC)時，\\_\\_\\_ 在新視窗打開它。"
+
+#: ../../source/opacpreferences.rst:1448
+msgid "do"
+msgstr "要"
+
+#: ../../source/opacpreferences.rst:1450
+msgid "don't"
+msgstr "不要"
+
+#: ../../source/opacpreferences.rst:1454
+#, fuzzy
+msgid "This system preference determines if URLs in the OPAC will open in a new window or not. When clicking on a link in the OPAC, a patron does not need to worry about navigating away from their search results."
+msgstr "此偏好讓勾選 OPAC 內的連結時，可在新的視窗開啟外部連結網站。讀者勾選 OPAC 內的連結後，不需擔心如何回到原來的搜尋結果。"
+
+#: ../../source/opacpreferences.rst:1461
+msgid "OPACUserCSS"
+msgstr "OPACUserCSS"
+
+#: ../../source/opacpreferences.rst:1463
+msgid "Asks: Include the following CSS on all pages in the OPAC"
+msgstr "詢問： 在 OPAC 各頁面使用以下的 CSS"
+
+#: ../../source/opacpreferences.rst:1467
+#, fuzzy
+msgid "OPACUserCSS allows the administrator to enter styles that will overwrite the OPAC's default CSS as defined in 'opaclayoutstylesheet' or 'opacstylesheet'. Styles may be entered for any of the selectors found in the default style sheet. The default stylesheet will likely be found at http://your\\_koha\\_address/opac-tmpl/bootstrap/css/opac.css. Unlike :ref:`OpacAdditionalStylesheet <OpacAdditionalStylesheet-label>` and :ref:`opaclayoutstylesheet <opaclayoutstylesheet-label>` this preference will embed the CSS directly on your OPAC pages."
+msgstr "OPACUserCSS 管理者鍵入樣式取代在 'opaclayoutstylesheet' 或 'opacstylesheet' 設定的 OPAC 預設 CSS。可在樣式選單鍵入任何樣式。預設的樣式表在這裡 http://your\\_koha\\_address/opac-tmpl/bootstrap/css/opac.css。不同於 :ref:`OpacAdditionalStylesheet` 及 :ref:`opaclayoutstylesheet` 此偏好將把 CSS 直接納入 OPAC 頁面。"
+
+#: ../../source/opacpreferences.rst:1480
+msgid "OPACUserJS"
+msgstr "OPACUserJS"
+
+#: ../../source/opacpreferences.rst:1482
+msgid "Asks: Include the following JavaScript on all pages in the OPAC"
+msgstr "詢問：在 OPAC 各頁面使用以下的 JavaScript"
+
+#: ../../source/opacpreferences.rst:1484
+msgid "|image91|"
+msgstr ""
+
+#: ../../source/opacpreferences.rst:1486
+msgid "|image92|"
+msgstr ""
+
+#: ../../source/opacpreferences.rst:1488
+msgid "|image93|"
+msgstr ""
+
+#: ../../source/opacpreferences.rst:1492
+#, fuzzy
+msgid "This system preference allows the administrator to enter JavaScript or JQuery that will be embedded across all pages of the OPAC. Administrators may use this preference to customize some of the interactive sections of Koha, customizing the text for the login prompts, for example. Sample JQuery scripts used by Koha libraries can be found on the wiki: http://wiki.koha-community.org/wiki/JQuery_Library."
+msgstr "此偏好允許管理者輸入 JavaScript 或 JQuery 給 OPAC 的所有頁面使用。管理者藉以客製化 Koha 的介面，包括登入提示字元。範例在共筆裡：http://wiki.koha-community.org/wiki/JQuery_Library。"
+
+#: ../../source/opacpreferences.rst:1503
+msgid "OPACUserSummary"
+msgstr "OPACUserSummary"
+
+#: ../../source/opacpreferences.rst:1507
+msgid "Asks: \\_\\_\\_ a summary of a logged in user's checkouts, overdues, holds and fines on the mainpage"
+msgstr "詢問：\\_\\_\\_ 在首頁顯示使用者的借出、逾期、預約與罰款"
+
+#: ../../source/opacpreferences.rst:1511
+msgid "When activated, this preference system replaces the login form on the OPAC main page by a summary when the user is logged in."
+msgstr "啟用後，讀者登入時，本系統偏好取代 OPAC 主頁的登入表單。"
+
+#: ../../source/opacpreferences.rst:1516
+msgid "OPACXSLTDetailsDisplay"
+msgstr "OPACXSLTDetailsDisplay"
+
+#: ../../source/opacpreferences.rst:1518
+msgid "Asks: Display OPAC details using XSLT stylesheet at: \\_\\_\\_"
+msgstr "詢問：以 \\_\\_\\_ 的 XSLT 樣式表顯示 OPAC 詳情"
+
+#: ../../source/opacpreferences.rst:1520 ../../source/opacpreferences.rst:1575
+#: ../../source/opacpreferences.rst:1628
+msgid "Default: default"
+msgstr "預設：預設值"
+
+#: ../../source/opacpreferences.rst:1524 ../../source/opacpreferences.rst:1579
+#: ../../source/opacpreferences.rst:1632
+msgid "Enter \"default\" to use the default stylesheet"
+msgstr "輸入 \"預設\" 來使用預設的樣式表"
+
+#: ../../source/opacpreferences.rst:1528 ../../source/opacpreferences.rst:1583
+#: ../../source/opacpreferences.rst:1636
+msgid "For example, /path/to/koha/and/your/stylesheet.xsl"
+msgstr "例如，/path/to/koha/and/your/stylesheet.xsl"
+
+#: ../../source/opacpreferences.rst:1530 ../../source/opacpreferences.rst:1585
+#: ../../source/opacpreferences.rst:1638
+msgid "In a multi-language system you can enter {langcode} in the path to tell Koha to look in the right language folder"
+msgstr "在多語系環境下可在路徑裡輸入 {langcode} 告知 Koha 取用正確的資料夾"
+
+#: ../../source/opacpreferences.rst:1533
+msgid "For example, /home/koha/src/koha-tmpl/opac-tmpl/bootstrap/{langcode}/xslt/MARC21slim2OPACDetail.xsl"
+msgstr "例如，/home/koha/src/koha-tmpl/opac-tmpl/bootstrap/{langcode}/xslt/MARC21slim2OPACDetail.xsl"
+
+#: ../../source/opacpreferences.rst:1536 ../../source/opacpreferences.rst:1591
+#: ../../source/opacpreferences.rst:1644
+msgid "For example, http://mykohaopac.org/{langcode}/stylesheet.xsl"
+msgstr "例如，http://mykohaopac.org/{langcode}/stylesheet.xsl"
+
+#: ../../source/opacpreferences.rst:1544
+#, fuzzy
+msgid "XSLT stylesheets allow for the customization of the details shows on the screen when viewing a bibliographic record. This system preference will allow you either use the default look that comes with Koha or design your own stylesheet."
+msgstr "XSLT 樣式表允許客製化檢視書目記錄詳情。此偏好允許您使用 Koha 的預設值或設計自己的樣式表。"
+
+#: ../../source/opacpreferences.rst:1549
+msgid "This system preference controls the display of the detailed bibliographic record in the OPAC."
+msgstr "該系統偏好控制OPAC中詳細書目記錄的顯示。"
+
+#: ../../source/opacpreferences.rst:1552 ../../source/opacpreferences.rst:1607
+#: ../../source/opacpreferences.rst:1660
+#, fuzzy
+msgid "If using a custom stylesheet that uses item MARC fields, enable the :ref:`PassItemMarcToXSLT <PassItemMarcToXSLT-label>` system preference. Otherwise, item fields are not available for use in XSLT stylesheets."
+msgstr "如果使用一個館藏MARC欄位的自定義樣式表，請啟用 :ref:`PassItemMarcToXSLT`系統偏好。否則，館藏欄位不能在XSLT樣式表中使用。"
+
+#: ../../source/opacpreferences.rst:1562
+#, fuzzy
+msgid ":ref:`XSLTDetailsDisplay <XSLTDetailsDisplay-label>`"
+msgstr ":ref:`XSLTDetailsDisplay`"
+
+#: ../../source/opacpreferences.rst:1564 ../../source/opacpreferences.rst:1672
+#, fuzzy
+msgid ":ref:`DisplayOPACiconsXSLT <DisplayOPACiconsXSLT-label>`"
+msgstr ":ref:`DisplayOPACiconsXSLT`"
+
+#: ../../source/opacpreferences.rst:1566 ../../source/opacpreferences.rst:1619
+#: ../../source/opacpreferences.rst:1674
+#, fuzzy
+msgid ":ref:`PassItemMarcToXSLT <PassItemMarcToXSLT-label>`"
+msgstr ":ref:`PassItemMarcToXSLT`"
+
+#: ../../source/opacpreferences.rst:1571
+msgid "OPACXSLTListsDisplay"
+msgstr "OPACXSLTListsDisplay"
+
+#: ../../source/opacpreferences.rst:1573
+msgid "Asks: Display lists in the OPAC using XSLT stylesheet at: \\_\\_\\_"
+msgstr "詢問：在 OPAC 的結果頁面使用 \\_\\_\\_ 做為 XSLT 樣式表"
+
+#: ../../source/opacpreferences.rst:1588 ../../source/opacpreferences.rst:1641
+msgid "For example, /home/koha/src/koha-tmpl/opac-tmpl/bootstrap/{langcode}/xslt/MARC21slim2OPACResults.xsl"
+msgstr "例如，/home/koha/src/koha-tmpl/opac-tmpl/bootstrap/{langcode}/xslt/MARC21slim2OPACResults.xsl"
+
+#: ../../source/opacpreferences.rst:1599
+#, fuzzy
+msgid "XSLT stylesheets allow for the customization of the details shows on the screen when viewing lists. This system preference will allow you either use the default look that comes with Koha or design your own stylesheet."
+msgstr "XSLT 樣式表允許客製化檢視書目記錄詳情。此偏好允許您使用 Koha 的預設值或設計自己的樣式表。"
+
+#: ../../source/opacpreferences.rst:1604
+msgid "This system preference controls the display of the records in a :ref:`list <lists-label>` in the OPAC."
+msgstr "這個系統偏好控制OPAC中a :ref:`清單 <lists-label>`的記錄顯示。"
+
+#: ../../source/opacpreferences.rst:1617
+#, fuzzy
+msgid ":ref:`XSLTListsDisplay <XSLTListsDisplay-label>`"
+msgstr ":ref:`XSLTListsDisplay`"
+
+#: ../../source/opacpreferences.rst:1624
+msgid "OPACXSLTResultsDisplay"
+msgstr "OPACXSLTResultsDisplay"
+
+#: ../../source/opacpreferences.rst:1626
+msgid "Asks: Display OPAC results using XSLT stylesheet at \\_\\_\\_"
+msgstr "詢問：顯示 OPAC 結果時使用 \\_\\_\\_ 的 XSLT 樣式表"
+
+#: ../../source/opacpreferences.rst:1652
+#, fuzzy
+msgid "XSLT stylesheets allow for the customization of the details shows on the screen when viewing the search results. This system preference will allow you either use the default look that comes with Koha or design your own stylesheet."
+msgstr "XSLT 樣式表允許客製化檢視搜尋結果的詳情。此偏好允許您使用 Koha 的預設值或設計自己的樣式表。"
+
+#: ../../source/opacpreferences.rst:1657
+msgid "This system preference controls the display of the records in the :ref:`search results <search-results-label>` in the OPAC."
+msgstr "這個系統偏好控制著OPAC中 :ref:`搜尋結果<search-results-label>`中的記錄顯示。"
+
+#: ../../source/opacpreferences.rst:1670
+#, fuzzy
+msgid ":ref:`XSLTResultsDisplay <XSLTResultsDisplay-label>`"
+msgstr ":ref:`XSLTResultsDisplay`"
+
+#: ../../source/opacpreferences.rst:1679
+msgid "Reference_NFL_Statuses"
+msgstr "參考資源_NFL_狀態"
+
+#: ../../source/opacpreferences.rst:1681
+msgid "Asks: List the following not for loan statuses as available for reference in OPAC search results: \\_\\_\\_"
+msgstr "要求：在OPAC搜尋結果中列出以下可供參考的非借出狀態。 \\_\\_\\_"
+
+#: ../../source/opacpreferences.rst:1684
+msgid "Default: 1|2"
+msgstr "預設值：1|2"
+
+#: ../../source/opacpreferences.rst:1688
+msgid "This system preference is used to specify which not for loan statuses should appear as 'Available for reference'"
+msgstr "該系統偏好用於指定哪些不外借狀態應顯示為 '可供參考'"
+
+#: ../../source/opacpreferences.rst:1691
+#, fuzzy
+msgid "|Reference_NFL_Statuses-Available-for-reference|"
+msgstr "參考資源_NFL_狀態"
+
+#: ../../source/opacpreferences.rst:1693
+msgid "When the not for loan status is in the Reference\\_NFL\\_Statuses list, it will appear as 'Available for reference' in green text in the OPAC."
+msgstr "當非借出狀態出現在 Reference\\_NFL\\_Statuses 清單中時，它將在OPAC中以綠色文字顯示 '可供參考'。"
+
+#: ../../source/opacpreferences.rst:1696
+msgid "The other not for loan statuses will appear as 'Not available'"
+msgstr "其不外借狀態將顯示為 '不可用'"
+
+#: ../../source/opacpreferences.rst:1698
+#, fuzzy
+msgid "|Reference_NFL_Statuses-Not-available|"
+msgstr "參考資源_NFL_狀態"
+
+#: ../../source/opacpreferences.rst:1700
+msgid "When the not for loan status is NOT in the Reference\\_NFL\\_Statuses list, it will appear as 'Not available' in red text in the OPAC."
+msgstr "當不外借狀態不在Reference\\_NFL\\_Statuses 清單中時，它將在OPAC中以紅色文字顯示為 '不可用'。"
+
+#: ../../source/opacpreferences.rst:1703
+msgid "The values for the not for loan statuses are found in the NOT\\_LOAN :ref:`authorized value category<existing-values-label>`."
+msgstr "不外借的值在NOT\\_LOAN :ref:`容許值類別<existing-values-label>`中找到。"
+
+#: ../../source/opacpreferences.rst:1706
+msgid "Values must be separated by a pipe (|)."
+msgstr "值必須用豎線 （|） 分隔。"
+
+#: ../../source/opacpreferences.rst:1711
+msgid "Features"
+msgstr "特色"
+
+#: ../../source/opacpreferences.rst:1716
+msgid "numSearchRSSResults"
+msgstr "numSearchRSSResults"
+
+#: ../../source/opacpreferences.rst:1720
+msgid "Asks: Display \\_\\_\\_ search results in the RSS feed."
+msgstr "詢問： 在 RSS 裡，顯示 \\_\\_\\_ 筆搜尋結果。"
+
+#: ../../source/opacpreferences.rst:1724
+#, fuzzy
+msgid "By default the RSS feed that is automatically generated for every search results page will list 50 items. This can sometimes be too much for some RSS feed readers and for some people this isn't enough. This system preference allows you to adjust this number to show the best number of results for your patrons."
+msgstr "預設的 RSS 對每個搜尋結果頁面列出 50 個館藏。對某些讀者這個值太多可是對其他讀者又嫌少。此偏好允許您調整此數值至最佳的狀態。"
+
+#: ../../source/opacpreferences.rst:1733
+msgid "OPACAcquisitionDetails"
+msgstr "OPACAcquisitionDetails"
+
+#: ../../source/opacpreferences.rst:1735
+msgid "Asks: \\_\\_\\_ the acquisition details on OPAC detail pages."
+msgstr "詢問：\\_\\_\\_ OPAC 詳情頁面的採訪詳情。"
+
+#: ../../source/opacpreferences.rst:1747
+#, fuzzy
+msgid "If set to 'Show' this preference shows patrons how many items are on order in the Holdings tab of the detailed record in the OPAC."
+msgstr "若設定 :ref:`AcqCreateItem` 偏好為 '編目記錄' 則此偏好顯示讀者在預約分頁的預約館藏"
+
+#: ../../source/opacpreferences.rst:1750
+#, fuzzy
+msgid "|OPACAcquisitionDetails|"
+msgstr "OPACAcquisitionDetails"
+
+#: ../../source/opacpreferences.rst:1752
+msgid "If the items are created when placing the order, it will show how many items are on order and the individual items will have an 'On order' note under the status."
+msgstr ""
+
+#: ../../source/opacpreferences.rst:1756
+msgid "If the item is created when receiving the order, or when cataloging the record, it will only show how many items are on order."
+msgstr ""
+
+#: ../../source/opacpreferences.rst:1759
+msgid "If set to \"Don't show\", the holdings tab will say \"No physical items for this record\" if the items are created on receiving or when cataloging the record. Items will be displayed without any special note if they are created when placing the order."
+msgstr ""
+
+#: ../../source/opacpreferences.rst:1766
+msgid "Note that items are considered ordered when the :ref:`basket is closed <ordering-closing-basket-label>`. This preference has no effect while the basket is still open."
+msgstr ""
+
+#: ../../source/opacpreferences.rst:1773
+#, fuzzy
+msgid "OPACAuthorIdentifiers"
+msgstr "OpacAuthorities"
+
+#: ../../source/opacpreferences.rst:1775
+#, fuzzy
+msgid "Asks: \\_\\_\\_ identifiers for authors and contributors to the detail pages in the OPAC."
+msgstr "詢問：在 OPAC 的詳情頁面 \\_\\_\\_ 借出館藏讀者的姓名。"
+
+#: ../../source/opacpreferences.rst:1780
+msgid "Display"
+msgstr "顯示"
+
+#: ../../source/opacpreferences.rst:1782
+msgid "Don't display"
+msgstr "不顯示"
+
+#: ../../source/opacpreferences.rst:1784
+msgid "Default: Don't display"
+msgstr "預設值：不顯示"
+
+#: ../../source/opacpreferences.rst:1788
+#, fuzzy
+msgid "This is currently only available for MARC21."
+msgstr "只適用於 MARC21。"
+
+#: ../../source/opacpreferences.rst:1792
+msgid "This system preference is used to display an 'Author identifiers' tab in the OPAC bibliographic record details page that contains the authors' identifier numbers with a link to the author's record on the source website."
+msgstr ""
+
+#: ../../source/opacpreferences.rst:1796
+#, fuzzy
+msgid "|authoridentifiersopac|"
+msgstr "OpacAuthorities"
+
+#: ../../source/opacpreferences.rst:1798
+msgid "In order to have the IDs display, the authors' authority records must have identifying information in 024."
+msgstr ""
+
+#: ../../source/opacpreferences.rst:1801
+msgid "|authority024|"
+msgstr ""
+
+#: ../../source/opacpreferences.rst:1803
+msgid "Subfield 2 must contain the source of the identifier."
+msgstr ""
+
+#: ../../source/opacpreferences.rst:1807
+msgid "Valid source codes in $2 are currently:"
+msgstr ""
+
+#: ../../source/opacpreferences.rst:1809
+msgid "loop"
+msgstr ""
+
+#: ../../source/opacpreferences.rst:1811
+msgid "orcid"
+msgstr ""
+
+#: ../../source/opacpreferences.rst:1813
+msgid "rid"
+msgstr ""
+
+#: ../../source/opacpreferences.rst:1815
+msgid "scopus"
+msgstr ""
+
+#: ../../source/opacpreferences.rst:1817
+msgid "viaf"
+msgstr ""
+
+#: ../../source/opacpreferences.rst:1819
+msgid "Subfield a must contain the identifier"
+msgstr ""
+
+#: ../../source/opacpreferences.rst:1824
+msgid "OpacAuthorities"
+msgstr "OpacAuthorities"
+
+#: ../../source/opacpreferences.rst:1826 ../../source/opacpreferences.rst:1852
+#: ../../source/opacpreferences.rst:1989 ../../source/opacpreferences.rst:2095
+#: ../../source/opacpreferences.rst:2170 ../../source/opacpreferences.rst:2312
+#: ../../source/opacpreferences.rst:2353 ../../source/opacpreferences.rst:2372
+#: ../../source/opacpreferences.rst:2640 ../../source/opacpreferences.rst:2804
+#: ../../source/opacpreferences.rst:3010 ../../source/opacpreferences.rst:3142
+msgid "Default: Allow"
+msgstr "預設值：允許"
+
+#: ../../source/opacpreferences.rst:1828
+msgid "Asks: \\_\\_\\_ patrons to search your authority records."
+msgstr "詢問：\\_\\_\\_ 讀者搜尋您的權威記錄。"
+
+#: ../../source/opacpreferences.rst:1832
+#, fuzzy
+msgid "This system preference displays the link on the OPAC for the authority search. By setting the preference to \"Allow\" patrons can use this search link of the OPAC."
+msgstr "此偏好在 OPAC 顯示權威搜尋連結。設定此偏好 \"允許\" 讀者使用 OPAC 的這個搜尋連結。"
+
+#: ../../source/opacpreferences.rst:1838 ../../source/opacpreferences.rst:1858
+#: ../../source/opacpreferences.rst:1885 ../../source/opacpreferences.rst:1926
+#: ../../source/opacpreferences.rst:1996 ../../source/opacpreferences.rst:2013
+#: ../../source/opacpreferences.rst:2101 ../../source/opacpreferences.rst:2176
+#: ../../source/opacpreferences.rst:2285 ../../source/opacpreferences.rst:2318
+#: ../../source/opacpreferences.rst:2359 ../../source/opacpreferences.rst:2376
+#: ../../source/opacpreferences.rst:2522 ../../source/opacpreferences.rst:2646
+#: ../../source/opacpreferences.rst:2673 ../../source/opacpreferences.rst:2810
+#: ../../source/opacpreferences.rst:2896 ../../source/opacpreferences.rst:2960
+#: ../../source/opacpreferences.rst:2987 ../../source/opacpreferences.rst:3146
+#: ../../source/opacpreferences.rst:3217 ../../source/opacpreferences.rst:3615
+msgid "Allow"
+msgstr "允許"
+
+#: ../../source/opacpreferences.rst:1840
+msgid "A link labeled 'Authority search' will appear at the top of your OPAC under the search box"
+msgstr "標示為 '權威搜尋' 的連結將顯示在 OPAC 上方位於搜尋盒之下"
+
+#: ../../source/opacpreferences.rst:1843
+msgid "|image94|"
+msgstr ""
+
+#: ../../source/opacpreferences.rst:1845 ../../source/opacpreferences.rst:1860
+#: ../../source/opacpreferences.rst:1887 ../../source/opacpreferences.rst:1928
+#: ../../source/opacpreferences.rst:2000 ../../source/opacpreferences.rst:2105
+#: ../../source/opacpreferences.rst:2174 ../../source/opacpreferences.rst:2291
+#: ../../source/opacpreferences.rst:2320 ../../source/opacpreferences.rst:2363
+#: ../../source/opacpreferences.rst:2383 ../../source/opacpreferences.rst:2524
+#: ../../source/opacpreferences.rst:2648 ../../source/opacpreferences.rst:2675
+#: ../../source/opacpreferences.rst:2814 ../../source/opacpreferences.rst:2898
+#: ../../source/opacpreferences.rst:2962 ../../source/opacpreferences.rst:2989
+#: ../../source/opacpreferences.rst:3150 ../../source/opacpreferences.rst:3219
+#: ../../source/opacpreferences.rst:3617
+msgid "Don't allow"
+msgstr "不允許"
+
+#: ../../source/opacpreferences.rst:1850
+msgid "opacbookbag"
+msgstr "opacbookbag"
+
+#: ../../source/opacpreferences.rst:1854
+msgid "Asks: \\_\\_\\_ patrons to store items in a temporary \"Cart\" on the OPAC."
+msgstr "詢問：\\_\\_\\_ 讀者將找到的館藏暫存於 OPAC 的 \"書目清單\"。"
+
+#: ../../source/opacpreferences.rst:1864
+#, fuzzy
+msgid "This system preference allows the user to temporarily save a list of items found on the catalog. By using the book bag, or cart, the user can print out or email a list of items found. The user does not need to be logged in. This list is temporary and will be emptied, or cleared, at the end of the session."
+msgstr "此偏好允許讀者暫時儲存從目錄找到的館藏。使用書袋，或借出籃，讀者可以把這些館藏列印或郵寄出去。不需要登錄。借出籃是暫時的，只要離開就會清除。"
+
+#: ../../source/opacpreferences.rst:1873
+msgid "OpacBrowser"
+msgstr "OpacBrowser"
+
+#: ../../source/opacpreferences.rst:1877
+#, fuzzy
+msgid "This system preference only applies to installations using UNIMARC at this time."
+msgstr "此偏好只適用於安裝在 UNIMARC 環境。"
+
+#: ../../source/opacpreferences.rst:1879 ../../source/opacpreferences.rst:1930
+#: ../../source/opacpreferences.rst:2278 ../../source/opacpreferences.rst:2669
+#: ../../source/opacpreferences.rst:2889 ../../source/opacpreferences.rst:2956
+#: ../../source/opacpreferences.rst:2974 ../../source/opacpreferences.rst:3213
+#: ../../source/opacpreferences.rst:3611
+msgid "Default: Don't allow"
+msgstr "預設：不允許"
+
+#: ../../source/opacpreferences.rst:1881
+msgid "Asks: \\_\\_\\_ patrons to browse subject authorities on OPAC"
+msgstr "詢問：\\_\\_\\_ 讀者在 OPAC 瀏覽主題權威"
+
+#: ../../source/opacpreferences.rst:1891 ../../source/opacpreferences.rst:1958
+msgid "run the :ref:`authorities browser cron job <cron-authorities-browser-label>` to create the browser list"
+msgstr "必須執行 :ref:`權威瀏覽工作排程 <cron-authorities-browser-label>` 才能新增瀏覽清單"
+
+#: ../../source/opacpreferences.rst:1897
+msgid "OpacBrowseResults"
+msgstr "OpacBrowseResults"
+
+#: ../../source/opacpreferences.rst:1899
+msgid "Default: enable"
+msgstr "預設值：啟用"
+
+#: ../../source/opacpreferences.rst:1901
+msgid "Asks: \\_\\_\\_ browsing and paging search results from the OPAC detail page."
+msgstr "詢問：\\_\\_\\_ OPAC 詳情頁面的瀏覽與搜尋結果。"
+
+#: ../../source/opacpreferences.rst:1906
+msgid "disable"
+msgstr "停用"
+
+#: ../../source/opacpreferences.rst:1908
+msgid "enable"
+msgstr "啟用"
+
+#: ../../source/opacpreferences.rst:1910
+msgid "|image95|"
+msgstr ""
+
+#: ../../source/opacpreferences.rst:1914
+#, fuzzy
+msgid "This system preference will control the option to return to your results and/or browse them from the detail page in the OPAC."
+msgstr "此偏好控制從 OPAC 詳情頁面返回搜尋結果並瀏覽它們的功能。"
+
+#: ../../source/opacpreferences.rst:1920
+msgid "OpacCatalogConcerns"
+msgstr ""
+
+#: ../../source/opacpreferences.rst:1922
+#, fuzzy
+msgid "Asks: \\_\\_\\_ OPAC users to report concerns about catalog records."
+msgstr "詢問：\\_\\_\\_ 讀者搜尋您的權威記錄。"
+
+#: ../../source/opacpreferences.rst:1934
+#, fuzzy
+msgid "This system preference is used to turn on the :ref:`concern reporting feature in the OPAC <report-concern-opac-label>`."
+msgstr "此系統偏好確定是否允許顧客查看他們 :ref:`在 OPAC 上保存的歷史記錄<your-holds-history-label>`。"
+
+#: ../../source/opacpreferences.rst:1940
+msgid "OpacCloud"
+msgstr "OpacCloud"
+
+#: ../../source/opacpreferences.rst:1944
+#, fuzzy
+msgid "This system preference only applies to French systems at this time."
+msgstr "此偏好只適用於法文系統。"
+
+#: ../../source/opacpreferences.rst:1948
+msgid "Asks: \\_\\_\\_ a subject cloud on OPAC"
+msgstr "詢問：\\_\\_\\_ OPAC 的主題雲"
+
+#: ../../source/opacpreferences.rst:1964
+msgid "OPACDetailQRCode"
+msgstr "OPACPatronDetails"
+
+#: ../../source/opacpreferences.rst:1966
+msgid "Default: Don't enable"
+msgstr "預設值: 不啟用"
+
+#: ../../source/opacpreferences.rst:1968
+msgid "Asks: \\_\\_\\_ the option to show a QR Code on the OPAC bibliographic detail page."
+msgstr "詢問：\\_\\_\\_ 選項展示QR Code在OPAC的書目詳頁。"
+
+#: ../../source/opacpreferences.rst:1979
+#, fuzzy
+msgid "With this preference enabled a new option 'Send to device' displays in the list of options on the OPAC details page. When this link is clicked a QR code will be displayed which can be scanned using a compatible device in order to save the bibliographic details to that device."
+msgstr "啟用這個偏好會出現新的選項 '寄至裝置' 顯示在OPAC書目詳頁的選項列表中。當點選這個連結，一個QR Code會顯示而可以使用相容的設備掃瞄以便儲存書目詳細資料至該裝置。"
+
+#: ../../source/opacpreferences.rst:1987
+msgid "OPACFinesTab"
+msgstr "OPACFinesTab"
+
+#: ../../source/opacpreferences.rst:1991
+msgid "Asks: \\_\\_\\_ patrons to access the Fines tab on the 'your summary' page on the OPAC."
+msgstr "詢問：\\_\\_\\_ 讀者從 OPAC 的 '摘要' 頁面近用至罰款分頁。"
+
+#: ../../source/opacpreferences.rst:1998 ../../source/opacpreferences.rst:2103
+#: ../../source/opacpreferences.rst:2361 ../../source/opacpreferences.rst:2812
+#: ../../source/opacpreferences.rst:2877 ../../source/opacpreferences.rst:3148
+#, fuzzy
+msgid ":ref:`opacuserlogin <opacuserlogin-label>` needs to be set to 'allow'"
+msgstr "必須將 :ref:`opacuserlogin` 設為 '允許'"
+
+#: ../../source/opacpreferences.rst:2005
+msgid "OpacHoldNotes"
+msgstr "OpacHoldNotes"
+
+#: ../../source/opacpreferences.rst:2007
+msgid "Default: Do not allow"
+msgstr "預設值：不允許"
+
+#: ../../source/opacpreferences.rst:2009
+msgid "Asks: \\_\\_\\_ users to add a note when placing a hold."
+msgstr "詢問：\\_\\_\\_ 讀者預約時新增說明。"
+
+#: ../../source/opacpreferences.rst:2015
+msgid "|image96|"
+msgstr ""
+
+#: ../../source/opacpreferences.rst:2017
+msgid "Do not allow"
+msgstr "不允許"
+
+#: ../../source/opacpreferences.rst:2022
+msgid "OPACISBD"
+msgstr "OPACISBD"
+
+#: ../../source/opacpreferences.rst:2024
+msgid "Default: See `ISBD view configuration <https://wiki.koha-community.org/wiki/ISBD_view_configuration>` on the wiki."
+msgstr "預設：見共筆的`ISBD 檢視組態 <https://wiki.koha-community.org/wiki/ISBD_view_configuration>`。"
+
+#: ../../source/opacpreferences.rst:2027
+msgid "Asks: Use the following as the OPAC ISBD template:"
+msgstr "詢問：使用以下的 OPAC ISBD 模版："
+
+#: ../../source/opacpreferences.rst:2031
+msgid "This determines how the ISBD information will display in the OPAC. Elements in the list can be reordered to produce a different ISBD view. ISBD, the International Standard Bibliographic Description, was first introduced by IFLA (International Federation of Library Associations) in 1969 in order to provide guidelines for descriptive cataloging. The purpose of ISBD is to aid the international exchange of bibliographic records for a variety of materials."
+msgstr "此設定決定在 OPAC 顯示 ISBD 資訊的方式。在此清單內的細目可以用不同的 ISBD 方式呈現。ISBD 全稱是 International Standard Bibliographic Description 譯名是國際書目著錄標準，1969年由國際圖書館協會聯合會 (International Federation of Library Associations, IFLA) 首次發佈做為敘述編目的指南。ISBD 的目的是協助不同類型的書目資料在國際間交換。"
+
+#: ../../source/opacpreferences.rst:2042
+msgid "OpacItemLocation"
+msgstr "OpacItemLocation"
+
+#: ../../source/opacpreferences.rst:2044
+msgid "Asks: Show \\_\\_\\_ for items on the OPAC search results."
+msgstr "詢問：顯示 \\_\\_\\_ 供 OPAC 搜尋館藏之用。"
+
+#: ../../source/opacpreferences.rst:2046
+msgid "Default: library and call number"
+msgstr "預設值: 圖書館及索書號"
+
+#: ../../source/opacpreferences.rst:2050
+msgid "library and call number"
+msgstr "圖書館及索書號"
+
+#: ../../source/opacpreferences.rst:2052
+msgid "library, collection code, and call number"
+msgstr "圖書館, 收藏代碼以及索書號"
+
+#: ../../source/opacpreferences.rst:2054
+msgid "only library"
+msgstr "僅限圖書館"
+
+#: ../../source/opacpreferences.rst:2056
+msgid "library, location, and call number"
+msgstr "圖書館, 位置以及索書號"
+
+#: ../../source/opacpreferences.rst:2060
+msgid "This setting allows users of the OPAC results XSLT stylesheet to choose to display collection code or location in addition to library and call number."
+msgstr "此設定允許OPAC results XSLT樣式表的讀者可以選擇展示收藏代碼或圖書館的位置及索書號."
+
+#: ../../source/opacpreferences.rst:2067
+msgid "OpacNewsLibrarySelect"
+msgstr "OpacNewsLibrarySelect"
+
+#: ../../source/opacpreferences.rst:2069
+#, fuzzy
+msgid "Asks: \\_\\_\\_ a library selection list for news items in the OPAC."
+msgstr "詢問：在 OPAC \\_\\_\\_ 館藏的其他版本。"
+
+#: ../../source/opacpreferences.rst:2081
+msgid "If set to 'Show' a dropdown menu will be displayed above the news in the OPAC so that patrons can choose which library they want to see the news from."
+msgstr ""
+
+#: ../../source/opacpreferences.rst:2084
+#, fuzzy
+msgid "|OpacNewsLibrarySelect|"
+msgstr "OpacNewsLibrarySelect"
+
+#: ../../source/opacpreferences.rst:2086
+msgid "If set to \"Don't show\", unlogged OPAC users will only see system-wide news (news set to 'All libraries') and logged in users will see news for their home library and system-wide news."
+msgstr ""
+
+#: ../../source/opacpreferences.rst:2093
+msgid "OpacPasswordChange"
+msgstr "OpacPasswordChange"
+
+#: ../../source/opacpreferences.rst:2097
+msgid "Asks: \\_\\_\\_ patrons to change their own password on the OPAC."
+msgstr "詢問：\\_\\_\\_ 讀者由 OPAC 更改其密碼。"
+
+#: ../../source/opacpreferences.rst:2109
+msgid "Enabling this will break LDAP authentication."
+msgstr "啟用此功能將打破 LDAP 認證。"
+
+#: ../../source/opacpreferences.rst:2114
+msgid "OPACpatronimages"
+msgstr "OPACpatronimages"
+
+#: ../../source/opacpreferences.rst:2118
+msgid "Asks: \\_\\_\\_ patron images on the patron information page in the OPAC."
+msgstr "詢問：\\_\\_\\_ 讀者照片於 OPAC 的讀者資訊頁面。"
+
+#: ../../source/opacpreferences.rst:2128
+#, fuzzy
+msgid "If :ref:`patronimages <patronimages-label>` is set to allow the upload of patron images via the staff interface, then setting this preference to 'show' will show the patron what image you have on file for them when they view their personal information on their account in the OPAC."
+msgstr "若將 :ref:`patronimages` 設為允許經由館員介面上傳讀者照片，設定此偏好為 '允許' 讀者登入 OPAC 後將顯示該讀者的照片。"
+
+#: ../../source/opacpreferences.rst:2136
+msgid "OPACPopupAuthorsSearch"
+msgstr "OPACPopupAuthorsSearch"
+
+#: ../../source/opacpreferences.rst:2138
+msgid "Asks: \\_\\_\\_ the list of authors/subjects in a popup for a combined search on OPAC detail pages."
+msgstr "詢問：在 OPAC 詳情頁面的組合搜尋 \\_\\_\\_ 著者/主題清單。"
+
+#: ../../source/opacpreferences.rst:2151
+#, fuzzy
+msgid "If this preference is set to 'Show', clicking a subject or author from the details page in the OPAC will present the patron with a pop up box. From this box they can check any of the subjects or authors listed and search them all at once by clicking 'Search' at the bottom of the pop up."
+msgstr "此偏好設為 '顯示' 時從 OPAC 詳情頁面點選主題或著者將在彈出的搜尋盒。從此搜尋盒您可選擇列出的主題或著者按下方的 '搜尋' 鈕就能立即搜尋它們。預設是只搜尋被點選的著者或主題。"
+
+#: ../../source/opacpreferences.rst:2157
+#, fuzzy
+msgid "|OPACPopupAuthorsSearch|"
+msgstr "OPACPopupAuthorsSearch"
+
+#: ../../source/opacpreferences.rst:2159
+msgid "If this preference is set to \"Don't show\", the default behavior, Koha will search just the clicked author or subject."
+msgstr ""
+
+#: ../../source/opacpreferences.rst:2165
+#, fuzzy
+msgid "OPACReportProblem"
+msgstr "OpacReportProblem"
+
+#: ../../source/opacpreferences.rst:2167
+msgid "Asks: \\_\\_\\_ patrons to submit problem reports for OPAC pages to the library or Koha administrator."
+msgstr "要求: \\_\\_\\_讀者將OPAC頁面的問題報表提交給圖書館或Koha管理員。"
+
+#: ../../source/opacpreferences.rst:2180
+#, fuzzy
+msgid "This system preference controls the :ref:`'Report a problem' feature on the OPAC <opac-report-problem-label>`, which enables patrons to send problem reports from the OPAC."
+msgstr "這個系統偏好控制著OPAC上的 '報告問題' 功能。"
+
+#: ../../source/opacpreferences.rst:2184
+#, fuzzy
+msgid "Problem reports are sent by email to the address in :ref:`KohaAdminEmailAddress <KohaAdminEmailAddress-label>` or to the :ref:`library <libraries-label>`'s email address."
+msgstr "這個系統偏好要求 :ref:`KohaAdminEmailAddress`有一個值。"
+
+#: ../../source/opacpreferences.rst:2190
+msgid "The notice sent by email is customizable in the :ref:`Notices and slips tool <notices-and-slips-label>`. The letter code is PROBLEM\\_REPORT."
+msgstr ""
+
+#: ../../source/opacpreferences.rst:2194
+#, fuzzy
+msgid "Problem reports are managed in the :ref:`OPAC problem reports tool <opac-problem-reports-tool>`."
+msgstr "問題報表在 :ref:`OPAC問題報表<opac-problem-reports-tool>`工具中管理"
+
+#: ../../source/opacpreferences.rst:2200
+msgid "OpacResetPassword"
+msgstr "OpacResetPassword"
+
+#: ../../source/opacpreferences.rst:2202
+msgid "Default: not allowed"
+msgstr "預設值：不允許"
+
+#: ../../source/opacpreferences.rst:2204
+msgid "Asks: Library users are \\_\\_\\_ to recover their password via e-mail in the OPAC."
+msgstr "詢問：圖書館讀者 \\_\\_\\_ 從 OPAC 以電子郵件恢復他們的密碼。"
+
+#: ../../source/opacpreferences.rst:2209
+msgid "allowed"
+msgstr "允許的"
+
+#: ../../source/opacpreferences.rst:2211
+msgid "|image1195|"
+msgstr ""
+
+#: ../../source/opacpreferences.rst:2213
+msgid "not allowed"
+msgstr "不允許"
+
+#: ../../source/opacpreferences.rst:2217
+#, fuzzy
+msgid "This system preference controls whether you present users of the public catalog with a 'Forgot your password' link or not. Learn more in the :ref:`OPAC section <resetting-your-password-label>` of this manual."
+msgstr "此偏好控制在公共目錄是否顯示 '忘記密碼' 的連結。詳情見手冊的 :ref:`OPAC <resetting-your-password-label>`。"
+
+#: ../../source/opacpreferences.rst:2224
+msgid "OPACShowSavings"
+msgstr ""
+
+#: ../../source/opacpreferences.rst:2226
+msgid "Asks: Calculate the amount a patron has 'saved' by using the library based on replacement prices, and display: \\_\\_\\_"
+msgstr ""
+
+#: ../../source/opacpreferences.rst:2229 ../../source/opacpreferences.rst:3114
+#, fuzzy
+msgid "Default: none"
+msgstr "預設值：(無)"
+
+#: ../../source/opacpreferences.rst:2231
+msgid "Values (multi-select):"
+msgstr ""
+
+#: ../../source/opacpreferences.rst:2235
+msgid "in user :ref:`summary box on OPAC homepage <your-account-label>` (the system preference :ref:`OPACUserSummary <opacusersummary-label>` must be enabled)"
+msgstr ""
+
+#: ../../source/opacpreferences.rst:2238
+msgid "|OPACShowSavings-summarybox|"
+msgstr ""
+
+#: ../../source/opacpreferences.rst:2240
+msgid "on patron's :ref:`'your summary' page <your-summary-label>`"
+msgstr ""
+
+#: ../../source/opacpreferences.rst:2242
+msgid "|OPACShowSavings-yoursummary|"
+msgstr ""
+
+#: ../../source/opacpreferences.rst:2244
+msgid "on patron's :ref:`checkout history page <your-checkout-history-label>` (the system preference :ref:`opacreadinghistory <opacreadinghistory-label>` must be enabled)"
+msgstr ""
+
+#: ../../source/opacpreferences.rst:2248
+msgid "|OPACShowSavings-checkouthistory|"
+msgstr ""
+
+#: ../../source/opacpreferences.rst:2252
+msgid "This system preference will check the patron's checkout history, add the replacement prices of all previously and currently checked out items, and display the sum in the selected pages."
+msgstr ""
+
+#: ../../source/opacpreferences.rst:2258
+msgid "The items' replacement prices are used to add up the savings. Make sure your items have replacement prices before displaying this information."
+msgstr ""
+
+#: ../../source/opacpreferences.rst:2263
+msgid "If :ref:`checkout histories are anonymized <patrons-anonymize-bulk-delete-label>` or if old checkouts are deleted through the :ref:`cleanup\\_database script <cron-clean-up-database-label>`, the savings information will be inaccurate."
+msgstr ""
+
+#: ../../source/opacpreferences.rst:2270
+msgid "If a patron checks out an item more than once, it will only be counted once in the savings."
+msgstr ""
+
+#: ../../source/opacpreferences.rst:2276
+msgid "OpacTopissue"
+msgstr "OpacTopissue"
+
+#: ../../source/opacpreferences.rst:2280
+msgid "Asks: \\_\\_\\_ patrons to access a list of the most checked out items on the OPAC."
+msgstr "詢問：\\_\\_\\_ 讀者從 OPAC 近用最熱門的館藏。"
+
+#: ../../source/opacpreferences.rst:2287
+msgid "A link to 'Most Popular' will appear at the top of your OPAC"
+msgstr "在 OPAC 出現 '最熱門館藏' 連結"
+
+#: ../../source/opacpreferences.rst:2289
+msgid "|image99|"
+msgstr ""
+
+#: ../../source/opacpreferences.rst:2295
+#, fuzzy
+msgid "This system preference allows the administrator to choose to show the \"Most Popular\" link at the top of the OPAC under the search box. The \"Most Popular\" page shows the top circulated items in the library, as determined by the number of times a title has been circulated. This allows users to see what titles are popular in their community. It is recommended that you leave this preference set to 'Don't allow' until you have been live on Koha for a couple of months, otherwise the data that it shows will not be an accurate portrayal of what's popular in your library."
+msgstr "此偏好允許管理者在 OPAC 搜尋盒下顯示 \"最熱門\" 連結。\"最熱門\" 頁面顯示圖書館借出最多的館藏。這個偏好允許使用者看到該圖書館最熱門的館藏。建議設定為 '不允許' 直到 Koha 上線數月之後，擁有足夠的流通資訊後，才啟用此偏好。"
+
+#: ../../source/opacpreferences.rst:2305
+msgid "|image100|"
+msgstr ""
+
+#: ../../source/opacpreferences.rst:2310
+msgid "opacuserlogin"
+msgstr "opacuserlogin"
+
+#: ../../source/opacpreferences.rst:2314
+msgid "Asks: \\_\\_\\_ patrons to log in to their accounts on the OPAC."
+msgstr "詢問：\\_\\_\\_ 讀者從 OPAC 登入自己的帳號。"
+
+#: ../../source/opacpreferences.rst:2322
+msgid "The OPAC will still be searchable if patrons can't log in, this just disables the patron account access via the OPAC"
+msgstr "即使未登入讀者仍可搜尋 OPAC，此偏好僅停用讀者以自己帳號登入 OPAC"
+
+#: ../../source/opacpreferences.rst:2328
+msgid "QuoteOfTheDay"
+msgstr "QuoteOfTheDay"
+
+#: ../../source/opacpreferences.rst:2330
+msgid "Asks: Show quote of the day in the \\_\\_\\_ main page"
+msgstr "要求：在 \\_\\_\\_主頁面中顯示當天的報價"
+
+#: ../../source/opacpreferences.rst:2332
+msgid "Default: (none)"
+msgstr "預設值：(無)"
+
+#: ../../source/opacpreferences.rst:2340
+msgid "staff interface"
+msgstr "館員介面"
+
+#: ../../source/opacpreferences.rst:2344
+msgid "This system preference allows you to choose where the quotes from the :ref:`quote of the day editor <quote-of-the-day-(qotd)-editor-label>` tool will appear."
+msgstr "這個系統偏好允許你選擇來自於 :ref:`每日引句編輯<quote-of-day-(qotd)-editor-label>`工具中的引句。"
+
+#: ../../source/opacpreferences.rst:2351
+msgid "OPACHoldRequests"
+msgstr "OPACHoldRequests"
+
+#: ../../source/opacpreferences.rst:2355
+msgid "Asks: \\_\\_\\_ patrons to place holds on items from the OPAC."
+msgstr "詢問：\\_\\_\\_ 讀者經由 OPAC 預約館藏。"
+
+#: ../../source/opacpreferences.rst:2368
+msgid "OPACComments"
+msgstr "OPACComments"
+
+#: ../../source/opacpreferences.rst:2370
+msgid "Asks: \\_\\_\\_ patrons to make comments on items on the OPAC."
+msgstr "詢問：\\_\\_\\_ 讀者從 OPAC 撰寫書評。"
+
+#: ../../source/opacpreferences.rst:2378
+msgid "Patrons comments/reviews all require moderation before they appear in the OPAC"
+msgstr "讀者的評論都先經過館員的審核才能出現在 OPAC"
+
+#: ../../source/opacpreferences.rst:2381
+#, fuzzy
+msgid ":ref:`opacuserlogin <opacuserlogin-label>` needs to be set to 'Allow'"
+msgstr "必須把 :ref:`opacuserlogin` 設為 '允許'"
+
+#: ../../source/opacpreferences.rst:2387
+msgid "This system preference determines if patrons are allowed to submit comments on titles they have read on the OPAC. If this preference is set to \"Allow\" reviews are first sent to the staff interface for staff approval before the review is displayed in the OPAC. The staff member who reviews and approves comments may find the pending comments on the :ref:`comments tool <comments-label>`. The staff member can then choose to approve or delete the comments."
+msgstr "這個系統偏好決定了是否允許讀者對他們在OPAC上閱讀過的書目提交評論。如果這個偏好被設置為 \"允許\"，評論首先被發送到館員介面，供館員批准，然後才在OPAC中顯示。審查和批准評論的館員可以在 :ref:`評論工具 <comments-label>`上找到待定評論。然後，該館員可以選擇批准或刪除這些評論。"
+
+#: ../../source/opacpreferences.rst:2395
+msgid "See also :"
+msgstr "參見 :"
+
+#: ../../source/opacpreferences.rst:2397
+#, fuzzy
+msgid ":ref:`ShowReviewer <ShowReviewer-label>`"
+msgstr ":ref:`ShowReviewerPhoto`"
+
+#: ../../source/opacpreferences.rst:2399
+#, fuzzy
+msgid ":ref:`ShowReviewerPhoto <ShowReviewerPhoto-label>`"
+msgstr ":ref:`ShowReviewerPhoto`"
+
+#: ../../source/opacpreferences.rst:2401
+#, fuzzy
+msgid ":ref:`OpacShowRecentComments <OpacShowRecentComments-label>`"
+msgstr ":ref:`OpacShowRecentComments`"
+
+#: ../../source/opacpreferences.rst:2406
+msgid "ShowReviewer"
+msgstr "ShowReviewer"
+
+#: ../../source/opacpreferences.rst:2408
+msgid "Default: full name"
+msgstr "預設值：全名"
+
+#: ../../source/opacpreferences.rst:2410
+msgid "Asks: Show \\_\\_\\_ of commenter with comments in OPAC."
+msgstr "詢問：在 OPAC 顯示評論者的 \\_\\_\\_。"
+
+#: ../../source/opacpreferences.rst:2414
+msgid "first name"
+msgstr "名字"
+
+#: ../../source/opacpreferences.rst:2416
+msgid "first name and last initial"
+msgstr "名與第一個縮寫"
+
+#: ../../source/opacpreferences.rst:2418
+msgid "full name"
+msgstr "全名"
+
+#: ../../source/opacpreferences.rst:2420
+msgid "last name"
+msgstr "姓"
+
+#: ../../source/opacpreferences.rst:2422
+msgid "no name"
+msgstr "無名"
+
+#: ../../source/opacpreferences.rst:2424
+msgid "username"
+msgstr "使用者名稱"
+
+#: ../../source/opacpreferences.rst:2428
+#, fuzzy
+msgid "If you would like to protect your patron's privacy in the OPAC you can choose to hide their names or parts of their names from any of the comments they leave on bibliographic records in your system. :ref:`OPACComments <OPACComments-label>` needs to be set to 'Allow' for this system preference to come in to play"
+msgstr "為了保護讀者在 OPAC 的隱私可以選擇在書目記錄的評論裡隱藏全名或部份姓名。必須把 :ref:`OPACComments` 設為 '允許' 此偏好才能使用"
+
+#: ../../source/opacpreferences.rst:2437
+msgid "ShowReviewerPhoto"
+msgstr "ShowReviewerPhoto"
+
+#: ../../source/opacpreferences.rst:2439
+#, fuzzy
+msgid "Asks: \\_\\_\\_ reviewer's avatar beside comments in OPAC."
+msgstr "詢問：在 OPAC \\_\\_\\_ 評論者的照片。"
+
+#: ../../source/opacpreferences.rst:2451
+#, fuzzy
+msgid "This system preference allows libraries to show avatars next to patron's comments in the OPAC."
+msgstr "這個系統偏好控制著OPAC上的 '報告問題' 功能。"
+
+#: ../../source/opacpreferences.rst:2454
+#, fuzzy
+msgid "|ShowReviewerPhoto|"
+msgstr "ShowReviewerPhoto"
+
+#: ../../source/opacpreferences.rst:2456
+#, fuzzy
+msgid "These avatars are pulled from the `Libravatar <https://www.libravatar.org>`_ library, an open source powered product that allows Internet users to choose a small icon to display next to their name on various different websites."
+msgstr "此系統偏好允許圖書館在 OPAC 的讀者評論旁顯示小圖。這些小圖可以從開放源碼的 :ref:`Libravatar <https://www.libravatar.org>`__ 圖庫中選取。圖書館不能篩選讀者選擇的小圖。"
+
+#: ../../source/opacpreferences.rst:2460
+msgid "The library itself has no control over the images the patron chooses to display."
+msgstr ""
+
+#: ../../source/opacpreferences.rst:2465
+msgid "This system preference requires that :ref:`OPACComments <OPACComments-label>` be set to 'Allow' and :ref:`ShowReviewer <ShowReviewer-label>` be set to 'Show' to have any effect."
+msgstr ""
+
+#: ../../source/opacpreferences.rst:2471
+msgid "SocialNetworks"
+msgstr "SocialNetworks"
+
+#: ../../source/opacpreferences.rst:2473 ../../source/opacpreferences.rst:3695
+msgid "Default: Disable"
+msgstr "預設值：停用"
+
+#: ../../source/opacpreferences.rst:2475
+msgid "Asks: Show \\_\\_\\_ social network links in opac detail pages"
+msgstr "詢問：在 OPAC 書目詳頁顯示 \\_\\_\\_ 社群網路連結"
+
+#: ../../source/opacpreferences.rst:2477
+msgid "Options:"
+msgstr "選項:"
+
+#: ../../source/opacpreferences.rst:2479
+msgid "Email"
+msgstr "電子郵件"
+
+#: ../../source/opacpreferences.rst:2481
+msgid "Facebook"
+msgstr "臉書"
+
+#: ../../source/opacpreferences.rst:2483
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: ../../source/opacpreferences.rst:2485
+msgid "Twitter"
+msgstr "推特"
+
+#: ../../source/opacpreferences.rst:2487
+msgid "|image102|"
+msgstr ""
+
+#: ../../source/opacpreferences.rst:2491
+#, fuzzy
+msgid "This system preference will enable a line of social network share buttons below the right hand column on the detail pages of records in the OPAC."
+msgstr "此偏好將在 OPAC 記錄詳情頁面右手邊啟用社群網路分享鈕。"
+
+#: ../../source/opacpreferences.rst:2497
+#, fuzzy
+msgid "In order for these share buttons to work when clicked you must have filled in your :ref:`OPACBaseURL <OPACBaseURL-label>` preference."
+msgstr "必須先填入 :ref:`OPACBaseURL` 偏好，此分享鈕才能運作。"
+
+#: ../../source/opacpreferences.rst:2503
+msgid "Payments"
+msgstr "支付"
+
+#: ../../source/opacpreferences.rst:2505
+msgid "These preferences will allow you control the tools you use to accept online payments from your patrons via the OPAC."
+msgstr "此偏好控制讀者是否可從 OPAC 支付費用。"
+
+#: ../../source/opacpreferences.rst:2511
+msgid "EnablePayPalOpacPayments and PayPalSandboxMode"
+msgstr "EnablePayPalOpacPayments 與 PayPalSandboxMode"
+
+#: ../../source/opacpreferences.rst:2513
+msgid "EnablePayPalOpacPayments Default: Don't allow"
+msgstr "EnablePayPalOpacPayments 預設值：不是全部"
+
+#: ../../source/opacpreferences.rst:2515
+msgid "PayPalSandboxMode Default: Sandbox"
+msgstr "PayPalSandboxMode 預設值：沙盒"
+
+#: ../../source/opacpreferences.rst:2517
+msgid "Asks: \\_\\_\\_ patrons to make payments from the OPAC via PayPal in \\_\\_\\_ mode."
+msgstr "詢問：\\_\\_\\_ 讀者經由 PayPal 的 \\_\\_\\_ 模式從 OPAC 支付費用。"
+
+#: ../../source/opacpreferences.rst:2520
+msgid "EnablePayPalOpacPayments values:"
+msgstr "EnablePayPalOpacPayments 值："
+
+#: ../../source/opacpreferences.rst:2526
+msgid "PayPalSandboxMode values:"
+msgstr "PayPalSandboxMode 值："
+
+#: ../../source/opacpreferences.rst:2528
+msgid "Production"
+msgstr "生產"
+
+#: ../../source/opacpreferences.rst:2530
+msgid "Visit https://developer.paypal.com/ to get information for accepting payments in production"
+msgstr "進入 https://developer.paypal.com/ 網站取得支付的資訊"
+
+#: ../../source/opacpreferences.rst:2533
+msgid "Sandbox"
+msgstr "沙盒"
+
+#: ../../source/opacpreferences.rst:2535
+msgid "Visit https://developer.paypal.com/developer/accounts/ to get information for your sandbox account"
+msgstr "進入 https://developer.paypal.com/developer/accounts/ 取得沙盒的帳號"
+
+#: ../../source/opacpreferences.rst:2540
+#, fuzzy
+msgid "This system preference will allow you to accept credit card payments via the OPAC for fines via PayPal. You will need to set up your PayPal account and it is recommended that you run tests before using this in production."
+msgstr "此偏好允許在 OPAC 經由 PayPal 接受信用卡付費。須先設定 PayPal 帳號並建議先測試再上線。"
+
+#: ../../source/opacpreferences.rst:2547
+msgid "PayPayl's terms of service state that you cannot charge your patrons for the processing fees and so this plugin will not add additional fees to the charges."
+msgstr "PayPayl 的服務條款說，不能向客戶收取處理費用，所以此外掛不會加入處理費。"
+
+#: ../../source/opacpreferences.rst:2554
+msgid "PayPalChargeDescription"
+msgstr "PayPalChargeDescription"
+
+#: ../../source/opacpreferences.rst:2556
+msgid "Default: Koha fee payment"
+msgstr "預設值：Koha 付費"
+
+#: ../../source/opacpreferences.rst:2558
+msgid "Asks: The patron should see the charge description as \\_\\_\\_"
+msgstr "詢問：讀者應看到其收費說明 \\_\\_\\_"
+
+#: ../../source/opacpreferences.rst:2560
+msgid "Description"
+msgstr "說明"
+
+#: ../../source/opacpreferences.rst:2562
+#, fuzzy
+msgid "This system preference controls what the patron will see on their PayPal account/bank account for this charge."
+msgstr "此偏好控制讀者可看到其 PayPal/銀行帳號。"
+
+#: ../../source/opacpreferences.rst:2568
+msgid "PayPalPwd"
+msgstr "PayPalPwd"
+
+#: ../../source/opacpreferences.rst:2570
+msgid "Asks: The password for the PayPal account to receive payments is \\_\\_\\_"
+msgstr "詢問：收取費用的 PayPal 帳號密碼是 \\_\\_\\_"
+
+#: ../../source/opacpreferences.rst:2575
+msgid "PayPalReturnURL"
+msgstr "PayPalReturnURL"
+
+#: ../../source/opacpreferences.rst:2577
+msgid "Asks: After payment or cancellation, PayPal should return to the \\_\\_\\_"
+msgstr "詢問: 在支付或取消之後，PayPal應回到 \\_\\_\\_"
+
+#: ../../source/opacpreferences.rst:2579
+#, fuzzy
+msgid "Default: :ref:`OPACBaseURL <OPACBaseURL-label>`"
+msgstr "預設值: :ref:`OPACBaseURL`"
+
+#: ../../source/opacpreferences.rst:2583
+#, fuzzy
+msgid ":ref:`OPACBaseURL <OPACBaseURL-label>`"
+msgstr ":ref:`OPACBaseURL`"
+
+#: ../../source/opacpreferences.rst:2585
+msgid "configured return URL"
+msgstr "配置的返回網址"
+
+#: ../../source/opacpreferences.rst:2589
+#, fuzzy
+msgid "This system preference lets you decide where a patron is redirected after they are done with their transaction, either the :ref:`OPACBaseURL <OPACBaseURL-label>` or the URL specified in the PayPal configuration"
+msgstr "這個系統偏好讓你決定讀者完成交易後被重定向到哪裡，要麼是Ref:`OPACBaseURL`，或是PayPal配置中指定的URL"
+
+#: ../../source/opacpreferences.rst:2596
+msgid "PayPalSignature"
+msgstr "PayPalSignature"
+
+#: ../../source/opacpreferences.rst:2598
+msgid "Asks: The signature for the PayPal account to receive payments is \\_\\_\\_"
+msgstr "詢問：收取費用的 PayPal 帳號簽名是 \\_\\_\\_"
+
+#: ../../source/opacpreferences.rst:2603
+msgid "PayPalUser"
+msgstr "PayPalUser"
+
+#: ../../source/opacpreferences.rst:2605
+msgid "Asks: The email address to receive PayPal payments is \\_\\_\\_"
+msgstr "詢問：收取 PayPal 款項的電子郵件帳號是 \\_\\_\\_"
+
+#: ../../source/opacpreferences.rst:2610
+msgid "Policy"
+msgstr "政策"
+
+#: ../../source/opacpreferences.rst:2615
+msgid "BlockExpiredPatronOpacActions"
+msgstr "BlockExpiredPatronOpacActions"
+
+#: ../../source/opacpreferences.rst:2617
+msgid "Default: Don't block"
+msgstr "預設：不阻止"
+
+#: ../../source/opacpreferences.rst:2619
+msgid "Asks: \\_\\_\\_ expired patrons from OPAC actions such as placing a hold or renewing."
+msgstr "詢問：\\_\\_\\_ 到期的讀者使用 OPAC 的預約或續借等功能。"
+
+#: ../../source/opacpreferences.rst:2624
+msgid "Block"
+msgstr "封鎖"
+
+#: ../../source/opacpreferences.rst:2626
+msgid "Don't block"
+msgstr "不允許"
+
+#: ../../source/opacpreferences.rst:2630
+#, fuzzy
+msgid "This system preference lets you set a default value for how Koha handles permissions for patrons who are expired. This system preference can be overwritten by the setting on :ref:`individual patron categories <patron-categories-label>`."
+msgstr "此偏好決定處理到期讀者的方式。此偏好的位階低於 :ref:`個別讀者類型 <patron-categories-label>`。"
+
+#: ../../source/opacpreferences.rst:2638
+msgid "OpacAllowPublicListCreation"
+msgstr "OpacAllowPublicListCreation"
+
+#: ../../source/opacpreferences.rst:2642
+msgid "Asks: \\_\\_\\_ opac users to create public lists."
+msgstr "詢問：___ 讀者從 OPAC 新增公共虛擬書架。"
+
+#: ../../source/opacpreferences.rst:2652
+msgid "Public lists are visible to anyone who visits your OPAC. With this preference you can control whether or now patrons are allowed to create these public lists. If this is set to \"Don't allow\" then only staff will be able to create public lists."
+msgstr "公共虛擬書架可以被任何人從 OPAC 看到。此偏好控制讀者新增公共虛擬書架的權限。若設為 \"不允許\" 則祗有館員才可以新增公共虛擬書架。"
+
+#: ../../source/opacpreferences.rst:2659
+#, fuzzy
+msgid "This system preference will only be taken in to account if you have :ref:`virtualshelves <virtualshelves-label>` set to 'Allow'"
+msgstr "必須將 :ref:`virtualshelves` 設為 '允許' 之後此偏好才能運作"
+
+#: ../../source/opacpreferences.rst:2665
+msgid "OpacAllowSharingPrivateLists"
+msgstr "OpacAllowSharingPrivateLists"
+
+#: ../../source/opacpreferences.rst:2667
+#, fuzzy
+msgid "Asks: \\_\\_\\_ OPAC users to share private lists with other patrons."
+msgstr "詢問：\\_\\_\\_ OPAC 的讀者與其他讀者共享私有書架。"
+
+#: ../../source/opacpreferences.rst:2679
+#, fuzzy
+msgid "This feature will add the option for patrons to share their lists with other patrons."
+msgstr "詢問：\\_\\_\\_ OPAC 的讀者與其他讀者共享私有書架。"
+
+#: ../../source/opacpreferences.rst:2682
+#, fuzzy
+msgid "When this is set to 'Allow' patrons will see a 'Share list' link at the top of their list. When they click that link it will ask for the email of the patron they would like to share with."
+msgstr "此功能讓讀者可以與其他讀者共享自建的私有虛擬書架。設定為 '允許' 後就可以在其虛擬書架上方看到連結。按了之後彈出視窗要求鍵入欲共享者的電子郵件。Koha 寄出此電子郵件邀請讀者共享此虛擬書架。"
+
+#: ../../source/opacpreferences.rst:2686
+msgid "Koha will then email the patron an invitation to see the list, and, once the other patron accepts the shared list, email the sharing patron to notify them that the share has been accepted."
+msgstr ""
+
+#: ../../source/opacpreferences.rst:2690
+#, fuzzy
+msgid "See :ref:`Managing lists <managing-lists-label>` for more information."
+msgstr "詳情見 :ref:`ISBD` 偏好"
+
+#: ../../source/opacpreferences.rst:2695
+msgid "OPACFineNoRenewals"
+msgstr "OPACFineNoRenewals"
+
+#: ../../source/opacpreferences.rst:2697
+msgid "Default: 99999"
+msgstr "預設值：99999"
+
+#: ../../source/opacpreferences.rst:2699
+msgid "Asks: Only allow patrons to renew their own books on the OPAC if they have less than \\_\\_\\_ USD in fines"
+msgstr "詢問： 讀者欠款在 \\_\\_\\_ 元以下，才能從其 OPAC 續借"
+
+#: ../../source/opacpreferences.rst:2704
+msgid "Leave this field blank to disable"
+msgstr "空白則表示不使用"
+
+#: ../../source/opacpreferences.rst:2708
+#, fuzzy
+msgid "To allow renewals in the OPAC, :ref:`opacuserlogin <opacuserlogin-label>` needs to be set to 'allow'"
+msgstr "必須將 :ref:`opacuserlogin` 設為 '允許'，才能從 OPAC 續借"
+
+#: ../../source/opacpreferences.rst:2714
+msgid "OPACFineNoRenewalsIncludeCredits"
+msgstr "OPACFineNoRenewalsIncludeCredits"
+
+#: ../../source/opacpreferences.rst:2718
+msgid "Asks: \\_\\_\\_ outstanding/unapplied credits when applying the OPACFineNoRenewals rule to users"
+msgstr "詢問: \\_\\_\\_ 未結的/未應用的信用, 當申請OPACFineNoRenewals規則"
+
+#: ../../source/opacpreferences.rst:2729
+#, fuzzy
+msgid "This system preference controls whether the :ref:`OPACFineNoRenewals <OPACFineNoRenewals-label>` function uses the account balance (which combines outstanding credits and debits) or account amount outstanding (which excludes any credits) to make the calculation."
+msgstr "此偏好控制在於:ref::`OPACFineNoRenewals`功能使用帳號平衡(也就是結合未清的信用和支出)或是未結帳號總數(不含任何信用)去計算。"
+
+#: ../../source/opacpreferences.rst:2735
+#, fuzzy
+msgid "Generally you would set this system preference to align with the :ref:`AccountAutoReconcile <AccountAutoReconcile-label>` system preference. If you have AccountAutoReconcile set to ‘Do’ you should leave this system preference as ‘Include’. If you have AccountAutoReconcile set to ‘Do not’ it would make sense to have this set as ‘Don’t include’."
+msgstr "你設定此系統偏好連結 :ref:`AccountAutoReconcile`系統偏好。如果你的 AccountAutoReconcile 設定是\"做\"你必須將此偏好設定成\"包含\"  如果您將 AccountAutoReconcile 設定成\"不做\"，您必須將此偏好設定成\"不要包含\"。"
+
+#: ../../source/opacpreferences.rst:2744
+msgid "OpacHiddenItems"
+msgstr "OpacHiddenItems"
+
+#: ../../source/opacpreferences.rst:2746
+msgid "Asks: Allows to define custom rules for hiding specific items at opac."
+msgstr "詢問： 允許客製化規則在 OPAC 隱藏特定館藏。"
+
+#: ../../source/opacpreferences.rst:2750
+msgid "In this field you can enter criteria for items you would like to hide from display in the OPAC. This field takes any combination of item fields (from the items table in the Koha database) for blocking. For example a value of:"
+msgstr "在這個欄段中，你可以輸入你想在OPAC中隱藏顯示的館藏標準。這個欄段採用任何館藏欄段的組合(來自Koha數據庫中的館藏表) 進行屏蔽。例如一個值為:"
+
+#: ../../source/opacpreferences.rst:2760
+msgid "Will block items with an itype code of 07 or 10 as well as items that have a shelving location of STAFF or ISO."
+msgstr "將隱藏館藏類型代號為 07 或 10 者以及館藏位置為 STAFF 或 ISO。"
+
+#: ../../source/opacpreferences.rst:2765
+msgid "Requires YAML syntax to work"
+msgstr "需要YAML語法來工作"
+
+#: ../../source/opacpreferences.rst:2767
+msgid "This means"
+msgstr "這說明"
+
+#: ../../source/opacpreferences.rst:2769
+msgid "Make sure there is NO space between the field name and the colon"
+msgstr "確認在欄位名與冒號之間沒有空格"
+
+#: ../../source/opacpreferences.rst:2771
+msgid "Make sure there IS a space between the colon and the value"
+msgstr "確認在數值與冒號之間存在一個空格"
+
+#: ../../source/opacpreferences.rst:2773
+#, fuzzy
+msgid "If there are more than one values for the same field, put them in square brackets, separated by comma and space"
+msgstr "如果同一欄位有多個數值，請將它們放在方格內，用逗號和空格隔開"
+
+#: ../../source/opacpreferences.rst:2776
+msgid "Make sure each pair is on its own line"
+msgstr "確認每組都在同一列中"
+
+#: ../../source/opacpreferences.rst:2781
+msgid "OpacHiddenItemsExceptions"
+msgstr "OpacHiddenItemsExceptions"
+
+#: ../../source/opacpreferences.rst:2783
+#, fuzzy
+msgid "Asks: List of patron categories, that can see items otherwise hidden by :ref:`OpacHiddenItems <opachiddenitems-label>`"
+msgstr "詢問：借閱者範疇清單，以直線 (pipe) \\| 區隔，否則以 OpacHiddenItems 隱藏它們"
+
+#: ../../source/opacpreferences.rst:2786 ../../source/opacpreferences.rst:3638
+#: ../../source/opacpreferences.rst:3674 ../../source/opacpreferences.rst:3864
+msgid "Default: blank"
+msgstr "預設值：空白"
+
+#: ../../source/opacpreferences.rst:2790
+#, fuzzy
+msgid "Patron categories chosen here will be able to view items on the OPAC that would otherwise be hidden by the :ref:`OpacHiddenItems <opachiddenitems-label>` system preference."
+msgstr "說明：讀者類型代碼清單列在這裡，以直線區隔 |，可以檢視 OPAC 的館藏，否則以 OpacHiddenItems 系統偏好隱藏它。"
+
+#: ../../source/opacpreferences.rst:2796
+msgid "Users need to be logged into the OPAC to be able to see hidden items if they are part of the excepted categories."
+msgstr ""
+
+#: ../../source/opacpreferences.rst:2802
+msgid "OpacRenewalAllowed"
+msgstr "OpacRenewalAllowed"
+
+#: ../../source/opacpreferences.rst:2806
+msgid "Asks: \\_\\_\\_ patrons to renew their own books on the OPAC."
+msgstr "詢問：\\_\\_\\_ 讀者從 OPAC 續借。"
+
+#: ../../source/opacpreferences.rst:2816
+#, fuzzy
+msgid "Staff will still be able to renew items for patrons via the staff interface"
+msgstr "館員仍可從館員介面代讀者續借"
+
+#: ../../source/opacpreferences.rst:2821
+#, fuzzy
+msgid "This system preference allows the administration to choose if patrons can renew their checked out materials via their checked out history in the OPAC. It allows patrons to renew their materials without having to contact the library or having to return to the library."
+msgstr "此偏好允許管理部門選擇讀者是否可以通過他們在 OPAC 中的借閱記錄來更新他們借出的資料。它允許讀者更新他們的資料，而無需聯繫圖書館或不必還入圖書館。"
+
+#: ../../source/opacpreferences.rst:2829
+msgid "OpacRenewalBranch"
+msgstr "OpacRenewalBranch"
+
+#: ../../source/opacpreferences.rst:2831
+#, fuzzy
+msgid "Default: the library the item was checked out from"
+msgstr "預設值：借出館藏的圖書館"
+
+#: ../../source/opacpreferences.rst:2833
+msgid "Asks: Use \\_\\_\\_ as branchcode to store in the statistics table"
+msgstr "詢問：使用 \\_\\_\\_ 做為分館代碼供統計之用"
+
+#: ../../source/opacpreferences.rst:2837
+msgid "NULL"
+msgstr "NULL"
+
+#: ../../source/opacpreferences.rst:2839
+msgid "'OPACRenew'"
+msgstr "'OPACRenew'"
+
+#: ../../source/opacpreferences.rst:2841
+#, fuzzy
+msgid "the item's home library"
+msgstr "館藏所屬圖書館"
+
+#: ../../source/opacpreferences.rst:2843
+#, fuzzy
+msgid "the patron's home library"
+msgstr "讀者所屬分館"
+
+#: ../../source/opacpreferences.rst:2845
+#, fuzzy
+msgid "the library the item was checked out from"
+msgstr "借出館藏的圖書館"
+
+#: ../../source/opacpreferences.rst:2849
+#, fuzzy
+msgid "This value is used in the statistics table to help with reporting. The statistics table in Koha keeps track of all checkouts and renewals, this preference defines which library is entered in to the table when a patron renews an item for themselves via the OPAC."
+msgstr "此值供統計報表之用。Koha 中的統計表係追蹤所有借出與續借內容，此偏好定義當讀者經由 OPAC 續借館藏時藉此偏好指定圖書館。"
+
+#: ../../source/opacpreferences.rst:2857
+msgid "SearchMyLibraryFirst"
+msgstr "SearchMyLibraryFirst"
+
+#: ../../source/opacpreferences.rst:2859
+msgid "Default: Don't limit"
+msgstr "預設值：不限制"
+
+#: ../../source/opacpreferences.rst:2861
+msgid "Asks: \\_\\_\\_ patrons' searches to the library they are registered at."
+msgstr "詢問：\\_\\_\\_ 讀者僅能搜尋所屬圖書館。"
+
+#: ../../source/opacpreferences.rst:2865
+msgid "Don't limit"
+msgstr "不限制"
+
+#: ../../source/opacpreferences.rst:2867
+msgid "Searching the OPAC will show results from all libraries"
+msgstr "搜尋 OPAC 時顯示所有圖書館的搜尋結果"
+
+#: ../../source/opacpreferences.rst:2869
+#, fuzzy
+msgid "If you're a one library system, choose 'Don't limit'"
+msgstr "若為單館系統，請選擇 '不限制'"
+
+#: ../../source/opacpreferences.rst:2871
+msgid "Limit"
+msgstr "限制"
+
+#: ../../source/opacpreferences.rst:2873
+msgid "Patrons will still be able to search other libraries via the Advanced search page - but will be limited to searches for their library only from the basic search box"
+msgstr "讀者仍然可以通過進階搜尋頁面搜尋其他圖書館 - 但將僅限於從基本搜尋框中搜尋自己的圖書館"
+
+#: ../../source/opacpreferences.rst:2882
+msgid "Privacy"
+msgstr "私人"
+
+#: ../../source/opacpreferences.rst:2887
+msgid "AllowPatronToSetCheckoutsVisibilityForGuarantor"
+msgstr "AllowPatronToSetCheckoutsVisibilityForGuarantor"
+
+#: ../../source/opacpreferences.rst:2891
+msgid "Asks: \\_\\_\\_ patrons to choose their own privacy settings for showing the patron's checkouts to the patron's guarantor\"."
+msgstr "詢問：\\_\\_\\_ 讀者設隱私，對保證人顯示其借出\"。"
+
+#: ../../source/opacpreferences.rst:2902
+#, fuzzy
+msgid "By default staff can see checkouts to family members via the staff interface. This system preference will allow guarantees (children) to grant permission to guarantors (guardians) to view their current checkouts via the public catalog. This system preference requires that you allow patrons to choose their own privacy with the :ref:`OPACPrivacy <OPACPrivacy-label>` preference."
+msgstr "在預設情況下，館員可以經由館員介面查看家庭成員的借出情況。此偏好允許被保證人 (兒童) 經由公共目錄授權保證人 (父母) 檢視自身的借出。此偏好要求您允許顧客使用 :ref:`OPACPrivacy` 偏好來選擇他們自己的隱私。"
+
+#: ../../source/opacpreferences.rst:2912
+msgid "AnonymousPatron"
+msgstr "AnonymousPatron"
+
+#: ../../source/opacpreferences.rst:2916
+msgid "Asks: Use borrowernumber \\_\\_\\_ as the Anonymous Patron (for anonymous suggestions and reading history)"
+msgstr "詢問：以讀者證號碼 \\_\\_\\_ 做為匿名讀者 (供匿名推薦採訪與借閱記錄之用)"
+
+#: ../../source/opacpreferences.rst:2921
+msgid "Before setting this preference :ref:`create a patron <add-a-new-patron-label>` to be used for all anonymous suggestions and/or reading history items. This patron can be any type and should be named something to make it clear to you that they're anonymous (ex. Anonymous Patron)."
+msgstr "設定此偏好前 :ref:`新增讀者 <add-a-new-patron-label>` 供所有的匿名建議與館藏閱讀紀錄使用。此讀者可以是任何類型但應明確地命名確定其為匿名讀者 (如：無名氏)。"
+
+#: ../../source/opacpreferences.rst:2928
+msgid "Remember to use the borrowernumber not the patron's cardnumber for this value. The borrowernumber can be found on the patron record under 'Library use' on the right."
+msgstr "記得使用 borrowernumber 說明讀者的號碼。從右方的 '圖書館使用' 找到 borrowernumber。"
+
+#: ../../source/opacpreferences.rst:2932
+msgid "|image1196|"
+msgstr ""
+
+#: ../../source/opacpreferences.rst:2937
+msgid "EnableOpacSearchHistory"
+msgstr "EnableOpacSearchHistory"
+
+#: ../../source/opacpreferences.rst:2939
+msgid "Default: Keep"
+msgstr "預設值：保留"
+
+#: ../../source/opacpreferences.rst:2941
+msgid "Asks: \\_\\_\\_ patron search history in the OPAC."
+msgstr "詢問：\\_\\_\\_ 讀者在 OPAC 的搜尋記錄。"
+
+#: ../../source/opacpreferences.rst:2945
+msgid "Don't keep"
+msgstr "不保留"
+
+#: ../../source/opacpreferences.rst:2947
+msgid "Keep"
+msgstr "保留"
+
+#: ../../source/opacpreferences.rst:2952
+msgid "OPACHoldsHistory"
+msgstr "OPACHoldsHistory"
+
+#: ../../source/opacpreferences.rst:2954
+msgid "Asks: \\_\\_\\_ patrons to see the list of their past holds."
+msgstr "詢問：\\_\\_\\_ 讀者查看他們過去的持有清單。"
+
+#: ../../source/opacpreferences.rst:2966
+msgid "This system preference determines if patrons are allowed to see their :ref:`holds history on the OPAC <your-holds-history-label>`."
+msgstr "此系統偏好確定是否允許顧客查看他們 :ref:`在 OPAC 上保存的歷史記錄<your-holds-history-label>`。"
+
+#: ../../source/opacpreferences.rst:2972
+msgid "OPACPrivacy"
+msgstr "OPACPrivacy"
+
+#: ../../source/opacpreferences.rst:2976
+msgid "Asks: \\_\\_\\_ patrons to choose their own privacy settings for their reading history."
+msgstr "詢問：\\_\\_\\_ 選擇其借閱記錄的隱私權設定。"
+
+#: ../../source/opacpreferences.rst:2981
+#, fuzzy
+msgid "This requires :ref:`opacreadinghistory <opacreadinghistory-label>` set to 'Allow' and :ref:`AnonymousPatron <AnonymousPatron-label>` to be set to your anonymous patron's borrowernumber."
+msgstr "需將 :ref:`opacreadinghistory` 設為 '允許' 並將 :ref:`AnonymousPatron` 設為匿名讀者的讀者證號碼。"
+
+#: ../../source/opacpreferences.rst:2993
+msgid "The default privacy setting for each patron category can be set in the :ref:`patrons categories <patron-categories-label>` area. If you set this preference to 'allow' then patrons can change that for themselves via the OPAC."
+msgstr "預設的讀者隱私設定值在 :ref:`讀者類型 <patron-categories-label>` 區塊。若設為 '允許' 讀者就可以經由 OPAC 更改其隱私設定。"
+
+#: ../../source/opacpreferences.rst:3000
+#, fuzzy
+msgid "If patron has chosen to have their reading history anonymized and you have :ref:`StoreLastBorrower <StoreLastBorrower-label>` set to \"Don't store\" then as soon as the item is checked in the last borrower will be anonymized."
+msgstr "若讀者選擇匿名其借出記錄，則需把 :ref:`StoreLastBorrower` 設為 \"不儲存\" 後，才能把還入的借出記錄匿名。"
+
+#: ../../source/opacpreferences.rst:3008
+msgid "opacreadinghistory"
+msgstr "opacreadinghistory"
+
+#: ../../source/opacpreferences.rst:3012
+msgid "Asks: \\_\\_\\_ patrons to see what books they have checked out in the past."
+msgstr "詢問：\\_\\_\\_ 讀者查看其借閱記錄。"
+
+#: ../../source/opacpreferences.rst:3017
+#, fuzzy
+msgid "Enabling this will make it so that patrons can view their circulation history in the OPAC unless you have :ref:`OPACPrivacy <OPACPrivacy-label>` set to 'Allow'."
+msgstr "將 :ref:`OPACPrivacy` 設為 '允許'，讀者就可從 OPAC 檢視自己的流通借出記錄。"
+
+#: ../../source/opacpreferences.rst:3023
+msgid "This data is stored in the system regardless of your choice, unless your patrons have chosen to never have their reading history kept."
+msgstr "除非讀者選擇其設定為不儲存借出記錄，否則該資料將儲在系統內，不論館員如何設定。"
+
+#: ../../source/opacpreferences.rst:3029
+msgid "TrackClicks"
+msgstr "TrackClicks"
+
+#: ../../source/opacpreferences.rst:3031
+msgid "Default: Don't track"
+msgstr "預設值：不追蹤"
+
+#: ../../source/opacpreferences.rst:3033
+msgid "Asks: \\_\\_\\_ links that patrons click on."
+msgstr "詢問：\\_\\_\\_ 讀者點選的連結。"
+
+#: ../../source/opacpreferences.rst:3037
+msgid "Don't track"
+msgstr "不追蹤"
+
+#: ../../source/opacpreferences.rst:3039
+msgid "Track"
+msgstr "追蹤"
+
+#: ../../source/opacpreferences.rst:3041
+msgid "Track anonymously"
+msgstr "匿名追蹤"
+
+#: ../../source/opacpreferences.rst:3045
+msgid "By setting this preference to one of the track options you will allow Koha to track every link clicked in Koha. This data will be stored in a database table so that you can run reports against that data. If you choose to 'Track' clicks then Koha will record both the link clicked and the logged in user who clicked the link. If you choose to 'Track anonymously' then the borrowernumber will not be recorded, but the rest of the data will."
+msgstr "經由此偏好可以追蹤 Koha 內的每個點選。這些資料儲存在資料庫裡，可以抓出來編製成報表。若選擇 '追蹤' Koha 記錄點選的連結與登入者。若選擇 '匿名追蹤'，則不記錄登入者的讀者證號碼只記錄其他的資料。"
+
+#: ../../source/opacpreferences.rst:3055
+msgid "Remember to update your local privacy policies and link to them from the OPAC to notify your users that you are tracking their information."
+msgstr "記得更新圖書館隱私政策並從 OPAC 連結過來，告知讀者圖書館正追蹤其資訊。"
+
+#: ../../source/opacpreferences.rst:3062
+#, fuzzy
+msgid "Restricted page"
+msgstr "限制頁面"
+
+#: ../../source/opacpreferences.rst:3064
+msgid "Using the following preference you can create a page within your Koha system that is accessible by only specific IP addresses. This can be used to house links to databases that can only be accessed from with the library or other licensed content."
+msgstr "經由偏好設定指定的 IP 才能近用 Koha。用於指定圖書館或其他授權的單位才能近用其資料庫。"
+
+#: ../../source/opacpreferences.rst:3072
+msgid "RestrictedPageContent"
+msgstr "RestrictedPageContent"
+
+#: ../../source/opacpreferences.rst:3074
+msgid "Asks: HTML content of your restricted page."
+msgstr "詢問：限制頁面內的 HTML 內容。"
+
+#: ../../source/opacpreferences.rst:3079
+msgid "RestrictedPageLocalIPs"
+msgstr "RestrictedPageLocalIPs"
+
+#: ../../source/opacpreferences.rst:3081
+msgid "Asks: Access from IP addresses beginning with \\_\\_\\_ do not need to be authenticated"
+msgstr "詢問：近用的 IP 位址開始為 \\_\\_\\_ 不需要認證"
+
+#: ../../source/opacpreferences.rst:3086
+msgid "You can enter individual IPs as a comma separated list (ex: '127.0.0,127.0.1') or just the beginning of the IP range allowed (ex: '127.0.^)"
+msgstr "可以用逗點區隔 IP (如：'127.0.0,127.0.1') 或祗列出 IP 的開始範圍 (如：'127.0.^)"
+
+#: ../../source/opacpreferences.rst:3093
+msgid "RestrictedPageTitle"
+msgstr "RestrictedPageTitle"
+
+#: ../../source/opacpreferences.rst:3095
+msgid "Asks: Use \\_\\_\\_ as title of your restricted page"
+msgstr "詢問：以 \\_\\_\\_ 為限制頁面的題名"
+
+#: ../../source/opacpreferences.rst:3099
+msgid "This title will appear in the breadcrumb and on the top of the restricted page."
+msgstr "此題名顯示於導覽列與限制頁面最上方。"
+
+#: ../../source/opacpreferences.rst:3105
+msgid "Self registration and modification"
+msgstr "自行註冊及修改"
+
+#: ../../source/opacpreferences.rst:3110
+msgid "EmailPatronRegistrations and EmailAddressForPatronRegistrations"
+msgstr ""
+
+#: ../../source/opacpreferences.rst:3112
+msgid "Asks: Choose email address that new patron self-registrations will be sent to: \\_\\_\\_. If you choose EmailAddressForPatronRegistrations you have to enter a valid email address: \\_\\_\\_"
+msgstr ""
+
+#: ../../source/opacpreferences.rst:3116
+msgid "Values: -  none -  email address of library -  EmailAddressForPatronRegistrations -  KohaAdminEmailAddress"
+msgstr ""
+
+#: ../../source/opacpreferences.rst:3124
+msgid "These system preferences allow libraries to receive notifications when patrons self-register. The notice text can be customised in the :ref:`Notices and slips <notices-and-slips-label>` tool; the letter code is OPAC_REG."
+msgstr ""
+
+#: ../../source/opacpreferences.rst:3125
+msgid "If the value of EmailPatronRegistrations is set to 'none', no notifications will be sent."
+msgstr ""
+
+#: ../../source/opacpreferences.rst:3126
+msgid "If the value of EmailPatronRegistrations is set to 'email address of library', notifications will be sent to the registration library using the email address entered in the :ref:`Libraries settings <libraries-label>`."
+msgstr ""
+
+#: ../../source/opacpreferences.rst:3127
+msgid "If the value is set to 'EmailAddressForPatronRegistrations', notifications will be sent to the email address in the input field."
+msgstr ""
+
+#: ../../source/opacpreferences.rst:3128
+msgid "Lastly, when the value of EmailPatronRegistrations is set to 'KohaAdminEmailAddress', notifications will be sent to the email address entered in the :ref:`KohaAdminEmailAddress <kohaadminemailaddress-label>` system preference."
+msgstr ""
+
+#: ../../source/opacpreferences.rst:3132
+msgid "If verification is required for self-registrations (when PatronSelfRegistrationVerifyByEmail is enabled), then notifications are only sent to the library once the registration is confirmed."
+msgstr ""
+
+#: ../../source/opacpreferences.rst:3137
+msgid "OPACPatronDetails"
+msgstr "OPACPatronDetails"
+
+#: ../../source/opacpreferences.rst:3139
+msgid "Asks: \\_\\_\\_ patrons to notify the library of changes to their contact information from the OPAC."
+msgstr "詢問：\\_\\_\\_ 讀者從 OPAC 告知圖書館其連絡資訊已改變。"
+
+#: ../../source/opacpreferences.rst:3154
+#, fuzzy
+msgid "If patrons are allowed to notify the library of changes to their account then staff will need to approve the changes via the staff interface. Notification of patron account requests will appear on the dashboard below the list of modules with other pending actions."
+msgstr "若允許讀者告知圖書館其連絡資訊已改變則館員需從館員介面認可此改變。對館員帳號請求的通知將出現在模組清單之下的面版。"
+
+#: ../../source/opacpreferences.rst:3159
+msgid "|pendingrequests|"
+msgstr ""
+
+#: ../../source/opacpreferences.rst:3161
+msgid "Once you click the notification you will be presented with the changes the patron would like to make to their account and from there you can choose how to proceed."
+msgstr "勾選通知之後將出現讀者的變更館員可以進行後續作業。"
+
+#: ../../source/opacpreferences.rst:3165
+msgid "|updatepatronrecords|"
+msgstr ""
+
+#: ../../source/opacpreferences.rst:3169
+#, fuzzy
+msgid "You can control which fields patrons see and can modify via the OPAC by setting the :ref:`PatronSelfModificationBorrowerUnwantedField <patronselfmodificationborrowerunwantedfield-label>` and :ref:`PatronSelfModificationMandatoryField <patronselfmodificationmandatoryfield-label>` preferences."
+msgstr "經由設定 :ref:`PatronSelfRegistrationBorrowerMandatoryField`和 :ref:`PatronSelfRegistrationBorrowerUnwantedField` 偏好您可以控制讀者從 OPAC 可看到的欄位並修改它們。"
+
+#: ../../source/opacpreferences.rst:3178
+msgid "PatronSelfModificationBorrowerUnwantedField"
+msgstr "PatronSelfModificationBorrowerUnwantedField"
+
+#: ../../source/opacpreferences.rst:3180
+msgid "Asks: The following `database columns <http://schema.koha-community.org/master/tables/borrowers.html>`__ will not appear on the patron self-modification screen: \\_\\_\\_"
+msgstr "詢問：以下的 :ref:`資料庫欄位 <http://schema.koha-community.org/master/tables/borrowers.html>`__ 將不會顯示在讀者自行修改畫面：\\_\\_\\_"
+
+#: ../../source/opacpreferences.rst:3186
+#, fuzzy
+msgid "This system preference allows you to define which fields patrons can edit if you're allowing them to update their personal information via the public catalog with the :ref:`OPACPatronDetails <OPACPatronDetails-label>` preference."
+msgstr "如果你允許讀者通過公共目錄更新他們的個人訊息，並使用 :ref:`OPACPatronDetails`偏好，該偏好允許你定義讀者可以編輯哪些欄段。"
+
+#: ../../source/opacpreferences.rst:3194
+#, fuzzy
+msgid "PatronSelfModificationMandatoryField"
+msgstr "PatronSelfModificationBorrowerUnwantedField"
+
+#: ../../source/opacpreferences.rst:3196
+#, fuzzy
+msgid "Asks: The following `database columns <http://schema.koha-community.org/master/tables/borrowers.html>`__ must be filled in on the patron self-modification screen: \\_\\_\\_"
+msgstr "詢問：以下的 :ref:`資料庫欄位 <http://schema.koha-community.org/master/tables/borrowers.html>`__ 將不會顯示在讀者自行修改畫面：\\_\\_\\_"
+
+#: ../../source/opacpreferences.rst:3201
+#, fuzzy
+msgid "This system preference allows you to define which fields patrons must fill in if you're allowing them to update their personal information via the public catalog with the :ref:`OPACPatronDetails <OPACPatronDetails-label>` preference."
+msgstr "如果你允許讀者通過公共目錄更新他們的個人訊息，並使用 :ref:`OPACPatronDetails`偏好，該偏好允許你定義讀者可以編輯哪些欄段。"
+
+#: ../../source/opacpreferences.rst:3209
+msgid "PatronSelfRegistration"
+msgstr "PatronSelfRegistration"
+
+#: ../../source/opacpreferences.rst:3211
+msgid "Asks: \\_\\_\\_ library patrons to register an account via the OPAC."
+msgstr "詢問：\\_\\_\\_ 讀者經由 OPAC 註冊其帳號。"
+
+#: ../../source/opacpreferences.rst:3223
+msgid "Setting this preference to 'Allow' will provide a link on the OPAC to register for a new account. Using the other :ref:`self registration <self-registration-label>` system preferences you can control how this preference will function."
+msgstr "設定偏好為 '允許' 後，讀者可從 OPAC 連結註冊其帳號。搭配其他的 :ref:`自助註冊 <self-registration-label>` 系統偏好可以更精細地控制此功能的運作。"
+
+#: ../../source/opacpreferences.rst:3228
+#, fuzzy
+msgid "|opachomeloginform|"
+msgstr "opacuserlogin"
+
+#: ../../source/opacpreferences.rst:3230
+msgid "To be notified when a patron registers via the OPAC, use the :ref:`EmailPatronRegistrations <emailpatronregistrations-and-emailaddressforpatronregistrations-label>` system preference."
+msgstr ""
+
+#: ../../source/opacpreferences.rst:3234
+msgid "Patrons registering via the OPAC will not need to be approved by a librarian. For this reason it is recommended that you set up a provisional :ref:`patron category <patron-categories-label>` with no :ref:`circulation rights <circulation-and-fines-rules-label>`. That way patrons will have to come in to the library to verify their identity before given circulation rights at the library. Once the patron confirms their identity the library staff can change the category to one with permissions to check items out and place holds."
+msgstr "經由 OPAC 線上登錄的讀者不需圖書館員的核准。所以建議您設定該 :ref:`讀者類型 <patron-categories-label>` 為沒有 :ref:`借閱權 <circulation-and-fine-rules-label>`。如此一來讀者必須到館確認其身份後才能借閱館藏。確認讀者身份後，館員可以更改其類型並給予借閱與預約的權限。"
+
+#: ../../source/opacpreferences.rst:3246
+msgid "PatronSelfRegistrationAdditionalInstructions"
+msgstr "PatronSelfRegistrationAdditionalInstructions"
+
+#: ../../source/opacpreferences.rst:3248
+msgid "Asks: Display the following additional instructions for patrons who self register via the OPAC ( HTML is allowed ):"
+msgstr "詢問： 顯示以下的額外指示 (可使用 HTML 語法) 給經由 OPAC 自行註冊的讀者："
+
+#: ../../source/opacpreferences.rst:3253
+#, fuzzy
+msgid "This system preference takes any HTML you'd like to display on the page the patron sees after successfully registering for their library card."
+msgstr "此偏好的 HTML 內容，顯示於讀者自行註冊成功後的螢幕。"
+
+#: ../../source/opacpreferences.rst:3259
+msgid "PatronSelfRegistrationBorrowerMandatoryField"
+msgstr "PatronSelfRegistrationBorrowerMandatoryField"
+
+#: ../../source/opacpreferences.rst:3261
+msgid "Asks: The following database columns must be filled in on the patron entry screen: \\_\\_\\_"
+msgstr "詢問：讀者必須在進入畫面填寫以下資料庫欄位 ：\\_\\_\\_"
+
+#: ../../source/opacpreferences.rst:3264
+msgid "Default: surname\\|firstname"
+msgstr "預設值：surname\\|firstname"
+
+#: ../../source/opacpreferences.rst:3268
+#, fuzzy
+msgid "This system preference allows you to define what fields patrons must fill in on their self registration form. If any of the required fields are blank Koha will not let the patron register."
+msgstr "這個偏好允許你定義讀者必須在他們的自我登記表上填寫哪些欄段。如果任何必要的欄段是空白的，Koha將不允許讀者註冊。"
+
+#: ../../source/opacpreferences.rst:3274 ../../source/opacpreferences.rst:3305
+msgid "Separate columns with \\|"
+msgstr "以直線 \\| 區隔各欄位"
+
+#: ../../source/opacpreferences.rst:3278 ../../source/opacpreferences.rst:3309
+msgid "For help with field names, ask your system administrator or `view the database structure <http://schema.koha-community.org/master/tables/borrowers.html>`__ associated with the borrowers table."
+msgstr "為了確認欄位名稱，可以請教系統管理員或 :ref:`檢視資料庫結構 <http://schema.koha-community.org/master/tables/borrowers.html>`__ 列出相關的讀者表單。"
+
+#: ../../source/opacpreferences.rst:3285
+#, fuzzy
+msgid "If you're going to require that patrons verify their accounts via email with the :ref:`PatronSelfRegistrationVerifyByEmail <PatronSelfRegistrationVerifyByEmail-label>` preference the email field will automatically be marked as required."
+msgstr "若在 :ref:`PatronSelfRegistrationVerifyByEmail` 偏好內要求讀者以電子郵件確認其註冊事宜，則自動把 email 欄位設為必備。"
+
+#: ../../source/opacpreferences.rst:3293
+msgid "PatronSelfRegistrationBorrowerUnwantedField"
+msgstr "PatronSelfRegistrationBorrowerUnwantedField"
+
+#: ../../source/opacpreferences.rst:3295
+msgid "Asks: The following database columns will not appear on the patron entry screen: \\_\\_\\_"
+msgstr "詢問：以下的資料庫欄將不顯示在讀者進入畫面：\\_\\_\\_"
+
+#: ../../source/opacpreferences.rst:3300
+msgid "Using this preference you can hide fields from the patron registration and update form in the OPAC."
+msgstr "以此偏好隱藏 OPAC 欄位，讓讀者在註冊及更新時看不到他們。"
+
+#: ../../source/opacpreferences.rst:3317
+msgid "PatronSelfRegistrationConfirmEmail"
+msgstr "PatronSelfRegistrationConfirmEmail"
+
+#: ../../source/opacpreferences.rst:3319
+msgid "Asks: \\_\\_\\_ users to confirm their email address by entering it twice."
+msgstr "要求：\\_\\_\\_ 使用者通過輸入兩次來確認其電子郵件位址。"
+
+#: ../../source/opacpreferences.rst:3321
+msgid "Default: Do not require"
+msgstr "預設值：不要求"
+
+#: ../../source/opacpreferences.rst:3325
+msgid "Do not require"
+msgstr "不要求"
+
+#: ../../source/opacpreferences.rst:3327 ../../source/opacpreferences.rst:3472
+msgid "Require"
+msgstr "必須"
+
+#: ../../source/opacpreferences.rst:3331
+msgid "If this preference is set to 'Require', users will have to enter their email address twice."
+msgstr "如果這個偏好被設置為 '要求'，使用者必須輸入其電子郵件位址兩次。"
+
+#: ../../source/opacpreferences.rst:3334
+#, fuzzy
+msgid "Make sure to enable this system preference if :ref:`PatronSelfRegistrationVerifyByEmail <PatronSelfRegistrationVerifyByEmail-label>` is enabled."
+msgstr "如果 :ref:`PatronSelfRegistrationVerifyByEmail`被啟用，請確保啟用這個系統偏好。"
+
+#: ../../source/opacpreferences.rst:3340
+msgid "PatronSelfRegistrationDefaultCategory"
+msgstr "PatronSelfRegistrationDefaultCategory"
+
+#: ../../source/opacpreferences.rst:3342
+msgid "Asks: Use the patron category code \\_\\_\\_ as the default patron category for patrons registered via the OPAC."
+msgstr "詢問：使用讀者類型代碼 \\_\\_\\_ 做為經由 OPAC 註冊的預設讀者類型。"
+
+#: ../../source/opacpreferences.rst:3347
+msgid "Enter in the patron :ref:`category code <patron-categories-label>` for the category that all new patrons registered via the OPAC will be put in to."
+msgstr "輸入讀者 :ref:`類別代碼<patron-categories-label>`，所有通過OPAC註冊的新讀者將被歸入該類別。"
+
+#: ../../source/opacpreferences.rst:3352
+#, fuzzy
+msgid "Do not use a regular :ref:`patron category <patron-categories-label>` for this, as any patron who has not completed the registration verification process will be deleted by the :ref:`cleanup\\_database.pl script <cron-clean-up-database-label>` after the number of days indicated in :ref:`PatronSelfRegistrationExpireTemporaryAccountsDelay <PatronSelfRegistrationExpireTemporaryAccountsDelay-label>`, including regular patrons who have not registered online."
+msgstr "不要使用普通的 :ref:`讀者類別<patron-categories-label>`來做這個，因為任何沒有完成註冊驗證過程的讀者，在 :ref:`清理/_資料庫.pl 腳本<cron-clean-up-database-label>`中指出的天數後，會被 :ref:`PatronSelfRegistrationExpireTemporaryAccountsDelay`刪除，包括未在線註冊的普通讀者。"
+
+#: ../../source/opacpreferences.rst:3362
+#, fuzzy
+msgid "Patrons registering via the OPAC will not need to be approved by a librarian. For this reason it is recommended that you set up a provisional :ref:`patron category <patron-categories-label>` with no :ref:`circulation rights <circulation-and-fines-rules-label>`. That way, patrons will have to come in to the library to verify their identity before being given circulation rights at the library. Once the patron confirms their identity, the library staff can change the category to one with permissions to check items out and place holds."
+msgstr "經由 OPAC 線上登錄的讀者不需圖書館員的核准。所以建議您設定該 :ref:`讀者類型 <patron-categories-label>` 為沒有 :ref:`借閱權 <circulation-and-fine-rules-label>`。如此一來讀者必須到館確認其身份後才能借閱館藏。確認讀者身份後，館員可以更改其類型並給予借閱與預約的權限。"
+
+#: ../../source/opacpreferences.rst:3373
+msgid "If you leave this blank or enter in an invalid code, your patrons will still be able to register but will not be given a username. There will be no errors on the page to explain this, so be sure to enter a valid patron category code."
+msgstr "若此偏好空白或鍵入無效的讀者類型代碼，讀者仍可註冊但不會取得使用者名稱。也沒有錯誤訊息說明它，因此應鍵入有效的讀者類型代碼。"
+
+#: ../../source/opacpreferences.rst:3378
+#, fuzzy
+msgid "This system preference is required by :ref:`PatronSelfRegistration <PatronSelfRegistration-label>`."
+msgstr "這個系統偏好是由 :ref:`PatronSelfRegistration`要求的。"
+
+#: ../../source/opacpreferences.rst:3383
+msgid "PatronSelfRegistrationEmailMustBeUnique"
+msgstr "PatronSelfRegistrationEmailMustBeUnique"
+
+#: ../../source/opacpreferences.rst:3385
+msgid "Asks: \\_\\_\\_ patron's email (borrowers.email) as unique on self registering. An email won't be accepted if it already exists in the database."
+msgstr "詢問：\\_\\_\\_ 讀者電子郵件 (borrowers.email) 是自助註冊的資料。不接受與其他人重複的電子郵件。"
+
+#: ../../source/opacpreferences.rst:3388
+msgid "Default: Do not consider"
+msgstr "預設值：不考慮"
+
+#: ../../source/opacpreferences.rst:3392
+msgid "Do not consider"
+msgstr "不考慮"
+
+#: ../../source/opacpreferences.rst:3394
+msgid "Consider"
+msgstr "考慮"
+
+#: ../../source/opacpreferences.rst:3398
+msgid "If enabled, this system preference will prevent user from creating several accounts with the same email address."
+msgstr "如果啟用，這個系統偏好將防止用戶用同一個電子郵件地址建立多個帳戶。"
+
+#: ../../source/opacpreferences.rst:3404
+msgid "PatronSelfRegistrationExpireTemporaryAccountsDelay"
+msgstr "PatronSelfRegistrationExpireTemporaryAccountsDelay"
+
+#: ../../source/opacpreferences.rst:3406
+#, fuzzy
+msgid "Asks: Delete patrons still in the category indicated by :ref:`PatronSelfRegistrationDefaultCategory <PatronSelfRegistrationDefaultCategory-label>` \\_\\_\\_ days after account creation."
+msgstr "要求：刪除帳戶建立後幾天仍在由 :ref:`PatronSelfRegistrationDefaultCategory` \\_\\_\\_ 指示的類別中讀者。"
+
+#: ../../source/opacpreferences.rst:3413
+#, fuzzy
+msgid "This system preference links to the :ref:`cleanup\\_database cron job <cron-clean-up-database-label>`. If that cron is set to run nightly with the --del-exp-selfreg parameter, it will clean up any registrations that have not been verified via email in the number of days entered on this preference."
+msgstr "此偏好連結到 :ref:`清理/_資料庫 工作排程 <cron-clean-up-database-label>`。如果該排程被設置為每晚運行，並帶有--del-exp-selfreg 參數，它將清理任何在該偏好中輸入的天數內未通過電子郵件驗證的註冊。"
+
+#: ../../source/opacpreferences.rst:3419
+#, fuzzy
+msgid "This system preference is dependent on the :ref:`PatronSelfRegistrationVerifyByEmail <PatronSelfRegistrationVerifyByEmail-label>` system preference."
+msgstr "這個偏好取決於 :ref:`PatronSelfRegistrationVerifyByEmail`系統偏好。"
+
+#: ../../source/opacpreferences.rst:3425
+msgid "PatronSelfRegistrationLibraryList"
+msgstr "PatronSelfRegistrationLibraryList"
+
+#: ../../source/opacpreferences.rst:3427
+msgid "Asks: Enable the self registration for the following libraries: \\_\\_\\_ (separate branchcode with \\|). If empty, all libraries will be listed."
+msgstr "詢問：在下述圖書館啟用自助註冊：\\_\\_\\_ (以 \\| 區隔分館代碼)。若空白，則所有圖書館均可用。"
+
+#: ../../source/opacpreferences.rst:3432
+#, fuzzy
+msgid "If only some libraries in your system are accepting self-registered patrons, enter the list of :ref:`codes <libraries-label>` here and separate each with a pipe (\\|)."
+msgstr "如果你的系統中只有一些圖書館接受自我註冊的讀者，請在這裡輸入 :ref:`代碼<libraries-label>`的列表，並用豎槓(\\|)分開。"
+
+#: ../../source/opacpreferences.rst:3436
+msgid "If this system preference is left empty, all libraries will be listed."
+msgstr "如果這個系統偏好留空，所有圖書館都將被列出。"
+
+#: ../../source/opacpreferences.rst:3441
+msgid "PatronSelfRegistrationPrefillForm"
+msgstr "PatronSelfRegistrationPrefillForm"
+
+#: ../../source/opacpreferences.rst:3443
+msgid "Asks: \\_\\_\\_ password and login form after a patron has self registered."
+msgstr "詢問：自助登錄後出現 \\_\\_\\_ 密碼及登入表單。"
+
+#: ../../source/opacpreferences.rst:3445
+#, fuzzy
+msgid "Default: Show and prefill"
+msgstr "預設值：顯示並預填資料"
+
+#: ../../source/opacpreferences.rst:3449
+#, fuzzy
+msgid "Don't show and prefill"
+msgstr "不顯示及預填"
+
+#: ../../source/opacpreferences.rst:3451
+#, fuzzy
+msgid "Show and prefill"
+msgstr "顯示和預填"
+
+#: ../../source/opacpreferences.rst:3455
+#, fuzzy
+msgid "This system preference is used to prefill (or not) the login form on the OPAC after :ref:`self registration<opac-self-registration-label>`, so the patron doesn't have to type in the information."
+msgstr "這個系統偏好用於在自我註冊後預填（或不預填）OPAC上的登錄表，這樣讀者就不必輸入訊息了。"
+
+#: ../../source/opacpreferences.rst:3462
+msgid "PatronSelfRegistrationVerifyByEmail"
+msgstr "PatronSelfRegistrationVerifyByEmail"
+
+#: ../../source/opacpreferences.rst:3464
+msgid "Asks: \\_\\_\\_ that a self-registering patron verify themselves via email."
+msgstr "詢問：\\_\\_\\_ 自行註冊的讀者通過電子郵件驗證自己。"
+
+#: ../../source/opacpreferences.rst:3466
+msgid "Default: Don't require"
+msgstr "預設值：非必須"
+
+#: ../../source/opacpreferences.rst:3470
+msgid "Don't require"
+msgstr "非必須"
+
+#: ../../source/opacpreferences.rst:3476
+#, fuzzy
+msgid "If you require patrons to verify their accounts via email they will not be able to log in to the OPAC until they acknowledge the email sent by Koha. If you don't require this then patrons will be able to log in as soon as they fill in the registration form. You can set the :ref:`PatronSelfRegistrationExpireTemporaryAccountsDelay <PatronSelfRegistrationExpireTemporaryAccountsDelay-label>` preference to delete the un-verified self registrations after a certain number of days."
+msgstr "若要求讀者經由電子郵件認證其註冊事宜，讀者就必須經由自己的電子郵件帳號認證其註冊，才能算註冊成功可以登入 OPAC。若不要求認證，則註冊後就能使用圖書館。可設定 :ref:`PatronSelfRegistrationExpireTemporaryAccountsDelay` 偏好，在指定日數後刪除未認證的讀者。"
+
+#: ../../source/opacpreferences.rst:3486
+msgid "If you're going to require that patrons verify their accounts via email then the email field will automatically be marked as required."
+msgstr "若要求經由電子郵件認證，則電子郵件欄位自動成為必備欄位。"
+
+#: ../../source/opacpreferences.rst:3491
+#, fuzzy
+msgid "If you require email verification, also set :ref:`PatronSelfRegistrationConfirmEmail <PatronSelfRegistrationConfirmEmail-label>` to 'Require' to prevent patrons from entering an erroneous email address and never being able to confirm their account."
+msgstr "如果你需要電子郵件驗證，也請將 :ref:`PatronSelfRegistrationConfirmEmail`設置為 '要求'，以防止讀者輸入錯誤的電子郵件地址而無法確認其賬戶。"
+
+#: ../../source/opacpreferences.rst:3499
+#, fuzzy
+msgid "Shelf browser"
+msgstr "瀏覽書架"
+
+#: ../../source/opacpreferences.rst:3504
+msgid "OPACShelfBrowser"
+msgstr "OPACShelfBrowser"
+
+#: ../../source/opacpreferences.rst:3508
+msgid "Asks: \\_\\_\\_ a shelf browser on item details pages, allowing patrons to see what's near that item on the shelf."
+msgstr "詢問：在館藏詳情頁面 \\_\\_\\_ 書架瀏覽功能，允許讀者瀏覽臨近的書架。"
+
+#: ../../source/opacpreferences.rst:3517
+msgid "|image104|"
+msgstr ""
+
+#: ../../source/opacpreferences.rst:3521
+#, fuzzy
+msgid "This system preference allows patrons to view what is located on the shelf near the item they looked up. The shelf browser option appears on the details page to the right of each items' call number. Clicking the 'Browse Shelf' link allows for a virtual shelf browsing experience via the OPAC and lets patrons see other books that may relate to their search and items that sit on the shelf near the item they are looking at."
+msgstr "此偏好允許在搜尋之後可以瀏覽臨近的書架。此書架瀏覽功能顯示在詳情頁面的館藏索書號右側。點選 '瀏覽書架' 連結後，可以在 OPAC 瀏覽虛擬的書架，並看到與此搜尋有關的其他館藏。"
+
+#: ../../source/opacpreferences.rst:3531
+msgid "This uses up a fairly large amount of resources on your server, and should be avoided if your collection has a large number of items."
+msgstr "此偏好耗費相當資源，應避免使用館藏量大的圖書館。"
+
+#: ../../source/opacpreferences.rst:3537
+msgid "ShelfBrowserUsesCcode"
+msgstr "ShelfBrowserUsesCcode"
+
+#: ../../source/opacpreferences.rst:3539
+msgid "Default: Don't use"
+msgstr "預設值：不用"
+
+#: ../../source/opacpreferences.rst:3541
+msgid "Asks: \\_\\_\\_ the item collection code when finding items for the shelf browser."
+msgstr "詢問：從書架瀏覽器找尋館藏時 \\_\\_\\_ 館藏代碼。"
+
+#: ../../source/opacpreferences.rst:3546 ../../source/opacpreferences.rst:3568
+#: ../../source/opacpreferences.rst:3589
+msgid "Don't use"
+msgstr "不使用"
+
+#: ../../source/opacpreferences.rst:3548 ../../source/opacpreferences.rst:3570
+#: ../../source/opacpreferences.rst:3591
+msgid "Use"
+msgstr "使用"
+
+#: ../../source/opacpreferences.rst:3552
+msgid "If your library uses collection codes then you might want the shelf browser to take into consideration what collection the books belong to when populating the virtual shelf browser."
+msgstr "使用館藏代碼的圖書館或許希望在書架瀏覽時，先查看該館藏所屬的館藏區，再以書架瀏覽器查看它們。"
+
+#: ../../source/opacpreferences.rst:3559
+msgid "ShelfBrowserUsesHomeBranch"
+msgstr "ShelfBrowserUsesHomeBranch"
+
+#: ../../source/opacpreferences.rst:3561 ../../source/opacpreferences.rst:3583
+msgid "Default: Use"
+msgstr "預設值：使用"
+
+#: ../../source/opacpreferences.rst:3563
+#, fuzzy
+msgid "Asks: \\_\\_\\_ the item home library when finding items for the shelf browser."
+msgstr "詢問：從書架瀏覽器找尋館藏時 \\_\\_\\_ 館藏所屬圖書館。"
+
+#: ../../source/opacpreferences.rst:3574
+#, fuzzy
+msgid "If you have a multiple library system you may want to make sure that Koha takes into consideration what library owns the books when populating the virtual shelf browser for accuracy."
+msgstr "在分館系統使用書架瀏覽器之前，或許希望先查看該等館藏屬於那個分館。"
+
+#: ../../source/opacpreferences.rst:3581
+msgid "ShelfBrowserUsesLocation"
+msgstr "ShelfBrowserUsesLocation"
+
+#: ../../source/opacpreferences.rst:3585
+msgid "Asks: \\_\\_\\_ the item location when finding items for the shelf browser."
+msgstr "詢問：找到館藏時在書架瀏覽器 \\_\\_\\_ 館藏位置。"
+
+#: ../../source/opacpreferences.rst:3595
+msgid "If your library uses shelving locations then you might want the shelf browser to take into consideration what shelving location the books belong to when populating the virtual shelf browser."
+msgstr "若圖書館使用書架位置，則或許希望將館藏位置放在虛擬書架瀏覽器內。"
+
+#: ../../source/opacpreferences.rst:3602
+#, fuzzy
+msgid "Suggestions"
+msgstr "建議"
+
+#: ../../source/opacpreferences.rst:3607
+msgid "AnonSuggestions"
+msgstr "AnonSuggestions"
+
+#: ../../source/opacpreferences.rst:3609
+msgid "Asks: \\_\\_\\_ patrons that aren't logged in to make purchase suggestions."
+msgstr "詢問：\\_\\_\\_ 未登入的讀者有權提出採訪建議。"
+
+#: ../../source/opacpreferences.rst:3621
+msgid "This system preference determines whether or not patrons who aren't logged into the OPAC, or people who aren't patrons of the library can make :ref:`purchase suggestions <purchase-suggestions-opac-label>`."
+msgstr ""
+
+#: ../../source/opacpreferences.rst:3627
+#, fuzzy
+msgid "If set to 'Allow', suggestions are connected to the :ref:`AnonymousPatron <AnonymousPatron-label>`. Make sure that system preference is set to a patron account."
+msgstr "若設為 '允許'，建議連結到 :ref:`AnonymousPatron`"
+
+#: ../../source/opacpreferences.rst:3634
+msgid "MaxOpenSuggestions"
+msgstr "MaxOpenSuggestions"
+
+#: ../../source/opacpreferences.rst:3636
+#, fuzzy
+msgid "Asks: Limit patrons to \\_\\_\\_ open suggestions."
+msgstr "詢問：限制讀者於 \\_\\_\\_ 開啟建議。空白則無限制。"
+
+#: ../../source/opacpreferences.rst:3642
+#, fuzzy
+msgid "This system preference is used to limit how many :ref:`purchase suggestions <purchase-suggestions-opac-label>` patrons can have open at one time."
+msgstr "這個系統偏好用於限制讀者在一定天數內提出建議的數量。"
+
+#: ../../source/opacpreferences.rst:3646 ../../source/opacpreferences.rst:3685
+msgid "Leave empty to have no limit."
+msgstr ""
+
+#: ../../source/opacpreferences.rst:3650
+#, fuzzy
+msgid "This setting does not affect :ref:`anonymous suggestions <anonsuggestions-label>`."
+msgstr "此設定不影響匿名建議。"
+
+#: ../../source/opacpreferences.rst:3654
+msgid "This affects only suggestions that are 'pending'. Once the status of the suggestion changes, it is no longer considered 'open'."
+msgstr ""
+
+#: ../../source/opacpreferences.rst:3661
+msgid "This setting only affects suggestions made by the patron in the OPAC. It does not prevent staff from :ref:`making suggestions in the name of the patron in the staff interface <purchase-suggestions-label>`."
+msgstr ""
+
+#: ../../source/opacpreferences.rst:3670
+msgid "MaxTotalSuggestions and NumberOfSuggestionDays"
+msgstr "MaxTotalSuggestions 和 NumberOfSuggestionDays"
+
+#: ../../source/opacpreferences.rst:3672
+msgid "Asks: Number of total suggestions allowed \\_\\_\\_ in \\_\\_\\_ days."
+msgstr "詢問：在 \\_\\_\\_ 天內允許的總建議數 \\_\\_\\_。"
+
+#: ../../source/opacpreferences.rst:3678
+#, fuzzy
+msgid "This system preference is used to limit the number of :ref:`purchase suggestions <purchase-suggestions-opac-label>` a patron can make in a certain number of days."
+msgstr "這個系統偏好用於限制讀者在一定天數內提出建議的數量。"
+
+#: ../../source/opacpreferences.rst:3682
+msgid "For example, if you want to limit patrons to 10 suggestions per week, enter 10 and 7."
+msgstr "例如，如果要將讀者限制為每周 10 條建議，請輸入 10 和 7。"
+
+#: ../../source/opacpreferences.rst:3690
+#, fuzzy
+msgid "OPACSuggestionAutoFill"
+msgstr "OPACSuggestionMandatoryFields"
+
+#: ../../source/opacpreferences.rst:3692
+msgid "Asks: \\_\\_\\_ OPAC suggestions form automatically filling with data from Google Books API."
+msgstr ""
+
+#: ../../source/opacpreferences.rst:3699 ../../source/opacpreferences.rst:3843
+#, fuzzy
+msgid "Disable"
+msgstr "停用"
+
+#: ../../source/opacpreferences.rst:3705
+msgid "When this system preference is enabled, the :ref:`purchase suggestions <purchase-suggestions-opac-label>` form on the OPAC will have a 'Search Google Books' button next to the ISBN field. When a patron enters a valid ISBN, Koha will check the Google Books API for the information, such as title, author, and publication date and automatically fill out the suggestion form for the patron."
+msgstr ""
+
+#: ../../source/opacpreferences.rst:3715
+msgid "OpacSuggestionManagedBy"
+msgstr "OpacSuggestionManagedBy"
+
+#: ../../source/opacpreferences.rst:3717
+msgid "Asks: \\_\\_\\_ the name of the staff member who managed a suggestion in OPAC."
+msgstr "詢問：在 OPAC \\_\\_\\_ 管理採訪建議的館員姓名。"
+
+#: ../../source/opacpreferences.rst:3729
+#, fuzzy
+msgid "If you're :ref:`allowing patrons to make purchase suggestions <suggestion-label>`, they will see the 'your purchase suggestions' tab when logged in. By default, this tab displays the name of the staff member who approved or rejected the purchase suggestion. This preference controls if the patron sees the staff member's name or not."
+msgstr "若您 :ref:`允許讀者提出採訪建議 <suggestion-label>` 則在登入時就可看到 '我的採訪建議' 分頁。此分頁顯示館員核准或拒絕的採訪建議。此偏好設定後可以讓讀者看到館員的姓名。"
+
+#: ../../source/opacpreferences.rst:3738
+msgid "OPACSuggestionMandatoryFields"
+msgstr "OPACSuggestionMandatoryFields"
+
+#: ../../source/opacpreferences.rst:3740
+#, fuzzy
+msgid "Asks: Fields that should be mandatory for patron purchase suggestions: \\_\\_\\_"
+msgstr "詢問: 對於讀者購買建議應該隱藏的欄段: \\_\\_\\_ 注意：不要讓OPACSuggestionMandatoryFields成為不需要的欄位。"
+
+#: ../../source/opacpreferences.rst:3742 ../../source/opacpreferences.rst:3788
+msgid "Default: Blank"
+msgstr "預設值：空白"
+
+#: ../../source/opacpreferences.rst:3746
+msgid "The 'Title' field is always mandatory."
+msgstr ""
+
+#: ../../source/opacpreferences.rst:3752
+msgid "Author"
+msgstr "作者"
+
+#: ../../source/opacpreferences.rst:3754
+msgid "Collection title"
+msgstr "合集題名"
+
+#: ../../source/opacpreferences.rst:3756
+#, fuzzy
+msgid "Copyright date"
+msgstr "著作權或出版年"
+
+#: ../../source/opacpreferences.rst:3758
+msgid "ISBN"
+msgstr ""
+
+#: ../../source/opacpreferences.rst:3760
+msgid "Item type"
+msgstr "館藏類型"
+
+#: ../../source/opacpreferences.rst:3762
+#, fuzzy
+msgid "Library"
+msgstr "LibraryName"
+
+#: ../../source/opacpreferences.rst:3764
+msgid "Note"
+msgstr "注意事項"
+
+#: ../../source/opacpreferences.rst:3766
+msgid "Patron reason"
+msgstr "讀者理由"
+
+#: ../../source/opacpreferences.rst:3768
+#, fuzzy
+msgid "Place of publication"
+msgstr "出版年"
+
+#: ../../source/opacpreferences.rst:3770
+#, fuzzy
+msgid "Publisher"
+msgstr "出版社名稱"
+
+#: ../../source/opacpreferences.rst:3772
+msgid "Quantity"
+msgstr ""
+
+#: ../../source/opacpreferences.rst:3774
+msgid "Title"
+msgstr "標題"
+
+#: ../../source/opacpreferences.rst:3778
+msgid "This system preference allows you to choose which fields are mandatory when patrons :ref:`make purchase suggestions from the OPAC <purchase-suggestions-opac-label>`."
+msgstr ""
+
+#: ../../source/opacpreferences.rst:3784
+msgid "OPACSuggestionUnwantedFields"
+msgstr "OPACSuggestionUnwantedFields"
+
+#: ../../source/opacpreferences.rst:3786
+#, fuzzy
+msgid "Asks: Fields that should be hidden for patron purchase suggestions: \\_\\_\\_"
+msgstr "詢問: 對於讀者購買建議應該隱藏的欄段: \\_\\_\\_ 注意：不要讓OPACSuggestionMandatoryFields成為不需要的欄位。"
+
+#: ../../source/opacpreferences.rst:3790
+#, fuzzy
+msgid "Values: As for :ref:`OPACSuggestionMandatoryFields <OPACSuggestionMandatoryFields-label>` shown above."
+msgstr "值：如 ：ref：'OPACSuggestionMandatoryFields'如上所示。"
+
+#: ../../source/opacpreferences.rst:3794
+#, fuzzy
+msgid "This system preference allows you to hide fields from the :ref:`purchase suggestion <purchase-suggestions-opac-label>` form in the OPAC."
+msgstr "這個系統偏好控制著OPAC中 :ref:`搜尋結果<search-results-label>`中的記錄顯示。"
+
+#: ../../source/opacpreferences.rst:3799
+#, fuzzy
+msgid "Do not make fields in :ref:`OPACSuggestionMandatoryFields <opacsuggestionmandatoryfields-label>` unwanted fields."
+msgstr "值：如 ：ref：'OPACSuggestionMandatoryFields'如上所示。"
+
+#: ../../source/opacpreferences.rst:3806
+msgid "OPACViewOthersSuggestions"
+msgstr "OPACViewOthersSuggestions"
+
+#: ../../source/opacpreferences.rst:3808
+msgid "Asks: \\_\\_\\_ purchase suggestions from other patrons on the OPAC."
+msgstr "詢問：在 OPAC \\_\\_\\_ 其他讀者的採訪建議。"
+
+#: ../../source/opacpreferences.rst:3820
+msgid "This system preference determines whether or not patrons can see and search through :ref:`purchase suggestions <purchase-suggestions-opac-label>` made by other patrons."
+msgstr ""
+
+#: ../../source/opacpreferences.rst:3824
+#, fuzzy
+msgid "Only patrons logged in will be able to see purchase suggestions made by other patrons."
+msgstr "沒有登錄的讀者只能看到星評和平均評分。"
+
+#: ../../source/opacpreferences.rst:3829
+#, fuzzy
+msgid "The :ref:`opacuserlogin <opacuserlogin-label>` system preference needs to be set to 'Allow'."
+msgstr "必須把 :ref:`opacuserlogin` 設為 '允許'"
+
+#: ../../source/opacpreferences.rst:3835
+msgid "suggestion"
+msgstr "建議"
+
+#: ../../source/opacpreferences.rst:3837
+#, fuzzy
+msgid "Asks: \\_\\_\\_ purchase suggestions in the OPAC."
+msgstr "詢問：\\_\\_\\_ 讀者經由 OPAC 採訪建議。"
+
+#: ../../source/opacpreferences.rst:3849
+#, fuzzy
+msgid "This system preference is the main switch for the :ref:`purchase suggestion <purchase-suggestions-opac-label>` feature."
+msgstr "這個系統偏好控制著OPAC中 :ref:`搜尋結果<search-results-label>`中的記錄顯示。"
+
+#: ../../source/opacpreferences.rst:3852
+#, fuzzy
+msgid "If enabled, :ref:`opacuserlogin <opacuserlogin-label>` needs to be set to 'allow' unless :ref:`AnonSuggestions <AnonSuggestions-label>` is set to 'allow'."
+msgstr "必須將 :ref:`opacuserlogin` 設為 '允許' 除非 :ref:`AnonSuggestions` 已設為 '允許'"
+
+#: ../../source/opacpreferences.rst:3858
+msgid "suggestionPatronCategoryExceptions"
+msgstr ""
+
+#: ../../source/opacpreferences.rst:3860
+msgid "Asks: When :ref:`suggestion <suggestion-label>` is enabled and :ref:`AnonSuggestions <anonsuggestions-label>` is disabled, the following patron categories are not allowed to make purchase suggestions: \\_\\_\\_"
+msgstr ""
+
+#: ../../source/opacpreferences.rst:3866
+msgid "Values: your :ref:`patron categories <patron-categories-label>`"
+msgstr ""
+
+#: ../../source/opacpreferences.rst:3870
+#, fuzzy
+msgid "This system preference is used to limit some patrons from making :ref:`purchase suggestion <purchase-suggestions-opac-label>` in the OPAC."
+msgstr "這個系統偏好控制著OPAC中 :ref:`搜尋結果<search-results-label>`中的記錄顯示。"

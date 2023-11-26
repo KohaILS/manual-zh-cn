@@ -1,0 +1,5606 @@
+# Compendium of zh_TW.
+msgid ""
+msgstr ""
+"Project-Id-Version: Koha Manual 22.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-11-02 02:00+0000\n"
+"PO-Revision-Date: 2023-04-22 02:16+0000\n"
+"Last-Translator: Saralin <c108126114@nkust.edu.tw>\n"
+"Language-Team: Koha Translation Team\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: application/x-publican; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pootle 2.8\n"
+"X-Pootle-Path: /zh_TW/manual22.11/searching.po\n"
+"X-Pootle-Revision: 1\n"
+"X-POOTLE-MTIME: 1682129814.003152\n"
+
+#: ../../source/images.rst:2015
+msgid "Library and library group dropdown menu in the simple search bar in the OPAC"
+msgstr ""
+
+#: ../../source/images.rst:2078
+#, fuzzy
+msgid "Library catalog search box at the top of the page in the OPAC"
+msgstr "在OPAC中，圖書館的讀者會在大多數頁面的頂端看到一個搜尋框。"
+
+#: ../../source/images.rst:2509
+msgid "Date and language limits section of the advanced search form in the staff interface"
+msgstr ""
+
+#: ../../source/images.rst:2512
+#, fuzzy
+msgid "The advanced search form in the staff interface"
+msgstr "在館員介面上不可能隱藏它。"
+
+#: ../../source/images.rst:2515
+#, fuzzy
+msgid "Advanced search tabbed limits for item type, shelving location and collection"
+msgstr "在搜尋框下，有一些標籤允許你按館藏類型、書架位置或館藏來限制你的搜尋。"
+
+#: ../../source/images.rst:2518
+msgid "Location and availability limits section of the advanced search form in the staff interface"
+msgstr ""
+
+#: ../../source/images.rst:2521
+msgid "Search for section of the advanced search form in the staff interface"
+msgstr ""
+
+#: ../../source/images.rst:2524
+msgid "Search for section of the advanced search form in the staff interface when more options are enabled"
+msgstr ""
+
+#: ../../source/images.rst:2527
+msgid "Search for section of the advanced search form in the staff interface when more options are enabled with an example (Author Twain and Title Huckleberry Finn or Title Tom sawyer)"
+msgstr ""
+
+#: ../../source/images.rst:2530
+msgid "Sort by section of the advanced search form in the staff interface"
+msgstr ""
+
+#: ../../source/images.rst:2533
+msgid "Subtypes limits section of the advanced search form in the staff interface"
+msgstr ""
+
+#: ../../source/images.rst:2536
+msgid "No results match your search for 'king arthur camelot merlin'."
+msgstr ""
+
+#: ../../source/images.rst:2539
+msgid "4 results found for 'arthur king'"
+msgstr ""
+
+#: ../../source/images.rst:2542
+msgid "Form to save a search as a filter"
+msgstr ""
+
+#: ../../source/images.rst:2545
+msgid "Form to save a search as a filter, a replace option is available"
+msgstr ""
+
+#: ../../source/images.rst:2548
+#, fuzzy
+msgid "Search the catalog box at the top of the page in the staff interface"
+msgstr "圖書館員最常看到的搜尋框是位於館員介面頁面頂端的持續搜尋框。"
+
+#: ../../source/images.rst:2551
+msgid "Search history option in the user menu at the top of the page"
+msgstr ""
+
+#: ../../source/images.rst:2554
+#, fuzzy
+msgid "Authority search history"
+msgstr "及您的權威搜尋記錄。"
+
+#: ../../source/images.rst:2557
+#, fuzzy
+msgid "Bibliographic search history"
+msgstr "書目紀錄索引"
+
+#: ../../source/images.rst:2560
+msgid "Search results screen, 129 results found for 'shakespeare'"
+msgstr ""
+
+#: ../../source/images.rst:2563
+#, fuzzy
+msgid "Facets on the search results page"
+msgstr "對搜尋結果的操作"
+
+#: ../../source/images.rst:2569
+#, fuzzy
+msgid "The sort options in the search results page"
+msgstr "對搜尋結果的操作"
+
+#: ../../source/images.rst:2572
+msgid "Search the catalog box at the top of the page in the staff interface with the words 'king arthur' typed inside"
+msgstr ""
+
+#: ../../source/images.rst:2699
+msgid "Menu and search bar at the top of the page in the staff interface, the Search catalog option is selected, the mouse cursor is on  the settings icon and there is a library drop-down menu"
+msgstr ""
+
+#: ../../source/images.rst:3282
+msgid "image1049"
+msgstr ""
+
+#: ../../source/images.rst:3283
+msgid "image1050"
+msgstr ""
+
+#: ../../source/images.rst:3284
+msgid "image1051"
+msgstr ""
+
+#: ../../source/images.rst:3285
+msgid "image1052"
+msgstr ""
+
+#: ../../source/images.rst:3286
+msgid "image1053"
+msgstr ""
+
+#: ../../source/images.rst:3287
+msgid "image1054"
+msgstr ""
+
+#: ../../source/images.rst:3288
+msgid "image1055"
+msgstr ""
+
+#: ../../source/images.rst:3289
+msgid "image1056"
+msgstr ""
+
+#: ../../source/images.rst:3290
+msgid "image1057"
+msgstr ""
+
+#: ../../source/images.rst:3291
+msgid "image1058"
+msgstr ""
+
+#: ../../source/images.rst:3292
+msgid "image1059"
+msgstr ""
+
+#: ../../source/images.rst:3293
+msgid "image1060"
+msgstr ""
+
+#: ../../source/images.rst:3294
+msgid "image1061"
+msgstr ""
+
+#: ../../source/images.rst:3456
+msgid "image1313"
+msgstr ""
+
+#: ../../source/images.rst:3457
+msgid "image1314"
+msgstr ""
+
+#: ../../source/images.rst:3458
+msgid "image1315"
+msgstr ""
+
+#: ../../source/images.rst:3514
+msgid "image1447"
+msgstr ""
+
+#: ../../source/searching.rst:6
+msgid "Searching"
+msgstr "搜尋"
+
+#: ../../source/searching.rst:11
+msgid "Basic searching"
+msgstr "基本搜尋"
+
+#: ../../source/searching.rst:13
+msgid "The search box that library staff will see most often is the persistent search box at the top of the page in the staff interface."
+msgstr "圖書館員最常看到的搜尋框是位於館員介面頁面頂端的持續搜尋框。"
+
+#: ../../source/searching.rst:16
+msgid "|searchboxintranet|"
+msgstr ""
+
+#: ../../source/searching.rst:20
+msgid "If the :ref:`IntranetAddMastheadLibraryPulldown <intranetaddmastheadlibrarypulldown-label>` system preference is set to 'Add', the basic search box in the staff interface will include a choice of :ref:`library <libraries-label>`."
+msgstr ""
+
+#: ../../source/searching.rst:24
+msgid "|searchbar-catalog-librarypulldown|"
+msgstr ""
+
+#: ../../source/searching.rst:26
+msgid "In the OPAC, library patrons will see a search box at the top of most pages."
+msgstr "在OPAC中，圖書館的讀者會在大多數頁面的頂端看到一個搜尋框。"
+
+#: ../../source/searching.rst:28
+msgid "|searchboxopac|"
+msgstr ""
+
+#: ../../source/searching.rst:32
+msgid "If the :ref:`OpacAddMastheadLibraryPulldown <opacaddmastheadlibrarypulldown-label>` system preference is set to 'Add', the basic search box in the OPAC will include a choice of :ref:`library <libraries-label>` and :ref:`library group <library-groups-label>`."
+msgstr ""
+
+#: ../../source/searching.rst:37
+msgid "|OpacAddMastheadLibraryPulldown|"
+msgstr ""
+
+#: ../../source/searching.rst:39
+msgid "To search, enter a word or multiple words in the search box. When no search index is specified, a keyword search is performed."
+msgstr "要搜尋，在搜尋框中輸入一個詞或多個詞。如果沒有指定搜尋索引，就會進行關鍵詞搜尋。"
+
+#: ../../source/searching.rst:44
+msgid "You can verify this by typing one word into the form and note the number of results. Then, repeat the search with a minor change: in front of the search word, type 'kw=' followed by the same search term. The results will be identical."
+msgstr "你可以透過在表格中輸入一個詞並注意結果的數量來驗證這一點。然後，用一個小的變化重複搜尋：在搜尋詞的前面，輸入'kw='，後面是相同的搜尋詞。結果將是相同的。"
+
+#: ../../source/searching.rst:49
+msgid "When you have more than one word in the search box, Koha will still do a keyword search, but with the Boolean operator 'AND'. This will narrow your search to only records matching all the words."
+msgstr "當你在搜尋框中有一個以上的詞時，Koha仍然會進行關鍵詞搜尋，但以布林邏輯的交集運算 'AND'。這將把你的搜尋範圍縮小到只符合所有單詞的記錄。"
+
+#: ../../source/searching.rst:53
+msgid "When searching, select the major terms of what you are looking for and enter them into the persistent search box."
+msgstr "搜尋時，選擇你要尋找的主要術語，並將其輸入持續的搜尋框。"
+
+#: ../../source/searching.rst:56
+#, fuzzy
+msgid "|searchterms|"
+msgstr "搜尋術語"
+
+#: ../../source/searching.rst:58
+msgid "Koha will perform the search and :ref:`return the results<search-results-label>`."
+msgstr "Koha將執行搜尋並 :ref:`返回結果<search-results-label>`。"
+
+#: ../../source/searching.rst:60 ../../source/searching.rst:555
+#, fuzzy
+msgid "|searchresults|"
+msgstr "搜尋結果"
+
+#: ../../source/searching.rst:62
+msgid "The order of the words does not affect the retrieval results."
+msgstr "詞的順序並不影響檢索結果。"
+
+#: ../../source/searching.rst:64
+msgid "|resultssummary2|"
+msgstr ""
+
+#: ../../source/searching.rst:66
+msgid "Too many words in the search box will find very few matches."
+msgstr "在搜尋框輸入過多的詞彙將得到較少的結果。"
+
+#: ../../source/searching.rst:68
+msgid "|noresults|"
+msgstr ""
+
+#: ../../source/searching.rst:73
+msgid "Advanced searching"
+msgstr "進階搜尋"
+
+#: ../../source/searching.rst:75
+msgid "Advanced search can help when the basic search returns too many results."
+msgstr "當基本搜尋返回時，而有太多的結果，進階搜尋可以提供幫助。"
+
+#: ../../source/searching.rst:77
+msgid "*Get there:* Search or Advanced search"
+msgstr "*到那裡：* 搜尋或進階搜尋"
+
+#: ../../source/searching.rst:79
+msgid "The advanced search form offers many ways to limit the results of your search. You can search using the Boolean operators AND, OR, and NOT; limit by item type; limit by year and language; limit by subtypes audience, content, format, or additional content types; by location and by availability."
+msgstr "進階搜尋頁面提供多種篩選機制。可以用布林邏輯的運算元 AND、OR 與 NOT；篩選館藏類型；篩選出版年與語言；篩選預期讀者、內容、格式或其他內容類型；篩選館藏地與取得性。"
+
+#: ../../source/searching.rst:85
+msgid "You can use as many sections as you need, none are mandatory, as long as there is at least one search term or one limit selected."
+msgstr "你可以根據需要使用多個部分，沒有一個是必須的，只要至少有一個搜尋詞或選擇一個限制。"
+
+#: ../../source/searching.rst:88
+#, fuzzy
+msgid "|advancedsearchform|"
+msgstr "進階搜尋"
+
+#: ../../source/searching.rst:90
+msgid "The option to see the Search History within the Advanced Search feature exists if the system preference, EnableSearchHistory is set to Keep. This system preference controls whether the staff interface keeps search history for logged in users. Search history will be accessible under the link to your account at the top right of the staff interface and additionally under the Advanced Search option."
+msgstr ""
+
+#: ../../source/searching.rst:99
+msgid "Search terms"
+msgstr "搜尋術語"
+
+#: ../../source/searching.rst:101
+msgid "In the first section in the advanced search form provides several search boxes to search different indexes at the same time."
+msgstr "在進階搜尋表單的第一部分中提供了多個搜尋框以同時搜尋不同的索引。"
+
+#: ../../source/searching.rst:104
+#, fuzzy
+msgid "|advancedsearch-searchfor|"
+msgstr "進階搜尋文法"
+
+#: ../../source/searching.rst:106
+#, fuzzy
+msgid "If the :ref:`expandedSearchOption <expandedSearchOption-label>` system preference is set to 'show', options to choose Boolean operators will be automatically displayed. If the preference is set to 'don't show', clicking 'More options' will make those options appear."
+msgstr "如果 :ref:`expandedSearchOption`系統偏好設定為'顯示'，選擇布林運算符的選項將被自動顯示。如果偏好設定為 '不顯示'，點擊 '更多選項' 將使這些選項出現。"
+
+#: ../../source/searching.rst:110
+msgid "|advancedsearch-searchfor-moreoptions|"
+msgstr ""
+
+#: ../../source/searching.rst:112
+msgid "In this section you can choose among the many indexes in the drop down menus. The text box that follows is where you enter your first search term or terms. On the second line, you can choose the Boolean operator you want to use in your search. The options are 'and', 'or', and 'not'. Then, you would again choose the index to search, followed by the second term or terms. If you have more concepts you want to include in your search, you can click the [+] to add another line for your search."
+msgstr "在這一部分，你可以在下拉選單中的許多索引中進行選擇。此文字框逐一輸入關鍵詞。第二列鍵入布林邏輯運算元。包括 'and'、'or' 與 'not'。再選擇搜尋的索引，以及關鍵詞。不夠的話，還可以按 [+] 增加更多的搜尋選項。"
+
+#: ../../source/searching.rst:120
+msgid "For example, this is a search for records where the author is Twain and the title contains either 'Huckleberry Finn' or 'Tom Sawyer'."
+msgstr "舉例來說，這是一個搜尋記錄，作者是Twain，標題包含'Huckleberry Finn'或'Tom Sawyer'。"
+
+#: ../../source/searching.rst:123
+msgid "|advancedsearch-searchfor-moreoptions-example|"
+msgstr ""
+
+#: ../../source/searching.rst:125
+msgid "Boolean operators broaden or narrow searches."
+msgstr "布林邏輯運算元可以擴大或縮小搜尋範圍。"
+
+#: ../../source/searching.rst:127
+msgid "AND: narrows results because the search will retrieve the records that include all the search terms."
+msgstr "和：縮小結果範圍，因為搜尋將檢索包含所有搜尋詞的記錄。"
+
+#: ../../source/searching.rst:130
+msgid "OR: expands the results because the search will look for occurrences of all the search terms, whether they are in the same record or not."
+msgstr "或：擴大結果，因為搜尋將尋找所有搜尋術語的出現次數，無論它們是否在同一記錄中。"
+
+#: ../../source/searching.rst:133
+msgid "NOT: excludes records that contain the search term."
+msgstr "不：排除包含搜尋術語的記錄。"
+
+#: ../../source/searching.rst:135
+msgid "The indexes available in the advanced search form are the following (see more about indexes and which MARC fields are indexed in each in the :ref:`Koha search indexes<koha-search-indexes-label>` section below):"
+msgstr "在進階搜尋表格中可用的索引有以下幾種(見下文 :ref:`Koha 搜尋索引<koha-search-indexes-label>`部分中關於索引和每個MARC欄位索引的更多訊息):"
+
+#: ../../source/searching.rst:140
+msgid "Index option"
+msgstr "索引選項"
+
+#: ../../source/searching.rst:140 ../../source/searching.rst:245
+#: ../../source/searching.rst:303 ../../source/searching.rst:432
+#: ../../source/searching.rst:487
+msgid "Index searched"
+msgstr "索引搜尋"
+
+#: ../../source/searching.rst:140
+msgid "Search type"
+msgstr "搜尋類型"
+
+#: ../../source/searching.rst:142
+msgid "Keyword"
+msgstr "關鍵詞"
+
+#: ../../source/searching.rst:142 ../../source/searching.rst:144
+msgid "all"
+msgstr "全部"
+
+#: ../../source/searching.rst:142 ../../source/searching.rst:146
+#: ../../source/searching.rst:150 ../../source/searching.rst:152
+#: ../../source/searching.rst:158 ../../source/searching.rst:162
+#: ../../source/searching.rst:166 ../../source/searching.rst:168
+#: ../../source/searching.rst:172 ../../source/searching.rst:174
+#: ../../source/searching.rst:182 ../../source/searching.rst:184
+#: ../../source/searching.rst:186 ../../source/searching.rst:188
+#: ../../source/searching.rst:190 ../../source/searching.rst:192
+msgid "keyword"
+msgstr "關鍵詞"
+
+#: ../../source/searching.rst:144
+msgid "Keyword as phrase"
+msgstr "關鍵詞作為慣用語"
+
+#: ../../source/searching.rst:144 ../../source/searching.rst:148
+#: ../../source/searching.rst:154 ../../source/searching.rst:156
+#: ../../source/searching.rst:160 ../../source/searching.rst:164
+#: ../../source/searching.rst:170
+msgid "exact phrase"
+msgstr "精確的慣用語"
+
+#: ../../source/searching.rst:146 ../../source/searching.rst:1175
+#: ../../source/searching.rst:1611
+msgid "Author"
+msgstr "著者"
+
+#: ../../source/searching.rst:146 ../../source/searching.rst:148
+#: ../../source/searching.rst:1901 ../../source/searching.rst:2576
+msgid "author"
+msgstr "作者"
+
+#: ../../source/searching.rst:148
+msgid "Author as phrase"
+msgstr "作者作為慣用語"
+
+#: ../../source/searching.rst:150
+msgid "Corporate name"
+msgstr "公司名稱"
+
+#: ../../source/searching.rst:150 ../../source/searching.rst:154
+#: ../../source/searching.rst:2011
+msgid "corporate-name"
+msgstr "公司-名稱"
+
+#: ../../source/searching.rst:152
+msgid "Conference name"
+msgstr "會議名稱"
+
+#: ../../source/searching.rst:152 ../../source/searching.rst:156
+#: ../../source/searching.rst:1995
+msgid "conference-name"
+msgstr "會議-名稱"
+
+#: ../../source/searching.rst:154
+msgid "Corporate name as phrase"
+msgstr "公司名稱為慣用語"
+
+#: ../../source/searching.rst:156
+msgid "Conference name as phrase"
+msgstr "會議名稱為慣用語"
+
+#: ../../source/searching.rst:158
+msgid "Personal name"
+msgstr "個人姓名"
+
+#: ../../source/searching.rst:158 ../../source/searching.rst:160
+#: ../../source/searching.rst:2349 ../../source/searching.rst:2932
+msgid "personal-name"
+msgstr "個人-姓名"
+
+#: ../../source/searching.rst:160
+msgid "Personal name as phrase"
+msgstr "個人名稱為慣用語"
+
+#: ../../source/searching.rst:162 ../../source/searching.rst:1145
+#: ../../source/searching.rst:1613 ../../source/searching.rst:1739
+msgid "Title"
+msgstr "題名"
+
+#: ../../source/searching.rst:162 ../../source/searching.rst:164
+#: ../../source/searching.rst:2477 ../../source/searching.rst:2670
+msgid "title"
+msgstr "題名"
+
+#: ../../source/searching.rst:164
+msgid "Title as phrase"
+msgstr "題名為慣用語"
+
+#: ../../source/searching.rst:166
+msgid "Series title"
+msgstr "期刊題名"
+
+#: ../../source/searching.rst:166 ../../source/searching.rst:2543
+#: ../../source/searching.rst:2786
+msgid "title-series"
+msgstr "題名-期刊"
+
+#: ../../source/searching.rst:168 ../../source/searching.rst:1159
+#: ../../source/searching.rst:1661 ../../source/searching.rst:1679
+#: ../../source/searching.rst:1683 ../../source/searching.rst:1687
+#: ../../source/searching.rst:1691
+msgid "Subject"
+msgstr "主題"
+
+#: ../../source/searching.rst:168 ../../source/searching.rst:170
+#: ../../source/searching.rst:2427 ../../source/searching.rst:2646
+msgid "subject"
+msgstr "主題"
+
+#: ../../source/searching.rst:170
+msgid "Subject as phrase"
+msgstr "主題為慣用語"
+
+#: ../../source/searching.rst:172
+msgid "Barcode"
+msgstr "條碼"
+
+#: ../../source/searching.rst:172 ../../source/searching.rst:1957
+msgid "barcode"
+msgstr "條碼"
+
+#: ../../source/searching.rst:174 ../../source/searching.rst:249
+msgid "Shelving location"
+msgstr "排架位置"
+
+#: ../../source/searching.rst:174
+msgid "location (see note)"
+msgstr "地點(見備註)"
+
+#: ../../source/searching.rst:176
+msgid "Standard number"
+msgstr "標準號碼"
+
+#: ../../source/searching.rst:176 ../../source/searching.rst:2081
+#: ../../source/searching.rst:2608
+msgid "identifier-standard"
+msgstr "識別碼-標準"
+
+#: ../../source/searching.rst:176 ../../source/searching.rst:180
+msgid "number"
+msgstr "號碼"
+
+#: ../../source/searching.rst:178 ../../source/searching.rst:1151
+msgid "ISBN"
+msgstr "ISBN"
+
+#: ../../source/searching.rst:178 ../../source/searching.rst:2105
+#: ../../source/searching.rst:2612
+msgid "isbn"
+msgstr "國際標準書號"
+
+#: ../../source/searching.rst:180 ../../source/searching.rst:1153
+msgid "ISSN"
+msgstr "ISSN"
+
+#: ../../source/searching.rst:180 ../../source/searching.rst:2107
+#: ../../source/searching.rst:2614
+msgid "issn"
+msgstr "國際標準期刊編號"
+
+#: ../../source/searching.rst:182
+msgid "Call number"
+msgstr "索書號"
+
+#: ../../source/searching.rst:182 ../../source/searching.rst:2231
+#: ../../source/searching.rst:2628
+msgid "local-classification"
+msgstr "本地-分類"
+
+#: ../../source/searching.rst:184 ../../source/searching.rst:307
+#: ../../source/searching.rst:1165
+msgid "Language"
+msgstr "語言"
+
+#: ../../source/searching.rst:184 ../../source/searching.rst:307
+#: ../../source/searching.rst:1165 ../../source/searching.rst:1481
+#: ../../source/searching.rst:2225 ../../source/searching.rst:2626
+msgid "ln"
+msgstr "ln"
+
+#: ../../source/searching.rst:186
+msgid "Notes/Comments"
+msgstr "說明/評論"
+
+#: ../../source/searching.rst:186 ../../source/searching.rst:2325
+msgid "note"
+msgstr "說明"
+
+#: ../../source/searching.rst:188
+msgid "Curriculum"
+msgstr "課程"
+
+#: ../../source/searching.rst:188 ../../source/searching.rst:2029
+msgid "curriculum"
+msgstr "課程"
+
+#: ../../source/searching.rst:190 ../../source/searching.rst:1181
+msgid "Publisher"
+msgstr "出版者"
+
+#: ../../source/searching.rst:190 ../../source/searching.rst:2367
+#: ../../source/searching.rst:2642
+msgid "publisher"
+msgstr "出版商"
+
+#: ../../source/searching.rst:192
+msgid "Publisher location"
+msgstr "出版地"
+
+#: ../../source/searching.rst:192 ../../source/searching.rst:1167
+#: ../../source/searching.rst:2359
+msgid "pl"
+msgstr "pl"
+
+#: ../../source/searching.rst:194
+msgid "Publication date"
+msgstr "出版日期"
+
+#: ../../source/searching.rst:194 ../../source/searching.rst:196
+msgid "date"
+msgstr "日期"
+
+#: ../../source/searching.rst:194 ../../source/searching.rst:305
+#: ../../source/searching.rst:2037 ../../source/searching.rst:2596
+msgid "date-of-publication"
+msgstr "出版日期"
+
+#: ../../source/searching.rst:196
+msgid "Acquisition date"
+msgstr "採訪日期"
+
+#: ../../source/searching.rst:196 ../../source/searching.rst:2035
+#: ../../source/searching.rst:2594
+msgid "date-of-acquisition"
+msgstr "採訪日期"
+
+#: ../../source/searching.rst:201
+msgid "If using :ref:`LOC authorized values<existing-values-label>` in the :ref:`item location field<adding-items-label>`, the location indexed is the authorized value code."
+msgstr "如果在 :ref:`LOC容許值<existing-values-label>`中使用 :ref:`館藏位置欄位<adding-items-label>`，索引的位置就是容許值代碼。"
+
+#: ../../source/searching.rst:214
+msgid "Item types, locations and collections limits"
+msgstr "館藏類型、位置和館藏限制"
+
+#: ../../source/searching.rst:216
+msgid "Under the search boxes, there are tabs that allows you to limit your search by item type, shelving location or collection."
+msgstr "在搜尋框下，有一些標籤允許你按館藏類型、書架位置或館藏來限制你的搜尋。"
+
+#: ../../source/searching.rst:219
+#, fuzzy
+msgid "|advancedsearch-itypetabs|"
+msgstr "進階搜尋文法"
+
+#: ../../source/searching.rst:221
+#, fuzzy
+msgid "The tabs shown here, as well as their order are controlled by the :ref:`AdvancedSearchTypes <AdvancedSearchTypes-label>` system preference (or :ref:`OpacAdvancedSearchTypes <OpacAdvancedSearchTypes-label>` for the advanced search form in the OPAC)."
+msgstr "這裡顯示的標籤以及它們的順序由 :ref:`AdvancedSearchTypes`系統偏好控制（或者 :ref:`OpacAdvancedSearchTypes`用於OPAC的進階搜尋表格）。"
+
+#: ../../source/searching.rst:227
+#, fuzzy
+msgid "In the OPAC, this section can be hidden with the :ref:`OpacAdvSearchMoreOptions <OpacAdvSearchMoreOptions-label>` or the :ref:`OpacAdvSearchOptions <OpacAdvSearchOptions-label>` system preferences (uncheck the 'Item types' option)."
+msgstr "在OPAC中，可以透過 :ref:`OpacAdvSearchMoreOptions`或 :ref:`OpacAdvSearchOptions`系統偏好來隱藏這一部分（取消勾選'館藏類型'選項）。"
+
+#: ../../source/searching.rst:231 ../../source/searching.rst:271
+#: ../../source/searching.rst:327 ../../source/searching.rst:460
+#: ../../source/searching.rst:511
+msgid "It is not possible to hide it in the staff interface."
+msgstr "在館員介面上不可能隱藏它。"
+
+#: ../../source/searching.rst:233
+msgid "It is possible, when searching, to check multiple options in multiple tabs. In that case, options from the same tab are searched with the OR operator and the options for different tabs are searched with the AND operator. For example, if a user checks the 'Books' and 'Reference' item types as well as the 'Children's area' and 'General stacks' shelving locations, the options will be linked like this: (Books OR Reference) AND (Children's area OR General stacks)."
+msgstr "在搜尋時，可以在多個選項卡中檢查多個選項。在這種情況下，同一標籤的選項用OR運算符進行搜尋，不同標籤的選項用AND運算符進行搜尋。例如，如果使用者檢查了 '書籍' 和 '參考資料' 館藏類型以及 '兒童區' 和 '普通書架' 的書架位置，這些選項將被這樣連結：（書籍或參考資料）和（兒童區或普通書架）。"
+
+#: ../../source/searching.rst:240
+msgid "For each tab, the following indexes are searched (see more about indexes and which MARC fields are indexed in each in the :ref:`Koha search indexes<koha-search-indexes-label>` section below):"
+msgstr "對於每個標籤，都會搜尋以下索引(關於索引的更多訊息，以及每個索引中的MARC欄位，請參見下面的 :ref:`Koha 搜尋索引<koha-search-indexes-label>`部分):"
+
+#: ../../source/searching.rst:245
+msgid "Tab"
+msgstr "標籤"
+
+#: ../../source/searching.rst:247
+msgid "Item type"
+msgstr "館藏類型"
+
+#: ../../source/searching.rst:247 ../../source/searching.rst:2618
+msgid "itype"
+msgstr "類型"
+
+#: ../../source/searching.rst:249 ../../source/searching.rst:1823
+#: ../../source/searching.rst:2235 ../../source/searching.rst:2634
+msgid "location"
+msgstr "位置"
+
+#: ../../source/searching.rst:251
+#, fuzzy
+msgid "Collection"
+msgstr "合集"
+
+#: ../../source/searching.rst:251 ../../source/searching.rst:1815
+#: ../../source/searching.rst:1969 ../../source/searching.rst:2588
+msgid "ccode"
+msgstr "ccode"
+
+#: ../../source/searching.rst:257
+msgid "Date and language limits"
+msgstr "日期和語言限制"
+
+#: ../../source/searching.rst:259
+#, fuzzy
+msgid "The next section only appears if you click 'More option' or if the :ref:`expandedSearchOption <expandedSearchOption-label>` system preference is set to 'show'. It allows you to limit your search based on publication date or language."
+msgstr "只有當你點擊 '更多選項' 或者當 :ref:`expandedSearchOption`系統偏好設定為 '顯示' 時，才會出現下一個部分。它允許你根據出版日期或語言來限制你的搜尋。"
+
+#: ../../source/searching.rst:263
+#, fuzzy
+msgid "|advancedsearch-date|"
+msgstr "進階搜尋"
+
+#: ../../source/searching.rst:267
+#, fuzzy
+msgid "In the OPAC, this section can be hidden with the :ref:`OpacAdvSearchMoreOptions <OpacAdvSearchMoreOptions-label>` or the :ref:`OpacAdvSearchOptions <OpacAdvSearchOptions-label>` system preferences (uncheck the 'Publication date' or the 'Language' option)."
+msgstr "在OPAC中，這個部分可以通過 :ref:`OpacAdvSearchMoreOptions`或 :ref:`OpacAdvSearchOptions`系統偏好來隱藏（取消勾選 '出版日期' 或 '語言' 選項）。"
+
+#: ../../source/searching.rst:273
+msgid "The 'Year' limit allows you to search for titles published in a specific year as well as a range of years."
+msgstr "'年份' 的限制允許你搜尋在特定年份以及一系列年份出版的題名。"
+
+#: ../../source/searching.rst:276
+msgid "'2005' will search for titles published in 2005"
+msgstr "'2005' 將搜尋 2005 年出版的題名"
+
+#: ../../source/searching.rst:278
+msgid "'2005-2010' will search for titles published between 2005 and 2010 (including 2005 and 2010)"
+msgstr "'2005-2010' 將搜尋2005年至2010年期間出版的題名（包括2005和2010）"
+
+#: ../../source/searching.rst:281
+msgid "'-2010' will search for titles published in 2010 and before"
+msgstr "'-2010' 將搜尋 2010 年及之前出版的題名"
+
+#: ../../source/searching.rst:283
+msgid "'<2010' will search for titles published before 2010 (excluding 2010)"
+msgstr "'<2010' 將搜尋 2010 年之前出版的題名（不包括 2010 年）"
+
+#: ../../source/searching.rst:285
+msgid "'2005-' will search for titles published in 2005 and after"
+msgstr "'2005-' 將搜尋 2005 年及之後出版的題名"
+
+#: ../../source/searching.rst:287
+msgid "'>2005' will search for titles published after 2005 (excluding 2005)"
+msgstr "'>2005'將搜尋2005年以後出版的題名（不包括2005年）"
+
+#: ../../source/searching.rst:289
+msgid "The 'Language' and 'Language of original' limits allow you to search for titles in specific languages or translated from specific languages."
+msgstr "'語言' 和 '原始語言' 限制允許您搜尋特定語言的題名或從特定語言翻譯的題名。"
+
+#: ../../source/searching.rst:294
+#, fuzzy
+msgid "By default, the languages drop-down menus are populated by all languages. It is possible to limit the list with the :ref:`AdvancedSearchLanguages <AdvancedSearchLanguages-label>` system preference."
+msgstr "預設情況下，語言下拉選單由所有語言填充。可以用 :ref:`AdvancedSearchLanguages`系統偏好來限制該清單。"
+
+#: ../../source/searching.rst:298 ../../source/searching.rst:427
+#: ../../source/searching.rst:482
+msgid "For each search field, the following indexes are searched (see more about indexes and which MARC fields are indexed in each in the :ref:`Koha search indexes<koha-search-indexes-label>` section below):"
+msgstr "對於每個搜尋欄位，都會搜尋以下索引 (關於索引的更多訊息，以及每個索引中包含哪些MARC欄位，請參見下面的 :ref:`Koha 搜尋索引<koha-search-indexes-label>`部分):"
+
+#: ../../source/searching.rst:303 ../../source/searching.rst:432
+#: ../../source/searching.rst:487
+msgid "Search field"
+msgstr "搜尋欄位"
+
+#: ../../source/searching.rst:305
+msgid "Year"
+msgstr "年"
+
+#: ../../source/searching.rst:309
+msgid "Language of original"
+msgstr "原始語言"
+
+#: ../../source/searching.rst:309 ../../source/searching.rst:1477
+#: ../../source/searching.rst:2211
+msgid "language-original"
+msgstr "原文"
+
+#: ../../source/searching.rst:315
+msgid "Subtype limits"
+msgstr "次類型的限制"
+
+#: ../../source/searching.rst:317
+msgid "The next section allows you to limit your search with coded values."
+msgstr "下一節允許你用編碼值來限制你的搜尋。"
+
+#: ../../source/searching.rst:319
+#, fuzzy
+msgid "|advancedsearch-subtypes|"
+msgstr "進階搜尋文法"
+
+#: ../../source/searching.rst:323
+#, fuzzy
+msgid "In the OPAC, this section can be hidden with the :ref:`OpacAdvSearchMoreOptions <OpacAdvSearchMoreOptions-label>` or the :ref:`OpacAdvSearchOptions <OpacAdvSearchOptions-label>` system preferences (uncheck the 'Subtypes' option)."
+msgstr "在OPAC中，這部分可以通過 :ref:`OpacAdvSearchMoreOptions`或 :ref:`OpacAdvSearchOptions`系統偏好來隱藏（取消勾選 '子類型' 選項）。"
+
+#: ../../source/searching.rst:329
+msgid "The 'Audience' drop down menu can be used to limit the results to a specific target audience."
+msgstr "'受眾群體' 下拉選單可用於將結果限制為特定目標受眾群體。"
+
+#: ../../source/searching.rst:332
+msgid "Preschool"
+msgstr "學齡前"
+
+#: ../../source/searching.rst:334
+msgid "Primary"
+msgstr "主要"
+
+#: ../../source/searching.rst:336
+msgid "Pre-adolescent"
+msgstr "青少年前期"
+
+#: ../../source/searching.rst:338
+msgid "Adolescent"
+msgstr "青年"
+
+#: ../../source/searching.rst:340
+msgid "Adult"
+msgstr "成人"
+
+#: ../../source/searching.rst:342
+msgid "Specialized"
+msgstr "特別的"
+
+#: ../../source/searching.rst:344
+msgid "General"
+msgstr "一般"
+
+#: ../../source/searching.rst:346
+msgid "Juvenile"
+msgstr "少年"
+
+#: ../../source/searching.rst:348
+msgid "The 'Content' drop down menu can be used to limit the results to a specific type of content."
+msgstr "'內容' 下拉選單可用於將結果限制為特定類型的內容。"
+
+#: ../../source/searching.rst:351
+msgid "Fiction"
+msgstr "小說"
+
+#: ../../source/searching.rst:353
+msgid "Non-fiction"
+msgstr "非小說"
+
+#: ../../source/searching.rst:355
+msgid "Biography"
+msgstr "傳記"
+
+#: ../../source/searching.rst:357
+msgid "Musical recording"
+msgstr "音樂性錄音資料"
+
+#: ../../source/searching.rst:359
+msgid "Non-musical recording"
+msgstr "非音樂性錄音資料"
+
+#: ../../source/searching.rst:361
+msgid "The 'Format' drop down menu can be used to limit the results to a specific type of format."
+msgstr "'格式' 下拉選單可用於將結果限制為特定類型的格式。"
+
+#: ../../source/searching.rst:364
+msgid "Regular print"
+msgstr "正常列印"
+
+#: ../../source/searching.rst:366
+msgid "Large print"
+msgstr "大字印刷"
+
+#: ../../source/searching.rst:368
+msgid "Braille"
+msgstr "點字"
+
+#: ../../source/searching.rst:370
+msgid "CD audio"
+msgstr "音樂光碟"
+
+#: ../../source/searching.rst:372
+msgid "Cassette recording"
+msgstr "卡帶錄音"
+
+#: ../../source/searching.rst:374
+msgid "VHS tape / Videocassette"
+msgstr "VHS 錄影帶 / 錄影卡帶"
+
+#: ../../source/searching.rst:376
+msgid "DVD video / Videodisc"
+msgstr "DVD / 影碟"
+
+#: ../../source/searching.rst:378
+msgid "CD software"
+msgstr "軟體光碟"
+
+#: ../../source/searching.rst:380
+msgid "Website"
+msgstr "網站"
+
+#: ../../source/searching.rst:382
+msgid "The 'Additional content types' drop down menu can be used to further limit results to a specific type of content."
+msgstr "'其他內容類型' 下拉選單可用於進一步將結果限制為特定類型的內容。"
+
+#: ../../source/searching.rst:385
+msgid "Abstract / Summaries"
+msgstr "摘要/總結"
+
+#: ../../source/searching.rst:387
+msgid "Bibliographies"
+msgstr "參考書目"
+
+#: ../../source/searching.rst:389
+msgid "Catalogs"
+msgstr "目錄"
+
+#: ../../source/searching.rst:391
+msgid "Encyclopedias"
+msgstr "百科全書"
+
+#: ../../source/searching.rst:393
+msgid "Handbooks"
+msgstr "手冊"
+
+#: ../../source/searching.rst:395
+msgid "Legal articles"
+msgstr "法律條文"
+
+#: ../../source/searching.rst:397 ../../source/searching.rst:1121
+msgid "Indexes"
+msgstr "索引"
+
+#: ../../source/searching.rst:399
+msgid "Patent documents"
+msgstr "專利文件"
+
+#: ../../source/searching.rst:401
+msgid "Discographies"
+msgstr "唱片分類目錄"
+
+#: ../../source/searching.rst:403
+msgid "Legislation"
+msgstr "立法"
+
+#: ../../source/searching.rst:405
+msgid "Theses"
+msgstr "論文"
+
+#: ../../source/searching.rst:407
+msgid "Surveys"
+msgstr "調查"
+
+#: ../../source/searching.rst:409
+msgid "Reviews"
+msgstr "審核"
+
+#: ../../source/searching.rst:411
+msgid "Programmed texts"
+msgstr "程式化文字"
+
+#: ../../source/searching.rst:413
+msgid "Filmographies"
+msgstr "影片目錄"
+
+#: ../../source/searching.rst:415
+msgid "Directories"
+msgstr "指南"
+
+#: ../../source/searching.rst:417
+msgid "Statistics"
+msgstr "統計"
+
+#: ../../source/searching.rst:419
+msgid "Technical reports"
+msgstr "技術報告"
+
+#: ../../source/searching.rst:421
+msgid "Legal cases and case notes"
+msgstr "法律個案與個案說明"
+
+#: ../../source/searching.rst:423
+msgid "Law reports and digests"
+msgstr "法律報告與摘要"
+
+#: ../../source/searching.rst:425
+msgid "Treaties"
+msgstr "條約"
+
+#: ../../source/searching.rst:434
+msgid "Audience"
+msgstr "受眾"
+
+#: ../../source/searching.rst:434 ../../source/searching.rst:2463
+#: ../../source/searching.rst:2668
+msgid "ta"
+msgstr "ta"
+
+#: ../../source/searching.rst:436
+msgid "Content"
+msgstr "內容"
+
+#: ../../source/searching.rst:436
+msgid "lf bio rtype"
+msgstr "如果生物 rtype"
+
+#: ../../source/searching.rst:440
+msgid "Format"
+msgstr "格式"
+
+#: ../../source/searching.rst:440 ../../source/searching.rst:2059
+msgid "ff7-01-02"
+msgstr "ff7-01-02"
+
+#: ../../source/searching.rst:442
+msgid "Additional content types"
+msgstr "其他內容類型"
+
+#: ../../source/searching.rst:442 ../../source/searching.rst:1183
+#: ../../source/searching.rst:2027 ../../source/searching.rst:2590
+msgid "ctype"
+msgstr "ctype"
+
+#: ../../source/searching.rst:448
+msgid "Location and availability"
+msgstr "位置與可及性"
+
+#: ../../source/searching.rst:450
+msgid "The 'location and availability' section allows you to limit your search further."
+msgstr "'位置和可用性' 部分允許您進一步限制搜尋。"
+
+#: ../../source/searching.rst:452
+#, fuzzy
+msgid "|advancedsearch-location-availability|"
+msgstr "位置與可及性"
+
+#: ../../source/searching.rst:456
+#, fuzzy
+msgid "In the OPAC, this section can be hidden with the :ref:`OpacAdvSearchMoreOptions <OpacAdvSearchMoreOptions-label>` or the :ref:`OpacAdvSearchOptions <OpacAdvSearchOptions-label>` system preferences (uncheck the 'Location and availability' option)."
+msgstr "在OPAC中，可以通過 :ref:`OpacAdvSearchMoreOptions`或 :ref:`OpacAdvSearchOptions`系統偏好來隱藏這一部分（取消勾選 '位置和可用性' 選項）。"
+
+#: ../../source/searching.rst:462
+msgid "The 'Limit to available items' box can be checked to show only available items in the results."
+msgstr "可以勾選 '限於可用館藏' 的框，以便在結果中只顯示可取用的館藏。"
+
+#: ../../source/searching.rst:467
+msgid "The 'Limit to available items' option only removes items that are currently checked out. It does *not* remove items that are withdrawn, lost, or otherwise not for loan."
+msgstr "'限制可用的館藏' 選項只刪除目前已借出的館藏。它 *不會* 刪除被撤回、丟失或其他不被借出的館藏。"
+
+#: ../../source/searching.rst:471
+msgid "The 'Individual libraries' drop down menu can be used to limit the search to a specific library."
+msgstr "'個別圖書館' 下拉選單可用於將搜尋限制在一個特定的圖書館。"
+
+#: ../../source/searching.rst:474
+msgid "If you have :ref:`library groups<library-groups-label>` that are selected to be search groups, they will appear under 'Groups of libraries'."
+msgstr "如果你有 :ref:`圖書館組<library-groups-label>`被選為搜尋組，它們將出現在'圖書館組'下。"
+
+#: ../../source/searching.rst:479
+#, fuzzy
+msgid "By default, the location limit looks for the item's home library. This can be changed with the :ref:`SearchLimitLibrary <SearchLimitLibrary-label>` system preference."
+msgstr "預設情況下，位置限制是尋找館藏的本館。這可以通過 :ref:`SearchLimitLibrary`系統偏好來改變。"
+
+#: ../../source/searching.rst:489
+msgid "Available items"
+msgstr "可用館藏"
+
+#: ../../source/searching.rst:489 ../../source/searching.rst:2345
+#: ../../source/searching.rst:2640
+msgid "onloan"
+msgstr "外借中"
+
+#: ../../source/searching.rst:491
+msgid "Individual libraries or groups of libraries"
+msgstr "個別圖書館或圖書館群組"
+
+#: ../../source/searching.rst:491
+msgid "homebranch holdingbranch"
+msgstr "homebranch holdingbranch"
+
+#: ../../source/searching.rst:499
+msgid "Sorting"
+msgstr "排序"
+
+#: ../../source/searching.rst:501
+msgid "Finally, you can choose how the results will be sorted."
+msgstr "最後，你可以選擇如何對結果進行排序。"
+
+#: ../../source/searching.rst:503
+#, fuzzy
+msgid "|advancedsearch-sortby|"
+msgstr "進階搜尋"
+
+#: ../../source/searching.rst:507
+#, fuzzy
+msgid "In the OPAC, this section can be hidden with the :ref:`OpacAdvSearchMoreOptions <OpacAdvSearchMoreOptions-label>` or the :ref:`OpacAdvSearchOptions <OpacAdvSearchOptions-label>` system preferences (uncheck the 'Sorting' option)."
+msgstr "在OPAC中，可以通過 :ref:`OpacAdvSearchMoreOptions`或 :ref:`OpacAdvSearchOptions`系統偏好來隱藏這一部分（取消勾選 '排序' 選項）。"
+
+#: ../../source/searching.rst:513
+msgid "The default sort is set in the :ref:`defaultSortField and defaultSortOrder <defaultsortfield-and-defaultsortorder-label>` system preferences, but you can choose to sort by author, by title, by call number, by dates, or by popularity (which uses the information on total issues found in the items table)."
+msgstr "預設排序是在 :ref:`defaultSortField和defaultSortOrder <defaultsortfield-and-defaultsortorder-label>`系統偏好中設定的，但你可以選擇按作者、按標題、按書號、按日期或按受歡迎程度（使用在館藏表中發現的總發行量訊息）進行排序。"
+
+#: ../../source/searching.rst:519
+msgid "Relevance: when using ElasticSearch, the relevance is calculated with the weight of fields and the number of occurrences of the search terms in each field."
+msgstr "相關性：當使用 ElasticSearch 時，相關性是透過欄位的權重和每個欄位中搜尋詞的出現次數來計算的。"
+
+#: ../../source/searching.rst:523
+msgid "Popularity: this sort uses the issues index, the number of issues for each item on a record."
+msgstr "受歡迎程度：這種排序使用問題索引，即記錄每個館藏中的問題數量。"
+
+#: ../../source/searching.rst:526
+msgid "Author: this sort uses the author index"
+msgstr "作者：這種排序使用作者索引"
+
+#: ../../source/searching.rst:528
+msgid "Call number: this sort uses the cn-sort index, which is built using the classification scheme and the call number"
+msgstr "索書號：該排序使用cn-sort索引，它是使用分類方案和索書號建立的。"
+
+#: ../../source/searching.rst:531
+msgid "Publication/Copyright date: this sort uses the date-of-publication index"
+msgstr "出版/版權日期：該排序使用出版日期索引"
+
+#: ../../source/searching.rst:533
+msgid "Acquisition date: this sort uses the date-of-acquisition index"
+msgstr "採訪日期：該排序使用採訪日期的索引"
+
+#: ../../source/searching.rst:535
+msgid "Title: this sort uses the title index"
+msgstr "題名：這種排序使用題名索引"
+
+#: ../../source/searching.rst:537
+msgid "See more about indexes and which MARC fields are indexed in each in the :ref:`Koha search indexes<koha-search-indexes-label>` section below."
+msgstr "在下面的 :ref:`Koha 搜尋索引<koha-search-indexes-label>`一節中，可以看到更多關於索引和每個 MARC 欄位被索引的訊息。"
+
+#: ../../source/searching.rst:543
+msgid "Search results"
+msgstr "搜尋結果"
+
+#: ../../source/searching.rst:545
+msgid "After performing a search the number of results found for your search will appear above the results."
+msgstr "搜尋結果的數量將顯示在結果頁面。"
+
+#: ../../source/searching.rst:548
+msgid "There will also be a link to return to the advanced search screen to edit the search."
+msgstr "還會有一個返回進階搜尋螢幕的連結，以編輯搜尋。"
+
+#: ../../source/searching.rst:551
+msgid "If the :ref:`SavedSearchFilters <savedsearchfilters-label>` system preference is enabled, there will also be a link to :ref:`save the search as a search filter <adding-search-filters-label>`."
+msgstr ""
+
+#: ../../source/searching.rst:557
+msgid "There is the possibility to search within results. This search box will take the query and add it as a limit to the previous search."
+msgstr ""
+
+#: ../../source/searching.rst:560
+#, fuzzy
+msgid "If :ref:`StaffHighlightedWords <StaffHighlightedWords-label>` is set to 'highlight', the search term(s) will be highlighted in yellow with red text in every record. You can remove the highlighting by clicking the 'Unhighlight' link at the top of the page."
+msgstr "如果 :ref:`StaffHighlightedWords` 被設定為 '強調'，搜尋詞將在每條記錄中以黃色和紅色文字突出顯示。你可以透過點擊頁面頂端的 '取消強調' 連結來取消強調。"
+
+#: ../../source/searching.rst:566
+msgid "The highlighting does not represent where the search term was found in the record, it's merely highlighting the string of characters everywhere it can be found on the page."
+msgstr "強調顯示並不代表搜尋詞在記錄中的位置，它只是在頁面上可以找到的任何地方強調顯示這串字符。"
+
+#: ../../source/searching.rst:570
+msgid "By default, search results will be sorted based on the :ref:`OPACdefaultSortField and OPACdefaultSortOrder <opacdefaultsortfield-and-opacdefaultsortorder-label>` system preference values. To change this you can choose another sorting method from the drop down menu on the right."
+msgstr "預設情況下，搜尋結果將根據 :ref:`OPACdefaultSortField and OPACdefaultSortOrder <opacdefaultsortfield-and-opacdefaultsortorder-label>` 系統偏好值進行排序。要改變這一點，你可以從右邊的下拉選單中選擇另一種排序方法。"
+
+#: ../../source/searching.rst:575
+msgid "Each search result is displayed in a table with bibliographic information in the left column and item information in the right column."
+msgstr "每個搜尋結果都顯示在一個表格中，左欄為書目訊息，右欄為館藏訊息。"
+
+#: ../../source/searching.rst:578
+#, fuzzy
+msgid "Under each title in the list, a series of values from the record's leader will appear. It is important to note that this has nothing to do with the item types or collection codes assigned to the items, this data is all pulled from the record's fixed fields. This can be turned on or off with the :ref:`DisplayIconsXSLT <DisplayIconsXSLT-label>` system preference."
+msgstr "在清單中的每個標題下，會出現一系列來自該紀錄標示的數值。需要注意的是，這與分配給館藏的館藏類型或館藏代碼無關，這些數據都是從記錄的固定欄位中提取的。這可以透過 :ref:`DisplayIconsXSLT`系統偏好來打開或關閉。"
+
+#: ../../source/searching.rst:584
+msgid "In the right column, the availability and information of the items attached to the record are displayed."
+msgstr "在右欄中，顯示附加到記錄的館藏的可用性和訊息。"
+
+#: ../../source/searching.rst:589
+msgid "Even if you filtered on one library, all libraries that hold the item will appear on the search results."
+msgstr "即使您篩選了一個圖書館，擁有該館藏的所有圖書館都會出現在搜尋結果中。"
+
+#: ../../source/searching.rst:592
+msgid "The availability of the items depends on their status. The following will appear as available:"
+msgstr "館藏的可用性取決於它們的狀態。 以下將顯示為可用："
+
+#: ../../source/searching.rst:595
+msgid "Available (not checked out, no particular status)"
+msgstr "可用（未借出，無特定狀態）"
+
+#: ../../source/searching.rst:597
+msgid ":ref:`Restricted<9525-use-restrictions-label>`"
+msgstr ":ref:`受限制的<9525-use-restrictions-label>`"
+
+#: ../../source/searching.rst:599
+msgid "On hold"
+msgstr "預約中"
+
+#: ../../source/searching.rst:601
+msgid "An item's hold status doesn't not affect whether or not the item is 'available' until the item is in 'waiting' status. Items with on-shelf holds will show as available until a staff member has pulled them from the shelf and checked the item in to confirm the hold and put it aside as awaiting pick up."
+msgstr "在館藏處於 '等待' 狀態之前，館藏的預約狀態並不影響該館藏是否 '可用'。在架子上被放置的館藏將顯示為可用，直到館員將其從架子上取下，並檢查該館藏以確認放置，並將其放在一邊等待取件。"
+
+#: ../../source/searching.rst:607
+msgid "The following will appear as unavailable:"
+msgstr "以下將顯示為不可用："
+
+#: ../../source/searching.rst:609
+msgid "Checked out"
+msgstr "借出"
+
+#: ../../source/searching.rst:611
+msgid "On hold, awaiting pick up"
+msgstr "預約中，等待取件"
+
+#: ../../source/searching.rst:613
+msgid "In transit"
+msgstr "在途中"
+
+#: ../../source/searching.rst:615
+msgid ":ref:`Lost<9521-lost-status-label>`"
+msgstr ":ref:`遺失<9521-lost-status-label>`"
+
+#: ../../source/searching.rst:617
+msgid ":ref:`Withdrawn<9520-withdrawn-status-label>`"
+msgstr ":ref:`撤回<9520-withdrawn-status-label>`"
+
+#: ../../source/searching.rst:619
+msgid ":ref:`Damaged<9524-damaged-status-label>`"
+msgstr ":ref:`損壞<9524-damaged-status-label>`"
+
+#: ../../source/searching.rst:621
+msgid ":ref:`Not for loan<9527-notforloan-status-label>`"
+msgstr ":ref:`不外借<9527-notforloan-status-label>`"
+
+#: ../../source/searching.rst:623
+#, fuzzy
+msgid "The availability of items is displayed only for the first twenty items in the record. This number can be changed with the :ref:`MaxSearchResultsItemsPerRecordStatusCheck <MaxSearchResultsItemsPerRecordStatusCheck-label>` system preference."
+msgstr "館藏的可用性只顯示在記錄的前二十個館藏中。這個數字可以透過 :ref:`MaxSearchResultsItemsPerRecordStatusCheck`系統偏好來改變。"
+
+#: ../../source/searching.rst:627
+#, fuzzy
+msgid "If records have a lot of items, only twenty items will be displayed in the search results by default. This number can be changed with the :ref:`maxItemsInSearchResults <maxItemsInSearchResults-label>` system preference."
+msgstr "如果記錄有很多館藏，預設情況下，只有二十個館藏會顯示在搜尋結果中。這個數字可以透過 :ref:`maxItemsInSearchResults`系統偏好來改變。"
+
+#: ../../source/searching.rst:631
+msgid "If cover image-related :ref:`Enhanced content system preferences <enhanced-content-system-preferences-label>` are enabled, cover images will appear next to the search results."
+msgstr "如果封面圖片相關 :ref:`強化內容系統偏好<enhanced-content-system-preferences-label>`被啟用，封面圖片將出現在搜尋結果旁邊。"
+
+#: ../../source/searching.rst:637
+msgid "Facets"
+msgstr "分面"
+
+#: ../../source/searching.rst:639
+msgid "To the left, there are filters, or facets, to refine your search."
+msgstr "在左邊，可以篩選，或分面，可以精簡你的搜尋。"
+
+#: ../../source/searching.rst:641
+#, fuzzy
+msgid "|searchresults-facets|"
+msgstr "搜尋結果"
+
+#: ../../source/searching.rst:643
+msgid "Currently available facets include:"
+msgstr "目前可用的分面包括："
+
+#: ../../source/searching.rst:645
+msgid "Availability"
+msgstr "在館內"
+
+#: ../../source/searching.rst:647
+msgid "Authors"
+msgstr "著者"
+
+#: ../../source/searching.rst:649
+msgid "Item types"
+msgstr "館藏類型"
+
+#: ../../source/searching.rst:651
+msgid "Locations"
+msgstr "位置"
+
+#: ../../source/searching.rst:653
+msgid "Places (geographic name headings)"
+msgstr "地點 (地理名詞標題)"
+
+#: ../../source/searching.rst:655
+msgid "Series"
+msgstr "集叢"
+
+#: ../../source/searching.rst:657
+msgid "Topics (subject headings)"
+msgstr "主題 (主題標目)"
+
+#: ../../source/searching.rst:659
+msgid "Collections (collection codes)"
+msgstr "館藏(館藏代碼)"
+
+#: ../../source/searching.rst:661
+msgid "Home library, holding library or both"
+msgstr "所屬圖書館、館藏圖書館或兩者兼俱"
+
+#: ../../source/searching.rst:665
+#, fuzzy
+msgid "This depends on your setting for the :ref:`DisplayLibraryFacets <DisplayLibraryFacets-label>` system preference."
+msgstr "依照 :ref:`DisplayLibraryFacets` 系統偏好的設定。"
+
+#: ../../source/searching.rst:668
+msgid "Titles (uniform title headings) (zebra only)"
+msgstr "題名 (劃一題名標題) (僅限斑馬)"
+
+#: ../../source/searching.rst:672
+msgid "When using Elasticsearch, it is possible to remove facets and reorder them from the :ref:`search engine configuration page<search-engine-configuration>`."
+msgstr "當使用Elasticsearch時，可以從 :ref:`搜尋引擎配置頁面<search-engine-configuration>`中刪除面並重新排序。"
+
+#: ../../source/searching.rst:675
+#, fuzzy
+msgid "By default, facets are constructed using the first twenty records. You can customize this with the :ref:`maxRecordsForFacets <maxRecordsForFacets-label>` system preference."
+msgstr "預設情況下，分面是使用前20條記錄建置的。你可以使用 :ref:`maxRecordsForFacets`系統偏好來制定。"
+
+#: ../../source/searching.rst:678
+#, fuzzy
+msgid "If you want to show the number of records that correspond to each facet next to it, you can make it appear with the :ref:`displayFacetCount <displayFacetCount-label>` system preference. Note that this number is dependent on the :ref:`maxRecordsForFacets <maxRecordsForFacets-label>` system preference."
+msgstr "如果你想在每個分面的旁邊顯示對應的記錄數，你可以用 :ref:`displayFacetCount`系統偏好來使其出現。請注意，這個數字取決於 :ref:`maxRecordsForFacets`系統偏好。"
+
+#: ../../source/searching.rst:683
+#, fuzzy
+msgid "When there are more than five facets in a category, a 'Show more' link will appear. By default, this link will show up to twenty facets. You can change the maximum number of facets shown with the :ref:`FacetMaxCount <FacetMaxCount-label>` system preference."
+msgstr "當一個類別中有超過五個分面時，會出現一個 '顯示更多' 的連結。預設情況下，這個連結將顯示最多二十個面。你可以通過 :ref:`FacetMaxCount`系統偏好來改變顯示的最大分面數。"
+
+#: ../../source/searching.rst:688
+#, fuzzy
+msgid "By default, when facets are longer than twenty characters, will be truncated. You can change the number of character after which a facet is truncated with the :ref:`FacetLabelTruncationLength <FacetLabelTruncationLength-label>` system preference."
+msgstr "預設情況下，當分面長度超過20個字元時，將被截斷。你可以通過 :ref:`FacetLabelTruncationLength`系統偏好來改變截斷的字元數。"
+
+#: ../../source/searching.rst:694
+msgid "When using Elasticsearch, facets are never truncated. This is only for Zebra users."
+msgstr "當使用Elasticsearch時，分面不會被截斷。這僅適用於斑馬使用者。"
+
+#: ../../source/searching.rst:697
+#, fuzzy
+msgid "By default, facets in each category are ordered alphabetically. You can change the order with the :ref:`FacetOrder <FacetOrder-label>` system preference."
+msgstr "預設情況下，每個類別的分面是按字母順序排列的。你可以用 :ref:`FacetOrder`系統偏好來改變這個順序。"
+
+#: ../../source/searching.rst:700
+#, fuzzy
+msgid "When using UNIMARC, the default separator for authors' last and first names in the facets is a comma, but you can change this using the :ref:`UNIMARCAuthorsFacetsSeparator <UNIMARCAuthorsFacetsSeparator-label>` system preference, if necessary."
+msgstr "當使用UNIMARC時，分面中作者的姓和名的預設分隔符是逗號，但如果需要，你可以使用 :ref:`UNIMARCAuthorsFacetsSeparator'系統偏好來改變它。"
+
+#: ../../source/searching.rst:706
+msgid "If you have any :ref:`search filters <search-filters-label>`, they will appear above the facets."
+msgstr ""
+
+#: ../../source/searching.rst:712
+msgid "Actions on search results"
+msgstr "對搜尋結果的操作"
+
+#: ../../source/searching.rst:714
+msgid "Along the top, under the number of results, there are buttons to do different actions on selected records."
+msgstr "上方的結果數量下，有多個按鈕針對選定的紀錄續作業。"
+
+#: ../../source/searching.rst:717
+msgid "Select all: selects all the records on the page."
+msgstr "全選：全選頁面的紀錄。"
+
+#: ../../source/searching.rst:719
+msgid "Clear all: unselects all the records that were selected."
+msgstr "全部清除：清除已選的頁面紀錄。"
+
+#: ../../source/searching.rst:721
+msgid "Unhighlight: removes the red/yellow highlighting of the search term(s)."
+msgstr "不強調：移除搜尋術語的紅/黃色強調。"
+
+#: ../../source/searching.rst:723
+#, fuzzy
+msgid "If :ref:`StaffHighlightedWords <StaffHighlightedWords-label>` is set to 'highlight', the search term(s) will be highlighted in yellow with red text in every record. The 'Unhighlight' link removes the highlighting."
+msgstr "如果 :ref:`StaffHighlightedWords'被設定為 '強調'，搜尋詞將在每條記錄中以黃色和紅色文字突出顯示。取消強調 \"的連結可以刪除強調的內容。"
+
+#: ../../source/searching.rst:727
+msgid "Add to cart: adds selected record(s) to the :ref:`cart <cart-label>`."
+msgstr "新增至書車：把選定的紀錄新增至 :ref:`書車 <cart-label>`."
+
+#: ../../source/searching.rst:731
+#, fuzzy
+msgid "The :ref:`intranetbookbag <intranetbookbag-label>` system preference needs to be set to 'Show' in order for that button to appear."
+msgstr "須把 :ref:`intranetbookbag` 系統偏好設為 '顯示' 才能看到此按鈕。"
+
+#: ../../source/searching.rst:734
+msgid "Add to list: adds selected record(s) to the chosen :ref:`list <lists-label>`."
+msgstr "新增至虛擬書架：將選定的紀錄新增至 :ref:`虛擬書架 <lists-label>`。"
+
+#: ../../source/searching.rst:736
+msgid "Place hold: places a hold on the selected record(s)."
+msgstr "預約：預約選定的紀錄。"
+
+#: ../../source/searching.rst:738
+msgid "Browse selected records: goes to the detailed record page of the selected record(s). Clicking on 'Next' or 'Previous' from the detailed record will bring you to the next selected record."
+msgstr "瀏覽選定的紀錄：進入選定紀錄的詳情。按 '下一個' 或 '前一個' 進入下個選定的紀錄。"
+
+#: ../../source/searching.rst:744
+#, fuzzy
+msgid "The :ref:`BrowseResultSelection <BrowseResultSelection-label>` system preference needs to be enabled in order for that button to appear."
+msgstr "需啟用 :ref:`BrowseResultSelection` 系統偏好才能看到此按鈕。"
+
+#: ../../source/searching.rst:747
+msgid "Z39.50/SRU search: opens the Z39.50/SRU search popup window with the fields pre-filled with the search terms."
+msgstr "Z39.50/SRU 搜尋：以預填的搜尋術語，在另個視窗開啟 Z39.50/SRU 搜尋。"
+
+#: ../../source/searching.rst:750
+msgid "Edit: batch edit, batch delete or merge selected records."
+msgstr "編輯：批次編輯、批次刪除或合併選定的記錄。"
+
+#: ../../source/searching.rst:752
+msgid "Sort: changes the sorting field and order. The options are the same as the ones described in the :ref:`sorting section<advanced-search-sort-label>` above."
+msgstr "排序：改變排序欄位和順序。這些選項與上面 :ref:`排序部分<advanced-search-sort-label>`中描述的選項相同。"
+
+#: ../../source/searching.rst:758
+msgid "By default, search results will be sorted based on the :ref:`defaultSortField and defaultSortOrder <defaultsortfield-and-defaultsortorder-label>` system preferences values."
+msgstr "預設的排序是依照 :ref: `defaultSortField and defaultSortOrder <defaultsortfield-&-defaultsortorder-label>` 系統偏好的設定。"
+
+#: ../../source/searching.rst:762
+#, fuzzy
+msgid "|searchresultssort|"
+msgstr "搜尋結果"
+
+#: ../../source/searching.rst:764
+msgid "Under each record, at the bottom, there are more action links:"
+msgstr "在每筆紀錄的下方，還有更多其他操作連結："
+
+#: ../../source/searching.rst:766
+msgid "Holds: links to that record's :ref:`'Holds' tab <placing-holds-in-staff-client-label>`."
+msgstr "預約：連結到該記錄 :ref:`'預約' 分頁 <placing-holds-in-staff-client-label>`。"
+
+#: ../../source/searching.rst:769
+msgid "Recalls: links to that record's 'Recalls' tab."
+msgstr "催還：連結到該記錄的 '催還' 標籤。"
+
+#: ../../source/searching.rst:771
+msgid "Add to cart: adds this record to the :ref:`cart <cart-label>`."
+msgstr "新增至書車：把選定的紀錄新增至 :ref:`書車 <cart-label>`."
+
+#: ../../source/searching.rst:775
+#, fuzzy
+msgid "The :ref:`intranetbookbag <intranetbookbag-label>` system preference needs to be set to 'Show' in order for that link to appear."
+msgstr "須把 :ref:`intranetbookbag` 系統偏好設為 '顯示' 才能看到此連結。"
+
+#: ../../source/searching.rst:778
+msgid "Request article: links to that record's :ref:`'Article requests' tab <article-requests-label>`."
+msgstr "請求論文：連結到該記錄 :ref:`'論文請求' 分頁 <article-requests-label>`。"
+
+#: ../../source/searching.rst:781
+msgid "Edit record: links to that record's MARC framework for editing."
+msgstr "編輯紀錄：連結到紀錄的 MARC 框架。"
+
+#: ../../source/searching.rst:783
+msgid "Edit items: links to that record's item list for editing."
+msgstr "編輯館藏：連結到紀錄的館藏清單。"
+
+#: ../../source/searching.rst:785
+msgid "OPAC view: links to that record's detail page in the OPAC."
+msgstr "OPC 檢視：連結到紀錄的 OPAC 詳情頁面。"
+
+#: ../../source/searching.rst:789
+#, fuzzy
+msgid "The 'OPAC view' option needs the :ref:`OPACBaseURL <OPACBaseURL-label>` system preference to be properly set."
+msgstr "'OPAC 檢視' 需適度地設定 :ref:`OPACBaseURL` 系統偏好。"
+
+#: ../../source/searching.rst:795
+#, fuzzy
+msgid "Search filters"
+msgstr "搜尋術語"
+
+#: ../../source/searching.rst:797
+msgid "Search filters are custom searches or filters that can be applied to search results."
+msgstr ""
+
+#: ../../source/searching.rst:800
+#, fuzzy
+msgid "This functionality is enabled on using the :ref:`SavedSearchFilters <savedsearchfilters-label>` system preference."
+msgstr "依照 :ref:`DisplayLibraryFacets` 系統偏好的設定。"
+
+#: ../../source/searching.rst:806
+#, fuzzy
+msgid "Adding search filters"
+msgstr "進階搜尋文法"
+
+#: ../../source/searching.rst:808
+msgid "Once the :ref:`SavedSearchFilters <savedsearchfilters-label>` system preference is enabled, there will be a new option on the search results page to create a new search filter from this search."
+msgstr ""
+
+#: ../../source/searching.rst:812
+msgid "To create a new search filter:"
+msgstr ""
+
+#: ../../source/searching.rst:814 ../../source/searching.rst:851
+msgid "Search the catalog from the staff interface :ref:`basic search <basic-searching-label>` or :ref:`advanced search <advanced-searching-label>`."
+msgstr ""
+
+#: ../../source/searching.rst:818 ../../source/searching.rst:855
+msgid "Click 'Save search as filter' at the top of the results."
+msgstr ""
+
+#: ../../source/searching.rst:820
+msgid "A form will pop up."
+msgstr ""
+
+#: ../../source/searching.rst:822
+#, fuzzy
+msgid "|savesearchfilter|"
+msgstr "搜尋術語"
+
+#: ../../source/searching.rst:824
+#, fuzzy
+msgid "Visibility"
+msgstr "在館內"
+
+#: ../../source/searching.rst:826
+msgid "Show on OPAC: If checked, this search filter will be available on the OPAC."
+msgstr ""
+
+#: ../../source/searching.rst:829
+msgid "Show in staff interface: If checked, this search filter will be available in the staff interface."
+msgstr ""
+
+#: ../../source/searching.rst:832
+msgid "Name: Enter the name of the search filter. This name will appear to staff and OPAC user, depending on where this search filter is available."
+msgstr ""
+
+#: ../../source/searching.rst:835
+msgid "Click 'Save' next to the name field."
+msgstr ""
+
+#: ../../source/searching.rst:837
+msgid "Search filters will be displayed before the facets in the search results page, in the staff interface or OPAC, depending on visibility."
+msgstr ""
+
+#: ../../source/searching.rst:840
+msgid "All search filters can be managed in the :ref:`search filter administration section <search-filter-administration-label>`."
+msgstr ""
+
+#: ../../source/searching.rst:846
+msgid "Editing existing search filters"
+msgstr ""
+
+#: ../../source/searching.rst:848
+msgid "Once you have existing search filters, the way to edit them is basically the same as adding a new one, but you are replacing instead of adding"
+msgstr ""
+
+#: ../../source/searching.rst:857
+msgid "The form will pop up."
+msgstr ""
+
+#: ../../source/searching.rst:859
+msgid "|savesearchfilter-replace|"
+msgstr ""
+
+#: ../../source/searching.rst:861
+msgid "Choose which search filter to replace from the 'Replace existing search filter' drop-down menu."
+msgstr ""
+
+#: ../../source/searching.rst:864
+msgid "Click 'Replace' next to the drop-down menu."
+msgstr ""
+
+#: ../../source/searching.rst:866
+msgid "To further edit search filters, visit the :ref:`search filter administration page <search-filter-administration-label>`."
+msgstr ""
+
+#: ../../source/searching.rst:872
+msgid "Search history"
+msgstr "搜尋紀錄"
+
+#: ../../source/searching.rst:874
+#, fuzzy
+msgid "If the :ref:`EnableSearchHistory <EnableSearchHistory-label>` system preference set to keep the search history, you can access this information by clicking on your username in the top right of the staff interface and choosing 'Search history'."
+msgstr "如果 :ref:`EnableSearchHistory`系統偏好設定為保留搜尋歷史，你可以通過點擊館員介面右上方的使用者名稱，選擇'搜尋紀錄'進用此資訊。"
+
+#: ../../source/searching.rst:878
+#, fuzzy
+msgid "|searchhistory|"
+msgstr "搜尋紀錄"
+
+#: ../../source/searching.rst:880
+msgid "From this page you will see your bibliographic search history"
+msgstr "在此頁面可看到您的書目搜尋記錄"
+
+#: ../../source/searching.rst:882
+#, fuzzy
+msgid "|searchhistory-bibsearch|"
+msgstr "搜尋紀錄"
+
+#: ../../source/searching.rst:884
+msgid "And your authority search history."
+msgstr "及您的權威搜尋記錄。"
+
+#: ../../source/searching.rst:886
+#, fuzzy
+msgid "|searchhistory-authsearch|"
+msgstr "搜尋紀錄"
+
+#: ../../source/searching.rst:888
+msgid "From the search history page, it is possible to relaunch a search by clicking on the search terms."
+msgstr "在搜尋紀錄頁面，可以透過點擊搜尋術語重新啟動搜尋。"
+
+#: ../../source/searching.rst:891
+msgid "It is also possible to delete previous searches by selecting them and clicking on the 'Delete' link at the top of the table."
+msgstr "也可以透過選擇以前的搜尋並點擊表格頂端的 '刪除' 連結來刪除它們。"
+
+#: ../../source/searching.rst:897
+msgid "Advanced search prefixes"
+msgstr "進階搜尋文法"
+
+#: ../../source/searching.rst:899
+msgid "The following prefixes can be added to search terms in the keyword search box to limit items returned"
+msgstr "以下的搜尋指令可以加在鍵詞搜尋盒的語彙之前，篩選傳回的資料"
+
+#: ../../source/searching.rst:902
+msgid "ti: title search"
+msgstr "ti: 題名搜尋"
+
+#: ../../source/searching.rst:904
+msgid "ex. ti:hamlet"
+msgstr "如，ti:臺灣"
+
+#: ../../source/searching.rst:906
+msgid "su: subject search"
+msgstr "su: 主題搜尋"
+
+#: ../../source/searching.rst:908
+msgid "ex. su:cooking"
+msgstr "如，su:美食"
+
+#: ../../source/searching.rst:910
+msgid "pb: publisher search"
+msgstr "pb: 出版社搜尋"
+
+#: ../../source/searching.rst:912
+msgid "ex. pb:penguin"
+msgstr "如，pb:遠景"
+
+#: ../../source/searching.rst:914
+msgid "au: author search"
+msgstr "au: 著者搜尋"
+
+#: ../../source/searching.rst:916
+msgid "ex. au:rowling"
+msgstr "如，au:張大春"
+
+#: ../../source/searching.rst:918
+msgid "su-geo: geographic subjects"
+msgstr "su-geo: 地名主題"
+
+#: ../../source/searching.rst:920
+msgid "ex. su-geo:wales and kw:description and kw:travel"
+msgstr "如，su-geo:雲林 and kw:人文 and kw:旅行"
+
+#: ../../source/searching.rst:922
+msgid "bc: barcode"
+msgstr "bc: 條碼"
+
+#: ../../source/searching.rst:924
+msgid "ex. bc:502326000912"
+msgstr "如，bc:502326000912"
+
+#: ../../source/searching.rst:926
+msgid "lex: lexile"
+msgstr "lex: lexile"
+
+#: ../../source/searching.rst:928
+msgid "levels lex:510"
+msgstr "層次 lex:510"
+
+#: ../../source/searching.rst:933
+msgid "Guide to searching"
+msgstr "搜尋指南"
+
+#: ../../source/searching.rst:935 ../../source/searching.rst:964
+msgid "This brief guide will explain a chart that shows a sample of how a MARC21 database can be configured, as well as a brief introductory searching guide. The indexing fields described in this document relate to the bibliographic data and does not address authority database indexing."
+msgstr "本章以圖表簡單介紹 MARC21 資料庫的組態，以及搜尋準則。此章描述的索引欄位與書目資料有關，不是權威資料庫的索引。"
+
+#: ../../source/searching.rst:944
+msgid "Zebra indexing"
+msgstr "Zebra 索引"
+
+#: ../../source/searching.rst:946
+msgid "Koha's databases are indexed by the Zebra open-source software. The overview to the documentation describes Zebra as:"
+msgstr "Koha 資料庫的索引使用 GPL 2.0 授權的 Zebra 自由軟體。Zebra 的官方文件稱："
+
+#: ../../source/searching.rst:949
+msgid "\"...Zebra is a high-performance, general-purpose structured text indexing and retrieval engine. It reads records in a variety of input formats (eg. email, XML, MARC) and provides access to them through a powerful combination of Boolean search expressions and relevance-ranked free-text queries."
+msgstr "\"...Zebra 是高效能的通用結構化索引與搜尋引擎。可讀入多種格式的記錄 (如 email、XML、MARC 等) 經由強力組合的布林邏輯搜尋與關連排序自由文字詢問近用這些記錄。"
+
+#: ../../source/searching.rst:955
+msgid "Zebra supports large databases (tens of millions of records, tens of gigabytes of data). It allows safe, incremental database updates on live systems. Because Zebra supports the industry-standard information retrieval protocol, Z39.50, you can search Zebra databases using an enormous variety of programs and toolkits, both commercial and free, which understands this protocol...\" Zebra - User's Guide and Reference, p. 1, https://software.indexdata.com/zebra/doc/idzebra.pdf"
+msgstr "Zebra 支援大型資料庫 (數千萬筆記錄、數十GB的資料)。允許安全、增量資料地更新即時系統。因為 Zebra 支援工業標準的資訊擷取協定，Z39.50，可以使用支援標準化的商業授權或自由軟體式的程式與工具，搜尋 Zebra 資料庫，...\" Zebra - User 使用指南與參考手冊，第 1 頁，https://software.indexdata.com/zebra/doc/idzebra.pdf"
+
+#: ../../source/searching.rst:970
+msgid "**Note**"
+msgstr "**說明**"
+
+#: ../../source/searching.rst:972
+msgid "The indexing described in this document is the set used by SouthEastern University. Your local indexing may vary."
+msgstr "本章以圖表簡單介紹 MARC21 資料庫的組態，以及搜尋準則。此章描述的索引欄位與書目資料有關，不是權威資料庫的索引。"
+
+#: ../../source/searching.rst:978
+msgid "Indexing configuration"
+msgstr "索引組態"
+
+#: ../../source/searching.rst:980
+msgid "There are three configuration files that Koha uses while indexing."
+msgstr "Koha 索引時用到三個組態檔。"
+
+#: ../../source/searching.rst:982
+msgid "The first configuration file (etc/zebradb/biblios/etc/bib1.att) contains the Z39.50 bib-1 attribute list, plus the Koha local use attributes for Biblio Indexes, Items Index, and Fixed Fields and other special indexes. The Z39.50 Bib-1 profile is made up of several different types of attributes: Use, Relation, Position, Structure, Truncation, and Completeness. The bib-1 'Use' attribute is represented on the chart; the other attributes are used primarily when doing searches. While there are over 150+ use attributes that could be used to define your indexing set, it's unlikely that you will choose to use them all. The attributes you elect to use are those that become the indexing rules for your database. The other five attribute sets define the various ways that a search can be further defined, and will not specifically be addressed in this document. For a complete list of the standard Bib-1 attributes, go to http://www.loc.gov/z3950/agency/defns/bib1.html."
+msgstr "第一個組態檔 (etc/zebradb/biblios/etc/bib1.att)包括 Z39.50 bib-1 屬性清單，以及 Biblio Indexes、Items Index、Fixed Fields 與其他特殊索引的 Koha 在地屬性。Z39.50 Bib-1 profile 由數個屬性類型構成：Use、Relation、Position、Structure、Truncation、Completeness。bib-1 'Use' 屬性以圖表示；其他的屬性主要供搜尋之用。有 150 多種屬性供索引集合使用，幾乎不可能全部使用。其他五個屬性供進一步搜尋的設定之用，不在本文詳述。請參照在 http://www.loc.gov/z3950/agency/defns/bib1.html 的 Bib-1 attributes 詳情。"
+
+#: ../../source/searching.rst:997
+msgid "The second file is etc/zebradb/marc\\_defs/[marc21\\|unimarc]/biblios/record.abs if you use grs1 indexing [the default until 3.16] or etc/zebradb/marc\\_defs/[marc21\\|unimarc]/biblios/biblio-koha-indexdefs.xml if you use dom indexing [the default from 3.18]. Either files contains the abstract syntax which maps the MARC21 tags to the set of Use Attributes you choose to use. To be more precise the xml file to be activate needs to be transform into biblio-zebra-indexdefs.xsl, read the head of biblio-zebra-indexdefs.xsl to know more about this topic. The rules established in this file provides a passable Bath level 0 and 1 service, which includes author, title, subject, keyword and exact services such as standard identifiers (LCCN, ISBN, ISSN, etc.)"
+msgstr "第二個檔案是 etc/zebradb/marc\\_defs/[marc21\\|unimarc]/biblios/record.abs 若您使用 grs1 索引 [the default until 3.16] 或 etc/zebradb/marc\\_defs/[marc21\\|unimarc]/biblios/biblio-koha-indexdefs.xml 若您使用 dom 索引 [3.18 的預設]。任何檔案都包括摘要語法對應至 MARC21 欄號設定至選定的 Use Attributes。為啟用更精準的 xml 檔案需轉換至 biblio-zebra-indexdefs.xsl，參見 biblio-zebra-indexdefs.xsl 標頭瞭解詳情。此檔案設定規則提供 Bath 第 0 層與第 1 層服務，包括著者、題名、主題、鍵詞與標準號碼的精準服務 (LCCN、ISBN、ISSN等)"
+
+#: ../../source/searching.rst:1010
+msgid "The third file (etc/zebradb/ccl.properties) is the Common Command Language (CCL) field mappings. This file combines the bib-1 attribute set file and the abstract file and adds the qualifiers, usually known as index names. The qualifiers, or indexes, for this database are: pn, cpn, cfn, ti, se, ut, nb, ns, sn, lcn, callnum, su, su-to, su-geo, su-ut, yr,pubdate, acqdate, ln, pl, ab, nt, rtype, mc-rtype, mus, au, su-na, kw, pb, ctype, and an."
+msgstr "第三個組態檔 (etc/zebradb/ccl.properties) 是通用指令語言欄位對應表。此檔案包括 bib-1 屬性集檔與摘要檔及新增限義詞，通常稱為索引名稱。此資料庫的限義詞或索引有：pn, cpn, cfn, ti, se, ut, nb, ns, sn,lcn, callnum, su, su-to, su-geo, su-ut, yr,pubdate, acqdate, ln, pl, ab, nt, rtype, mc-rtype, mus, au, su-na,kw, pb, ctype 與 an。"
+
+#: ../../source/searching.rst:1018
+msgid "The :ref:`Koha Indexing Chart <koha-search-indexes-label>` summarizes the contents of all three of these files in a more readable format. The first two columns labeled Z39.50 attribute and Z39.50 name matches the Z39.50 bib-1 attributes file. The third column labeled MARC tags indexed is where you find which MARC tags are mapped to an attribute. The fourth column labeled Qualifiers identifies the search abbreviations used in the internal CCL query. The following description provides a definition for the word 'qualifiers'."
+msgstr "以 :ref:`Koha 索引表 <koha-search-indexes-label>` 把前述三個檔案的內容歸納成可讀性較高的內容。前兩欄是 Z39.50 屬性與對應至 Z39.50 bib-1 屬性檔的 Z39.50 名稱。第三欄是指出各 MARC 欄號對應屬性的 MARC 欄號索引。第四欄內部 CCL 詢問搜尋縮寫的限義詞。接著的說明則定義 '限義詞' 的內容。"
+
+#: ../../source/searching.rst:1027
+msgid "*Qualifiers are used to direct the search to a particular searchable index, such as title (ti) and author indexes (au). The CCL standard itself doesn't specify a particular set of qualifiers, but it does suggest a few shorthand notations. You can customize the CCL parser to support a particular set of qualifiers to reflect the current target profile. Traditionally, a qualifier would map to a particular use-attribute within the BIB-1attribute set. It is also possible to set other attributes, such as the structure attribute.*"
+msgstr "*限義詞用於指引搜尋至特定的搜尋索引，如題名 (ti) 與著者索引 (au) 等。CCL 標準本身不指定限義詞的集合，但建議若干簡短的標記。使用者可以客製化 CCL 的剖析以支持特定的限義詞集合反應當前的目標群。習慣上，限義詞可能對映至 BIB-1 屬性集裡的特定使用者屬性。也可能設定其他的屬性，如結構屬性之類。*"
+
+#: ../../source/searching.rst:1036
+msgid "In the MARC tags indexed column, there are some conventions used that have specific meanings. They are:"
+msgstr "部份 MARC 的欄位，已經被指定特定的用途。包括："
+
+#: ../../source/searching.rst:1039
+msgid "A three digit tag (100) means that all subfields in the tag can be used in a search query. So, if you enter a search for 'Jackson' as an author, you will retrieve records where Jackson could be the last name or the first name."
+msgstr "祗有三位數的欄號 (如：100)，表示其所有的分欄均可被搜尋。因此，鍵入 'Jackson' 做為著者搜尋，實際上傳回以 Jackson 為姓或名的款目。"
+
+#: ../../source/searching.rst:1044
+msgid "A three digit tag that has a '$' followed by a letter (600$a) means that a search query will only search the 'a' subfield."
+msgstr "三位數的欄號跟著錢號 '$' 以及字母(600$a)，表示祗搜尋該字母 'a' 的分欄。"
+
+#: ../../source/searching.rst:1047
+msgid "A three digit tag that is followed by a ':' and a letter (240:w) means that a search query can be further qualified. The letter following the ':' identifies how to conduct the search. The most common values you'll see are 'w' (word), 'p' (phrase), 's' (sort), and 'n' (numeric)."
+msgstr "三位數的欄號跟著冒號 ':' 以及一個字母 (240:w)，表示可以篩選的搜尋。冒號後的字母表示搜尋的方式，最常見的有：'w' (word)、'p' (phrase)、's' (sort)、以及 'n' (numeric)。"
+
+#: ../../source/searching.rst:1053
+msgid "The contents of the MARC tags, subfields, and/or fixed field elements that are listed in this chart are all indexed. You'll see that every attribute line is not mapped to a specific qualifier (index)-LC card number, line 9 is one example. However, every indexed word (a string of characters preceded and succeeded by a space) can be searched using a keyword (kw) search. So, although an LC card number specific index doesn't exist, you can still search by the LCCN since tag 010 is assigned to the LC-card-number attribute. To verify this, enter 72180055 in the persistent search box. You should retrieve The gods themselves, by Isaac Asimov."
+msgstr "出現在表單的 MARC 欄號、分欄與固定欄位內容都是被索引的。每個屬性列並未對應至特定的限義詞 (索引) - 美國國會圖書館控制號，第九列是其中一例。然而，每個被索引的字 (前後空白的字串)，可以經由鍵詞 (kw) 搜尋。所以，儘管美國國會圖書館控制號並未被索引，仍可搜尋美國國會圖書館控制號因為欄位 010 指定給美國國會圖書館控制號屬性。確認的方法是，於搜尋盒鍵入 72180055。就會找到 Isaac Asimov 寫的 Ther gods themselves 一書。"
+
+#: ../../source/searching.rst:1064
+msgid "Examples of fixed field elements indexing can be seen on the chart between Attribute 8822 and Attribute 8703. These attributes are most commonly used for limiting. The fixed field attributes currently represent the BK codes. Other format codes, if needed, could be defined."
+msgstr "在屬性 8822 與 8703內可看到索引的固定欄位細目內容。這些屬性係限制使用。目前的固定欄位屬性代表 BK 代碼。若有需要可定義其他的代碼格式。"
+
+#: ../../source/searching.rst:1072
+msgid "Item search"
+msgstr "館藏搜尋"
+
+#: ../../source/searching.rst:1074
+msgid "If you are looking for specific items you can use the item search engine in the staff client to find them."
+msgstr "可用館員介面的館藏搜尋引擎尋找特定的館藏。"
+
+#: ../../source/searching.rst:1077
+msgid "*Get there:* Search > Item search"
+msgstr "*到那裡：* 搜尋 > 館藏搜尋"
+
+#: ../../source/searching.rst:1079
+msgid "|image1447|"
+msgstr ""
+
+#: ../../source/searching.rst:1081
+msgid "You can also access the item search from the link 'Go to item search' at the top of the advanced search page in the staff client."
+msgstr "可從館員介面的進階搜尋頁面上方的 '進入館藏搜尋' 連結，執行它。"
+
+#: ../../source/searching.rst:1084
+msgid "|image1313|"
+msgstr ""
+
+#: ../../source/searching.rst:1086
+msgid "Either of those links will open up a item specific search engine."
+msgstr "這些連結都可以開啟特定的搜尋引擎。"
+
+#: ../../source/searching.rst:1088
+msgid "|image1314|"
+msgstr ""
+
+#: ../../source/searching.rst:1090
+msgid "Using the search form that is presented you can find a list of specific items that can be output to the screen, to a CSV file or to a barcode file."
+msgstr "使用搜尋表單找到的指定館藏清單，可以顯示在螢幕、匯出為 CSV 格式檔案或匯出為條碼檔案。"
+
+#: ../../source/searching.rst:1093
+msgid "You can add more search fields to this form by going to the :ref:`item search fields <item-search-fields-label>` section in the Administration module."
+msgstr "從管理模組的 :ref:`館藏搜尋欄位 <item-search-fields-label>` 區塊，可以新增搜尋欄位至此表單。"
+
+#: ../../source/searching.rst:1096
+msgid "If your results are printed to the screen you will have the option to narrow your search further using filters at the top."
+msgstr "可以使用上方的篩選單縮小螢幕上的搜尋結果。"
+
+#: ../../source/searching.rst:1099
+msgid "|image1315|"
+msgstr ""
+
+#: ../../source/searching.rst:1104
+msgid "Common command language searching"
+msgstr "通用指令語言搜尋"
+
+#: ../../source/searching.rst:1106
+msgid "Koha uses the Common Command Language (CCL) (ISO 8777) as its internal search protocol. Searches initiated in the graphical interface use this protocol as well, although the searcher doesn't know which indexes, operators and limiters are available and being used to conduct their search. The searcher can use the Advanced Search when more precise results set are desired and where the search indexes are somewhat known. However, some library users and many library staff prefer using a command based structure. This part of the document will present and explain the use of the Koha command based structure. The indexes, operators, and limiters used are identical to those used in the graphical interface."
+msgstr "Koha 以通用指令語言 (Common Command Language, CCL, ISO 8777) 做為內部搜尋協定。以圖形介面開始搜尋，搜尋者並不知道可用及使用的索引、運算元與限制。搜尋者知道搜尋索引的位置後，雖然可以使用進階搜尋，以取得更精準的結果；但很多圖書館的使用者及館員仍習慣使用命令的基本結構。本節文件說明 Koha 命令的基本結構，索引、運算元與限制在圖形介面裡，當成同一件事。"
+
+#: ../../source/searching.rst:1123
+msgid "The CCL standard itself doesn't specify a particular set of qualifiers (indexes), but it does suggest a few short-hand notations such as 'ti', 'au', and 'su'. Koha has a default set of indexes; it's possible to customize that set by adding needed indexes based on local requirements. A qualifier (index) maps to a particular use-attribute within the Z39.50 BIB-1 attribute set. The complete Z39.50 Bib-1 Attribute can be viewed at http://www.loc.gov/z3950/agency/defns/bib1.html."
+msgstr "CCL 標準本身並未指定特別的限義詞 (索引) 集合，祗建議若干簡短的標記，如：'ti'、'au' 與 'su' 等。Koha擁有自己的預設索引集合；使用者可以依據自身的需要新增必要的索引客製化它。限義詞 (索引) 以 Z39.50 Bib-1 屬性集對應至特定的使用-屬性。完整的 Z39.50 Bib-1 屬性參見 http://www.loc.gov/z3950/agency/defns/bib1.html。"
+
+#: ../../source/searching.rst:1131
+msgid "The standard Koha set of indexes is a fairly common example of MARC21 indexing rules. The indexes that are defined in Koha are indexes typically used by other integrated library systems. The defined Z39.50 Bib-1 Attribute mapped to the indexes include:"
+msgstr "標準的 Koha 索引集就是 MARC21 索引規則。Koha 定義的索引與其他圖書館自動化系統無異。Z39.50Bib-1 Attribute 對應的索引如下："
+
+#: ../../source/searching.rst:1137
+msgid "Bib-1 Attribute"
+msgstr "Bib-1 屬性"
+
+#: ../../source/searching.rst:1137
+msgid "Qualifier (index)"
+msgstr "限義詞 (索引)"
+
+#: ../../source/searching.rst:1139
+msgid "Personal-name"
+msgstr "Personal-name"
+
+#: ../../source/searching.rst:1139
+msgid "pn"
+msgstr "pn"
+
+#: ../../source/searching.rst:1141
+msgid "Corporate-name"
+msgstr "Corporate-name"
+
+#: ../../source/searching.rst:1141
+msgid "cpn"
+msgstr "cpn"
+
+#: ../../source/searching.rst:1143 ../../source/searching.rst:1645
+msgid "Conference-name"
+msgstr "Conference-name"
+
+#: ../../source/searching.rst:1143
+msgid "cfn"
+msgstr "cfn"
+
+#: ../../source/searching.rst:1145
+msgid "ti"
+msgstr "ti"
+
+#: ../../source/searching.rst:1147
+msgid "Title-series"
+msgstr "Title-series"
+
+#: ../../source/searching.rst:1147
+msgid "se"
+msgstr "se"
+
+#: ../../source/searching.rst:1149
+msgid "Title-uniform"
+msgstr "Title-uniform"
+
+#: ../../source/searching.rst:1149
+msgid "ut"
+msgstr "ut"
+
+#: ../../source/searching.rst:1151
+msgid "nb"
+msgstr "nb"
+
+#: ../../source/searching.rst:1153
+msgid "ns"
+msgstr "ns"
+
+#: ../../source/searching.rst:1155
+msgid "Local number"
+msgstr "本地編號"
+
+#: ../../source/searching.rst:1155
+msgid "sn"
+msgstr "sn"
+
+#: ../../source/searching.rst:1157
+msgid "Local-classification"
+msgstr "Local-classification"
+
+#: ../../source/searching.rst:1157
+msgid "lcn and callnum"
+msgstr "lcn and callnum"
+
+#: ../../source/searching.rst:1159
+msgid "su, su-to, su-geo, su-ut"
+msgstr "su, su-to, su-geo, su-ut"
+
+#: ../../source/searching.rst:1161
+msgid "Pubdate"
+msgstr "Pubdate"
+
+#: ../../source/searching.rst:1161
+msgid "yr,pubdate"
+msgstr "yr,pubdate"
+
+#: ../../source/searching.rst:1163
+msgid "Date-of-Acquisition"
+msgstr "Date-of-Acquisition"
+
+#: ../../source/searching.rst:1163
+msgid "acqdate"
+msgstr "acqdate"
+
+#: ../../source/searching.rst:1167
+msgid "Place-of-publication"
+msgstr "Place-of-publication"
+
+#: ../../source/searching.rst:1169
+msgid "Abstract"
+msgstr "Abstract"
+
+#: ../../source/searching.rst:1169
+msgid "ab"
+msgstr "ab"
+
+#: ../../source/searching.rst:1171
+msgid "Notes"
+msgstr "說明"
+
+#: ../../source/searching.rst:1171
+msgid "nt"
+msgstr "nt"
+
+#: ../../source/searching.rst:1173
+msgid "Record-type"
+msgstr "Record-type"
+
+#: ../../source/searching.rst:1173
+msgid "rtype, mc-rtype, mus"
+msgstr "rtype, mc-rtype, mus"
+
+#: ../../source/searching.rst:1175
+msgid "au, aut"
+msgstr "au, aut"
+
+#: ../../source/searching.rst:1177
+msgid "Subject-person-name"
+msgstr "Subject-person-name"
+
+#: ../../source/searching.rst:1177
+msgid "su-na"
+msgstr "su-na"
+
+#: ../../source/searching.rst:1179
+msgid "Any (keyword)"
+msgstr "Any (keyword)"
+
+#: ../../source/searching.rst:1179
+msgid "kw"
+msgstr "kw"
+
+#: ../../source/searching.rst:1181
+msgid "pb"
+msgstr "pb"
+
+#: ../../source/searching.rst:1183
+msgid "Content-type"
+msgstr "Content-type"
+
+#: ../../source/searching.rst:1185 ../../source/searching.rst:1507
+#: ../../source/searching.rst:1511 ../../source/searching.rst:1519
+#: ../../source/searching.rst:1573 ../../source/searching.rst:1583
+#: ../../source/searching.rst:1597 ../../source/searching.rst:1605
+#: ../../source/searching.rst:1633 ../../source/searching.rst:1641
+#: ../../source/searching.rst:1651 ../../source/searching.rst:1659
+#: ../../source/searching.rst:1663 ../../source/searching.rst:1667
+#: ../../source/searching.rst:1671 ../../source/searching.rst:1673
+#: ../../source/searching.rst:1677 ../../source/searching.rst:1681
+#: ../../source/searching.rst:1685 ../../source/searching.rst:1689
+#: ../../source/searching.rst:1693 ../../source/searching.rst:1715
+#: ../../source/searching.rst:1723 ../../source/searching.rst:1731
+#: ../../source/searching.rst:1755 ../../source/searching.rst:1763
+#: ../../source/searching.rst:1769 ../../source/searching.rst:1775
+msgid "Koha-Auth-Number"
+msgstr "Koha-Auth-Number"
+
+#: ../../source/searching.rst:1185
+msgid "an"
+msgstr "an"
+
+#: ../../source/searching.rst:1187
+msgid "Author-personal-bibliography"
+msgstr "Author-personal-bibliography"
+
+#: ../../source/searching.rst:1187
+msgid "aub"
+msgstr "aub"
+
+#: ../../source/searching.rst:1189
+msgid "Author-in-order"
+msgstr "Author-in-order"
+
+#: ../../source/searching.rst:1189
+msgid "auo"
+msgstr "auo"
+
+#: ../../source/searching.rst:1192
+msgid "Table: Attributes"
+msgstr "表單：屬性"
+
+#: ../../source/searching.rst:1194
+msgid "Refer to the :ref:`Koha Indexing Chart <koha-search-indexes-label>` for the MARC21 tags mapped to each Bib-1 Attribute and index combination."
+msgstr "參照至 :ref:`Koha 索引圖表 <koha-search-indexes-label`> 由 MARC21 欄號對映至每個 Bib-1 屬性與索引的組合。"
+
+#: ../../source/searching.rst:1200
+msgid "Audience examples"
+msgstr "讀者範例"
+
+#: ../../source/searching.rst:1202
+msgid "aud:a Preschool"
+msgstr "aud:a 幼兒園"
+
+#: ../../source/searching.rst:1204
+msgid "aud:b Primary"
+msgstr "aud:b 小學"
+
+#: ../../source/searching.rst:1206
+msgid "aud:c Pre-Adolescent"
+msgstr "aud:c 青少年前期"
+
+#: ../../source/searching.rst:1208
+msgid "aud:d Adolescent"
+msgstr "aud:d 青少年"
+
+#: ../../source/searching.rst:1210
+msgid "aud:e Adult"
+msgstr "aud:e 成年人"
+
+#: ../../source/searching.rst:1212
+msgid "aud:f Specialized"
+msgstr "aud:f 特別"
+
+#: ../../source/searching.rst:1214
+msgid "aud:g General"
+msgstr "aud:g 一般"
+
+#: ../../source/searching.rst:1216
+msgid "aud:j Juvenile"
+msgstr "aud:j 少年"
+
+#: ../../source/searching.rst:1221
+msgid "Contents examples"
+msgstr "內容範例"
+
+#: ../../source/searching.rst:1223
+msgid "fic:1 Fiction"
+msgstr "fic:1 小說"
+
+#: ../../source/searching.rst:1225
+msgid "fic:0 Non Fiction"
+msgstr "fic:0 非小說"
+
+#: ../../source/searching.rst:1227
+msgid "bio:b Biography"
+msgstr "bio:b 傳記"
+
+#: ../../source/searching.rst:1229
+msgid "mus:j Musical recording"
+msgstr "mus:j 音樂錄音"
+
+#: ../../source/searching.rst:1231
+msgid "mus:I Non musical record"
+msgstr "mus:I 非音樂記錄"
+
+#: ../../source/searching.rst:1236
+msgid "Search syntax"
+msgstr "搜尋語法"
+
+#: ../../source/searching.rst:1238
+msgid "In the persistent search box, single words generally retrieve large sets. To narrow a search, you can use multiple words. Koha automatically uses the 'and' Boolean operator to create a set of records matching your input. When you want to narrow the search to an author or a title or a subject or some other specific field or use a Boolean operator, there isn't an obvious way to accomplish that specificity. The library user can, of course, go to the Advanced Search page; however, if you know how to construct a CCL search, you can achieve more specificity while using the persistent search box on any page."
+msgstr "搜尋時，單字搜尋產生大量資料。以字串搜尋，則有效的縮小搜尋結果。Koha 自動使用 ‘and' 布林運算元取得精確的結果。使用布林運算元可縮小搜尋結果至指定的著者或題名或主題，沒有明確的方法可以達成此結果。當然，圖書館使用者可以使用進階搜尋頁面；若會使用通用指令語言指令，能更精準的找到資訊。"
+
+#: ../../source/searching.rst:1248
+msgid "There is a specific order to the CCL search syntax. Although it can be used for simple searches, it is an especially effective way to perform complex searches, as it affords you a great deal of control over your search results. To construct a CCL search, first enter a desired index code, then an equal sign, followed by your search word(s). Following are examples of simple CCL searches."
+msgstr "CCL 搜尋語法有一定的順序。雖然也可用於基本搜尋，但更適用於 進階搜尋，全面控制搜尋的結果。首先鍵入索引代碼，然後是等號，再來是搜尋的詞彙，以下是幾個範例。"
+
+#: ../../source/searching.rst:1255
+msgid "ti=principles of accounting"
+msgstr "ti=principles of accounting"
+
+#: ../../source/searching.rst:1257
+msgid "au=brown joseph"
+msgstr "au=brown joseph"
+
+#: ../../source/searching.rst:1259
+msgid "su=poetry"
+msgstr "su=poetry"
+
+#: ../../source/searching.rst:1261
+msgid "su-na=Shakespeare"
+msgstr "su-na=Shakespeare"
+
+#: ../../source/searching.rst:1263
+msgid "kw=marlin"
+msgstr "kw=marlin"
+
+#: ../../source/searching.rst:1265
+msgid "You can refine your search by combining search terms with Boolean operators 'and', 'or', or 'not'. Following are examples of searches using Boolean operators."
+msgstr "以布林邏輯的交集 'and'、聯集 'or' 或差集 'not' 運算元，組合若干搜尋詞彙，篩選搜尋的結果。以下是使用布林邏輯運算元範例。"
+
+#: ../../source/searching.rst:1269
+msgid "ti=principles of accounting and au=brown joseph"
+msgstr "ti=principles of accounting and au=brown joseph"
+
+#: ../../source/searching.rst:1271
+msgid "su=poetry not su-na=Shakespeare"
+msgstr "su=poetry not su-na=Shakespeare"
+
+#: ../../source/searching.rst:1273
+msgid "kw=communication and su=debate"
+msgstr "kw=communication and su=debate"
+
+#: ../../source/searching.rst:1275
+msgid "You can also choose to search for things that start with a character or series of characters"
+msgstr "可以選擇搜尋開頭的字元或若字串"
+
+#: ../../source/searching.rst:1278
+msgid "ti,first-in-subfield=C (will show you all titles that start with the letter 'C')"
+msgstr "ti,first-in-subfield=C (will show you all titles that start with the letter 'C')"
+
+#: ../../source/searching.rst:1281
+msgid "Other string location searches can be performed with the following keywords:"
+msgstr "以下的鍵詞可搜尋其他位置的內容："
+
+#: ../../source/searching.rst:1284
+msgid "rtrn : right truncation"
+msgstr "rtrn : 右方截切"
+
+#: ../../source/searching.rst:1286
+msgid "ltrn : left truncation"
+msgstr "ltrn : 左方截切"
+
+#: ../../source/searching.rst:1288
+msgid "lrtrn : left and right truncation"
+msgstr "lrtrn : 左右切截"
+
+#: ../../source/searching.rst:1290
+msgid "st-date : type date"
+msgstr "st-date : 鍵入日期"
+
+#: ../../source/searching.rst:1292
+msgid "st-numeric : type number (integer)"
+msgstr "st-numeric : 鍵入數字 (整數)"
+
+#: ../../source/searching.rst:1294
+msgid "ext : exact search on whole subfield (does not work with icu)"
+msgstr "例如：正確搜尋整個分欄 (不包括 icu)"
+
+#: ../../source/searching.rst:1296
+msgid "phr : search on phrase anywhere in the subfield"
+msgstr "phr : 搜尋分欄的任何地方"
+
+#: ../../source/searching.rst:1298
+msgid "startswithnt : subfield starts with"
+msgstr "startswithnt : 分欄的起始"
+
+#: ../../source/searching.rst:1300
+msgid "Using specific indexes and Boolean operators are not the only way a search can be refined. You can also refine your search as a phrase when looking for a title, author, or subject. The syntax for this search is *index,phr=search words*."
+msgstr "特定的索引與布林邏輯運算元，祗是達成進階搜尋的方法之一。還可以把搜尋詞彙定義為字串，直接搜尋題名、著者或主題。它的語法是 *index,phr=search words*。"
+
+#: ../../source/searching.rst:1305
+msgid "To illustrate the results of various search types, a search was done for the words 'supreme court'. The results illustrate that the search index and the word order make a difference in search results. Only the results count and the search itself is in these examples. The search executed will always be between the single quotes."
+msgstr "搜尋 'supreme court' 的結果，做為說明各種搜尋類型之用。此結果說明搜尋索引與用字順序對搜尋結果有不同程度的影響。在此例中祗解釋搜尋結果數與搜尋本身。此搜尋內容以單引號納入。"
+
+#: ../../source/searching.rst:1311
+msgid "|image1049|"
+msgstr ""
+
+#: ../../source/searching.rst:1313
+msgid "|image1050|"
+msgstr ""
+
+#: ../../source/searching.rst:1315
+msgid "|image1051|"
+msgstr ""
+
+#: ../../source/searching.rst:1317
+msgid "|image1052|"
+msgstr ""
+
+#: ../../source/searching.rst:1319
+msgid "|image1053|"
+msgstr ""
+
+#: ../../source/searching.rst:1321
+msgid "|image1054|"
+msgstr ""
+
+#: ../../source/searching.rst:1323
+msgid "|image1055|"
+msgstr ""
+
+#: ../../source/searching.rst:1325
+msgid "|image1056|"
+msgstr ""
+
+#: ../../source/searching.rst:1327
+msgid "|image1057|"
+msgstr ""
+
+#: ../../source/searching.rst:1329
+msgid "You can also choose to use limiters in your search query. Some common limiters include dates, languages, record types, and item types. In the Advance Search, you can either click a box or key in data to limit your search. You can also apply the same limits with CCL by using the syntax in the following examples. In all"
+msgstr "可以在搜尋裡使用限制詞。常用的限制詞包括日期、語文、記錄類型與館藏類型。在進階搜尋裡，您可按日期盒限制搜尋的範圍。同樣的限制也可以語法方式在以下的範例中納入 CCL。所有的"
+
+#: ../../source/searching.rst:1335
+msgid "*By Date: su=supreme court and yr,st-numeric=>2000*"
+msgstr "*按日期：su=supreme court and yr,st-numeric=>2000*"
+
+#: ../../source/searching.rst:1337
+msgid "|image1058|"
+msgstr ""
+
+#: ../../source/searching.rst:1339
+msgid "When you limit by date, you can use the '>' (greater than), '<' (less than), '=' (equal), or 'yyyy-yyyy' (range) symbols."
+msgstr "以時間限制時，可以使用 '&gt;' (大於)、'&lt;' (小於)、'=' (等於)、或 'yyyy-yyyy' (範圍) 等符號。"
+
+#: ../../source/searching.rst:1342
+msgid "*By Item Type: su=nursing and itype:BK*"
+msgstr "*按館藏類型：su=nursing and itype:BK*"
+
+#: ../../source/searching.rst:1344
+msgid "|image1059|"
+msgstr ""
+
+#: ../../source/searching.rst:1346
+msgid "Each library will have a different set of item types defined in their circulation configuration. When you set up item types, you define a code and a name for each one. The name will appear on the Advance Search page. The code you assigned is used as a CCL search limit, formatted as 'itype:x', where 'x' is the assigned code. The initial set of item types in Koha will usually be edited to reflect your collections, so your item type limiters may be different than the initial ones. The initial item type limiters follow."
+msgstr "每個圖書館在流通組態裡設定的館藏類型不儘相同。設定時，每個館藏類型都有自己的代碼與名稱。其名稱將顯示在進階搜尋頁面。代碼則適用於 CCL 搜尋限制，以 'itype:x' 型式出現，'x' 即為代碼。Koha 預設的館藏類型祗供參考，應該編輯它以反應真實的館藏，所以您的館藏限制應不同於初始的設定。初始的館藏類型限制詞如下。"
+
+#: ../../source/searching.rst:1355
+msgid "itype:BKS Books, Booklets, Workbooks"
+msgstr "itype:BKS 圖書、小冊子、練習簿"
+
+#: ../../source/searching.rst:1357
+msgid "itype:SR Audio Cassettes, CDs"
+msgstr "itype:SR 音樂卡帶、音樂 CD"
+
+#: ../../source/searching.rst:1359
+msgid "itype:IR Binders"
+msgstr "itype:IR 圓圈裝"
+
+#: ../../source/searching.rst:1361
+msgid "itype:CF CD-ROMs, DVD-ROMs, General Online Resources"
+msgstr "itype:CF CD-ROMs、DVD-ROMs、一般線上資源"
+
+#: ../../source/searching.rst:1363
+msgid "itype:VR DVDs, VHS"
+msgstr "itype:VR DVDs、VHS"
+
+#: ../../source/searching.rst:1365
+msgid "itype:KT Kit"
+msgstr "itype:KT 特殊教學資料"
+
+#: ../../source/searching.rst:1367
+msgid "itype:AR Models"
+msgstr "itype:AR 模型"
+
+#: ../../source/searching.rst:1369
+msgid "itype:SER Serials"
+msgstr "itype:SER 連續性出版品"
+
+#: ../../source/searching.rst:1371
+msgid "*By format: su=supreme court not l-format:sr*"
+msgstr "*按格式：su=supreme court not l-format:sr*"
+
+#: ../../source/searching.rst:1373
+msgid "|image1060|"
+msgstr ""
+
+#: ../../source/searching.rst:1375
+msgid "The format limiters are derived from a combination of LDR, 006 and 007 positions. The formats that are currently defined are the following."
+msgstr "格式限制源自於 LDR、006 與 007 位置的內容。這些格式定義如下。"
+
+#: ../../source/searching.rst:1378
+msgid "l-format:ta Regular print"
+msgstr "l-format:ta 正常列印"
+
+#: ../../source/searching.rst:1380
+msgid "l-format:tb Large print"
+msgstr "l-format:tb 大字本"
+
+#: ../../source/searching.rst:1382
+msgid "l-format:fk Braille"
+msgstr "l-format:fk 點字"
+
+#: ../../source/searching.rst:1384
+msgid "l-format:sd CD audio"
+msgstr "l-format:sd 音樂光碟"
+
+#: ../../source/searching.rst:1386
+msgid "l-format:ss Cassette recording"
+msgstr "l-format:ss 卡式錄音"
+
+#: ../../source/searching.rst:1388
+msgid "l-format:vf VHS tape"
+msgstr "l-format:vf VHS 錄影帶"
+
+#: ../../source/searching.rst:1390
+msgid "l-format:vd DVD video"
+msgstr "l-format:vd DVD 錄影"
+
+#: ../../source/searching.rst:1392
+msgid "l-format:co CD software"
+msgstr "l-format:co CD 軟體"
+
+#: ../../source/searching.rst:1394
+msgid "l-format:cr Website"
+msgstr "l-format:cr 網站"
+
+#: ../../source/searching.rst:1396
+msgid "*By content type: su=supreme court not ctype:l*"
+msgstr "*按內容類型：su=supreme court not ctype:l*"
+
+#: ../../source/searching.rst:1398
+msgid "|image1061|"
+msgstr ""
+
+#: ../../source/searching.rst:1400
+msgid "The content types are taken from the 008 MARC tag, positions 24-27."
+msgstr "內容類型取自 MARC 欄位 008 的位址 24-27。"
+
+#: ../../source/searching.rst:1402
+msgid "There are two other limiter types that are not described in this document. They are: Audience and Content. The only difference in the syntax of the CCL is the actual limiter. They are reproduced here just in case you would like to use these limiters."
+msgstr "兩種限制類型不在本文件的範圍內。即讀者與內容。在 CCL 語法的不同祗在實際的限制詞。在此重置僅供您需要時使用。"
+
+#: ../../source/searching.rst:1410
+msgid "Koha search indexes"
+msgstr "Koha 搜尋索引"
+
+#: ../../source/searching.rst:1413
+msgid "Zebra"
+msgstr "Zebra"
+
+#: ../../source/searching.rst:1415
+msgid "By default, not all fields are indexed in the Zebra search engine, but many are. Below are the MARC21 fields that are indexed in Zebra."
+msgstr "預設，Zebra 搜尋引擎並未索引全部欄位，祗索引大部份。以下是被 Zebra 索引的 MARC21 欄位。"
+
+#: ../../source/searching.rst:1419
+msgid "Description"
+msgstr "說明"
+
+#: ../../source/searching.rst:1419
+msgid "Field"
+msgstr "欄位"
+
+#: ../../source/searching.rst:1421
+msgid "Leader/06"
+msgstr "記錄標示/06"
+
+#: ../../source/searching.rst:1421
+msgid "Record-type, rtype"
+msgstr "記錄類型，rtype"
+
+#: ../../source/searching.rst:1423
+msgid "Bib-level"
+msgstr "Bib-level"
+
+#: ../../source/searching.rst:1423
+msgid "Leader/07"
+msgstr "記錄標示/07"
+
+#: ../../source/searching.rst:1425
+msgid "Leader/06-07"
+msgstr "記錄標示/06-07"
+
+#: ../../source/searching.rst:1425 ../../source/searching.rst:1609
+msgid "Material-type"
+msgstr "Material-type"
+
+#: ../../source/searching.rst:1427 ../../source/searching.rst:2005
+#: ../../source/searching.rst:2632 ../../source/searching.rst:2930
+#: ../../source/searching.rst:3083
+msgid "001"
+msgstr "001"
+
+#: ../../source/searching.rst:1427
+msgid "Control-number"
+msgstr "Control-number"
+
+#: ../../source/searching.rst:1429 ../../source/searching.rst:2039
+msgid "005"
+msgstr "005"
+
+#: ../../source/searching.rst:1429
+msgid "Date/time-last-modified, dtlm, date-time-last-modified"
+msgstr "日期/時間-最後修正，dtlm，日期-時間-最後修正"
+
+#: ../../source/searching.rst:1431 ../../source/searching.rst:2241
+msgid "007"
+msgstr "007"
+
+#: ../../source/searching.rst:1431
+msgid "Microform-generation:n:range(data,11,1), Material-type,ff7-00:w:range(data,0,1), ff7-01:w:range(data,1,1), ff7-02:w:range(data,2,1), ff7-01-02:w:range(data,0,2)"
+msgstr "Microform-generation:n:range(data,11,1), Material-type,ff7-00:w:range(data,0,1), ff7-01:w:range(data,1,1), ff7-02:w:range(data,2,1), ff7-01-02:w:range(data,0,2)"
+
+#: ../../source/searching.rst:1433
+msgid "008"
+msgstr "008"
+
+#: ../../source/searching.rst:1433
+msgid "date-entered-on-file:n:range(data,0,5), date-entered-on-file:s:range(data,0,5), pubdate:w:range(data,7,4), pubdate:n:range(data,7,4), pubdate:y:range(data,7,4), pubdate:s:range(data,7,4), pl:w:range(data,15,3), ta:w:range(data,22,1), ff8-23:w:range(data,23,1), ff8-29:w:range(data,29,1), lf:w:range(data,33,1), bio:w:range(data,34,1), ln:n:range(data,35,3), ctype:w:range(data,24,4), Record-source:w:range(data,39,0)"
+msgstr "date-entered-on-file:n:range(data,0,5), date-entered-on-file:s:range(data,0,5), pubdate:w:range(data,7,4), pubdate:n:range(data,7,4), pubdate:y:range(data,7,4), pubdate:s:range(data,7,4), pl:w:range(data,15,3), ta:w:range(data,22,1), ff8-23:w:range(data,23,1), ff8-29:w:range(data,29,1), lf:w:range(data,33,1), bio:w:range(data,34,1), ln:n:range(data,35,3), ctype:w:range(data,24,4), Record-source:w:range(data,39,0)"
+
+#: ../../source/searching.rst:1435 ../../source/searching.rst:2081
+#: ../../source/searching.rst:2215
+msgid "010"
+msgstr "010"
+
+#: ../../source/searching.rst:1435 ../../source/searching.rst:1437
+msgid "LC-card-number, Identifier-standard"
+msgstr "LC-card-number, Identifier-standard"
+
+#: ../../source/searching.rst:1437 ../../source/searching.rst:2083
+#: ../../source/searching.rst:2217
+msgid "011"
+msgstr "011"
+
+#: ../../source/searching.rst:1439 ../../source/searching.rst:1959
+#: ../../source/searching.rst:1967 ../../source/searching.rst:2085
+#: ../../source/searching.rst:2335 ../../source/searching.rst:2343
+msgid "015"
+msgstr "015"
+
+#: ../../source/searching.rst:1439
+msgid "BNB-card-number, BGF-number, Number-db, Number-natl-biblio, Identifier-standard"
+msgstr "BNB-card-number, BGF-number, Number-db, Number-natl-biblio, Identifier-standard"
+
+#: ../../source/searching.rst:1441 ../../source/searching.rst:2087
+#: ../../source/searching.rst:2339
+msgid "017"
+msgstr "017"
+
+#: ../../source/searching.rst:1441
+msgid "Number-legal-deposit, Identifier-standard"
+msgstr "Number-legal-deposit, Identifier-standard"
+
+#: ../../source/searching.rst:1443 ../../source/searching.rst:2089
+msgid "018"
+msgstr "018"
+
+#: ../../source/searching.rst:1443 ../../source/searching.rst:1447
+#: ../../source/searching.rst:1451 ../../source/searching.rst:1453
+#: ../../source/searching.rst:1457 ../../source/searching.rst:1459
+msgid "Identifier-standard"
+msgstr "Identifier-standard"
+
+#: ../../source/searching.rst:1445 ../../source/searching.rst:2091
+#: ../../source/searching.rst:2105
+msgid "020$a"
+msgstr "020$a"
+
+#: ../../source/searching.rst:1445
+msgid "ISBN:w, Identifier-standard:w"
+msgstr "ISBN:w, Identifier-standard:w"
+
+#: ../../source/searching.rst:1447
+msgid "020"
+msgstr "020"
+
+#: ../../source/searching.rst:1449 ../../source/searching.rst:2093
+#: ../../source/searching.rst:2107
+msgid "022$a"
+msgstr "022$a"
+
+#: ../../source/searching.rst:1449
+msgid "ISSN:w, Identifier-standard:w"
+msgstr "ISSN:w, Identifier-standard:w"
+
+#: ../../source/searching.rst:1451
+msgid "022"
+msgstr "022"
+
+#: ../../source/searching.rst:1453
+msgid "023"
+msgstr "023"
+
+#: ../../source/searching.rst:1455 ../../source/searching.rst:2077
+msgid "024$a"
+msgstr "024$a"
+
+#: ../../source/searching.rst:1455
+msgid "Identifier-other"
+msgstr "Identifier-other"
+
+#: ../../source/searching.rst:1457
+msgid "024"
+msgstr "024"
+
+#: ../../source/searching.rst:1459
+msgid "025"
+msgstr "025"
+
+#: ../../source/searching.rst:1461 ../../source/searching.rst:2413
+msgid "027"
+msgstr "027"
+
+#: ../../source/searching.rst:1461
+msgid "Report-number, Identifier-standard"
+msgstr "Report-number, Identifier-standard"
+
+#: ../../source/searching.rst:1463 ../../source/searching.rst:2079
+msgid "028"
+msgstr "028"
+
+#: ../../source/searching.rst:1463
+msgid "Number-music-publisher, Identifier-standard"
+msgstr "Number-music-publisher, Identifier-standard"
+
+#: ../../source/searching.rst:1465 ../../source/searching.rst:1993
+msgid "030"
+msgstr "030"
+
+#: ../../source/searching.rst:1465
+msgid "CODEN, Identifier-standard"
+msgstr "CODEN, Identifier-standard"
+
+#: ../../source/searching.rst:1467 ../../source/searching.rst:2239
+msgid "034"
+msgstr "034"
+
+#: ../../source/searching.rst:1467
+msgid "Map-scale"
+msgstr "Map-scale"
+
+#: ../../source/searching.rst:1469 ../../source/searching.rst:2347
+msgid "035"
+msgstr "035"
+
+#: ../../source/searching.rst:1469
+msgid "Other-control-number"
+msgstr "Other-control-number"
+
+#: ../../source/searching.rst:1471 ../../source/searching.rst:2423
+msgid "037"
+msgstr "037"
+
+#: ../../source/searching.rst:1471
+msgid "Identifier-standard, Stock-number"
+msgstr "Identifier-standard, Stock-number"
+
+#: ../../source/searching.rst:1473 ../../source/searching.rst:1989
+msgid "040"
+msgstr "040"
+
+#: ../../source/searching.rst:1473
+msgid "Code-institution, Record-source"
+msgstr "Code-institution, Record-source"
+
+#: ../../source/searching.rst:1475 ../../source/searching.rst:2227
+msgid "041$a"
+msgstr "041$a"
+
+#: ../../source/searching.rst:1475 ../../source/searching.rst:2227
+msgid "ln-audio"
+msgstr "ln-audio"
+
+#: ../../source/searching.rst:1477 ../../source/searching.rst:2211
+msgid "041$h"
+msgstr "041$h"
+
+#: ../../source/searching.rst:1479 ../../source/searching.rst:2229
+msgid "041$j"
+msgstr "041$j"
+
+#: ../../source/searching.rst:1479 ../../source/searching.rst:2229
+msgid "ln-subtitle"
+msgstr "在副書名"
+
+#: ../../source/searching.rst:1481
+msgid "041"
+msgstr "041"
+
+#: ../../source/searching.rst:1483 ../../source/searching.rst:1987
+msgid "043"
+msgstr "043"
+
+#: ../../source/searching.rst:1483
+msgid "Code-geographic"
+msgstr "Code-geographic"
+
+#: ../../source/searching.rst:1485 ../../source/searching.rst:2213
+msgid "050$b"
+msgstr "050$b"
+
+#: ../../source/searching.rst:1485 ../../source/searching.rst:1487
+msgid "LC-call-number:w, LC-call-number:p, LC-call-number:s"
+msgstr "LC-call-number:w, LC-call-number:p, LC-call-number:s"
+
+#: ../../source/searching.rst:1487
+msgid "050"
+msgstr "050"
+
+#: ../../source/searching.rst:1489 ../../source/searching.rst:2067
+msgid "052"
+msgstr "052"
+
+#: ../../source/searching.rst:1489
+msgid "Geographic-class"
+msgstr "Geographic-class"
+
+#: ../../source/searching.rst:1491 ../../source/searching.rst:2321
+msgid "060"
+msgstr "060"
+
+#: ../../source/searching.rst:1491
+msgid "NLM-call-number"
+msgstr "NLM-call-number"
+
+#: ../../source/searching.rst:1493 ../../source/searching.rst:2259
+msgid "070"
+msgstr "070"
+
+#: ../../source/searching.rst:1493
+msgid "NAL-call-number"
+msgstr "NAL-call-number"
+
+#: ../../source/searching.rst:1495 ../../source/searching.rst:2561
+msgid "080"
+msgstr "080"
+
+#: ../../source/searching.rst:1495
+msgid "UDC-classification"
+msgstr "UDC-classification"
+
+#: ../../source/searching.rst:1497 ../../source/searching.rst:2045
+msgid "082"
+msgstr "082"
+
+#: ../../source/searching.rst:1497
+msgid "Dewey-classification:w, Dewey-classification:s"
+msgstr "Dewey-classification:w, Dewey-classification:s"
+
+#: ../../source/searching.rst:1499 ../../source/searching.rst:2337
+msgid "086"
+msgstr "086"
+
+#: ../../source/searching.rst:1499
+msgid "Number-govt-pub"
+msgstr "Number-govt-pub"
+
+#: ../../source/searching.rst:1501 ../../source/searching.rst:2021
+#: ../../source/searching.rst:2117
+msgid "100$9"
+msgstr "100$9"
+
+#: ../../source/searching.rst:1501 ../../source/searching.rst:1549
+msgid "Cross-Reference:w, Koha-Auth-Number"
+msgstr "Cross-Reference:w, Koha-Auth-Number"
+
+#: ../../source/searching.rst:1503 ../../source/searching.rst:1901
+#: ../../source/searching.rst:1931 ../../source/searching.rst:2049
+#: ../../source/searching.rst:2824
+msgid "100$a"
+msgstr "100$a"
+
+#: ../../source/searching.rst:1503
+msgid "Author,Author:p, Author:s, Editor, Author-personal-bibliography, Author-personal-bibliography:p, Author-personal-bibliography:s"
+msgstr "Author,Author:p, Author:s, Editor, Author-personal-bibliography, Author-personal-bibliography:p, Author-personal-bibliography:s"
+
+#: ../../source/searching.rst:1505 ../../source/searching.rst:1923
+#: ../../source/searching.rst:1933 ../../source/searching.rst:2261
+#: ../../source/searching.rst:2287 ../../source/searching.rst:2349
+msgid "100"
+msgstr "100"
+
+#: ../../source/searching.rst:1505
+msgid "Author, Author-title, Author-name-personal, Name, Name-and-title, Personal-name"
+msgstr "Author, Author-title, Author-name-personal, Name, Name-and-title, Personal-name"
+
+#: ../../source/searching.rst:1507 ../../source/searching.rst:2119
+msgid "110$9"
+msgstr "110$9"
+
+#: ../../source/searching.rst:1509 ../../source/searching.rst:1913
+#: ../../source/searching.rst:1935 ../../source/searching.rst:2011
+#: ../../source/searching.rst:2263 ../../source/searching.rst:2289
+msgid "110"
+msgstr "110"
+
+#: ../../source/searching.rst:1509
+msgid "Author, Author-title, Author-name-corporate, Name, Name-and-title, Corporate-name"
+msgstr "Author, Author-title, Author-name-corporate, Name, Name-and-title, Corporate-name"
+
+#: ../../source/searching.rst:1511 ../../source/searching.rst:2121
+msgid "111$9"
+msgstr "111$9"
+
+#: ../../source/searching.rst:1513 ../../source/searching.rst:1915
+#: ../../source/searching.rst:1937 ../../source/searching.rst:1995
+#: ../../source/searching.rst:2265 ../../source/searching.rst:2291
+msgid "111"
+msgstr "111"
+
+#: ../../source/searching.rst:1513
+msgid "Author, Author-title, Author-name-corporate, Name, Name-and-title, Conference-name"
+msgstr "Author, Author-title, Author-name-corporate, Name, Name-and-title, Conference-name"
+
+#: ../../source/searching.rst:1515 ../../source/searching.rst:2465
+msgid "130$n"
+msgstr "130$n"
+
+#: ../../source/searching.rst:1515 ../../source/searching.rst:1535
+#: ../../source/searching.rst:1539 ../../source/searching.rst:1655
+#: ../../source/searching.rst:1701 ../../source/searching.rst:1727
+msgid "Thematic-number"
+msgstr "Thematic-number"
+
+#: ../../source/searching.rst:1517 ../../source/searching.rst:2247
+msgid "130$r"
+msgstr "130$r"
+
+#: ../../source/searching.rst:1517 ../../source/searching.rst:1533
+#: ../../source/searching.rst:1541 ../../source/searching.rst:1657
+#: ../../source/searching.rst:1703 ../../source/searching.rst:1729
+msgid "Music-key"
+msgstr "Music-key"
+
+#: ../../source/searching.rst:1519 ../../source/searching.rst:2123
+msgid "130$9"
+msgstr "130$9"
+
+#: ../../source/searching.rst:1521 ../../source/searching.rst:2477
+#: ../../source/searching.rst:2547
+msgid "130"
+msgstr "130"
+
+#: ../../source/searching.rst:1521 ../../source/searching.rst:1733
+msgid "Title, Title-uniform"
+msgstr "Title, Title-uniform"
+
+#: ../../source/searching.rst:1523 ../../source/searching.rst:2479
+#: ../../source/searching.rst:2515
+msgid "210"
+msgstr "210"
+
+#: ../../source/searching.rst:1523 ../../source/searching.rst:1525
+msgid "Title, Title-abbreviated"
+msgstr "Title, Title-abbreviated"
+
+#: ../../source/searching.rst:1525 ../../source/searching.rst:2481
+#: ../../source/searching.rst:2517
+msgid "211"
+msgstr "211"
+
+#: ../../source/searching.rst:1527 ../../source/searching.rst:2483
+#: ../../source/searching.rst:2537
+msgid "212"
+msgstr "212"
+
+#: ../../source/searching.rst:1527 ../../source/searching.rst:1735
+msgid "Title, Title-other-variant"
+msgstr "Title, Title-other-variant"
+
+#: ../../source/searching.rst:1529 ../../source/searching.rst:2485
+#: ../../source/searching.rst:2523
+msgid "214"
+msgstr "214"
+
+#: ../../source/searching.rst:1529
+msgid "Title, Title-expanded"
+msgstr "Title, Title-expanded"
+
+#: ../../source/searching.rst:1531 ../../source/searching.rst:2487
+#: ../../source/searching.rst:2533
+msgid "222"
+msgstr "222"
+
+#: ../../source/searching.rst:1531
+msgid "Title, Title-key"
+msgstr "Title, Title-key"
+
+#: ../../source/searching.rst:1533 ../../source/searching.rst:2249
+msgid "240$r"
+msgstr "240$r"
+
+#: ../../source/searching.rst:1535 ../../source/searching.rst:2467
+msgid "240$n"
+msgstr "240$n"
+
+#: ../../source/searching.rst:1537 ../../source/searching.rst:2489
+#: ../../source/searching.rst:2549
+msgid "240"
+msgstr "240"
+
+#: ../../source/searching.rst:1537
+msgid "Title:w, Title:p, Title-uniform"
+msgstr "Title:w, Title:p, Title-uniform"
+
+#: ../../source/searching.rst:1539 ../../source/searching.rst:2469
+msgid "243$n"
+msgstr "243$n"
+
+#: ../../source/searching.rst:1541 ../../source/searching.rst:2251
+msgid "243$r"
+msgstr "243$r"
+
+#: ../../source/searching.rst:1543
+msgid "243"
+msgstr "243"
+
+#: ../../source/searching.rst:1543
+msgid "Title:w, Title:p, Title-collective"
+msgstr "Title:w, Title:p, Title-collective"
+
+#: ../../source/searching.rst:1545 ../../source/searching.rst:2491
+#: ../../source/searching.rst:2521
+msgid "245$a"
+msgstr "245$a"
+
+#: ../../source/searching.rst:1545
+msgid "Title-cover:w, Title-cover:p, Title-cover:s, Title:w, Title:p, Title:s"
+msgstr "Title-cover:w, Title-cover:p, Title-cover:s, Title:w, Title:p, Title:s"
+
+#: ../../source/searching.rst:1547 ../../source/searching.rst:1907
+#: ../../source/searching.rst:1911
+msgid "245$c"
+msgstr "245$c"
+
+#: ../../source/searching.rst:1547
+msgid "Author, Author-in-order:w, Author-in-order:p, Author-in-order:s"
+msgstr "Author, Author-in-order:w, Author-in-order:p, Author-in-order:s"
+
+#: ../../source/searching.rst:1549 ../../source/searching.rst:2023
+#: ../../source/searching.rst:2125
+msgid "245$9"
+msgstr "245$9"
+
+#: ../../source/searching.rst:1551
+msgid "245"
+msgstr "245"
+
+#: ../../source/searching.rst:1551
+msgid "Title:w, Title:p"
+msgstr "Title:w, Title:p"
+
+#: ../../source/searching.rst:1553 ../../source/searching.rst:2493
+#: ../../source/searching.rst:2519 ../../source/searching.rst:2525
+#: ../../source/searching.rst:2527
+msgid "246"
+msgstr "246"
+
+#: ../../source/searching.rst:1553
+msgid "Title, Title:p, Title-abbreviated, Title-expanded, Title-former"
+msgstr "Title, Title:p, Title-abbreviated, Title-expanded, Title-former"
+
+#: ../../source/searching.rst:1555 ../../source/searching.rst:2401
+#: ../../source/searching.rst:2495 ../../source/searching.rst:2529
+#: ../../source/searching.rst:2539
+msgid "247"
+msgstr "247"
+
+#: ../../source/searching.rst:1555
+msgid "Title, Title:p, Title-former, Title-other-variant, Related-periodical"
+msgstr "Title, Title:p, Title-former, Title-other-variant, Related-periodical"
+
+#: ../../source/searching.rst:1557 ../../source/searching.rst:2985
+msgid "260$a"
+msgstr "260$a"
+
+#: ../../source/searching.rst:1557
+msgid "pl:w, pl:p"
+msgstr "pl:w, pl:p"
+
+#: ../../source/searching.rst:1559 ../../source/searching.rst:2367
+msgid "260$b"
+msgstr "260$b"
+
+#: ../../source/searching.rst:1559
+msgid "Publisher:w, Publisher:p"
+msgstr "Publisher:w, Publisher:p"
+
+#: ../../source/searching.rst:1561 ../../source/searching.rst:2007
+msgid "260$c"
+msgstr "260$c"
+
+#: ../../source/searching.rst:1561
+msgid "copydate, copydate:s"
+msgstr "copydate, copydate:s"
+
+#: ../../source/searching.rst:1563 ../../source/searching.rst:2363
+msgid "260"
+msgstr "260"
+
+#: ../../source/searching.rst:1563
+msgid "Provider, pl"
+msgstr "Provider, pl"
+
+#: ../../source/searching.rst:1565 ../../source/searching.rst:2365
+msgid "264"
+msgstr "264"
+
+#: ../../source/searching.rst:1565
+msgid "Provider"
+msgstr "提供者"
+
+#: ../../source/searching.rst:1567 ../../source/searching.rst:2053
+msgid "300"
+msgstr "300"
+
+#: ../../source/searching.rst:1567
+msgid "Extent:w, Extent:p"
+msgstr "Extent:w, Extent:p"
+
+#: ../../source/searching.rst:1569
+msgid "400$a"
+msgstr "400$a"
+
+#: ../../source/searching.rst:1569 ../../source/searching.rst:1579
+#: ../../source/searching.rst:1589 ../../source/searching.rst:1637
+#: ../../source/searching.rst:1647 ../../source/searching.rst:1713
+#: ../../source/searching.rst:1719 ../../source/searching.rst:1751
+#: ../../source/searching.rst:1759 ../../source/searching.rst:1767
+msgid "Name-and-title"
+msgstr "Name-and-title"
+
+#: ../../source/searching.rst:1571 ../../source/searching.rst:1939
+msgid "400$t"
+msgstr "400$t"
+
+#: ../../source/searching.rst:1571 ../../source/searching.rst:1753
+#: ../../source/searching.rst:1761 ../../source/searching.rst:1771
+msgid "Author-title, Name-and-title, Title, Title-series"
+msgstr "Author-title, Name-and-title, Title, Title-series"
+
+#: ../../source/searching.rst:1573 ../../source/searching.rst:2127
+msgid "400$9"
+msgstr "400$9"
+
+#: ../../source/searching.rst:1575 ../../source/searching.rst:1925
+#: ../../source/searching.rst:2267 ../../source/searching.rst:2351
+msgid "400"
+msgstr "400"
+
+#: ../../source/searching.rst:1575 ../../source/searching.rst:1757
+msgid "Author, Author-name-personal, Name, Personal-name"
+msgstr "Author, Author-name-personal, Name, Personal-name"
+
+#: ../../source/searching.rst:1577 ../../source/searching.rst:1585
+#: ../../source/searching.rst:2013
+msgid "410"
+msgstr "410"
+
+#: ../../source/searching.rst:1577 ../../source/searching.rst:1709
+msgid "Author, Corporate-name"
+msgstr "Author, Corporate-name"
+
+#: ../../source/searching.rst:1579 ../../source/searching.rst:2295
+msgid "410$a"
+msgstr "410$a"
+
+#: ../../source/searching.rst:1581 ../../source/searching.rst:1941
+#: ../../source/searching.rst:2706
+msgid "410$t"
+msgstr "410$t"
+
+#: ../../source/searching.rst:1581
+msgid "Author-title, Title, Title-series"
+msgstr "Author-title, Title, Title-series"
+
+#: ../../source/searching.rst:1583 ../../source/searching.rst:2129
+msgid "410$9"
+msgstr "410$9"
+
+#: ../../source/searching.rst:1585 ../../source/searching.rst:1593
+msgid "Author-name-corporate, Name"
+msgstr "Author-name-corporate, Name"
+
+#: ../../source/searching.rst:1587 ../../source/searching.rst:1593
+#: ../../source/searching.rst:1997
+msgid "411"
+msgstr "411"
+
+#: ../../source/searching.rst:1587
+msgid "Author, Conference-name"
+msgstr "Author, Conference-name"
+
+#: ../../source/searching.rst:1589 ../../source/searching.rst:2297
+msgid "411$a"
+msgstr "411$a"
+
+#: ../../source/searching.rst:1591 ../../source/searching.rst:1943
+#: ../../source/searching.rst:2708
+msgid "411$t"
+msgstr "411$t"
+
+#: ../../source/searching.rst:1591
+msgid "Author-title, Title-series"
+msgstr "Author-title, Title-series"
+
+#: ../../source/searching.rst:1595 ../../source/searching.rst:2543
+msgid "440$a"
+msgstr "440$a"
+
+#: ../../source/searching.rst:1595 ../../source/searching.rst:1601
+msgid "Title-series:w, Title-series:p"
+msgstr "Title-series:w, Title-series:p"
+
+#: ../../source/searching.rst:1597 ../../source/searching.rst:2131
+msgid "440$9"
+msgstr "440$9"
+
+#: ../../source/searching.rst:1599
+msgid "440"
+msgstr "440"
+
+#: ../../source/searching.rst:1599
+msgid "Title-series:w, Title-series:p, Title, Title-series"
+msgstr "Title-series:w, Title-series:p, Title, Title-series"
+
+#: ../../source/searching.rst:1601 ../../source/searching.rst:2497
+#: ../../source/searching.rst:2545
+msgid "490$a"
+msgstr "490$a"
+
+#: ../../source/searching.rst:1603
+msgid "490"
+msgstr "490"
+
+#: ../../source/searching.rst:1603 ../../source/searching.rst:1777
+#: ../../source/searching.rst:1779
+msgid "Title, Title-series"
+msgstr "Title, Title-series"
+
+#: ../../source/searching.rst:1605 ../../source/searching.rst:2133
+msgid "490$9"
+msgstr "490$9"
+
+#: ../../source/searching.rst:1607 ../../source/searching.rst:2325
+msgid "500"
+msgstr "500"
+
+#: ../../source/searching.rst:1607 ../../source/searching.rst:1615
+#: ../../source/searching.rst:1627 ../../source/searching.rst:1861
+msgid "Note:w, Note:p"
+msgstr "Note:w, Note:p"
+
+#: ../../source/searching.rst:1609 ../../source/searching.rst:2047
+msgid "502"
+msgstr "502"
+
+#: ../../source/searching.rst:1611
+msgid "505$r"
+msgstr "505$r"
+
+#: ../../source/searching.rst:1613 ../../source/searching.rst:2499
+msgid "505$t"
+msgstr "505$t"
+
+#: ../../source/searching.rst:1615 ../../source/searching.rst:2327
+msgid "505"
+msgstr "505"
+
+#: ../../source/searching.rst:1617 ../../source/searching.rst:2099
+msgid "510"
+msgstr "510"
+
+#: ../../source/searching.rst:1617
+msgid "Indexed-by"
+msgstr "Indexed-by"
+
+#: ../../source/searching.rst:1619 ../../source/searching.rst:1893
+msgid "520"
+msgstr "520"
+
+#: ../../source/searching.rst:1619
+msgid "Abstract:w, Abstract:p"
+msgstr "Abstract:w, Abstract:p"
+
+#: ../../source/searching.rst:1621 ../../source/searching.rst:2101
+#: ../../source/searching.rst:2103 ../../source/searching.rst:2219
+#: ../../source/searching.rst:2369
+msgid "521$a"
+msgstr "521$a"
+
+#: ../../source/searching.rst:1621
+msgid "lex:n"
+msgstr "lex:n"
+
+#: ../../source/searching.rst:1623 ../../source/searching.rst:1897
+msgid "526$c"
+msgstr "526$c"
+
+#: ../../source/searching.rst:1623
+msgid "arl, arl:n"
+msgstr "arl, arl:n"
+
+#: ../../source/searching.rst:1625 ../../source/searching.rst:1899
+msgid "526$d"
+msgstr "526$d"
+
+#: ../../source/searching.rst:1625
+msgid "arp, arp:n"
+msgstr "arp, arp:n"
+
+#: ../../source/searching.rst:1627 ../../source/searching.rst:2329
+msgid "590"
+msgstr "590"
+
+#: ../../source/searching.rst:1629 ../../source/searching.rst:2269
+#: ../../source/searching.rst:2353 ../../source/searching.rst:2427
+#: ../../source/searching.rst:2459 ../../source/searching.rst:2648
+msgid "600$a"
+msgstr "600$a"
+
+#: ../../source/searching.rst:1629
+msgid "Name-and-title, Name, Personal-name, Subject-name-personal, Subject"
+msgstr "Name-and-title, Name, Personal-name, Subject-name-personal, Subject"
+
+#: ../../source/searching.rst:1631 ../../source/searching.rst:2429
+msgid "600$t"
+msgstr "600$t"
+
+#: ../../source/searching.rst:1631
+msgid "Name-and-title, Title, Subject"
+msgstr "Name-and-title, Title, Subject"
+
+#: ../../source/searching.rst:1633 ../../source/searching.rst:2135
+msgid "600$9"
+msgstr "600$9"
+
+#: ../../source/searching.rst:1635 ../../source/searching.rst:2646
+msgid "600"
+msgstr "600"
+
+#: ../../source/searching.rst:1635
+msgid "Name, Personal-name, Subject-name-personal, Subject"
+msgstr "Name, Personal-name, Subject-name-personal, Subject"
+
+#: ../../source/searching.rst:1637 ../../source/searching.rst:2431
+msgid "610$a"
+msgstr "610$a"
+
+#: ../../source/searching.rst:1639
+msgid "610$t"
+msgstr "610$t"
+
+#: ../../source/searching.rst:1639 ../../source/searching.rst:1649
+msgid "Name-and-title, Title"
+msgstr "Name-and-title, Title"
+
+#: ../../source/searching.rst:1641 ../../source/searching.rst:2137
+msgid "610$9"
+msgstr "610$9"
+
+#: ../../source/searching.rst:1643 ../../source/searching.rst:2015
+#: ../../source/searching.rst:2271 ../../source/searching.rst:2664
+msgid "610"
+msgstr "610"
+
+#: ../../source/searching.rst:1643
+msgid "Name, Subject, Corporate-name"
+msgstr "Name, Subject, Corporate-name"
+
+#: ../../source/searching.rst:1645 ../../source/searching.rst:1653
+#: ../../source/searching.rst:1999 ../../source/searching.rst:2273
+#: ../../source/searching.rst:2433
+msgid "611"
+msgstr "611"
+
+#: ../../source/searching.rst:1647
+msgid "611$a"
+msgstr "611$a"
+
+#: ../../source/searching.rst:1649
+msgid "611$t"
+msgstr "611$t"
+
+#: ../../source/searching.rst:1651 ../../source/searching.rst:2139
+msgid "611$9"
+msgstr "611$9"
+
+#: ../../source/searching.rst:1653
+msgid "Name, Subject"
+msgstr "Name, Subject"
+
+#: ../../source/searching.rst:1655 ../../source/searching.rst:2435
+#: ../../source/searching.rst:2471
+msgid "630$n"
+msgstr "630$n"
+
+#: ../../source/searching.rst:1657 ../../source/searching.rst:2253
+#: ../../source/searching.rst:2437
+msgid "630$r"
+msgstr "630$r"
+
+#: ../../source/searching.rst:1659 ../../source/searching.rst:2141
+msgid "630$9"
+msgstr "630$9"
+
+#: ../../source/searching.rst:1661
+msgid "630"
+msgstr "630"
+
+#: ../../source/searching.rst:1663 ../../source/searching.rst:2145
+msgid "650$9"
+msgstr "650$9"
+
+#: ../../source/searching.rst:1665
+msgid "650"
+msgstr "650"
+
+#: ../../source/searching.rst:1665 ../../source/searching.rst:1675
+#: ../../source/searching.rst:1695
+msgid "Subject, Subject:p"
+msgstr "Subject, Subject:p"
+
+#: ../../source/searching.rst:1667 ../../source/searching.rst:2147
+msgid "651$9"
+msgstr "651$9"
+
+#: ../../source/searching.rst:1669 ../../source/searching.rst:2317
+#: ../../source/searching.rst:2455
+msgid "651"
+msgstr "651"
+
+#: ../../source/searching.rst:1669
+msgid "Name-geographic, Subject,Subject:p"
+msgstr "Name-geographic, Subject,Subject:p"
+
+#: ../../source/searching.rst:1671 ../../source/searching.rst:2149
+msgid "652$9"
+msgstr "652$9"
+
+#: ../../source/searching.rst:1673 ../../source/searching.rst:2151
+msgid "653$9"
+msgstr "653$9"
+
+#: ../../source/searching.rst:1675
+msgid "653"
+msgstr "653"
+
+#: ../../source/searching.rst:1677 ../../source/searching.rst:2153
+msgid "654$9"
+msgstr "654$9"
+
+#: ../../source/searching.rst:1679
+msgid "654"
+msgstr "654"
+
+#: ../../source/searching.rst:1681 ../../source/searching.rst:2155
+msgid "655$9"
+msgstr "655$9"
+
+#: ../../source/searching.rst:1683
+msgid "655"
+msgstr "655"
+
+#: ../../source/searching.rst:1685 ../../source/searching.rst:2157
+msgid "656$9"
+msgstr "656$9"
+
+#: ../../source/searching.rst:1687
+msgid "656"
+msgstr "656"
+
+#: ../../source/searching.rst:1689 ../../source/searching.rst:2159
+msgid "657$9"
+msgstr "657$9"
+
+#: ../../source/searching.rst:1691
+msgid "657"
+msgstr "657"
+
+#: ../../source/searching.rst:1693 ../../source/searching.rst:2163
+msgid "690$9"
+msgstr "690$9"
+
+#: ../../source/searching.rst:1695
+msgid "690"
+msgstr "690"
+
+#: ../../source/searching.rst:1697 ../../source/searching.rst:2025
+#: ../../source/searching.rst:2175
+msgid "700$9"
+msgstr "700$9"
+
+#: ../../source/searching.rst:1697
+msgid "Cross-Reference, Koha-Auth-Number"
+msgstr "Cross-Reference, Koha-Auth-Number"
+
+#: ../../source/searching.rst:1699 ../../source/searching.rst:1909
+#: ../../source/searching.rst:2580 ../../source/searching.rst:2584
+msgid "700$a"
+msgstr "700$a"
+
+#: ../../source/searching.rst:1699
+msgid "Author, Author:p"
+msgstr "Author, Author:p"
+
+#: ../../source/searching.rst:1701 ../../source/searching.rst:2473
+msgid "700$n"
+msgstr "700$n"
+
+#: ../../source/searching.rst:1703 ../../source/searching.rst:2255
+msgid "700$r"
+msgstr "700$r"
+
+#: ../../source/searching.rst:1705 ../../source/searching.rst:1945
+#: ../../source/searching.rst:2305 ../../source/searching.rst:2501
+#: ../../source/searching.rst:2551
+msgid "700$t"
+msgstr "700$t"
+
+#: ../../source/searching.rst:1705 ../../source/searching.rst:1711
+msgid "Author-title, Name-and-title, Title, Title-uniform"
+msgstr "Author-title, Name-and-title, Title, Title-uniform"
+
+#: ../../source/searching.rst:1707 ../../source/searching.rst:1927
+#: ../../source/searching.rst:2051 ../../source/searching.rst:2275
+#: ../../source/searching.rst:2355
+msgid "700"
+msgstr "700"
+
+#: ../../source/searching.rst:1707
+msgid "Author, Author-name-corporate, Author-name-personal, Name, Editor, Personal-name"
+msgstr "Author, Author-name-corporate, Author-name-personal, Name, Editor, Personal-name"
+
+#: ../../source/searching.rst:1709 ../../source/searching.rst:1717
+#: ../../source/searching.rst:2017 ../../source/searching.rst:2277
+msgid "710"
+msgstr "710"
+
+#: ../../source/searching.rst:1711 ../../source/searching.rst:1947
+#: ../../source/searching.rst:2503 ../../source/searching.rst:2553
+msgid "710$t"
+msgstr "710$t"
+
+#: ../../source/searching.rst:1713
+msgid "710$a"
+msgstr "710$a"
+
+#: ../../source/searching.rst:1715 ../../source/searching.rst:2177
+msgid "710$9"
+msgstr "710$9"
+
+#: ../../source/searching.rst:1717
+msgid "Author, Name"
+msgstr "Author, Name"
+
+#: ../../source/searching.rst:1719 ../../source/searching.rst:2309
+msgid "711$a"
+msgstr "711$a"
+
+#: ../../source/searching.rst:1721 ../../source/searching.rst:1949
+#: ../../source/searching.rst:2505 ../../source/searching.rst:2555
+msgid "711$t"
+msgstr "711$t"
+
+#: ../../source/searching.rst:1721
+msgid "Author-title, Title, Title-uniform"
+msgstr "Author-title, Title, Title-uniform"
+
+#: ../../source/searching.rst:1723 ../../source/searching.rst:2179
+msgid "711$9"
+msgstr "711$9"
+
+#: ../../source/searching.rst:1725 ../../source/searching.rst:1917
+#: ../../source/searching.rst:2001 ../../source/searching.rst:2279
+msgid "711"
+msgstr "711"
+
+#: ../../source/searching.rst:1725
+msgid "Author-name-corporate, Name, Conference-name"
+msgstr "Author-name-corporate, Name, Conference-name"
+
+#: ../../source/searching.rst:1727 ../../source/searching.rst:2475
+msgid "730$n"
+msgstr "730$n"
+
+#: ../../source/searching.rst:1729 ../../source/searching.rst:2257
+msgid "730$r"
+msgstr "730$r"
+
+#: ../../source/searching.rst:1731 ../../source/searching.rst:2181
+msgid "730$9"
+msgstr "730$9"
+
+#: ../../source/searching.rst:1733 ../../source/searching.rst:2507
+#: ../../source/searching.rst:2557
+msgid "730"
+msgstr "730"
+
+#: ../../source/searching.rst:1735 ../../source/searching.rst:2509
+#: ../../source/searching.rst:2541
+msgid "740"
+msgstr "740"
+
+#: ../../source/searching.rst:1737
+msgid "773$t"
+msgstr "773$t"
+
+#: ../../source/searching.rst:1737
+msgid "Host-item"
+msgstr "Host-item"
+
+#: ../../source/searching.rst:1739
+msgid "780$t"
+msgstr "780$t"
+
+#: ../../source/searching.rst:1741 ../../source/searching.rst:2385
+msgid "780$w"
+msgstr "780$w"
+
+#: ../../source/searching.rst:1741 ../../source/searching.rst:1745
+#: ../../source/searching.rst:1749
+msgid "Record-control-number"
+msgstr "記錄控制號"
+
+#: ../../source/searching.rst:1743 ../../source/searching.rst:2403
+#: ../../source/searching.rst:2511 ../../source/searching.rst:2531
+msgid "780"
+msgstr "780"
+
+#: ../../source/searching.rst:1743
+msgid "Title, Title-former, Related-periodical"
+msgstr "Title, Title-former, Related-periodical"
+
+#: ../../source/searching.rst:1745 ../../source/searching.rst:2387
+msgid "785$w"
+msgstr "785$w"
+
+#: ../../source/searching.rst:1747 ../../source/searching.rst:2405
+#: ../../source/searching.rst:2513 ../../source/searching.rst:2535
+msgid "785"
+msgstr "785"
+
+#: ../../source/searching.rst:1747
+msgid "Related-periodical"
+msgstr "Related-periodical"
+
+#: ../../source/searching.rst:1749 ../../source/searching.rst:2389
+msgid "787$w"
+msgstr "787$w"
+
+#: ../../source/searching.rst:1751
+msgid "800$a"
+msgstr "800$a"
+
+#: ../../source/searching.rst:1753 ../../source/searching.rst:1951
+msgid "800$t"
+msgstr "800$t"
+
+#: ../../source/searching.rst:1755 ../../source/searching.rst:2195
+msgid "800$9"
+msgstr "800$9"
+
+#: ../../source/searching.rst:1757 ../../source/searching.rst:1929
+#: ../../source/searching.rst:2281 ../../source/searching.rst:2357
+msgid "800"
+msgstr "800"
+
+#: ../../source/searching.rst:1759
+msgid "810$a"
+msgstr "810$a"
+
+#: ../../source/searching.rst:1761 ../../source/searching.rst:1953
+msgid "810$t"
+msgstr "810$t"
+
+#: ../../source/searching.rst:1763 ../../source/searching.rst:2197
+msgid "810$9"
+msgstr "810$9"
+
+#: ../../source/searching.rst:1765 ../../source/searching.rst:1919
+#: ../../source/searching.rst:2019 ../../source/searching.rst:2283
+msgid "810"
+msgstr "810"
+
+#: ../../source/searching.rst:1765
+msgid "Author, Corporate-name, Author-name-corporate, Name"
+msgstr "Author, Corporate-name, Author-name-corporate, Name"
+
+#: ../../source/searching.rst:1767
+msgid "811$a"
+msgstr "811$a"
+
+#: ../../source/searching.rst:1769 ../../source/searching.rst:2199
+msgid "811$9"
+msgstr "811$9"
+
+#: ../../source/searching.rst:1771 ../../source/searching.rst:1955
+msgid "811$t"
+msgstr "811$t"
+
+#: ../../source/searching.rst:1773 ../../source/searching.rst:1921
+#: ../../source/searching.rst:2003 ../../source/searching.rst:2285
+msgid "811"
+msgstr "811"
+
+#: ../../source/searching.rst:1773
+msgid "Author, Author-name-corporate, Name, Conference-name"
+msgstr "Author, Author-name-corporate, Name, Conference-name"
+
+#: ../../source/searching.rst:1775 ../../source/searching.rst:2201
+msgid "830$9"
+msgstr "830$9"
+
+#: ../../source/searching.rst:1777
+msgid "830"
+msgstr "830"
+
+#: ../../source/searching.rst:1779
+msgid "840"
+msgstr "840"
+
+#: ../../source/searching.rst:1781
+msgid "942$0"
+msgstr "942$0"
+
+#: ../../source/searching.rst:1781
+msgid "totalissues:n, totalissues:s"
+msgstr "totalissues:n, totalissues:s"
+
+#: ../../source/searching.rst:1783 ../../source/searching.rst:1975
+msgid "942$2"
+msgstr "942$2"
+
+#: ../../source/searching.rst:1783 ../../source/searching.rst:1975
+msgid "cn-bib-source"
+msgstr "cn-bib-source"
+
+#: ../../source/searching.rst:1785 ../../source/searching.rst:1973
+msgid "942$6"
+msgstr "942$6"
+
+#: ../../source/searching.rst:1785
+msgid "cn-bib-sort:n, cn-bib-sort:s"
+msgstr "cn-bib-sort:n, cn-bib-sort:s"
+
+#: ../../source/searching.rst:1787 ../../source/searching.rst:2113
+msgid "942$c"
+msgstr "942$c"
+
+#: ../../source/searching.rst:1787
+msgid "itemtype:w"
+msgstr "itemtype:w"
+
+#: ../../source/searching.rst:1789 ../../source/searching.rst:2461
+msgid "942$n"
+msgstr "942$n"
+
+#: ../../source/searching.rst:1789
+msgid "Suppress:w, Suppress:n"
+msgstr "Suppress:w, Suppress:n"
+
+#: ../../source/searching.rst:1791 ../../source/searching.rst:1977
+msgid "942$h"
+msgstr "942$h"
+
+#: ../../source/searching.rst:1791 ../../source/searching.rst:1977
+msgid "cn-class"
+msgstr "cn-class"
+
+#: ../../source/searching.rst:1793 ../../source/searching.rst:1979
+msgid "942$i"
+msgstr "942$i"
+
+#: ../../source/searching.rst:1793 ../../source/searching.rst:1979
+msgid "cn-item"
+msgstr "cn-item"
+
+#: ../../source/searching.rst:1795 ../../source/searching.rst:1981
+msgid "942$k"
+msgstr "942$k"
+
+#: ../../source/searching.rst:1795 ../../source/searching.rst:1981
+msgid "cn-prefix"
+msgstr "cn-prefix"
+
+#: ../../source/searching.rst:1797 ../../source/searching.rst:1985
+msgid "942$m"
+msgstr "942$m"
+
+#: ../../source/searching.rst:1797 ../../source/searching.rst:1985
+msgid "cn-suffix"
+msgstr "cn-suffix"
+
+#: ../../source/searching.rst:1799 ../../source/searching.rst:2565
+msgid "952$0"
+msgstr "952$0"
+
+#: ../../source/searching.rst:1799
+msgid "withdrawn:n, withdrawn:w"
+msgstr "withdrawn:n, withdrawn:w"
+
+#: ../../source/searching.rst:1801 ../../source/searching.rst:2237
+msgid "952$1"
+msgstr "952$1"
+
+#: ../../source/searching.rst:1801
+msgid "lost, lost:n"
+msgstr "lost, lost:n"
+
+#: ../../source/searching.rst:1803 ../../source/searching.rst:1971
+msgid "952$2"
+msgstr "952$2"
+
+#: ../../source/searching.rst:1803 ../../source/searching.rst:1971
+msgid "classification-source"
+msgstr "classification-source"
+
+#: ../../source/searching.rst:1805 ../../source/searching.rst:2243
+msgid "952$3"
+msgstr "952$3"
+
+#: ../../source/searching.rst:1805 ../../source/searching.rst:2243
+msgid "materials-specified"
+msgstr "materials-specified"
+
+#: ../../source/searching.rst:1807 ../../source/searching.rst:2031
+msgid "952$4"
+msgstr "952$4"
+
+#: ../../source/searching.rst:1807
+msgid "damaged:n, damaged:w"
+msgstr "damaged:n, damaged:w"
+
+#: ../../source/searching.rst:1809 ../../source/searching.rst:2417
+msgid "952$5"
+msgstr "952$5"
+
+#: ../../source/searching.rst:1809
+msgid "restricted:n, restricted:w"
+msgstr "restricted:n, restricted:w"
+
+#: ../../source/searching.rst:1811 ../../source/searching.rst:1983
+msgid "952$6"
+msgstr "952$6"
+
+#: ../../source/searching.rst:1811
+msgid "cn-sort:n, cn-sort:s"
+msgstr "cn-sort:n, cn-sort:s"
+
+#: ../../source/searching.rst:1813 ../../source/searching.rst:2333
+msgid "952$7"
+msgstr "952$7"
+
+#: ../../source/searching.rst:1813
+msgid "notforloan:n, notforloan:w"
+msgstr "notforloan:n, notforloan:w"
+
+#: ../../source/searching.rst:1815 ../../source/searching.rst:1969
+msgid "952$8"
+msgstr "952$8"
+
+#: ../../source/searching.rst:1817 ../../source/searching.rst:2111
+msgid "952$9"
+msgstr "952$9"
+
+#: ../../source/searching.rst:1817
+msgid "itemnumber:n, itemnumber:s"
+msgstr "itemnumber:n, itemnumber:s"
+
+#: ../../source/searching.rst:1819 ../../source/searching.rst:2071
+msgid "952$a"
+msgstr "952$a"
+
+#: ../../source/searching.rst:1819 ../../source/searching.rst:2071
+#: ../../source/searching.rst:2604
+msgid "homebranch"
+msgstr "homebranch"
+
+#: ../../source/searching.rst:1821 ../../source/searching.rst:2069
+msgid "952$b"
+msgstr "952$b"
+
+#: ../../source/searching.rst:1821 ../../source/searching.rst:2069
+#: ../../source/searching.rst:2602
+msgid "holdingbranch"
+msgstr "holdingbranch"
+
+#: ../../source/searching.rst:1823 ../../source/searching.rst:2235
+msgid "952$c"
+msgstr "952$c"
+
+#: ../../source/searching.rst:1825 ../../source/searching.rst:2035
+msgid "952$d"
+msgstr "952$d"
+
+#: ../../source/searching.rst:1825
+msgid "Date-of-acquisition, Date-of-acquisition:d, Date-of-acquisition:s"
+msgstr "Date-of-acquisition, Date-of-acquisition:d, Date-of-acquisition:s"
+
+#: ../../source/searching.rst:1827 ../../source/searching.rst:1895
+msgid "952$e"
+msgstr "952$e"
+
+#: ../../source/searching.rst:1827 ../../source/searching.rst:1895
+msgid "acqsource"
+msgstr "acqsource"
+
+#: ../../source/searching.rst:1829 ../../source/searching.rst:1991
+msgid "952$f"
+msgstr "952$f"
+
+#: ../../source/searching.rst:1829 ../../source/searching.rst:1991
+msgid "coded-location-qualifier"
+msgstr "coded-location-qualifier"
+
+#: ../../source/searching.rst:1831 ../../source/searching.rst:2361
+msgid "952$g"
+msgstr "952$g"
+
+#: ../../source/searching.rst:1831 ../../source/searching.rst:2361
+msgid "price"
+msgstr "price"
+
+#: ../../source/searching.rst:1833 ../../source/searching.rst:2421
+msgid "952$j"
+msgstr "952$j"
+
+#: ../../source/searching.rst:1833
+msgid "stack:n, stack:w"
+msgstr "stack:n, stack:w"
+
+#: ../../source/searching.rst:1835 ../../source/searching.rst:2109
+msgid "952$l"
+msgstr "952$l"
+
+#: ../../source/searching.rst:1835
+msgid "issues:n, issues:w, issues:s"
+msgstr "issues:n, issues:w, issues:s"
+
+#: ../../source/searching.rst:1837 ../../source/searching.rst:2407
+msgid "952$m"
+msgstr "952$m"
+
+#: ../../source/searching.rst:1837
+msgid "renewals:n, renewals:w"
+msgstr "renewals:n, renewals:w"
+
+#: ../../source/searching.rst:1839 ../../source/searching.rst:2415
+msgid "952$n"
+msgstr "952$n"
+
+#: ../../source/searching.rst:1839
+msgid "reserves:n, reserves:w"
+msgstr "reserves:n, reserves:w"
+
+#: ../../source/searching.rst:1841 ../../source/searching.rst:2231
+msgid "952$o"
+msgstr "952$o"
+
+#: ../../source/searching.rst:1841
+msgid "Local-classification:w, Local-classification:p, Local-classification:s"
+msgstr "Local-classification:w, Local-classification:p, Local-classification:s"
+
+#: ../../source/searching.rst:1843 ../../source/searching.rst:1957
+msgid "952$p"
+msgstr "952$p"
+
+#: ../../source/searching.rst:1843
+msgid "barcode, barcode:n"
+msgstr "barcode, barcode:n"
+
+#: ../../source/searching.rst:1845 ../../source/searching.rst:2345
+msgid "952$q"
+msgstr "952$q"
+
+#: ../../source/searching.rst:1845
+msgid "onloan:n, onloan:w"
+msgstr "onloan:n, onloan:w"
+
+#: ../../source/searching.rst:1847 ../../source/searching.rst:2043
+msgid "952$r"
+msgstr "952$r"
+
+#: ../../source/searching.rst:1847 ../../source/searching.rst:2043
+msgid "datelastseen"
+msgstr "datelastseen"
+
+#: ../../source/searching.rst:1849 ../../source/searching.rst:2041
+msgid "952$s"
+msgstr "952$s"
+
+#: ../../source/searching.rst:1849 ../../source/searching.rst:2041
+msgid "datelastborrowed"
+msgstr "datelastborrowed"
+
+#: ../../source/searching.rst:1851 ../../source/searching.rst:2009
+msgid "952$t"
+msgstr "952$t"
+
+#: ../../source/searching.rst:1851 ../../source/searching.rst:2009
+msgid "copynumber"
+msgstr "copynumber"
+
+#: ../../source/searching.rst:1853 ../../source/searching.rst:2563
+msgid "952$u"
+msgstr "952$u"
+
+#: ../../source/searching.rst:1853
+msgid "uri:u"
+msgstr "uri:u"
+
+#: ../../source/searching.rst:1855 ../../source/searching.rst:2409
+msgid "952$v"
+msgstr "952$v"
+
+#: ../../source/searching.rst:1855 ../../source/searching.rst:2409
+msgid "replacementprice"
+msgstr "replacementprice"
+
+#: ../../source/searching.rst:1857 ../../source/searching.rst:2411
+msgid "952$w"
+msgstr "952$w"
+
+#: ../../source/searching.rst:1857 ../../source/searching.rst:2411
+msgid "replacementpricedate"
+msgstr "replacementpricedate"
+
+#: ../../source/searching.rst:1859 ../../source/searching.rst:2115
+msgid "952$y"
+msgstr "952$y"
+
+#: ../../source/searching.rst:1859
+msgid "itype:w"
+msgstr "itype:w"
+
+#: ../../source/searching.rst:1861 ../../source/searching.rst:2331
+msgid "952$z"
+msgstr "952$z"
+
+#: ../../source/searching.rst:1863 ../../source/searching.rst:2233
+msgid "999$c"
+msgstr "999$c"
+
+#: ../../source/searching.rst:1863
+msgid "Local-Number:n, Local-Number:w, Local-Number:s"
+msgstr "Local-Number:n, Local-Number:w, Local-Number:s"
+
+#: ../../source/searching.rst:1865 ../../source/searching.rst:1963
+msgid "999$d"
+msgstr "999$d"
+
+#: ../../source/searching.rst:1865
+msgid "biblioitemnumber:n, biblioitemnumber:w, biblioitemnumber:s"
+msgstr "biblioitemnumber:n, biblioitemnumber:w, biblioitemnumber:s"
+
+#: ../../source/searching.rst:1868
+msgid "Table: Indexes"
+msgstr "表單：索引"
+
+#: ../../source/searching.rst:1873
+msgid "Elasticsearch indexes"
+msgstr "Elasticsearch索引"
+
+#: ../../source/searching.rst:1875
+msgid "The indexes for elasticsearch are available in the mappings.yaml file in :: admin/searchengine/elasticsearch."
+msgstr "彈性搜尋的索引可在映射.yaml檔案中獲得，該檔案位於 :: 管理員/搜尋引擎/彈性搜尋。"
+
+#: ../../source/searching.rst:1878
+msgid "They are copied here for easier reference."
+msgstr "它們被複製到這裡以便於參考。"
+
+#: ../../source/searching.rst:1883
+msgid "Bibliographic record indexes"
+msgstr "書目紀錄索引"
+
+#: ../../source/searching.rst:1888
+msgid "MARC21 bibliographic indexes"
+msgstr "MARC21 書目索引"
+
+#: ../../source/searching.rst:1891 ../../source/searching.rst:2574
+#: ../../source/searching.rst:2800 ../../source/searching.rst:2943
+msgid "Index name"
+msgstr "索引名稱"
+
+#: ../../source/searching.rst:1891 ../../source/searching.rst:2574
+#: ../../source/searching.rst:2800 ../../source/searching.rst:2943
+msgid "MARC fields"
+msgstr "MARC 欄位"
+
+#: ../../source/searching.rst:1893
+msgid "abstract"
+msgstr "摘要"
+
+#: ../../source/searching.rst:1897
+msgid "arl"
+msgstr "arl"
+
+#: ../../source/searching.rst:1899
+msgid "arp"
+msgstr "arp"
+
+#: ../../source/searching.rst:1903 ../../source/searching.rst:2826
+msgid "110$a"
+msgstr "110$a"
+
+#: ../../source/searching.rst:1905 ../../source/searching.rst:2828
+msgid "111$a"
+msgstr "111$a"
+
+#: ../../source/searching.rst:1911
+msgid "author-in-order"
+msgstr "按順序作者"
+
+#: ../../source/searching.rst:1913
+msgid "author-name-corporate"
+msgstr "作者-姓名-公司"
+
+#: ../../source/searching.rst:1923
+msgid "author-name-personal"
+msgstr "作者-姓名-個人"
+
+#: ../../source/searching.rst:1931
+msgid "author-personal-bibliography"
+msgstr "作者-個人-書目"
+
+#: ../../source/searching.rst:1933
+msgid "author-title"
+msgstr "作者-題名"
+
+#: ../../source/searching.rst:1959
+msgid "bgf-number"
+msgstr "bgf-編號"
+
+#: ../../source/searching.rst:1961
+msgid "bib-level"
+msgstr "bib-level"
+
+#: ../../source/searching.rst:1961
+msgid "leader\\/7"
+msgstr "leader\\/7"
+
+#: ../../source/searching.rst:1963
+msgid "biblioitemnumber"
+msgstr "書目編號"
+
+#: ../../source/searching.rst:1965
+msgid "008\\/34"
+msgstr "008\\/34"
+
+#: ../../source/searching.rst:1965 ../../source/searching.rst:2586
+msgid "bio"
+msgstr "書目"
+
+#: ../../source/searching.rst:1967
+msgid "bnb-card-number"
+msgstr "bnb-card-number"
+
+#: ../../source/searching.rst:1973
+msgid "cn-bib-sort"
+msgstr "cn-bib-sort"
+
+#: ../../source/searching.rst:1983
+msgid "cn-sort"
+msgstr "cn-sort"
+
+#: ../../source/searching.rst:1987
+msgid "code-geographic"
+msgstr "代碼-地理"
+
+#: ../../source/searching.rst:1989
+#, fuzzy
+msgid "code-institution"
+msgstr "Code-institution, Record-source"
+
+#: ../../source/searching.rst:1993
+#, fuzzy
+msgid "coden"
+msgstr "ccode"
+
+#: ../../source/searching.rst:2005
+#, fuzzy
+msgid "control-number"
+msgstr "Control-number"
+
+#: ../../source/searching.rst:2007
+#, fuzzy
+msgid "copydate"
+msgstr "acqdate"
+
+#: ../../source/searching.rst:2021
+msgid "cross-reference"
+msgstr ""
+
+#: ../../source/searching.rst:2027
+msgid "008\\/24-27"
+msgstr ""
+
+#: ../../source/searching.rst:2029
+msgid "658$a $b $c"
+msgstr ""
+
+#: ../../source/searching.rst:2031
+msgid "damaged"
+msgstr ""
+
+#: ../../source/searching.rst:2033
+msgid "008\\/00-05"
+msgstr ""
+
+#: ../../source/searching.rst:2033 ../../source/searching.rst:2592
+msgid "date-entered-on-file"
+msgstr ""
+
+#: ../../source/searching.rst:2037
+msgid "008\\/07-10"
+msgstr ""
+
+#: ../../source/searching.rst:2039 ../../source/searching.rst:2598
+msgid "date-time-last-modified"
+msgstr ""
+
+#: ../../source/searching.rst:2045
+#, fuzzy
+msgid "dewey-classification"
+msgstr "UDC-classification"
+
+#: ../../source/searching.rst:2047
+msgid "dissertation-information"
+msgstr ""
+
+#: ../../source/searching.rst:2049
+msgid "editor"
+msgstr ""
+
+#: ../../source/searching.rst:2053
+msgid "extent"
+msgstr ""
+
+#: ../../source/searching.rst:2055
+msgid "007\\/00"
+msgstr ""
+
+#: ../../source/searching.rst:2055
+msgid "ff7-00"
+msgstr ""
+
+#: ../../source/searching.rst:2057
+msgid "007\\/01"
+msgstr ""
+
+#: ../../source/searching.rst:2057
+msgid "ff7-01"
+msgstr ""
+
+#: ../../source/searching.rst:2059
+msgid "007\\/00-01"
+msgstr ""
+
+#: ../../source/searching.rst:2061
+msgid "007\\/02"
+msgstr ""
+
+#: ../../source/searching.rst:2061
+msgid "ff7-02"
+msgstr ""
+
+#: ../../source/searching.rst:2063
+msgid "008\\/23"
+msgstr ""
+
+#: ../../source/searching.rst:2063
+msgid "ff8-23"
+msgstr ""
+
+#: ../../source/searching.rst:2065
+msgid "008\\/29"
+msgstr ""
+
+#: ../../source/searching.rst:2065 ../../source/searching.rst:2600
+msgid "ff8-29"
+msgstr ""
+
+#: ../../source/searching.rst:2067
+#, fuzzy
+msgid "geographic-class"
+msgstr "Geographic-class"
+
+#: ../../source/searching.rst:2073
+#, fuzzy
+msgid "773$a $t"
+msgstr "773$t"
+
+#: ../../source/searching.rst:2073
+#, fuzzy
+msgid "host-item"
+msgstr "Host-item"
+
+#: ../../source/searching.rst:2075
+#, fuzzy
+msgid "773$9"
+msgstr "773$t"
+
+#: ../../source/searching.rst:2075 ../../source/searching.rst:2606
+#, fuzzy
+msgid "host-item-number"
+msgstr "Thematic-number"
+
+#: ../../source/searching.rst:2077
+#, fuzzy
+msgid "identifier-other"
+msgstr "Identifier-other"
+
+#: ../../source/searching.rst:2079
+msgid "identifier-publisher-for-music"
+msgstr ""
+
+#: ../../source/searching.rst:2095
+#, fuzzy
+msgid "655$a"
+msgstr "655$9"
+
+#: ../../source/searching.rst:2095
+msgid "index-term-genre"
+msgstr ""
+
+#: ../../source/searching.rst:2097 ../../source/searching.rst:2457
+#, fuzzy
+msgid "653$a"
+msgstr "653$9"
+
+#: ../../source/searching.rst:2097
+msgid "index-term-uncontrolled"
+msgstr ""
+
+#: ../../source/searching.rst:2099
+#, fuzzy
+msgid "indexed-by"
+msgstr "Indexed-by"
+
+#: ../../source/searching.rst:2101
+msgid "interest-age-level"
+msgstr ""
+
+#: ../../source/searching.rst:2103
+msgid "interest-grade-level"
+msgstr ""
+
+#: ../../source/searching.rst:2109
+msgid "issues"
+msgstr ""
+
+#: ../../source/searching.rst:2111 ../../source/searching.rst:2616
+#, fuzzy
+msgid "itemnumber"
+msgstr "Thematic-number"
+
+#: ../../source/searching.rst:2113
+#, fuzzy
+msgid "itemtype"
+msgstr "itemtype:w"
+
+#: ../../source/searching.rst:2117
+#, fuzzy
+msgid "koha-auth-number"
+msgstr "Koha-Auth-Number"
+
+#: ../../source/searching.rst:2143
+msgid "648$9"
+msgstr ""
+
+#: ../../source/searching.rst:2161
+msgid "662$9"
+msgstr ""
+
+#: ../../source/searching.rst:2165
+msgid "691$9"
+msgstr ""
+
+#: ../../source/searching.rst:2167
+msgid "696$9"
+msgstr ""
+
+#: ../../source/searching.rst:2169
+msgid "697$9"
+msgstr ""
+
+#: ../../source/searching.rst:2171
+msgid "698$9"
+msgstr ""
+
+#: ../../source/searching.rst:2173
+msgid "699$9"
+msgstr ""
+
+#: ../../source/searching.rst:2183
+#, fuzzy
+msgid "751$9"
+msgstr "651$9"
+
+#: ../../source/searching.rst:2185
+msgid "796$9"
+msgstr ""
+
+#: ../../source/searching.rst:2187 ../../source/searching.rst:2189
+msgid "797$9"
+msgstr ""
+
+#: ../../source/searching.rst:2191
+msgid "798$9"
+msgstr ""
+
+#: ../../source/searching.rst:2193
+msgid "799$9"
+msgstr ""
+
+#: ../../source/searching.rst:2203
+msgid "896$9"
+msgstr ""
+
+#: ../../source/searching.rst:2205
+msgid "897$9"
+msgstr ""
+
+#: ../../source/searching.rst:2207
+msgid "898$9"
+msgstr ""
+
+#: ../../source/searching.rst:2209
+msgid "899$9"
+msgstr ""
+
+#: ../../source/searching.rst:2213
+#, fuzzy
+msgid "lc-call-number"
+msgstr "NLM-call-number"
+
+#: ../../source/searching.rst:2215 ../../source/searching.rst:2622
+#: ../../source/searching.rst:2928
+#, fuzzy
+msgid "lc-card-number"
+msgstr "NLM-call-number"
+
+#: ../../source/searching.rst:2219
+#, fuzzy
+msgid "lexile-number"
+msgstr "NLM-call-number"
+
+#: ../../source/searching.rst:2221
+msgid "008\\/33"
+msgstr ""
+
+#: ../../source/searching.rst:2221 ../../source/searching.rst:2624
+msgid "lf"
+msgstr ""
+
+#: ../../source/searching.rst:2223
+#, fuzzy
+msgid "leader\\/00-04"
+msgstr "記錄標示/06-07"
+
+#: ../../source/searching.rst:2223
+msgid "llength"
+msgstr ""
+
+#: ../../source/searching.rst:2225
+msgid "008\\/35-37"
+msgstr ""
+
+#: ../../source/searching.rst:2233 ../../source/searching.rst:2632
+#: ../../source/searching.rst:2930 ../../source/searching.rst:3083
+#, fuzzy
+msgid "local-number"
+msgstr "本地編號"
+
+#: ../../source/searching.rst:2237
+msgid "lost"
+msgstr ""
+
+#: ../../source/searching.rst:2239
+#, fuzzy
+msgid "map-scale"
+msgstr "Map-scale"
+
+#: ../../source/searching.rst:2241
+#, fuzzy
+msgid "material-type"
+msgstr "Material-type"
+
+#: ../../source/searching.rst:2245
+msgid "007\\/11"
+msgstr ""
+
+#: ../../source/searching.rst:2245
+msgid "microform-generation"
+msgstr ""
+
+#: ../../source/searching.rst:2247
+#, fuzzy
+msgid "music-key"
+msgstr "Music-key"
+
+#: ../../source/searching.rst:2259
+#, fuzzy
+msgid "nal-call-number"
+msgstr "NLM-call-number"
+
+#: ../../source/searching.rst:2261
+msgid "name"
+msgstr ""
+
+#: ../../source/searching.rst:2287
+#, fuzzy
+msgid "name-and-title"
+msgstr "Name-and-title"
+
+#: ../../source/searching.rst:2293
+#, fuzzy
+msgid "400$a $t"
+msgstr "400$a"
+
+#: ../../source/searching.rst:2299
+#, fuzzy
+msgid "600$a $t"
+msgstr "600$a"
+
+#: ../../source/searching.rst:2301
+#, fuzzy
+msgid "610$a $t"
+msgstr "610$a"
+
+#: ../../source/searching.rst:2303
+#, fuzzy
+msgid "611$a $t"
+msgstr "611$a"
+
+#: ../../source/searching.rst:2307
+#, fuzzy
+msgid "710$a $t"
+msgstr "710$a"
+
+#: ../../source/searching.rst:2311
+#, fuzzy
+msgid "800$a $t"
+msgstr "800$a"
+
+#: ../../source/searching.rst:2313
+#, fuzzy
+msgid "810$a $t"
+msgstr "810$a"
+
+#: ../../source/searching.rst:2315
+#, fuzzy
+msgid "811$a $t"
+msgstr "811$a"
+
+#: ../../source/searching.rst:2317
+#, fuzzy
+msgid "name-geographic"
+msgstr "Code-geographic"
+
+#: ../../source/searching.rst:2319
+msgid "751$a"
+msgstr ""
+
+#: ../../source/searching.rst:2321
+#, fuzzy
+msgid "nlm-call-number"
+msgstr "NLM-call-number"
+
+#: ../../source/searching.rst:2323 ../../source/searching.rst:2636
+#, fuzzy
+msgid "999$x"
+msgstr "999$c"
+
+#: ../../source/searching.rst:2323 ../../source/searching.rst:2636
+msgid "not-onloan-count"
+msgstr ""
+
+#: ../../source/searching.rst:2333 ../../source/searching.rst:2638
+msgid "notforloan"
+msgstr ""
+
+#: ../../source/searching.rst:2335
+#, fuzzy
+msgid "number-db"
+msgstr "copynumber"
+
+#: ../../source/searching.rst:2337
+#, fuzzy
+msgid "number-govt-pub"
+msgstr "Number-govt-pub"
+
+#: ../../source/searching.rst:2339
+#, fuzzy
+msgid "number-legal-deposit"
+msgstr "Number-legal-deposit, Identifier-standard"
+
+#: ../../source/searching.rst:2341
+#, fuzzy
+msgid "952$i"
+msgstr "952$0"
+
+#: ../../source/searching.rst:2341
+#, fuzzy
+msgid "number-local-acquisition"
+msgstr "Date-of-Acquisition"
+
+#: ../../source/searching.rst:2343
+msgid "number-natl-biblio"
+msgstr ""
+
+#: ../../source/searching.rst:2347
+#, fuzzy
+msgid "other-control-number"
+msgstr "Other-control-number"
+
+#: ../../source/searching.rst:2359
+msgid "008\\/15-17"
+msgstr ""
+
+#: ../../source/searching.rst:2363
+#, fuzzy
+msgid "provider"
+msgstr "提供者"
+
+#: ../../source/searching.rst:2369
+msgid "reading-grade-level"
+msgstr ""
+
+#: ../../source/searching.rst:2371
+msgid "770$w"
+msgstr ""
+
+#: ../../source/searching.rst:2371
+#, fuzzy
+msgid "record-control-number"
+msgstr "記錄控制號"
+
+#: ../../source/searching.rst:2373
+msgid "772$w"
+msgstr ""
+
+#: ../../source/searching.rst:2375
+#, fuzzy
+msgid "773$w"
+msgstr "773$t"
+
+#: ../../source/searching.rst:2377
+msgid "774$w"
+msgstr ""
+
+#: ../../source/searching.rst:2379
+msgid "775$w"
+msgstr ""
+
+#: ../../source/searching.rst:2381
+msgid "776$w"
+msgstr ""
+
+#: ../../source/searching.rst:2383
+msgid "777$w"
+msgstr ""
+
+#: ../../source/searching.rst:2391
+#, fuzzy
+msgid "800$w"
+msgstr "800$a"
+
+#: ../../source/searching.rst:2393
+#, fuzzy
+msgid "810$w"
+msgstr "810$a"
+
+#: ../../source/searching.rst:2395
+#, fuzzy
+msgid "811$w"
+msgstr "811$a"
+
+#: ../../source/searching.rst:2397
+#, fuzzy
+msgid "830$w"
+msgstr "830$9"
+
+#: ../../source/searching.rst:2399
+msgid "008\\/39"
+msgstr ""
+
+#: ../../source/searching.rst:2399 ../../source/searching.rst:2934
+#, fuzzy
+msgid "record-source"
+msgstr "acqsource"
+
+#: ../../source/searching.rst:2401
+#, fuzzy
+msgid "related-periodical"
+msgstr "Related-periodical"
+
+#: ../../source/searching.rst:2407
+msgid "renewals"
+msgstr ""
+
+#: ../../source/searching.rst:2413
+#, fuzzy
+msgid "report-number"
+msgstr "Control-number"
+
+#: ../../source/searching.rst:2415
+msgid "reserves"
+msgstr ""
+
+#: ../../source/searching.rst:2417
+msgid "restricted"
+msgstr ""
+
+#: ../../source/searching.rst:2419
+#, fuzzy
+msgid "leader\\/06"
+msgstr "記錄標示/06"
+
+#: ../../source/searching.rst:2419
+#, fuzzy
+msgid "rtype"
+msgstr "ctype"
+
+#: ../../source/searching.rst:2421
+msgid "stack"
+msgstr ""
+
+#: ../../source/searching.rst:2423
+#, fuzzy
+msgid "stock-number"
+msgstr "Control-number"
+
+#: ../../source/searching.rst:2425
+#, fuzzy
+msgid "651$a"
+msgstr "651$9"
+
+#: ../../source/searching.rst:2425 ../../source/searching.rst:2644
+msgid "su-geo"
+msgstr ""
+
+#: ../../source/searching.rst:2439
+#, fuzzy
+msgid "650$a"
+msgstr "650$9"
+
+#: ../../source/searching.rst:2441
+#, fuzzy
+msgid "650$b"
+msgstr "050$b"
+
+#: ../../source/searching.rst:2443
+#, fuzzy
+msgid "650$c"
+msgstr "650$9"
+
+#: ../../source/searching.rst:2445
+#, fuzzy
+msgid "650$d"
+msgstr "650$9"
+
+#: ../../source/searching.rst:2447
+#, fuzzy
+msgid "650$v"
+msgstr "650$9"
+
+#: ../../source/searching.rst:2449
+#, fuzzy
+msgid "650$x"
+msgstr "650$9"
+
+#: ../../source/searching.rst:2451
+#, fuzzy
+msgid "650$y"
+msgstr "650$9"
+
+#: ../../source/searching.rst:2453
+#, fuzzy
+msgid "650$z"
+msgstr "650$9"
+
+#: ../../source/searching.rst:2459
+#, fuzzy
+msgid "subject-name-personal"
+msgstr "Subject-person-name"
+
+#: ../../source/searching.rst:2461 ../../source/searching.rst:2666
+msgid "suppress"
+msgstr ""
+
+#: ../../source/searching.rst:2463
+msgid "008\\/22"
+msgstr ""
+
+#: ../../source/searching.rst:2465
+#, fuzzy
+msgid "thematic-number"
+msgstr "Thematic-number"
+
+#: ../../source/searching.rst:2515
+#, fuzzy
+msgid "title-abbreviated"
+msgstr "Title, Title-abbreviated"
+
+#: ../../source/searching.rst:2521
+#, fuzzy
+msgid "title-cover"
+msgstr "Title-series"
+
+#: ../../source/searching.rst:2523
+#, fuzzy
+msgid "title-expanded"
+msgstr "Title, Title-expanded"
+
+#: ../../source/searching.rst:2527
+#, fuzzy
+msgid "title-former"
+msgstr "Title-uniform"
+
+#: ../../source/searching.rst:2533
+#, fuzzy
+msgid "title-key"
+msgstr "Title, Title-key"
+
+#: ../../source/searching.rst:2535
+#, fuzzy
+msgid "title-later"
+msgstr "Title-series"
+
+#: ../../source/searching.rst:2537
+#, fuzzy
+msgid "title-other-variant"
+msgstr "Title, Title-other-variant"
+
+#: ../../source/searching.rst:2547
+#, fuzzy
+msgid "title-uniform"
+msgstr "Title-uniform"
+
+#: ../../source/searching.rst:2559
+#, fuzzy
+msgid "942$9"
+msgstr "942$0"
+
+#: ../../source/searching.rst:2559
+msgid "totalissues"
+msgstr ""
+
+#: ../../source/searching.rst:2561
+#, fuzzy
+msgid "udc-classification"
+msgstr "Local-classification"
+
+#: ../../source/searching.rst:2563
+#, fuzzy
+msgid "uri"
+msgstr "uri:u"
+
+#: ../../source/searching.rst:2565
+msgid "withdrawn"
+msgstr ""
+
+#: ../../source/searching.rst:2571
+msgid "UNIMARC bibliographic indexes"
+msgstr ""
+
+#: ../../source/searching.rst:2576
+msgid "200$f"
+msgstr ""
+
+#: ../../source/searching.rst:2578
+msgid "200$g"
+msgstr ""
+
+#: ../../source/searching.rst:2582
+#, fuzzy
+msgid "701"
+msgstr "001"
+
+#: ../../source/searching.rst:2586
+msgid "105$a\\/12"
+msgstr ""
+
+#: ../../source/searching.rst:2588
+msgid "995$8"
+msgstr ""
+
+#: ../../source/searching.rst:2590
+msgid "105$a\\/04-07"
+msgstr ""
+
+#: ../../source/searching.rst:2592
+#, fuzzy
+msgid "099$c"
+msgstr "999$c"
+
+#: ../../source/searching.rst:2594
+msgid "995$5"
+msgstr ""
+
+#: ../../source/searching.rst:2596
+msgid "100$a\\/09-12"
+msgstr ""
+
+#: ../../source/searching.rst:2598
+#, fuzzy
+msgid "099$d"
+msgstr "999$d"
+
+#: ../../source/searching.rst:2600
+msgid "105$a\\/08"
+msgstr ""
+
+#: ../../source/searching.rst:2602
+msgid "995$c"
+msgstr ""
+
+#: ../../source/searching.rst:2604
+msgid "995$b"
+msgstr ""
+
+#: ../../source/searching.rst:2606
+msgid "461$9"
+msgstr ""
+
+#: ../../source/searching.rst:2608 ../../source/searching.rst:2612
+#: ../../source/searching.rst:2928
+#, fuzzy
+msgid "010$a $z"
+msgstr "410$a"
+
+#: ../../source/searching.rst:2610 ../../source/searching.rst:2614
+msgid "011$a $y $z"
+msgstr ""
+
+#: ../../source/searching.rst:2616
+msgid "995$9"
+msgstr ""
+
+#: ../../source/searching.rst:2618
+msgid "200$b"
+msgstr ""
+
+#: ../../source/searching.rst:2620
+msgid "995$r"
+msgstr ""
+
+#: ../../source/searching.rst:2622
+msgid "995$j"
+msgstr ""
+
+#: ../../source/searching.rst:2624
+msgid "105$a\\/11"
+msgstr ""
+
+#: ../../source/searching.rst:2626
+msgid "101$a"
+msgstr ""
+
+#: ../../source/searching.rst:2628
+#, fuzzy
+msgid "686"
+msgstr "086"
+
+#: ../../source/searching.rst:2630
+msgid "995$k"
+msgstr ""
+
+#: ../../source/searching.rst:2634
+msgid "995$e"
+msgstr ""
+
+#: ../../source/searching.rst:2638
+msgid "995$o"
+msgstr ""
+
+#: ../../source/searching.rst:2640
+msgid "995$n"
+msgstr ""
+
+#: ../../source/searching.rst:2642
+msgid "210$c"
+msgstr ""
+
+#: ../../source/searching.rst:2644
+msgid "607$a"
+msgstr ""
+
+#: ../../source/searching.rst:2650
+#, fuzzy
+msgid "601"
+msgstr "001"
+
+#: ../../source/searching.rst:2652
+#, fuzzy
+msgid "602"
+msgstr "020"
+
+#: ../../source/searching.rst:2654
+#, fuzzy
+msgid "604"
+msgstr "024"
+
+#: ../../source/searching.rst:2656
+#, fuzzy
+msgid "605"
+msgstr "005"
+
+#: ../../source/searching.rst:2658
+#, fuzzy
+msgid "606"
+msgstr "060"
+
+#: ../../source/searching.rst:2660
+#, fuzzy
+msgid "607"
+msgstr "007"
+
+#: ../../source/searching.rst:2662
+#, fuzzy
+msgid "608"
+msgstr "008"
+
+#: ../../source/searching.rst:2666
+msgid "955$n"
+msgstr ""
+
+#: ../../source/searching.rst:2668
+#, fuzzy
+msgid "100$a\\/17"
+msgstr "100$a"
+
+#: ../../source/searching.rst:2670 ../../source/searching.rst:2967
+#, fuzzy
+msgid "200$a"
+msgstr "100$a"
+
+#: ../../source/searching.rst:2672
+msgid "200$c"
+msgstr ""
+
+#: ../../source/searching.rst:2674
+msgid "200$d"
+msgstr ""
+
+#: ../../source/searching.rst:2676
+msgid "200$e"
+msgstr ""
+
+#: ../../source/searching.rst:2678
+msgid "200$h"
+msgstr ""
+
+#: ../../source/searching.rst:2680
+msgid "200$i"
+msgstr ""
+
+#: ../../source/searching.rst:2682
+#, fuzzy
+msgid "205"
+msgstr "005"
+
+#: ../../source/searching.rst:2684
+msgid "304$a"
+msgstr ""
+
+#: ../../source/searching.rst:2686
+msgid "327$a"
+msgstr ""
+
+#: ../../source/searching.rst:2688
+msgid "327$b"
+msgstr ""
+
+#: ../../source/searching.rst:2690
+msgid "327$c"
+msgstr ""
+
+#: ../../source/searching.rst:2692
+msgid "327$d"
+msgstr ""
+
+#: ../../source/searching.rst:2694
+msgid "327$e"
+msgstr ""
+
+#: ../../source/searching.rst:2696
+msgid "327$f"
+msgstr ""
+
+#: ../../source/searching.rst:2698
+msgid "327$g"
+msgstr ""
+
+#: ../../source/searching.rst:2700
+msgid "327$h"
+msgstr ""
+
+#: ../../source/searching.rst:2702
+msgid "327$i"
+msgstr ""
+
+#: ../../source/searching.rst:2704
+msgid "328$t"
+msgstr ""
+
+#: ../../source/searching.rst:2710
+msgid "412$t"
+msgstr ""
+
+#: ../../source/searching.rst:2712
+msgid "413$t"
+msgstr ""
+
+#: ../../source/searching.rst:2714
+msgid "421$t"
+msgstr ""
+
+#: ../../source/searching.rst:2716
+msgid "422$t"
+msgstr ""
+
+#: ../../source/searching.rst:2718
+msgid "423$t"
+msgstr ""
+
+#: ../../source/searching.rst:2720
+msgid "424$t"
+msgstr ""
+
+#: ../../source/searching.rst:2722
+msgid "425$t"
+msgstr ""
+
+#: ../../source/searching.rst:2724
+msgid "430$t"
+msgstr ""
+
+#: ../../source/searching.rst:2726
+msgid "431$t"
+msgstr ""
+
+#: ../../source/searching.rst:2728
+msgid "432$t"
+msgstr ""
+
+#: ../../source/searching.rst:2730
+msgid "433$t"
+msgstr ""
+
+#: ../../source/searching.rst:2732
+msgid "434$t"
+msgstr ""
+
+#: ../../source/searching.rst:2734
+msgid "435$t"
+msgstr ""
+
+#: ../../source/searching.rst:2736
+msgid "436$t"
+msgstr ""
+
+#: ../../source/searching.rst:2738
+msgid "437$t"
+msgstr ""
+
+#: ../../source/searching.rst:2740
+#, fuzzy
+msgid "440$t"
+msgstr "440$a"
+
+#: ../../source/searching.rst:2742
+msgid "441$t"
+msgstr ""
+
+#: ../../source/searching.rst:2744
+msgid "442$t"
+msgstr ""
+
+#: ../../source/searching.rst:2746
+msgid "443$t"
+msgstr ""
+
+#: ../../source/searching.rst:2748
+msgid "444$t"
+msgstr ""
+
+#: ../../source/searching.rst:2750
+msgid "445$t"
+msgstr ""
+
+#: ../../source/searching.rst:2752
+msgid "446$t"
+msgstr ""
+
+#: ../../source/searching.rst:2754
+msgid "447$t"
+msgstr ""
+
+#: ../../source/searching.rst:2756
+msgid "448$t"
+msgstr ""
+
+#: ../../source/searching.rst:2758
+msgid "451$t"
+msgstr ""
+
+#: ../../source/searching.rst:2760
+#, fuzzy
+msgid "452$t"
+msgstr "952$t"
+
+#: ../../source/searching.rst:2762
+msgid "453$t"
+msgstr ""
+
+#: ../../source/searching.rst:2764
+msgid "454$t"
+msgstr ""
+
+#: ../../source/searching.rst:2766
+msgid "455$t"
+msgstr ""
+
+#: ../../source/searching.rst:2768
+msgid "456$t"
+msgstr ""
+
+#: ../../source/searching.rst:2770
+msgid "461$t"
+msgstr ""
+
+#: ../../source/searching.rst:2772
+msgid "462$t"
+msgstr ""
+
+#: ../../source/searching.rst:2774
+msgid "463$t"
+msgstr ""
+
+#: ../../source/searching.rst:2776
+msgid "464$t"
+msgstr ""
+
+#: ../../source/searching.rst:2778
+msgid "470$t"
+msgstr ""
+
+#: ../../source/searching.rst:2780
+msgid "481$t"
+msgstr ""
+
+#: ../../source/searching.rst:2782
+msgid "482$t"
+msgstr ""
+
+#: ../../source/searching.rst:2784
+msgid "488$t"
+msgstr ""
+
+#: ../../source/searching.rst:2786
+msgid "225$a"
+msgstr ""
+
+#: ../../source/searching.rst:2792
+msgid "Authority record indexes"
+msgstr ""
+
+#: ../../source/searching.rst:2797
+msgid "MARC21 authority indexes"
+msgstr ""
+
+#: ../../source/searching.rst:2802 ../../source/searching.rst:2860
+#: ../../source/searching.rst:2886
+msgid "510(abcdefghklmnoprstvxyz)"
+msgstr ""
+
+#: ../../source/searching.rst:2802
+#, fuzzy
+msgid "Corporate-name-see-also-from"
+msgstr "Corporate-name"
+
+#: ../../source/searching.rst:2804 ../../source/searching.rst:2854
+#: ../../source/searching.rst:2866 ../../source/searching.rst:2906
+msgid "410(abcdefghklmnoprstvxyz)"
+msgstr ""
+
+#: ../../source/searching.rst:2804
+#, fuzzy
+msgid "Corporate-name-see-from"
+msgstr "Corporate-name"
+
+#: ../../source/searching.rst:2806
+msgid "008\\/10"
+msgstr ""
+
+#: ../../source/searching.rst:2806
+msgid "Descriptive-cataloging-rules"
+msgstr ""
+
+#: ../../source/searching.rst:2808 ../../source/searching.rst:2848
+#: ../../source/searching.rst:2878 ../../source/searching.rst:2932
+msgid "100(abcdefghjklmnopqrstvxyz)"
+msgstr ""
+
+#: ../../source/searching.rst:2808 ../../source/searching.rst:2945
+msgid "Heading"
+msgstr ""
+
+#: ../../source/searching.rst:2810
+msgid "110(abcdefghjklnpqstvxyz)"
+msgstr ""
+
+#: ../../source/searching.rst:2812
+msgid "111(acdefghjklmnopqrstvxyz)"
+msgstr ""
+
+#: ../../source/searching.rst:2814
+msgid "130(adefghjklnpqstvxyz)"
+msgstr ""
+
+#: ../../source/searching.rst:2816
+msgid "148(abcdefghjklmnopqrstvxyz)"
+msgstr ""
+
+#: ../../source/searching.rst:2818
+msgid "150(abgvxyz)"
+msgstr ""
+
+#: ../../source/searching.rst:2820
+msgid "151(agvxyz)"
+msgstr ""
+
+#: ../../source/searching.rst:2822
+msgid "155(avxyz)"
+msgstr ""
+
+#: ../../source/searching.rst:2824 ../../source/searching.rst:2967
+msgid "Heading-Main"
+msgstr ""
+
+#: ../../source/searching.rst:2830
+#, fuzzy
+msgid "130$a"
+msgstr "130$n"
+
+#: ../../source/searching.rst:2832
+msgid "148$a"
+msgstr ""
+
+#: ../../source/searching.rst:2834
+msgid "150$a"
+msgstr ""
+
+#: ../../source/searching.rst:2836
+msgid "151$a"
+msgstr ""
+
+#: ../../source/searching.rst:2838
+msgid "155$a"
+msgstr ""
+
+#: ../../source/searching.rst:2840
+msgid "008\\/14"
+msgstr ""
+
+#: ../../source/searching.rst:2840
+msgid "Heading-use-main-or-added-entry"
+msgstr ""
+
+#: ../../source/searching.rst:2842
+msgid "008\\/16"
+msgstr ""
+
+#: ../../source/searching.rst:2842
+msgid "Heading-use-series-added-entry"
+msgstr ""
+
+#: ../../source/searching.rst:2844
+msgid "008\\/15"
+msgstr ""
+
+#: ../../source/searching.rst:2844
+msgid "Heading-use-subject-added-entry"
+msgstr ""
+
+#: ../../source/searching.rst:2846
+msgid "008\\/09"
+msgstr ""
+
+#: ../../source/searching.rst:2846
+msgid "Kind-of-record"
+msgstr ""
+
+#: ../../source/searching.rst:2848 ../../source/searching.rst:2989
+msgid "Match"
+msgstr ""
+
+#: ../../source/searching.rst:2850 ../../source/searching.rst:2870
+#: ../../source/searching.rst:2872
+msgid "111(acdefghjklnpqstvxyz)"
+msgstr ""
+
+#: ../../source/searching.rst:2852 ../../source/searching.rst:2864
+#: ../../source/searching.rst:2882 ../../source/searching.rst:2904
+msgid "400(abcdefghjklmnopqrstvxyz)"
+msgstr ""
+
+#: ../../source/searching.rst:2856 ../../source/searching.rst:2868
+#: ../../source/searching.rst:2876
+msgid "411(acdefghjklnpqstvxyz)"
+msgstr ""
+
+#: ../../source/searching.rst:2858 ../../source/searching.rst:2880
+#: ../../source/searching.rst:2884
+msgid "500(abcdefghjklmnopqrstvxyz)"
+msgstr ""
+
+#: ../../source/searching.rst:2862 ../../source/searching.rst:2874
+msgid "511(acdefghjklnpqstvxyz)"
+msgstr ""
+
+#: ../../source/searching.rst:2864
+msgid "Match-heading-see-from"
+msgstr ""
+
+#: ../../source/searching.rst:2870
+msgid "Meeting-name"
+msgstr ""
+
+#: ../../source/searching.rst:2872
+msgid "Meeting-name-heading"
+msgstr ""
+
+#: ../../source/searching.rst:2874
+msgid "Meeting-name-see-also-from"
+msgstr ""
+
+#: ../../source/searching.rst:2876
+msgid "Meeting-name-see-from"
+msgstr ""
+
+#: ../../source/searching.rst:2878
+#, fuzzy
+msgid "Personal-name-heading"
+msgstr "Personal-name"
+
+#: ../../source/searching.rst:2880
+#, fuzzy
+msgid "Personal-name-see-also-from"
+msgstr "Personal-name"
+
+#: ../../source/searching.rst:2882
+#, fuzzy
+msgid "Personal-name-see-from"
+msgstr "Personal-name"
+
+#: ../../source/searching.rst:2884
+msgid "See-also-from"
+msgstr ""
+
+#: ../../source/searching.rst:2888
+msgid "511a(bcdefghjklmnopqrstvxyz)"
+msgstr ""
+
+#: ../../source/searching.rst:2890
+msgid "530(abcdefghklmnoprstvxyz)"
+msgstr ""
+
+#: ../../source/searching.rst:2892
+msgid "547(abcdefghjklmnopqrstvxyz)"
+msgstr ""
+
+#: ../../source/searching.rst:2894
+msgid "548(abcdefghklmnoprstvxyz)"
+msgstr ""
+
+#: ../../source/searching.rst:2896
+msgid "550(abcdefghjklmnopqrstvxyz)"
+msgstr ""
+
+#: ../../source/searching.rst:2898
+msgid "551(abcdefghklmnoprstvxyz)"
+msgstr ""
+
+#: ../../source/searching.rst:2900
+msgid "555(abcdefghjklmnopqrstvxyz)"
+msgstr ""
+
+#: ../../source/searching.rst:2902
+msgid "562(abcdefghklmnoprstvxyz)"
+msgstr ""
+
+#: ../../source/searching.rst:2904
+msgid "See-from"
+msgstr ""
+
+#: ../../source/searching.rst:2908
+msgid "411(abcdefghjklmnopqrstvxyz)"
+msgstr ""
+
+#: ../../source/searching.rst:2910
+msgid "430(abcdefghklmnoprstvxyz)"
+msgstr ""
+
+#: ../../source/searching.rst:2912
+msgid "440(abcdefghjklmnopqrstvxyz)"
+msgstr ""
+
+#: ../../source/searching.rst:2914
+msgid "441(abcdefghklmnoprstvxyz)"
+msgstr ""
+
+#: ../../source/searching.rst:2916
+msgid "444(abcdefghjklmnopqrstvxyz)"
+msgstr ""
+
+#: ../../source/searching.rst:2918
+msgid "447(abcdefghjklmnopqrstvxyz)"
+msgstr ""
+
+#: ../../source/searching.rst:2920
+msgid "448(abcdefghklmnoprstvxyz)"
+msgstr ""
+
+#: ../../source/searching.rst:2922
+msgid "462(abcdefghklmnoprstvxyz)"
+msgstr ""
+
+#: ../../source/searching.rst:2924
+msgid "008\\/11"
+msgstr ""
+
+#: ../../source/searching.rst:2924
+msgid "Subject-heading-thesaurus"
+msgstr ""
+
+#: ../../source/searching.rst:2926
+#, fuzzy
+msgid "942$a"
+msgstr "942$0"
+
+#: ../../source/searching.rst:2926 ../../source/searching.rst:3081
+#, fuzzy
+msgid "authtype"
+msgstr "ctype"
+
+#: ../../source/searching.rst:2934
+msgid "040(acd)"
+msgstr ""
+
+#: ../../source/searching.rst:2940
+msgid "UNIMARC authority indexes"
+msgstr ""
+
+#: ../../source/searching.rst:2945
+msgid "200(abcdfgjxyz)"
+msgstr ""
+
+#: ../../source/searching.rst:2947
+msgid "210(abcdefghjxyz)"
+msgstr ""
+
+#: ../../source/searching.rst:2949
+msgid "215(ajxyz)"
+msgstr ""
+
+#: ../../source/searching.rst:2951
+msgid "216(afcjxyz)"
+msgstr ""
+
+#: ../../source/searching.rst:2953
+msgid "220(afjxyz)"
+msgstr ""
+
+#: ../../source/searching.rst:2955
+msgid "230(abhijklmnqrsuwxyz)"
+msgstr ""
+
+#: ../../source/searching.rst:2957
+msgid "235(abejkmrsuwxyz)"
+msgstr ""
+
+#: ../../source/searching.rst:2959
+msgid "240(atjxyz)"
+msgstr ""
+
+#: ../../source/searching.rst:2961
+msgid "250(ajxyz)"
+msgstr ""
+
+#: ../../source/searching.rst:2963
+msgid "260(abcdjxyz)"
+msgstr ""
+
+#: ../../source/searching.rst:2965
+msgid "280(ajxyz)"
+msgstr ""
+
+#: ../../source/searching.rst:2969
+#, fuzzy
+msgid "210$a"
+msgstr "410$a"
+
+#: ../../source/searching.rst:2971
+msgid "215$a"
+msgstr ""
+
+#: ../../source/searching.rst:2973
+msgid "216$a"
+msgstr ""
+
+#: ../../source/searching.rst:2975
+#, fuzzy
+msgid "220$a"
+msgstr "020$a"
+
+#: ../../source/searching.rst:2977
+msgid "230$a"
+msgstr ""
+
+#: ../../source/searching.rst:2979
+msgid "235$a"
+msgstr ""
+
+#: ../../source/searching.rst:2981
+#, fuzzy
+msgid "240$a"
+msgstr "240$r"
+
+#: ../../source/searching.rst:2983
+msgid "250$a"
+msgstr ""
+
+#: ../../source/searching.rst:2987
+msgid "280$a"
+msgstr ""
+
+#: ../../source/searching.rst:2989
+msgid "200(3478abcdfgjxyz)"
+msgstr ""
+
+#: ../../source/searching.rst:2991
+msgid "210(3478abcdefghxyz)"
+msgstr ""
+
+#: ../../source/searching.rst:2993
+msgid "215(78ajxyz)"
+msgstr ""
+
+#: ../../source/searching.rst:2995
+msgid "216(378acfjxyz)"
+msgstr ""
+
+#: ../../source/searching.rst:2997
+msgid "220(378afjxyz)"
+msgstr ""
+
+#: ../../source/searching.rst:2999
+msgid "230(8abhijklmqrsuwxyz)"
+msgstr ""
+
+#: ../../source/searching.rst:3001
+msgid "235(378abeijkmratsuwxyz)"
+msgstr ""
+
+#: ../../source/searching.rst:3003
+msgid "240(8abcfjtxyz)"
+msgstr ""
+
+#: ../../source/searching.rst:3005
+msgid "250(8abcdjvxyz)"
+msgstr ""
+
+#: ../../source/searching.rst:3007
+msgid "260(378abcd)"
+msgstr ""
+
+#: ../../source/searching.rst:3009
+msgid "280(378ajxyz)"
+msgstr ""
+
+#: ../../source/searching.rst:3011
+msgid "400(0234568abcdfgjxyz)"
+msgstr ""
+
+#: ../../source/searching.rst:3013
+msgid "410(02345678abcdefghjxyz)"
+msgstr ""
+
+#: ../../source/searching.rst:3015
+msgid "415(0235678ajxyz)"
+msgstr ""
+
+#: ../../source/searching.rst:3017
+msgid "416(acfjxyz)"
+msgstr ""
+
+#: ../../source/searching.rst:3019
+msgid "420(afjxyz)"
+msgstr ""
+
+#: ../../source/searching.rst:3021
+msgid "430(0235678abhijklmnqrsuwxyz)"
+msgstr ""
+
+#: ../../source/searching.rst:3023
+msgid "435(0235678abejkmrsuwxyz)"
+msgstr ""
+
+#: ../../source/searching.rst:3025
+msgid "440(0235678abcdfjtxyz)"
+msgstr ""
+
+#: ../../source/searching.rst:3027
+msgid "445(ajtxyz)"
+msgstr ""
+
+#: ../../source/searching.rst:3029
+msgid "450(0235678ajxyz)"
+msgstr ""
+
+#: ../../source/searching.rst:3031
+msgid "460(abcd)"
+msgstr ""
+
+#: ../../source/searching.rst:3033
+msgid "480(ajxyz)"
+msgstr ""
+
+#: ../../source/searching.rst:3035
+msgid "500(023456789abcdfgjxyz)"
+msgstr ""
+
+#: ../../source/searching.rst:3037
+msgid "510(02345678abcdefghjxyz)"
+msgstr ""
+
+#: ../../source/searching.rst:3039
+msgid "515(0356789ajxyz)"
+msgstr ""
+
+#: ../../source/searching.rst:3041
+msgid "516(9acfjxyz)"
+msgstr ""
+
+#: ../../source/searching.rst:3043
+msgid "520(9afjxyz)"
+msgstr ""
+
+#: ../../source/searching.rst:3045
+msgid "530(02356789abhijklmnqrsuwxyz)"
+msgstr ""
+
+#: ../../source/searching.rst:3047
+msgid "535(02356789abjkmqrsuwxyz)"
+msgstr ""
+
+#: ../../source/searching.rst:3049
+msgid "540(0235678ajtxyz)"
+msgstr ""
+
+#: ../../source/searching.rst:3051
+msgid "545(9ajtxyz)"
+msgstr ""
+
+#: ../../source/searching.rst:3053
+msgid "550(02356789abjxyz)"
+msgstr ""
+
+#: ../../source/searching.rst:3055
+msgid "560(59abcd)"
+msgstr ""
+
+#: ../../source/searching.rst:3057
+msgid "580(59ajxyz)"
+msgstr ""
+
+#: ../../source/searching.rst:3059
+msgid "700(23478abcdfgjxyz)"
+msgstr ""
+
+#: ../../source/searching.rst:3061
+msgid "710(23478abcdefghjxyz)"
+msgstr ""
+
+#: ../../source/searching.rst:3063
+msgid "715(2378ajxyz)"
+msgstr ""
+
+#: ../../source/searching.rst:3065
+msgid "716(acfjxyz)"
+msgstr ""
+
+#: ../../source/searching.rst:3067
+msgid "720(afjxyz)"
+msgstr ""
+
+#: ../../source/searching.rst:3069
+msgid "730(2378abhijklmnqrsuwxyz)"
+msgstr ""
+
+#: ../../source/searching.rst:3071
+msgid "740(2378ajtxyz)"
+msgstr ""
+
+#: ../../source/searching.rst:3073
+msgid "745(378ajtxyz)"
+msgstr ""
+
+#: ../../source/searching.rst:3075
+msgid "750(23789abjxyz)"
+msgstr ""
+
+#: ../../source/searching.rst:3077
+msgid "760(abcd)"
+msgstr ""
+
+#: ../../source/searching.rst:3079
+msgid "780(ajxyz)"
+msgstr ""
+
+#: ../../source/searching.rst:3081
+#, fuzzy
+msgid "152$b"
+msgstr "952$b"

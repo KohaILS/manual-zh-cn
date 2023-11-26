@@ -1,0 +1,894 @@
+# Chinese translations for Koha Manual package.
+# Copyright (C) 2020, Koha Community
+# This file is distributed under the same license as the Koha Manual package.
+# Automatically generated, 2021.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Koha Manual 22.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-10-26 08:18+0200\n"
+"PO-Revision-Date: 2023-04-21 08:05+0000\n"
+"Last-Translator: Frank Chou <frank@sris.com.tw>\n"
+"Language-Team: none\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pootle 2.8\n"
+"X-Pootle-Path: /zh_TW/manual22.11/logspreferences.po\n"
+"X-Pootle-Revision: 1\n"
+"X-POOTLE-MTIME: 1682064349.279761\n"
+
+#: ../../source/logspreferences.rst:6
+msgid "Logs"
+msgstr "日誌"
+
+#: ../../source/logspreferences.rst:8
+msgid "Logs keep track of transactions in the system. You can decide which actions you want to log and which you don't using these preferences. Logs can then be viewed in the :ref:`Log viewer tool<log-viewer-label>`."
+msgstr "記錄追蹤系統的交易內容。您可以使用這些偏好決定要記錄哪些操作以及不記錄哪些操作。日誌可從工具區的 :ref:`記錄檢視器<log-viewer-label>` 查看記錄。"
+
+#: ../../source/logspreferences.rst:12
+msgid "*Get there:* More > Administration > Global system preferences > Logs"
+msgstr "*到此：*其他 > 管理 > 整體系統偏好> 日誌"
+
+#: ../../source/logspreferences.rst:17
+msgid "Debugging"
+msgstr "除錯"
+
+#: ../../source/logspreferences.rst:22
+msgid "ActionLogsTraceDepth"
+msgstr ""
+
+#: ../../source/logspreferences.rst:24
+msgid "Asks: When logging actions, store a stack trace that goes at most \\_\\_\\_ levels deep."
+msgstr ""
+
+#: ../../source/logspreferences.rst:27
+#, fuzzy
+msgid "Default: 0"
+msgstr "預設值：記錄"
+
+#: ../../source/logspreferences.rst:29 ../../source/logspreferences.rst:57
+#: ../../source/logspreferences.rst:84 ../../source/logspreferences.rst:112
+#: ../../source/logspreferences.rst:144 ../../source/logspreferences.rst:242
+#: ../../source/logspreferences.rst:271 ../../source/logspreferences.rst:305
+#: ../../source/logspreferences.rst:334 ../../source/logspreferences.rst:382
+#: ../../source/logspreferences.rst:423 ../../source/logspreferences.rst:452
+#: ../../source/logspreferences.rst:480 ../../source/logspreferences.rst:518
+#: ../../source/logspreferences.rst:562 ../../source/logspreferences.rst:594
+#: ../../source/logspreferences.rst:623 ../../source/logspreferences.rst:659
+#: ../../source/logspreferences.rst:693 ../../source/logspreferences.rst:729
+#: ../../source/logspreferences.rst:757 ../../source/logspreferences.rst:791
+#: ../../source/logspreferences.rst:819
+msgid "Description:"
+msgstr "說明："
+
+#: ../../source/logspreferences.rst:31
+msgid "This system preference allows you to store in the action\\_logs table the information about where in Koha a particular :ref:`logged action <logging-label>` was generated from, and how."
+msgstr ""
+
+#: ../../source/logspreferences.rst:35
+msgid "Use 0 to deactivate this system preference."
+msgstr ""
+
+#: ../../source/logspreferences.rst:39
+#, fuzzy
+msgid "This information is only stored in the database, it is not visible in the :ref:`log viewer tool <log-viewer-label>`."
+msgstr "這些日誌可以通過 :ref:`日誌查看器工具`<log-viewer-label>進行搜尋。"
+
+#: ../../source/logspreferences.rst:45
+msgid "DumpSearchQueryTemplate"
+msgstr "DumpSearchQueryTemplate"
+
+#: ../../source/logspreferences.rst:47
+msgid "Asks: \\_\\_\\_ dump search query as a template parameter."
+msgstr "詢問: \\_\\_\\_ 將搜尋查詢轉儲為範本參數。"
+
+#: ../../source/logspreferences.rst:49 ../../source/logspreferences.rst:76
+#: ../../source/logspreferences.rst:104
+msgid "Default: Don't"
+msgstr "預設值：不要"
+
+#: ../../source/logspreferences.rst:51 ../../source/logspreferences.rst:78
+#: ../../source/logspreferences.rst:106
+msgid "Value:"
+msgstr "價："
+
+#: ../../source/logspreferences.rst:53 ../../source/logspreferences.rst:80
+#: ../../source/logspreferences.rst:108
+msgid "Don't"
+msgstr "不要"
+
+#: ../../source/logspreferences.rst:55 ../../source/logspreferences.rst:82
+#: ../../source/logspreferences.rst:110
+msgid "Do"
+msgstr "做"
+
+#: ../../source/logspreferences.rst:59
+msgid "This system preference allows you to view the search query used by Zebra or Elasticsearch, to help with troubleshooting."
+msgstr "這個系統偏好允許你查看Zebra或Elasticsearch使用的搜尋查詢，以幫助排除故障。"
+
+#: ../../source/logspreferences.rst:62
+#, fuzzy
+msgid "Make sure to enable :ref:`DumpTemplateVarsIntranet <DumpTemplateVarsIntranet-label>` and/or :ref:`DumpTemplateVarsOpac <DumpTemplateVarsOpac-label>` otherwise this system preference will have no effect."
+msgstr "確保啟用 :ref:`DumpTemplateVarsIntranet`和/或 :ref:`DumpTemplateVarsOpac`，否則這個系統偏好將沒有效果。"
+
+#: ../../source/logspreferences.rst:66
+msgid "The dumped query will be in the page source under 'search_query'."
+msgstr "轉儲的查詢將位於'搜尋_詢問'下的頁面原始程式碼中。"
+
+#: ../../source/logspreferences.rst:71
+msgid "DumpTemplateVarsIntranet"
+msgstr "DumpTemplateVarsIntranet"
+
+#: ../../source/logspreferences.rst:73
+msgid "Asks: \\_\\_\\_ dump all Template Toolkit variable to a comment in the HTML source for the staff interface."
+msgstr "詢問：\\_\\_\\_ 下載模板工具所有變數 HTML 原始碼供館員介面使用。"
+
+#: ../../source/logspreferences.rst:86
+msgid "This system preference allows you to view the Template Toolkit variables used on a staff interface page, to help with troubleshooting."
+msgstr "這個系統偏好允許你查看館員介面頁面上使用的模板工具包變量，以幫助排除故障。"
+
+#: ../../source/logspreferences.rst:89 ../../source/logspreferences.rst:117
+msgid "The dumped information will be in the page source, in a comment at the beginning of the file."
+msgstr "轉儲的訊息將在頁面源中，在文件開頭的註釋中。"
+
+#: ../../source/logspreferences.rst:92 ../../source/logspreferences.rst:120
+msgid "See also:"
+msgstr "參見："
+
+#: ../../source/logspreferences.rst:94
+#, fuzzy
+msgid ":ref:`DumpTemplateVarsOpac <DumpTemplateVarsOpac-label>`"
+msgstr ":ref:`DumpTemplateVarsOpac`"
+
+#: ../../source/logspreferences.rst:99
+msgid "DumpTemplateVarsOpac"
+msgstr "DumpTemplateVarsOpac"
+
+#: ../../source/logspreferences.rst:101
+msgid "Asks: \\_\\_\\_ dump all Template Toolkit variable to a comment in the HTML source for the OPAC."
+msgstr "詢問：\\_\\_\\_ 下載模板工具所有變數至 HTML 原始碼供 OPAC 使用。"
+
+#: ../../source/logspreferences.rst:114
+msgid "This system preference allows you to view the Template Toolkit variables used on an OPAC page, to help with troubleshooting."
+msgstr "此系統偏好允許您查看 OPAC 頁面上使用的範本工具套件變數，以幫助進行故障排除。"
+
+#: ../../source/logspreferences.rst:122
+#, fuzzy
+msgid ":ref:`DumpTemplateVarsIntranet <DumpTemplateVarsIntranet-label>`"
+msgstr ":ref:`DumpTemplateVarsIntranet`"
+
+#: ../../source/logspreferences.rst:127
+msgid "Logging"
+msgstr "紀錄"
+
+#: ../../source/logspreferences.rst:132
+msgid "AcquisitionLog"
+msgstr "AcquisitionLog"
+
+#: ../../source/logspreferences.rst:134
+msgid "Asks: \\_\\_\\_ when acquisition actions take place."
+msgstr "詢問：\\_\\_\\_何時發生採訪行動。"
+
+#: ../../source/logspreferences.rst:136 ../../source/logspreferences.rst:234
+#: ../../source/logspreferences.rst:297 ../../source/logspreferences.rst:444
+#: ../../source/logspreferences.rst:510 ../../source/logspreferences.rst:554
+#: ../../source/logspreferences.rst:615 ../../source/logspreferences.rst:651
+#: ../../source/logspreferences.rst:721 ../../source/logspreferences.rst:749
+msgid "Default: Don't log"
+msgstr "預設：不記錄"
+
+#: ../../source/logspreferences.rst:138 ../../source/logspreferences.rst:236
+#: ../../source/logspreferences.rst:265 ../../source/logspreferences.rst:299
+#: ../../source/logspreferences.rst:328 ../../source/logspreferences.rst:376
+#: ../../source/logspreferences.rst:417 ../../source/logspreferences.rst:446
+#: ../../source/logspreferences.rst:474 ../../source/logspreferences.rst:512
+#: ../../source/logspreferences.rst:556 ../../source/logspreferences.rst:588
+#: ../../source/logspreferences.rst:617 ../../source/logspreferences.rst:653
+#: ../../source/logspreferences.rst:687 ../../source/logspreferences.rst:723
+#: ../../source/logspreferences.rst:751 ../../source/logspreferences.rst:785
+#: ../../source/logspreferences.rst:813
+msgid "Values:"
+msgstr "值:"
+
+#: ../../source/logspreferences.rst:140 ../../source/logspreferences.rst:238
+#: ../../source/logspreferences.rst:267 ../../source/logspreferences.rst:301
+#: ../../source/logspreferences.rst:330 ../../source/logspreferences.rst:378
+#: ../../source/logspreferences.rst:419 ../../source/logspreferences.rst:448
+#: ../../source/logspreferences.rst:476 ../../source/logspreferences.rst:514
+#: ../../source/logspreferences.rst:558 ../../source/logspreferences.rst:590
+#: ../../source/logspreferences.rst:619 ../../source/logspreferences.rst:655
+#: ../../source/logspreferences.rst:689 ../../source/logspreferences.rst:725
+#: ../../source/logspreferences.rst:753 ../../source/logspreferences.rst:787
+#: ../../source/logspreferences.rst:815
+msgid "Don't log"
+msgstr "不記錄"
+
+#: ../../source/logspreferences.rst:142 ../../source/logspreferences.rst:240
+#: ../../source/logspreferences.rst:269 ../../source/logspreferences.rst:303
+#: ../../source/logspreferences.rst:332 ../../source/logspreferences.rst:380
+#: ../../source/logspreferences.rst:421 ../../source/logspreferences.rst:450
+#: ../../source/logspreferences.rst:478 ../../source/logspreferences.rst:516
+#: ../../source/logspreferences.rst:560 ../../source/logspreferences.rst:592
+#: ../../source/logspreferences.rst:621 ../../source/logspreferences.rst:657
+#: ../../source/logspreferences.rst:691 ../../source/logspreferences.rst:727
+#: ../../source/logspreferences.rst:755 ../../source/logspreferences.rst:789
+#: ../../source/logspreferences.rst:817
+msgid "Log"
+msgstr "日誌"
+
+#: ../../source/logspreferences.rst:146
+msgid "This system preference controls whether or not Koha will log various actions done in the :ref:`acquisitions module<acquisitions-label>`. These actions include:"
+msgstr "這個系統偏好控制Koha是否會記錄在 :ref:`採訪模組<acquisitions-label>`中進行的各種操作。這些操作包括:"
+
+#: ../../source/logspreferences.rst:150
+msgid "Adding new baskets"
+msgstr "新增新購物籃"
+
+#: ../../source/logspreferences.rst:152
+msgid "Re-opening closed baskets"
+msgstr "重新打開已關閉的購物籃"
+
+#: ../../source/logspreferences.rst:154
+msgid "Modifying baskets"
+msgstr "修改購物籃"
+
+#: ../../source/logspreferences.rst:156
+msgid "Modifying basket headers"
+msgstr "修改購物籃標題"
+
+#: ../../source/logspreferences.rst:158
+msgid "Modifying basket users"
+msgstr "修改購物籃使用者"
+
+#: ../../source/logspreferences.rst:160
+msgid "Closing baskets"
+msgstr "關閉購物籃"
+
+#: ../../source/logspreferences.rst:162
+msgid "Approving baskets"
+msgstr "批准購物籃"
+
+#: ../../source/logspreferences.rst:164
+msgid "Creating a new order line"
+msgstr "建立新的訂單系列"
+
+#: ../../source/logspreferences.rst:166
+msgid "Cancelling an order line"
+msgstr "取消訂單系列"
+
+#: ../../source/logspreferences.rst:168
+msgid "Adding an invoice adjustment"
+msgstr "新增發票調整"
+
+#: ../../source/logspreferences.rst:170
+msgid "Editing an invoice adjustment"
+msgstr "編輯發票調整"
+
+#: ../../source/logspreferences.rst:172
+msgid "Deleting an invoice adjustment"
+msgstr "刪除發票調整"
+
+#: ../../source/logspreferences.rst:174
+msgid "Receiving an order line against an invoice"
+msgstr "根據發票接收一個訂單明细"
+
+#: ../../source/logspreferences.rst:176
+msgid "Editing a budget"
+msgstr "編輯預算"
+
+#: ../../source/logspreferences.rst:178
+msgid "Editing a fund"
+msgstr "編輯基金"
+
+#: ../../source/logspreferences.rst:180
+msgid "Order release date (EDIFACT)"
+msgstr "訂單發布日期（EDIFACT）"
+
+#: ../../source/logspreferences.rst:182 ../../source/logspreferences.rst:248
+#: ../../source/logspreferences.rst:276 ../../source/logspreferences.rst:311
+#: ../../source/logspreferences.rst:339 ../../source/logspreferences.rst:387
+#: ../../source/logspreferences.rst:429 ../../source/logspreferences.rst:457
+#: ../../source/logspreferences.rst:485 ../../source/logspreferences.rst:523
+#: ../../source/logspreferences.rst:567 ../../source/logspreferences.rst:599
+#: ../../source/logspreferences.rst:630 ../../source/logspreferences.rst:664
+#: ../../source/logspreferences.rst:698 ../../source/logspreferences.rst:734
+#: ../../source/logspreferences.rst:762 ../../source/logspreferences.rst:796
+#: ../../source/logspreferences.rst:824
+msgid "These logs are searchable through the :ref:`log viewer tool <log-viewer-label>`."
+msgstr "這些日誌可以通過 :ref:`日誌查看器工具`<log-viewer-label>進行搜尋。"
+
+#: ../../source/logspreferences.rst:184 ../../source/logspreferences.rst:250
+#: ../../source/logspreferences.rst:278 ../../source/logspreferences.rst:313
+#: ../../source/logspreferences.rst:341 ../../source/logspreferences.rst:389
+#: ../../source/logspreferences.rst:431 ../../source/logspreferences.rst:459
+#: ../../source/logspreferences.rst:487 ../../source/logspreferences.rst:525
+#: ../../source/logspreferences.rst:569 ../../source/logspreferences.rst:601
+#: ../../source/logspreferences.rst:632 ../../source/logspreferences.rst:666
+#: ../../source/logspreferences.rst:700 ../../source/logspreferences.rst:736
+#: ../../source/logspreferences.rst:764 ../../source/logspreferences.rst:798
+#: ../../source/logspreferences.rst:826
+msgid "These logs are kept in the action\\_logs table in the database."
+msgstr "這些日誌被保存在資料庫中的 action\\_log 表中。"
+
+#: ../../source/logspreferences.rst:186
+msgid "The module is 'ACQUISITIONS'."
+msgstr "該模組是'採訪'。"
+
+#: ../../source/logspreferences.rst:188 ../../source/logspreferences.rst:282
+#: ../../source/logspreferences.rst:345 ../../source/logspreferences.rst:393
+#: ../../source/logspreferences.rst:491 ../../source/logspreferences.rst:529
+#: ../../source/logspreferences.rst:573 ../../source/logspreferences.rst:636
+#: ../../source/logspreferences.rst:670 ../../source/logspreferences.rst:704
+#: ../../source/logspreferences.rst:768 ../../source/logspreferences.rst:830
+msgid "Possible actions are"
+msgstr "可能採取的行動是"
+
+#: ../../source/logspreferences.rst:190
+msgid "ADD\\_BASKET: a :ref:`new basket was created<create-a-basket-label>`"
+msgstr "新增\\_購物籃: a :ref:`新購物籃已建立<create-a-basket-label>`"
+
+#: ../../source/logspreferences.rst:192
+msgid "APPROVE\\_BASKET: an EDI basket was approved"
+msgstr "APPROVE\\_BASKET：EDI 購物籃已獲批准"
+
+#: ../../source/logspreferences.rst:194
+msgid "CANCEL\\_ORDER: an order was cancelled"
+msgstr "CANCEL\\_ORDER:：訂單被取消"
+
+#: ../../source/logspreferences.rst:196
+msgid "CLOSE\\_BASKET: a :ref:`basket was closed<ordering-closing-basket-label>`"
+msgstr "CLOSE\\_BASKET: 一個 :ref:`購物籃已關閉<ordering-closing-basket-label>`"
+
+#: ../../source/logspreferences.rst:198
+msgid "CREATE\\_FUND: a :ref:`fund was created<add-a-fund-label>`"
+msgstr "建立\\_基金: 一個 :ref:`基金已建立<add-a-fund-label>`"
+
+#: ../../source/logspreferences.rst:200
+msgid "CREATE\\_INVOICE\\_ADJUSTMENT: an adjustment was added to an invoice"
+msgstr "新增\\_發票\\_調整：調整已新增到發票"
+
+#: ../../source/logspreferences.rst:202
+msgid "CREATE\\_ORDER: an :ref:`order was added to a basket<add-to-basket-label>`"
+msgstr "新增\\_訂單: 一個 :ref:`訂單已新增到購物籃<add-to-basket-label>`"
+
+#: ../../source/logspreferences.rst:204
+msgid "DELETE\\_FUND: a fund was deleted"
+msgstr "刪除\\_基金：基金被刪除"
+
+#: ../../source/logspreferences.rst:206
+msgid "DELETE\\_INVOICE\\_ADJUSTMENT: an adjustment was deleted from an invoice"
+msgstr "刪除\\_發票\\_調整：調整已從發票中刪除"
+
+#: ../../source/logspreferences.rst:208
+msgid "MODIFY\\_BASKET: a :ref:`basket was edited<edit-basket-label>` (adding or modifying orders)"
+msgstr "編輯\\_購物籃: 一個 :ref:`購物籃被編輯<edit-basket-label>`（新增或修改訂單）"
+
+#: ../../source/logspreferences.rst:210
+msgid "MODIFY\\_BASKET\\_HEADER: a basket's information (such as the basket name or billing place) was edited"
+msgstr "編輯\\_購物籃\\_標題：編輯了購物籃的訊息（例如購物籃名稱或開票地點）"
+
+#: ../../source/logspreferences.rst:213
+msgid "MODIFY\\_BASKET\\_USERS: a basket's users were edited"
+msgstr "編輯\\_採購籃\\_使用者：編輯了採購籃的使用者"
+
+#: ../../source/logspreferences.rst:215
+msgid "MODIFY\\_BUDGET: a budget was edited (this does not include clo)"
+msgstr "編輯\\_預算：預算已編輯（這不包括 clo）"
+
+#: ../../source/logspreferences.rst:217
+msgid "MODIFY\\_FUND: a fund was edited"
+msgstr "編輯\\_基金：基金被編輯"
+
+#: ../../source/logspreferences.rst:219
+msgid "MODIFY\\_ORDER: an order was edited"
+msgstr "編輯\\_訂單：訂單已編輯"
+
+#: ../../source/logspreferences.rst:221
+msgid "RECEIVE\\_ORDER: an :ref:`order was received<receiving-orders-label>`"
+msgstr "收到\\_訂單: 一個 :ref:`訂單已收到<receiving-orders-label>`"
+
+#: ../../source/logspreferences.rst:223
+msgid "REOPEN\\_BASKET: a closed basket was reopened"
+msgstr "重新打開\\_購物籃：關閉的購物籃被重新打開"
+
+#: ../../source/logspreferences.rst:225
+msgid "UPDATE\\_INVOICE\\_ADJUSTMENT: an adjustment to an invoice was edited"
+msgstr "更新\\_發票\\_調整：編輯了對發票的調整"
+
+#: ../../source/logspreferences.rst:230
+msgid "AuthFailureLog"
+msgstr "AuthFailureLog"
+
+#: ../../source/logspreferences.rst:232
+msgid "Asks: \\_\\_\\_ authentication failures."
+msgstr "詢問：\\_\\_\\_ 身份驗證失敗。"
+
+#: ../../source/logspreferences.rst:244
+msgid "This system preference controls whether or not Koha should log when a patron fails to successfully authenticate on the OPAC (or a staff member in the staff interface)."
+msgstr "此系統偏好控制當讀者未能在 OPAC（或館員介面中的館員）上成功驗證時，Koha 是否應該登入。"
+
+#: ../../source/logspreferences.rst:252 ../../source/logspreferences.rst:315
+msgid "The module is 'AUTH'"
+msgstr "該模組是'AUTH'"
+
+#: ../../source/logspreferences.rst:254
+msgid "The action is 'FAILURE'"
+msgstr "行動是'失敗'"
+
+#: ../../source/logspreferences.rst:259
+msgid "AuthoritiesLog"
+msgstr "AuthoritiesLog"
+
+#: ../../source/logspreferences.rst:261
+msgid "Asks: \\_\\_\\_ changes to authority records."
+msgstr "詢問：\\_\\_\\_ 權威記錄的改變。"
+
+#: ../../source/logspreferences.rst:263 ../../source/logspreferences.rst:326
+#: ../../source/logspreferences.rst:374 ../../source/logspreferences.rst:415
+#: ../../source/logspreferences.rst:472 ../../source/logspreferences.rst:586
+#: ../../source/logspreferences.rst:685 ../../source/logspreferences.rst:783
+#: ../../source/logspreferences.rst:811
+msgid "Default: Log"
+msgstr "預設值：記錄"
+
+#: ../../source/logspreferences.rst:273
+msgid "This system preference controls whether or not Koha should log when an :ref:`authority record<authorities-label>` is created, modified or deleted."
+msgstr "此系統偏好控制在建立、修改或刪除 :ref:`權威記錄<authorities-label> 時 Koha 是否應記錄。"
+
+#: ../../source/logspreferences.rst:280
+msgid "The module is 'AUTHORITIES'."
+msgstr "該模組是'權威'。"
+
+#: ../../source/logspreferences.rst:284
+msgid "ADD: authority record was created"
+msgstr "新增：建立權威記錄"
+
+#: ../../source/logspreferences.rst:286
+msgid "DELETE: authority record was deleted"
+msgstr "刪除：權威記錄被刪除"
+
+#: ../../source/logspreferences.rst:288
+msgid "MODIFY: authority record was modified"
+msgstr "修改：權威記錄被修改"
+
+#: ../../source/logspreferences.rst:293
+msgid "AuthSuccessLog"
+msgstr "AuthSuccessLog"
+
+#: ../../source/logspreferences.rst:295
+msgid "Asks: \\_\\_\\_ successful authentications."
+msgstr "詢問：\\_\\_\\_ 身份驗證成功。"
+
+#: ../../source/logspreferences.rst:307
+msgid "This system preference controls whether or not Koha should log when a patron successfully authenticates on the OPAC (or a staff member in the staff interface)"
+msgstr "這個系統偏好控制當讀者在OPAC上成功認證時，Koha是否應該記錄（或館員介面上的館員）"
+
+#: ../../source/logspreferences.rst:317
+msgid "The action is 'SUCCESS'"
+msgstr "行動是'成功'"
+
+#: ../../source/logspreferences.rst:322
+msgid "BorrowersLog"
+msgstr "BorrowersLog"
+
+#: ../../source/logspreferences.rst:324
+msgid "Asks: \\_\\_\\_ changes to patron records."
+msgstr ""
+
+#: ../../source/logspreferences.rst:336
+msgid "This system preference controls whether or not Koha should log when a patron's account is edited."
+msgstr ""
+
+#: ../../source/logspreferences.rst:343
+msgid "The module is 'MEMBERS'."
+msgstr ""
+
+#: ../../source/logspreferences.rst:347
+msgid "ADDCIRCMESSAGE: an internal message or OPAC message was added to the patron's account"
+msgstr ""
+
+#: ../../source/logspreferences.rst:350
+msgid "CHANGE PASS: a patron's password was changed"
+msgstr ""
+
+#: ../../source/logspreferences.rst:352
+msgid "CREATE: a :ref:`new patron was added<add-a-new-patron-label>`"
+msgstr ""
+
+#: ../../source/logspreferences.rst:354
+msgid "DELCIRCMESSAGE: an internal message or OPAC message was deleted"
+msgstr ""
+
+#: ../../source/logspreferences.rst:356
+msgid "DELETE: a :ref:`patron's account was deleted<delete-patron-account-label>`"
+msgstr ""
+
+#: ../../source/logspreferences.rst:358
+msgid "MODIFY: a :ref:`patron's account was edited<editing-patrons-label>`"
+msgstr ""
+
+#: ../../source/logspreferences.rst:360
+msgid "RENEW: a :ref:`patron's membership was renewed<renew-patron-account-label>`"
+msgstr ""
+
+#: ../../source/logspreferences.rst:364
+msgid "Enabling this system preference allows the tracking of cardnumber changes for patrons."
+msgstr "啟用此偏好允許追蹤讀者號的變動"
+
+#: ../../source/logspreferences.rst:370
+msgid "CataloguingLog"
+msgstr "CataloguingLog"
+
+#: ../../source/logspreferences.rst:372
+msgid "Asks: \\_\\_\\_ any changes to bibliographic or item records."
+msgstr "詢問：\\_\\_\\_ 書目記錄與館藏記錄的改變。"
+
+#: ../../source/logspreferences.rst:384
+msgid "This system preference controls whether or not Koha should log when a bibliographic record or an item is created, modified or deleted."
+msgstr "此系統偏好控制 Koha 是否應在建立、修改或刪除書目記錄或館藏時記錄。"
+
+#: ../../source/logspreferences.rst:391
+msgid "The module is 'CATALOGUING'."
+msgstr "該模組是'目錄'。"
+
+#: ../../source/logspreferences.rst:395
+msgid "ADD: bibliographic record or item was created"
+msgstr "新增：書目記錄或館藏已建立"
+
+#: ../../source/logspreferences.rst:397
+msgid "DELETE: bibliographic record or item was deleted"
+msgstr "刪除：書目記錄或館藏已刪除"
+
+#: ../../source/logspreferences.rst:399
+msgid "MODIFY: bibliographic record or item was modified, or a cover image was added to the record"
+msgstr "修改：書目記錄或館藏已修改，或封面圖片已新增到記錄中"
+
+#: ../../source/logspreferences.rst:404
+msgid "Since this occurs whenever a title is catalogued or edited, and the whole record is saved in the action\\_logs table, it can be very resource intensive, thus slowing down your system or taking a lot of space."
+msgstr "由於每當對標題進行編目或編輯時都會發生這種情況，而且整個記錄都保存在 action\\_logs 表中，所以它可能非常耗費資源，從而使你的系統變慢或占用大量的空間。"
+
+#: ../../source/logspreferences.rst:411
+msgid "ClaimsLog"
+msgstr "ClaimsLog"
+
+#: ../../source/logspreferences.rst:413
+msgid "Asks: \\_\\_\\ when an acquisitions claim or a serials claim notice is sent."
+msgstr "詢問：\\_\\_\\ 何時發送採訪索賠或連續出版物索賠通知。"
+
+#: ../../source/logspreferences.rst:425
+msgid "This system preference controls whether or not Koha should log when a notice is sent for a :ref:`late order<claims-and-late-orders-label>` or a :ref:`late serial issue<claim-late-serials-label>`."
+msgstr "這個系統偏好控制Koha是否應該在為 :ref:`遲到的訂單<claims-and-ate-orders-label>`或 :ref:`late serial issue<claim-ate-serials-label>`發送通知時記錄。"
+
+#: ../../source/logspreferences.rst:433
+msgid "The module is 'CLAIMS'."
+msgstr "該模組是'索賠'。"
+
+#: ../../source/logspreferences.rst:435
+msgid "The action is 'ACQUISITION CLAIM'."
+msgstr "行動是'採訪索賠'。"
+
+#: ../../source/logspreferences.rst:440
+msgid "CronjobLog"
+msgstr "CronjobLog"
+
+#: ../../source/logspreferences.rst:442
+msgid "Asks: \\_\\_\\_ information from cron jobs."
+msgstr "詢問：\\_\\_\\_ 來自工作排程的資訊。"
+
+#: ../../source/logspreferences.rst:454
+msgid "This system preference controls whether or not Koha should log when a :ref:`cron job<cron-jobs-label>` is run."
+msgstr "此系統偏好控制 Koha 是否應在運行 :ref:`工作排程<cron-jobs-label>` 時記錄。"
+
+#: ../../source/logspreferences.rst:461
+msgid "The module is 'CRONJOBS'."
+msgstr "該模組是'工作排程'。"
+
+#: ../../source/logspreferences.rst:463
+msgid "The action is 'Run'."
+msgstr "動作是'運行'。"
+
+#: ../../source/logspreferences.rst:468
+msgid "FinesLog"
+msgstr "FinesLog"
+
+#: ../../source/logspreferences.rst:470
+msgid "Asks: \\_\\_\\_ when fines are charged, paid or forgiven."
+msgstr "詢問：\\_\\_\\_ 何時收取、支付或免除罰款。"
+
+#: ../../source/logspreferences.rst:482
+msgid "This system preference controls whether or not Koha should log actions done on :ref:`charges<fines-label>` in patron's accounts."
+msgstr "此系統偏好控制 Koha 是否應記錄在讀者帳戶中對 :ref:`收費<fines-label>` 所做的操作。"
+
+#: ../../source/logspreferences.rst:489
+msgid "The module is 'FINES'."
+msgstr "該模組是'罰款'。"
+
+#: ../../source/logspreferences.rst:493
+msgid "CREATE: a charge was added to a patron's account (manually or automatically)"
+msgstr "建立：費用已新增到讀者的帳戶（手動或自動）"
+
+#: ../../source/logspreferences.rst:496
+msgid "MODIFY: a charge was modified (forgiven)"
+msgstr "修改：費用被修改（免除）"
+
+#: ../../source/logspreferences.rst:498
+msgid "UPDATE: a charge was updated (only in the case of fines that are still accruing)"
+msgstr "更新：更新了收費（僅在仍在累積罰款的情況下）"
+
+#: ../../source/logspreferences.rst:501
+msgid "VOID: a :ref:`payment was voided<void-payments-label>`"
+msgstr "作廢:一個 :ref:`付款作廢<void-payments-label>`"
+
+#: ../../source/logspreferences.rst:506
+msgid "HoldsLog"
+msgstr "HoldsLog"
+
+#: ../../source/logspreferences.rst:508
+msgid "Asks: \\_\\_\\_ any actions on holds (create, cancel, suspend, resume, etc.)."
+msgstr "詢問：\\_\\_\\_ 預約的所有行為 (新增、取消、暫停、恢復等)。"
+
+#: ../../source/logspreferences.rst:520
+msgid "This system preference controls whether or not Koha should log actions done on :ref:`holds<holds-circulation-label>`."
+msgstr "此系統偏好控制 Koha 是否應記錄在 :ref:`預約<holds-circulation-label>` 上完成的操作。"
+
+#: ../../source/logspreferences.rst:527
+msgid "The module is 'HOLDS'."
+msgstr "該模組是'預約'。"
+
+#: ../../source/logspreferences.rst:531
+msgid "CANCEL: a hold was cancelled"
+msgstr "取消：預約已取消"
+
+#: ../../source/logspreferences.rst:533
+msgid "CREATE: a hold was placed"
+msgstr "建立：放置預約"
+
+#: ../../source/logspreferences.rst:535
+msgid "DELETE: a hold was deleted, an item on hold was checked out by the patron"
+msgstr "刪除：預約已刪除，預約的館藏已由讀者借出"
+
+#: ../../source/logspreferences.rst:538
+msgid "FILL: a hold was :ref:`confirmed and put aside to await pickup<receiving-holds-label>`"
+msgstr "FILL：預約是 :ref:`已確認並擱置等待取件<receiving-holds-label>`"
+
+#: ../../source/logspreferences.rst:540
+msgid "MODIFY: a hold was modified (the priority was changed, the expiration date changed, etc.)"
+msgstr "修改：持有被修改（優先級被改變，過期日期被改變等）"
+
+#: ../../source/logspreferences.rst:543
+msgid "RESUME: a suspended hold was resumed"
+msgstr "恢復：一個暫停的預約被恢復了"
+
+#: ../../source/logspreferences.rst:545
+msgid "SUSPEND: a hold was suspended"
+msgstr "暫停：暫停了一項預約"
+
+#: ../../source/logspreferences.rst:550
+msgid "IllLog"
+msgstr "IllLog"
+
+#: ../../source/logspreferences.rst:552
+msgid "Asks: \\_\\_\\_ when changes to ILL requests take place."
+msgstr "詢問: \\_\\_\\_ 改變 ILL 請求時。"
+
+#: ../../source/logspreferences.rst:564
+msgid "This system preference controls whether or not Koha should log changes on :ref:`ILL requests<ill-requests-label>`"
+msgstr "此系統偏好控制 Koha 是否應記錄更改 :ref:`ILL要求<ill-requests-label>`"
+
+#: ../../source/logspreferences.rst:571
+msgid "The module is 'ILL'."
+msgstr "該模組是'ILL'。"
+
+#: ../../source/logspreferences.rst:575
+msgid "PATRON\\_NOTICE: a notice was sent to a patron regarding their ILL request"
+msgstr "讀者\\_通知：已向讀者發送有關其 ILL 請求的通知"
+
+#: ../../source/logspreferences.rst:577
+msgid "STATUS\\_CHANGE: the status of an ILL request was modified"
+msgstr "狀態\\_改變：ILL 請求的狀態已修改"
+
+#: ../../source/logspreferences.rst:582
+msgid "IssueLog"
+msgstr "IssueLog"
+
+#: ../../source/logspreferences.rst:584
+msgid "Asks: \\_\\_\\_ when items are checked out."
+msgstr "詢問：\\_\\_\\_ 借出館藏。"
+
+#: ../../source/logspreferences.rst:596
+msgid "This system preference controls whether or not Koha should log when :ref:`an item is checked out<check-out-(issuing)-label>`."
+msgstr "此系統偏好控制 Koha 是否應記錄何時 :ref:`一個館藏被借出<check-out-(issuing)-label>`。"
+
+#: ../../source/logspreferences.rst:603 ../../source/logspreferences.rst:738
+#: ../../source/logspreferences.rst:800
+msgid "The module is 'CIRCULATION'."
+msgstr "該模組是'流通'。"
+
+#: ../../source/logspreferences.rst:605
+msgid "The action is 'ISSUE'."
+msgstr "該操作是'期刊'。"
+
+#: ../../source/logspreferences.rst:610
+msgid "NewsLog"
+msgstr "NewsLog"
+
+#: ../../source/logspreferences.rst:612
+msgid "Asks: \\_\\_\\_ changes to news entries and other contents managed in the news tool."
+msgstr "詢問： \\_\\_\\_ 更改新聞條目和新聞工具中管理的其他內容。"
+
+#: ../../source/logspreferences.rst:625
+msgid "This system preference controls whether or not Koha should log when a :ref:`news item<news-label>` or :ref:`HTML customization<html-customizations-label>` is created, modified or deleted."
+msgstr "這個系統偏好控制Koha在建立、修改或刪除 :ref:`新聞館藏<news-label>`或 :ref:`HTML自定義<html-customizations-label>`時是否要記錄。"
+
+#: ../../source/logspreferences.rst:634
+msgid "The module is 'NEWS'."
+msgstr "該模組是'新聞'。"
+
+#: ../../source/logspreferences.rst:638
+msgid "ADD: a new news item or HTML customization was created"
+msgstr "新增：建立了新的新聞館藏或 HTML 自定義"
+
+#: ../../source/logspreferences.rst:640
+msgid "DELETE: a news item or HTML customization was deleted"
+msgstr "刪除：一個新聞館藏或HTML自定義被刪除了"
+
+#: ../../source/logspreferences.rst:642
+msgid "MODIFY: a news item or HTML customization was edited"
+msgstr "修改：編輯了新聞館藏或 HTML 自定義"
+
+#: ../../source/logspreferences.rst:647
+msgid "NoticesLog"
+msgstr "NoticesLog"
+
+#: ../../source/logspreferences.rst:649
+msgid "Asks: \\_\\_\\_ changes to notice templates."
+msgstr "詢問：\\_\\_\\_ 更改通知模板。"
+
+#: ../../source/logspreferences.rst:661
+msgid "This system preference controls whether or not Koha should log changes to :ref:`notice or slip templates<notices-and-slips-label>`."
+msgstr "這個系統偏好控制Koha是否應該記錄對 :ref:`通知或單據模板<notices-and-slips-label>`的更改。"
+
+#: ../../source/logspreferences.rst:668
+msgid "The module is 'NOTICES'."
+msgstr "該模組是'通知'。"
+
+#: ../../source/logspreferences.rst:672
+msgid "CREATE: a :ref:`new notice or slip template was created<adding-notices-and-slips-label>`"
+msgstr "建立: 一個 :ref:`新的通知或單據模板已建立<adding-notices-and-slips-label>`"
+
+#: ../../source/logspreferences.rst:674
+msgid "DELETE: a notice or slip template was deleted"
+msgstr "刪除：通知或單據模板已刪除"
+
+#: ../../source/logspreferences.rst:676
+msgid "MODIFY: a notice or slip template was edited"
+msgstr "修改：通知或單據模板已編輯"
+
+#: ../../source/logspreferences.rst:681
+msgid "RecallsLog"
+msgstr "RecallsLog"
+
+#: ../../source/logspreferences.rst:683
+msgid "Asks: \\_\\_\\_ any actions on recalls (create, cancel, expire, fulfill)."
+msgstr "詢問：\\_\\_\\_ 對催還採取的任何行動（建立、取消、過期、履行）。"
+
+#: ../../source/logspreferences.rst:695
+msgid "This system preference controls whether or not Koha should log actions related to recalls."
+msgstr "此系統偏好控制 Koha 是否應記錄與催還相關的操作。"
+
+#: ../../source/logspreferences.rst:702
+msgid "The module is 'RECALLS'."
+msgstr "該模組是 'RECALLS'。"
+
+#: ../../source/logspreferences.rst:706
+msgid "CANCEL: a recall was cancelled"
+msgstr "取消：取消催還"
+
+#: ../../source/logspreferences.rst:708
+msgid "EXPIRE: a recall expired"
+msgstr "過期：催還過期"
+
+#: ../../source/logspreferences.rst:710
+#, fuzzy
+msgid "FILL: a recall was filled (confirmed and set aside to wait for pickup)"
+msgstr "完成: 催還已完成（確認並擱置等待取貨）"
+
+#: ../../source/logspreferences.rst:712
+msgid "OVERDUE: the status of a recall was set to 'overdue'"
+msgstr "過期：催還的狀態設定為'過期'"
+
+#: ../../source/logspreferences.rst:717
+msgid "RenewalLog"
+msgstr "RenewalLog"
+
+#: ../../source/logspreferences.rst:719
+msgid "Asks: \\_\\_\\_ when items are renewed."
+msgstr "詢問：\\_\\_\\_ 還入館藏。"
+
+#: ../../source/logspreferences.rst:731
+msgid "This system preference controls whether or not Koha should log when a :ref:`checkout is renewed<renewing-label>`."
+msgstr "此系統偏好控制 Koha 是否應在更新 a :ref:`借出<renewing-label>` 時記錄。"
+
+#: ../../source/logspreferences.rst:740
+msgid "The action is 'RENEWAL'"
+msgstr "該執行是'續借'"
+
+#: ../../source/logspreferences.rst:745
+msgid "ReportsLog"
+msgstr "ReportsLog"
+
+#: ../../source/logspreferences.rst:747
+msgid "Asks: \\_\\_\\_ when reports are added, deleted or changed."
+msgstr "詢問：\\_\\_\\_ 新增、刪除及編輯報表。"
+
+#: ../../source/logspreferences.rst:759
+msgid "This system preference controls whether or not Koha should log changes to :ref:`reports<reports-label>`."
+msgstr "此系統偏好控制 Koha 是否應將更改記錄到 :ref:`報表<reports-label>`。"
+
+#: ../../source/logspreferences.rst:766
+msgid "The module is 'REPORTS'."
+msgstr "該模組是'報表'。"
+
+#: ../../source/logspreferences.rst:770
+msgid "ADD: a new report was created"
+msgstr "新增：建立了一個新報表"
+
+#: ../../source/logspreferences.rst:772
+msgid "DELETE: a report was deleted"
+msgstr "刪除：報表被刪除"
+
+#: ../../source/logspreferences.rst:774
+msgid "MODIFY: a report was edited"
+msgstr "修改：報表被編輯"
+
+#: ../../source/logspreferences.rst:779
+msgid "ReturnLog"
+msgstr "ReturnLog"
+
+#: ../../source/logspreferences.rst:781
+msgid "Asks: \\_\\_\\_ when items are checked in."
+msgstr "詢問：\\_\\_\\_ 還入館藏。"
+
+#: ../../source/logspreferences.rst:793
+msgid "This system preference controls whether or not Koha should log when an :ref:`item is checked in<check-in-(returning)-label>`"
+msgstr "此系統偏好控制 Koha 是否應在 :ref:`館藏還入時記錄 <check-in-(returning)-label>`"
+
+#: ../../source/logspreferences.rst:802
+msgid "The action is 'RETURN'"
+msgstr "此操作是'還入'"
+
+#: ../../source/logspreferences.rst:807
+msgid "SubscriptionLog"
+msgstr "SubscriptionLog"
+
+#: ../../source/logspreferences.rst:809
+msgid "Asks: \\_\\_\\_ when serials are added, deleted or changed."
+msgstr "詢問：\\_\\_\\_ 新增、刪除及編輯期刊。"
+
+#: ../../source/logspreferences.rst:821
+msgid "This system preference controls whether or not Koha should log changes to :ref:`serial subscriptions<serials-label>`."
+msgstr "此系統偏好控制 Koha 是否應將更改記錄到 :ref:`期刊訂閱<serials-label>`。"
+
+#: ../../source/logspreferences.rst:828
+msgid "The module is 'SERIAL'."
+msgstr "該模組是'期刊'。"
+
+#: ../../source/logspreferences.rst:832
+msgid "ADD: a new :ref:`serial subscription was created<add-a-subscription-label>`"
+msgstr "新增：建立了一個新的 :ref:`期刊訂閱<add-a-subscription-label>`"
+
+#: ../../source/logspreferences.rst:834
+msgid "DELETE: a serial subscription was deleted"
+msgstr "刪除：一個期刊訂閱被刪除"
+
+#: ../../source/logspreferences.rst:836
+msgid "MODIFY: a :ref:`serial subscription was edited<edit-subscription-label>`"
+msgstr "修改: 一個 :ref:`期刊訂閱被編輯<edit-subscription-label>`"
+
+#: ../../source/logspreferences.rst:838
+msgid "RENEW: a :ref:`serial subscription was renewed<renewing-serials-label>`"
+msgstr "續借: 一個 :ref:`期刊訂閱已續借<renewing-serials-label>`"

@@ -1,0 +1,1420 @@
+# Compendium of zh_TW.
+msgid ""
+msgstr ""
+"Project-Id-Version: Koha Manual 22.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-10-26 13:37+0000\n"
+"PO-Revision-Date: 2023-04-21 10:26+0000\n"
+"Last-Translator: Saralin <c108126114@nkust.edu.tw>\n"
+"Language-Team: Koha Translation Team\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: application/x-publican; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pootle 2.8\n"
+"X-Pootle-Path: /zh_TW/manual22.11/reports.po\n"
+"X-Pootle-Revision: 1\n"
+"X-POOTLE-MTIME: 1682072806.495152\n"
+
+#: ../../source/images.rst:2387 ../../source/reports.rst:595
+#: ../../source/reports.rst:629 ../../source/reports.rst:654
+#: ../../source/reports.rst:678
+msgid "Using the form provided, choose which value you would like to appear in the column and which will appear in the row."
+msgstr "使用提供的表單，選定顯示的欄與列。"
+
+#: ../../source/images.rst:2390
+msgid "Wizard to generate report for average loan time, with options to select the report parameters (checkout date, patron category, item type...)"
+msgstr ""
+
+#: ../../source/images.rst:2399
+msgid "Circulation statistics reporting wizard, with options to select the report parameters"
+msgstr ""
+
+#: ../../source/images.rst:2402
+msgid "\"Edit\" option of the report action button"
+msgstr ""
+
+#: ../../source/images.rst:2405
+msgid "First step of creating a guided report - choosing which module to work on and whether report is public or not"
+msgstr ""
+
+#: ../../source/images.rst:2408
+msgid "Creating a guided report - define the cache expiry time"
+msgstr ""
+
+#: ../../source/images.rst:2411
+msgid "Second step of creating a guided report - choosing type"
+msgstr ""
+
+#: ../../source/images.rst:2414
+msgid "Third step of creating a guided report - select columns for display"
+msgstr ""
+
+#: ../../source/images.rst:2417
+msgid "Fourth step of creating a guided report - select criteria to limit on"
+msgstr ""
+
+#: ../../source/images.rst:2420
+msgid "Fifth step of creating a guided report - pick column to total"
+msgstr ""
+
+#: ../../source/images.rst:2423
+msgid "Sixth step of creating a guided report - Choose how you want the report ordered"
+msgstr ""
+
+#: ../../source/images.rst:2426
+#, fuzzy
+msgid "Confirm custom report"
+msgstr "編輯客製化報表"
+
+#: ../../source/images.rst:2429
+#, fuzzy
+msgid "Save custom report"
+msgstr "新增客製化報表"
+
+#: ../../source/images.rst:2432
+msgid "Circulation statistics reporting wizard with Type drop-down menu open and \"Local use\" highlighted."
+msgstr ""
+
+#: ../../source/images.rst:2435 ../../source/reports.rst:850
+msgid "Catalog by item type"
+msgstr "目錄依館藏類型排序"
+
+#: ../../source/images.rst:2438
+#, fuzzy
+msgid "Catalog by item type results"
+msgstr "目錄依館藏類型排序"
+
+#: ../../source/images.rst:2441
+msgid "Input for lost item report"
+msgstr ""
+
+#: ../../source/images.rst:2444
+#, fuzzy
+msgid "Form for holds statistics"
+msgstr "預約統計"
+
+#: ../../source/images.rst:2447
+msgid "Results of lost item report"
+msgstr ""
+
+#: ../../source/images.rst:2450
+msgid "New report button is pressed and the options are New guided report and New SQL report"
+msgstr ""
+
+#: ../../source/images.rst:2453
+msgid "Report form for creating a report of patrons who have never checked out items"
+msgstr ""
+
+#: ../../source/images.rst:2456
+msgid "View of patron form for patron statistics"
+msgstr ""
+
+#: ../../source/images.rst:2459
+#, fuzzy
+msgid "Form for the report of items with no checkouts"
+msgstr "不曾借出的館藏"
+
+#: ../../source/images.rst:2462
+msgid "SQL field when creating a report from SQL, in the box, SEL is typed and a suggestion for SELECT is displayed"
+msgstr ""
+
+#: ../../source/images.rst:2465
+msgid "SQL field when creating a report from SQL, in the box, SELECT borrowers.ca is typed and suggestions for borrowers.cardnumber and borrowers.categorycode are displayed"
+msgstr ""
+
+#: ../../source/images.rst:2468
+#, fuzzy
+msgid "New report from SQL form"
+msgstr "來自SQL的報表"
+
+#: ../../source/images.rst:2471
+msgid "New report from SQL form, the group drop-down menu is open"
+msgstr ""
+
+#: ../../source/images.rst:2474
+#, fuzzy
+msgid "Reports main page"
+msgstr "撰寫報表提示"
+
+#: ../../source/images.rst:2477
+msgid "When running the report, the user is asked to choose a library from a drop-down menu and enter a surname in an input text field"
+msgstr ""
+
+#: ../../source/images.rst:2480
+msgid "When running the report, the user is asked to choose a library from a drop-down menu and enter a barcode in an input text field"
+msgstr ""
+
+#: ../../source/images.rst:2483
+msgid "When running the report, the user is asked to choose a bibliographic framework from a drop-down menu"
+msgstr ""
+
+#: ../../source/images.rst:2486
+msgid "When running the report, the user is asked to pick a date in the calendar (date picker)"
+msgstr ""
+
+#: ../../source/images.rst:2489
+msgid "When running the report, the user is asked to enter a list of values"
+msgstr ""
+
+#: ../../source/images.rst:2492
+msgid "The Insert runtime parameter button is pressed and the different options are shown"
+msgstr ""
+
+#: ../../source/images.rst:2495
+msgid "List of saved reports, \"All\" tab is selected"
+msgstr ""
+
+#: ../../source/images.rst:2498
+msgid "In the reports module, the form to launch statistics in the serials"
+msgstr ""
+
+#: ../../source/images.rst:2501
+msgid "Form to select parameters to run Top checkouts report"
+msgstr ""
+
+#: ../../source/images.rst:2504
+msgid "The edit report form with the 'update' button and 'save and run sql' button"
+msgstr ""
+
+#: ../../source/images.rst:3188
+msgid "image895"
+msgstr ""
+
+#: ../../source/images.rst:3189
+msgid "image899"
+msgstr ""
+
+#: ../../source/images.rst:3190
+msgid "image900"
+msgstr ""
+
+#: ../../source/images.rst:3191
+msgid "image901"
+msgstr ""
+
+#: ../../source/images.rst:3192
+msgid "image903"
+msgstr ""
+
+#: ../../source/images.rst:3193
+msgid "image904"
+msgstr ""
+
+#: ../../source/images.rst:3194
+msgid "image905"
+msgstr ""
+
+#: ../../source/images.rst:3195
+msgid "image907"
+msgstr ""
+
+#: ../../source/images.rst:3196
+msgid "image908"
+msgstr ""
+
+#: ../../source/images.rst:3197
+msgid "image909"
+msgstr ""
+
+#: ../../source/images.rst:3198
+msgid "image911"
+msgstr ""
+
+#: ../../source/images.rst:3199
+msgid "image914"
+msgstr ""
+
+#: ../../source/images.rst:3200
+msgid "image916"
+msgstr ""
+
+#: ../../source/images.rst:3201
+msgid "image918"
+msgstr ""
+
+#: ../../source/images.rst:3202
+msgid "image919"
+msgstr ""
+
+#: ../../source/images.rst:3203
+msgid "image920"
+msgstr ""
+
+#: ../../source/images.rst:3204
+msgid "image922"
+msgstr ""
+
+#: ../../source/images.rst:3205
+msgid "image924"
+msgstr ""
+
+#: ../../source/images.rst:3207
+msgid "image929"
+msgstr ""
+
+#: ../../source/images.rst:3208
+msgid "image930"
+msgstr ""
+
+#: ../../source/images.rst:3209
+msgid "image931"
+msgstr ""
+
+#: ../../source/images.rst:3210
+msgid "image932"
+msgstr ""
+
+#: ../../source/images.rst:3211
+msgid "image933"
+msgstr ""
+
+#: ../../source/images.rst:3212
+msgid "image934"
+msgstr ""
+
+#: ../../source/images.rst:3213
+msgid "image935"
+msgstr ""
+
+#: ../../source/images.rst:3214
+msgid "image936"
+msgstr ""
+
+#: ../../source/images.rst:3480
+msgid "image1343"
+msgstr ""
+
+#: ../../source/images.rst:3509
+msgid "image1428"
+msgstr ""
+
+#: ../../source/images.rst:3510
+msgid "image1429"
+msgstr ""
+
+#: ../../source/images.rst:3511
+msgid "image1430"
+msgstr ""
+
+#: ../../source/images.rst:3529
+msgid "image1499"
+msgstr ""
+
+#: ../../source/images.rst:3530
+msgid "Example of a report result of Orders by fund"
+msgstr ""
+
+#: ../../source/reports.rst:6
+msgid "Reports"
+msgstr "報表"
+
+#: ../../source/reports.rst:8
+msgid "Reports in Koha are a way to gather data. Reports are used to generate statistics, member lists, shelving lists, or any list of data in your database."
+msgstr "Koha 的報表是聚集資料的方法之一。報表用於產生統計、讀者清單、排架清單、或其他由資料庫產生的清單。"
+
+#: ../../source/reports.rst:12
+msgid "*Get there:* More > Reports"
+msgstr "*到那：* 更多 > 報表"
+
+#: ../../source/reports.rst:17
+msgid "Custom reports"
+msgstr "客製化報表"
+
+#: ../../source/reports.rst:19
+msgid "Koha's data is stored in a MySQL database which means that librarians can generate nearly any report they would like by either using the :ref:`guided reports wizard <guided-report-wizard-label>` or writing their own :ref:`SQL query <report-from-sql-label>`."
+msgstr "Koha 的資料儲存在 MySQL 資料庫即圖書館員可以使用 `報表精靈 <guided-report-wizard-label>` 或撰寫他們自己的 `SQL query <report-from-sql-label>` 從中產生任何想要的報表。"
+
+#: ../../source/reports.rst:27
+msgid "Add custom report"
+msgstr "新增客製化報表"
+
+#: ../../source/reports.rst:32
+msgid "Guided report wizard"
+msgstr "報表精靈"
+
+#: ../../source/reports.rst:34
+msgid "The guided report wizard will walk you through a six step process to generate a report."
+msgstr "報表精靈以六個步驟引導您建立報表。"
+
+#: ../../source/reports.rst:37
+msgid "Step 1: Choose the module you want to report on. This will determine what tables and fields are available for you to query."
+msgstr "步驟 1：選擇編輯報表的模組。就是決定資料來源的表單與欄位。"
+
+#: ../../source/reports.rst:40
+msgid "'Report is public' should be left to the default of 'No' in most cases especially if the report contains patron or other sensitive information. A public report can be accessed using the :ref:`JSON reports services <json-reports-services-label>` by anyone and without authentication."
+msgstr "大部份情況下含有讀者及其他敏感資訊時，'報表公開' 應預設為 '否'。:ref:`JSON 報表服務 <json-reports-services-label>` 不需認證任何人均可使用。"
+
+#: ../../source/reports.rst:45
+msgid "|guidedreportstep1|"
+msgstr ""
+
+#: ../../source/reports.rst:47 ../../source/reports.rst:100
+#: ../../source/reports.rst:458 ../../source/reports.rst:511
+#: ../../source/reports.rst:557 ../../source/reports.rst:589
+#: ../../source/reports.rst:623 ../../source/reports.rst:648
+#: ../../source/reports.rst:672 ../../source/reports.rst:691
+#: ../../source/reports.rst:731 ../../source/reports.rst:755
+#: ../../source/reports.rst:879 ../../source/reports.rst:901
+msgid "**Note**"
+msgstr "**說明**"
+
+#: ../../source/reports.rst:49
+msgid "If your system administrator has set up memcache on your server you might see one more option for the Cache expiry. This is related to your public reports. If you make the report public then it's constantly running and will cause a large load on your system. Setting this value prevents that."
+msgstr "若系統管理已設定快取記憶您就有更多選擇。與公開報表有關。若把報表公開則需時時執行從而耗費系資料。設定此值可避免此現象。"
+
+#: ../../source/reports.rst:55
+msgid "|guidedreportcacheexpiry|"
+msgstr ""
+
+#: ../../source/reports.rst:57
+msgid "Step 2: Choose a report type. For now, Tabular is the only option available."
+msgstr "步驟 2：選擇報表類型。目前，祗有 Tabular 可選。"
+
+#: ../../source/reports.rst:60
+msgid "|guidedreportstep2|"
+msgstr ""
+
+#: ../../source/reports.rst:62
+msgid "Step 3: Choose the fields you want in your report. You can select multiple fields and add them all at once by using CTRL+click on each item you want to add before clicking the Add button."
+msgstr "步驟 3：選擇編入報表的欄位。複選並以 CTRL+Click 把每個欄位再按下新增鈕。"
+
+#: ../../source/reports.rst:66
+msgid "|guidedreportstep3|"
+msgstr ""
+
+#: ../../source/reports.rst:68
+msgid "Step 4: Choose any limits you might want to apply to your report (such as item types or branches). If you don't want to apply any limits, simply click 'Next' instead of choosing an option."
+msgstr "步驟 4：選擇報表的範圍(館藏類型或分館等)。不需要限制時，直接點選 '下一步'。"
+
+#: ../../source/reports.rst:72
+msgid "|guidedreportstep4|"
+msgstr ""
+
+#: ../../source/reports.rst:74
+msgid "Step 5: Perform math functions. If you don't want to do any calculations, simply click 'Next' instead of choosing an option."
+msgstr "步驟 5：執行數學算式。不需要計算時，按 '下一步' 略過它。"
+
+#: ../../source/reports.rst:77
+msgid "|guidedreportstep5|"
+msgstr ""
+
+#: ../../source/reports.rst:79
+msgid "Step 6: Choose data order. If you want the data to print out in the order it's found in the database, simply click 'Finish'."
+msgstr "步驟 6：選擇資料順序。不需要排序則直接按 '完成' 鈕。"
+
+#: ../../source/reports.rst:82
+msgid "|guidedreportstep6|"
+msgstr ""
+
+#: ../../source/reports.rst:84
+msgid "When you are finished you will be presented with the SQL generated by the report wizard. From here you can choose to save the report by clicking 'Finish' or copy the SQL and make edits to it by hand."
+msgstr "完成之後，將出現由報表精靈產生的 SQL。從此點選 '儲存' 儲存報表，或複製 SQL 並以人工編輯它。"
+
+#: ../../source/reports.rst:88
+#, fuzzy
+msgid "|guidedreportconfirm|"
+msgstr "報表精靈"
+
+#: ../../source/reports.rst:90
+msgid "If you choose to save the report you will be asked to name your report, sort it in to groups and subgroups and enter any notes regarding it."
+msgstr "若選擇儲存報表，將詢問報表名稱、排序入的群組與次群組，以及必要的說明。"
+
+#: ../../source/reports.rst:93
+#, fuzzy
+msgid "|guidedreportsave|"
+msgstr "報表精靈"
+
+#: ../../source/reports.rst:95
+msgid "Once your report is saved it will appear on the 'Use saved' page with all other saved reports."
+msgstr "報表儲存後，將與其他儲存的報表一起出現在 '使用儲存的' 頁面。"
+
+#: ../../source/reports.rst:98 ../../source/reports.rst:200
+#: ../../source/reports.rst:509
+msgid "|savedreports|"
+msgstr ""
+
+#: ../../source/reports.rst:102 ../../source/reports.rst:204
+#: ../../source/reports.rst:513
+msgid "You can customize the columns of this table in the :ref:`'Table settings'<column-settings-label>` section of the Administration module (table id: table_reports)."
+msgstr "您可以在管理模組的 :ref:`'欄組態'<column-settings-label>`部份, 客製此表的列(table id: table_reports)。"
+
+#: ../../source/reports.rst:106
+msgid "From here you can make edits, run the report, or schedule a time to have the report run. To find the report you created you can sort by any of the columns by clicking the on the column header (creation date is the best bet for finding the report you just added). You can also filter your results using the filter menu on the left or use the tabs to find reports based on your custom groups."
+msgstr "可從這裡編輯、執行報表，或指定執行報表的時間。點選欄標題即可依欄位排列報表(建議以新增報表日期排序)。以左方的篩選器選單篩選報表，或依客戶群組分頁尋找報表。"
+
+#: ../../source/reports.rst:116
+msgid "Report from SQL"
+msgstr "來自SQL的報表"
+
+#: ../../source/reports.rst:118
+msgid "In addition to the report wizard, you have the option to write your own queries using SQL. To find reports written by other Koha users, visit the Koha wiki: http://wiki.koha-community.org/wiki/SQL_Reports_Library. You can also find your database structure in /installer/data/mysql/kohastructure.sql or online at: `http://schema.koha-community.org <http://schema.koha-community.org/>`__."
+msgstr "除了報表精靈，還可以用 SQL 撰寫自己的報表。其他圖書館寫的報表，公開在 Koha 共筆：http://wiki.koha-community.org/wiki/SQL_Reports_Library。各館自己的資料庫結構在 /installer/data/mysql/kohastructure.sql 或線上：`http://schema.koha-community.org <http://schema.koha-community.org/>`__。"
+
+#: ../../source/reports.rst:125
+#, fuzzy
+msgid "To add your query, click the link to 'Create from SQL' on the main reports module"
+msgstr "勾選主要報表模組的 '從 SQL 新增' 或 '儲存報表' 頁面上方的 '新增報表' 鈕，就能新增您的詢問。"
+
+#: ../../source/reports.rst:128
+#, fuzzy
+msgid "|reportsmain|"
+msgstr "報表"
+
+#: ../../source/reports.rst:130
+#, fuzzy
+msgid "or the 'New report' button at the top of the 'Saved reports' page."
+msgstr "勾選主要報表模組的 '從 SQL 新增' 或 '儲存報表' 頁面上方的 '新增報表' 鈕，就能新增您的詢問。"
+
+#: ../../source/reports.rst:132
+msgid "|newsql|"
+msgstr ""
+
+#: ../../source/reports.rst:134
+msgid "Fill in the form presented"
+msgstr "在顯現的表單填入資料"
+
+#: ../../source/reports.rst:136
+#, fuzzy
+msgid "|reportfromsql|"
+msgstr "來自SQL的報表"
+
+#: ../../source/reports.rst:138
+#, fuzzy
+msgid "Report name: the name is what will appear on the 'Saved reports' page to help you identify the report later. It will also be searchable using the filters found on the left of the 'Saved reports' page."
+msgstr "此 '名稱' 是顯示在儲存報表頁面，協助館員辨識報表之用。也可以用儲存報表頁面左方的篩選器搜尋它。"
+
+#: ../../source/reports.rst:142
+#, fuzzy
+msgid "Report group: you can use the 'Report group' to organize your reports in tabs on the 'Saved reports' page. You can choose from the list of existing groups, or create one on the fly by choosing the 'or create' radio button."
+msgstr "您可以使用 '報表群組' 依羣組篩選您的報表。報表群組的設定在這裡 `REPORT\\_GROUP <#reportgroup>`__ 容許值類型或於新增報表時再點選 '或新增' 鈕。"
+
+#: ../../source/reports.rst:146
+msgid "|reportgroup|"
+msgstr ""
+
+#: ../../source/reports.rst:148
+#, fuzzy
+msgid "Report groups are set in the REPORT\\_GROUP :ref:`authorized value category <existing-values-label>`."
+msgstr "設定於容許值範疇的報表羣組需要不重複的容許值及說明。"
+
+#: ../../source/reports.rst:153
+#, fuzzy
+msgid "If you're adding a report group on the fly, the code should not include special characters or spaces."
+msgstr "以即時方式新增報表群組時，記得代碼不能超過10個字元且不能包括特殊字元或空格。"
+
+#: ../../source/reports.rst:156
+msgid "Report subgroup: if you chose a report group, this field will appear to further organize your reports. Choose a subgroup from the list, or create one on the fly by choosing the 'or create' radio button."
+msgstr ""
+
+#: ../../source/reports.rst:160
+msgid "Report subgroups are set in the REPORT\\_SUBGROUP :ref:`authorized value category <existing-values-label>`."
+msgstr ""
+
+#: ../../source/reports.rst:165
+msgid "Report subgroups need to have unique values in 'Authorized value' and 'Description'. The 'Description (OPAC)' field needs to contain the authorized value for the report group that the subgroup falls under."
+msgstr ""
+
+#: ../../source/reports.rst:171
+#, fuzzy
+msgid "If you're adding a report subgroup on the fly, the code should not include special characters or spaces."
+msgstr "以即時方式新增報表次群組時，記得代碼不能超過10個字元且不能包括特殊字元或空格。"
+
+#: ../../source/reports.rst:174
+#, fuzzy
+msgid "Report is public: this should be left to the default of 'No' in most cases, especially if the report contains patron or other sensitive information. A public report can be accessed using the :ref:`JSON reports services <json-reports-services-label>` by anyone and without authentication."
+msgstr "大部份情況下含有讀者及其他敏感資訊時，'報表公開' 應預設為 '否'。:ref:`JSON 報表服務 <json-reports-services-label>` 不需認證任何人均可使用。"
+
+#: ../../source/reports.rst:180
+#, fuzzy
+msgid "Cache expiry: this field will only appear if your system administrator has set up memcache on your server. This is related to public reports. If you make the report public, it's constantly running and will cause a large load on your system. Setting this value prevents that."
+msgstr "若系統管理已設定快取記憶您就有更多選擇。與公開報表有關。若把報表公開則需時時執行從而耗費系資料。設定此值可避免此現象。"
+
+#: ../../source/reports.rst:185
+#, fuzzy
+msgid "Notes: notes will appear on the 'Saved reports' page, and can be used to provide more details about the report or tips on how to enter values when it runs."
+msgstr "'說明' 顯示在儲存的報表頁面，對該報表更詳盡的說明"
+
+#: ../../source/reports.rst:189
+msgid "SQL: type or paste the SQL for the report (see :ref:`report writing tips <report-writing-tips-label>` below)."
+msgstr ""
+
+#: ../../source/reports.rst:192
+#, fuzzy
+msgid "Once everything is entered click the 'Save report' button and you'll be presented with options to run it. From here, you can also :ref:`edit it <edit-custom-reports-label>`, :ref:`duplicate it <duplicate-report-label>`, or schedule it to be run later."
+msgstr "全部設定之後按 '儲存報表' 鈕將出現執行它的選項。儲存之後不必再新增它可從儲存報表頁面找到它並且 :ref:`執行 <running-custom-reports-label>` 或 `編輯 <edit-custom-reports-label>` 它。"
+
+#: ../../source/reports.rst:197
+#, fuzzy
+msgid "Once a report is saved, you do not have to recreate it, it will appear on the 'Saved reports' page with all other saved reports."
+msgstr "報表儲存後，將與其他儲存的報表一起出現在 '使用儲存的' 頁面。"
+
+#: ../../source/reports.rst:208
+#, fuzzy
+msgid "From the 'Saved reports' page, you can :ref:`make edits <edit-custom-reports-label>`, :ref:`run the report <running-custom-reports-label>`, or schedule a time to run the report later. To find the report you created, you can sort by any of the columns by clicking on the column header (creation date is the best to find the report you just added). You can also filter your results using the filter menu on the left or use the tabs to find reports based on your custom groups."
+msgstr "可從這裡編輯、執行報表，或指定執行報表的時間。點選欄標題即可依欄位排列報表(建議以新增報表日期排序)。以左方的篩選器選單篩選報表，或依客戶群組分頁尋找報表。"
+
+#: ../../source/reports.rst:219
+msgid "Report writing tips"
+msgstr "撰寫報表提示"
+
+#: ../../source/reports.rst:221
+msgid "**Autocomplete**"
+msgstr ""
+
+#: ../../source/reports.rst:223
+msgid "When you start typing in the SQL field, autocomplete options will be displayed."
+msgstr ""
+
+#: ../../source/reports.rst:225
+msgid "|reportautocomplete|"
+msgstr ""
+
+#: ../../source/reports.rst:227
+msgid "Use the arrows on your keyboard to choose the correct option and press 'Enter' or 'Tab' to insert it into your report, or simply click on the option to insert it."
+msgstr ""
+
+#: ../../source/reports.rst:231
+msgid "Autocomplete options include:"
+msgstr ""
+
+#: ../../source/reports.rst:233
+msgid "SQL keywords such as SELECT, FROM, WHERE, etc."
+msgstr ""
+
+#: ../../source/reports.rst:235
+msgid "table names"
+msgstr ""
+
+#: ../../source/reports.rst:237
+msgid "column names"
+msgstr ""
+
+#: ../../source/reports.rst:241
+msgid "To have suggestions for column names, you must type the table name first, followed by a period, then start typing the column name."
+msgstr ""
+
+#: ../../source/reports.rst:244
+msgid "For example, to have the suggestion for :code:`cardnumber`, you must type :code:`borrowers.ca`."
+msgstr ""
+
+#: ../../source/reports.rst:247
+msgid "|reportautocomplete-column|"
+msgstr ""
+
+#: ../../source/reports.rst:249
+msgid "**Runtime parameters**"
+msgstr "**執行參數**"
+
+#: ../../source/reports.rst:251
+msgid "If you feel that your report might be too resource intensive you might want to consider using runtime parameters to your query. Runtime parameters basically make a filter appear before the report is run to save your system resources."
+msgstr "若執行報表耗費過多資源時您可考慮使用執行參數。執行參數可以在執行報表前先篩選資料以節省系統資源。"
+
+#: ../../source/reports.rst:256
+msgid "Click the button 'Insert runtime parameter' and choose which parameter to add."
+msgstr ""
+
+#: ../../source/reports.rst:258
+#, fuzzy
+msgid "|runtimeparameters|"
+msgstr "**執行參數**"
+
+#: ../../source/reports.rst:260
+msgid "Authorized value: will display a drop down menu of the value descriptions from the chosen :ref:`authorized value category <authorized-values-label>`. The authorized value code will be inserted in the report when it is run."
+msgstr ""
+
+#: ../../source/reports.rst:264
+msgid "Bibliographic framework: will display a drop down menu of :ref:`MARC bibliographic frameworks <marc-bibliographic-frameworks-label>`. The framework code will be inserted in the report when it is run."
+msgstr ""
+
+#: ../../source/reports.rst:268
+msgid "Classification sources: will display a drop down menu of :ref:`classification sources <classification-sources-label>`. The classification code will be inserted in the report when it is run."
+msgstr ""
+
+#: ../../source/reports.rst:272
+msgid "Date: will display a calendar to pick a date. The date in YYYY-MM-DD format will be inserted in the report when it is run."
+msgstr ""
+
+#: ../../source/reports.rst:275
+msgid "Item types: will display a drop down menu of :ref:`item types <item-types-label>`. The item type code will be inserted in the report when it is run."
+msgstr ""
+
+#: ../../source/reports.rst:279
+msgid "Libraries: will display a drop down menu of :ref:`libraries <libraries-label>`. The library code (branchcode) will be inserted in the report when it is run."
+msgstr ""
+
+#: ../../source/reports.rst:282
+msgid "List: will display a large text box in which the user can enter many values, one per line. Those values will be inserted in the report, separated by commas, when it is run."
+msgstr ""
+
+#: ../../source/reports.rst:288 ../../source/reports.rst:427
+msgid "In the case of the list parameter, users must write one value per line."
+msgstr "在參數清單的情況下，使用者必須在每行寫一個值。"
+
+#: ../../source/reports.rst:290
+msgid "Patron categories: will display a drop down menu of :ref:`patron categories <patron-categories-label>`. The category code will be inserted in the report when it is run."
+msgstr ""
+
+#: ../../source/reports.rst:294
+msgid "Cash registers: will display a drop down menu of :ref:`cash registers <cashregisters-label>`. The cash register's internal id will be inserted in the report when it is run."
+msgstr ""
+
+#: ../../source/reports.rst:298
+msgid "Debit types: will display a drop down menu of :ref:`debit types <debit-types-label>`. The debit type code will be inserted in the report when it is run."
+msgstr ""
+
+#: ../../source/reports.rst:302
+msgid "Credit types: will display a drop down menu of :ref:`credit types <credit-types-label>`. The credit type code will be inserted in the report when it is run."
+msgstr ""
+
+#: ../../source/reports.rst:306
+msgid "Text field: will display an empty text field in which the user can enter any text."
+msgstr ""
+
+#: ../../source/reports.rst:311
+msgid "You have to put \"%\" in a text box to 'leave it blank'. Otherwise, it literally looks for \"\" (empty string) as the value for the field."
+msgstr "在文字盒裡必須置入 \"%\" 其內容才算是 '空白'。否則，這樣的內容 \"\" (空字串) 被視為空字串仍有內容。"
+
+#: ../../source/reports.rst:315
+msgid "For example entering nothing for: \"title=<<Enter title>>\" will display results with title='' (no title)."
+msgstr "例如，不輸入任何內容的: \"標題=<<Enter title>>\"將顯示帶有標題''（無標題）的結果。"
+
+#: ../../source/reports.rst:318
+msgid "If you want to have to have something not mandatory, use \"title like <<Enter title>>\" and enter a % at run time instead of nothing."
+msgstr "如果你想擁有一些非強制性的東西，可以使用 \"標題像<<Enter title>>\"，並在運行時輸入%，而不是什麼都沒有。"
+
+#: ../../source/reports.rst:322
+msgid "After you choose the type of runtime parameter, it will ask you for the parameter label. This is what the user will see as the label for the choice they have to make or text they have to enter."
+msgstr ""
+
+#: ../../source/reports.rst:326
+msgid "The syntax inserted into the report is :code:`<<Label\\|authorized\\_value>>`."
+msgstr ""
+
+#: ../../source/reports.rst:328
+#, fuzzy
+msgid "The << and >> are just delimiters to indicate the start and end of the runtime parameter."
+msgstr "<< 與 >> 祗是區隔符號。必須鍵入 << 於參數前並鍵入 >> 於結尾處"
+
+#: ../../source/reports.rst:331
+#, fuzzy
+msgid "The label will be displayed on the left of the choice or value to enter."
+msgstr "把 '提問' 顯示在字串的左方。"
+
+#: ../../source/reports.rst:333
+#, fuzzy
+msgid "The authorized\\_value can be omitted if not applicable. If it is absent, a free text field will be displayed. If it contains an authorized code (see table below), a drop down of the values will be displayed."
+msgstr "若不適用可以省略 authorized\\_value。若包括容許值範圍，'branches'、'itemtype'、'categorycode'、'biblio\\_framework'，將顯示 Koha 容許值清單而不是自由欄位。"
+
+#: ../../source/reports.rst:339
+msgid "You can write those in manually as well, you don't have to go through the 'Insert runtime parameter' button. As long as the syntax is correct, Koha will interpret it as a runtime parameter."
+msgstr ""
+
+#: ../../source/reports.rst:343
+msgid "List of parameters that can be used in runtime parameters"
+msgstr "可用於執行參數的參數清單"
+
+#: ../../source/reports.rst:346
+msgid "Parameter"
+msgstr "參數"
+
+#: ../../source/reports.rst:346
+msgid "What gets inserted in query"
+msgstr "插入詢問的內容"
+
+#: ../../source/reports.rst:346
+msgid "What the user sees"
+msgstr "使用者所見為"
+
+#: ../../source/reports.rst:348
+msgid "date"
+msgstr "日期"
+
+#: ../../source/reports.rst:348
+msgid "date picker"
+msgstr "日期選擇器"
+
+#: ../../source/reports.rst:348
+msgid "validly formatted date"
+msgstr "有效格式化日期"
+
+#: ../../source/reports.rst:350
+msgid "branch code"
+msgstr "分行代碼"
+
+#: ../../source/reports.rst:350
+msgid "branches"
+msgstr "分行"
+
+#: ../../source/reports.rst:350
+msgid "drop down of branch names"
+msgstr "分行名稱的下拉選單"
+
+#: ../../source/reports.rst:352
+msgid "drop down of item type names"
+msgstr "館藏類型名稱的下拉選單"
+
+#: ../../source/reports.rst:352
+msgid "item type"
+msgstr "館藏類型"
+
+#: ../../source/reports.rst:352
+msgid "itemtypes"
+msgstr "館藏類型"
+
+#: ../../source/reports.rst:354
+msgid "borrower category code"
+msgstr "借款人類別代碼"
+
+#: ../../source/reports.rst:354
+msgid "categorycode"
+msgstr "類別代碼"
+
+#: ../../source/reports.rst:354
+msgid "drop down of patron category descriptions"
+msgstr "讀者類別說明的下拉選單"
+
+#: ../../source/reports.rst:356
+msgid "biblio\\_framework"
+msgstr "書目\\_框架"
+
+#: ../../source/reports.rst:356
+msgid "drop down of MARC bibliographic frameworks"
+msgstr "MARC書目框架的下拉選單"
+
+#: ../../source/reports.rst:356
+msgid "framework code"
+msgstr "框架代碼"
+
+#: ../../source/reports.rst:358
+msgid "comma separated values"
+msgstr "逗號分隔值"
+
+#: ../../source/reports.rst:358
+msgid "large text box"
+msgstr "大型文字框"
+
+#: ../../source/reports.rst:358
+msgid "list"
+msgstr "清單"
+
+#: ../../source/reports.rst:360
+msgid "(auth-value-category)"
+msgstr "(容許-值-類別)"
+
+#: ../../source/reports.rst:360
+msgid "authorized value"
+msgstr "容許值"
+
+#: ../../source/reports.rst:360
+msgid "drop down of auth-value descriptions in category"
+msgstr "類別中的容許值說明的下拉選單"
+
+#: ../../source/reports.rst:362
+msgid "(nothing)"
+msgstr "(沒什麼)"
+
+#: ../../source/reports.rst:362
+msgid "entered text"
+msgstr "輸入的文字"
+
+#: ../../source/reports.rst:362
+msgid "text box"
+msgstr "文字框"
+
+#: ../../source/reports.rst:367
+#, fuzzy
+msgid "You can have more than one runtime parameter in a given SQL query."
+msgstr "在 SQL 詢問中可以有多個參數。"
+
+#: ../../source/reports.rst:369
+msgid "Example 1"
+msgstr "範例 1"
+
+#: ../../source/reports.rst:379
+#, fuzzy
+msgid "|runtimeparameterex1|"
+msgstr "**執行參數**"
+
+#: ../../source/reports.rst:381
+msgid "Example 2"
+msgstr "範例 2"
+
+#: ../../source/reports.rst:390
+#, fuzzy
+msgid "|runtimeparameterex2|"
+msgstr "**執行參數**"
+
+#: ../../source/reports.rst:392
+msgid "Example 3"
+msgstr "範例 3"
+
+#: ../../source/reports.rst:401
+#, fuzzy
+msgid "|runtimeparameterex3|"
+msgstr "**執行參數**"
+
+#: ../../source/reports.rst:403
+msgid "Example 4"
+msgstr "範例 4"
+
+#: ../../source/reports.rst:413
+#, fuzzy
+msgid "|runtimeparameterex4|"
+msgstr "**執行參數**"
+
+#: ../../source/reports.rst:415
+msgid "Example 5"
+msgstr "範例 5"
+
+#: ../../source/reports.rst:423
+#, fuzzy
+msgid "|runtimeparameterex5|"
+msgstr "**執行參數**"
+
+#: ../../source/reports.rst:451
+msgid "SQL report from Mana"
+msgstr "來自 Mana 的 SQL 報表"
+
+#: ../../source/reports.rst:453
+msgid "In the \"Create report from SQL\", you can search Mana KB for pre-made reports by clicking on \"New report\" and choosing \"New SQL from Mana\"."
+msgstr "由 Mana KB 新增預設報表的方式是，在 \"由 SQL 產生報表\" 內，您可按, you can search Mana KB for pre-made reports by clicking on \"新增報表\" 並選擇 \"從 Mana 新增 SQL\"。"
+
+#: ../../source/reports.rst:456
+msgid "|image1428|"
+msgstr ""
+
+#: ../../source/reports.rst:460
+msgid "This option will only appear if you've :ref:`configured Mana KB <share-with-mana-kb-label>` in the administration module."
+msgstr "從管理模組設定 :ref:`組態 Mana KB <share-with-mana-kb-label>` 後，才出現此選項。"
+
+#: ../../source/reports.rst:462
+msgid "You will be prompted to enter keywords to search the knowledge base."
+msgstr "提示您以關鍵字搜尋知識庫。"
+
+#: ../../source/reports.rst:464
+msgid "|image1429|"
+msgstr ""
+
+#: ../../source/reports.rst:466
+msgid "In the search results, you will see"
+msgstr "在搜尋結果，您將看到"
+
+#: ../../source/reports.rst:468
+msgid "the details of the report (name, notes and type)"
+msgstr "報告詳情 (姓名、說明與類型)"
+
+#: ../../source/reports.rst:470
+msgid "how many people have used this entry (# of users)"
+msgstr "多少人已使用此款目 (# 表示使用者)"
+
+#: ../../source/reports.rst:472
+msgid "when it was used for the last time (last import)"
+msgstr "當它用於姓 (最後匯入)"
+
+#: ../../source/reports.rst:474
+msgid "additional comments made by other Koha users (comments)"
+msgstr "Koha 使用者新增的評論 (評論)"
+
+#: ../../source/reports.rst:476
+msgid "|image1430|"
+msgstr ""
+
+#: ../../source/reports.rst:480
+msgid "Click on \"Import\" to import a copy of the report in your own saved reports."
+msgstr "勾選 \"匯入\" 把報告複製在您自已的儲存報告內。"
+
+#: ../../source/reports.rst:482
+msgid "You can then edit it, duplicate it, delete it, run it as you would any of your own reports."
+msgstr "您可編輯、複製、刪除、執行它，如同自己的其他報告。"
+
+#: ../../source/reports.rst:488
+msgid "Duplicate report"
+msgstr "複製報表"
+
+#: ../../source/reports.rst:490
+msgid "Reports can also be added by duplicating an existing report. Visit the 'Saved reports' page to see all of the reports listed on your system already."
+msgstr "可以複製現在報表為新的報表。進入 '儲存報表' 頁面查看已有的報表。"
+
+#: ../../source/reports.rst:494
+msgid "|image895|"
+msgstr ""
+
+#: ../../source/reports.rst:496
+msgid "To the right of every report there is an 'Actions' pull down. Clicking that and choose 'Duplicate' to use an existing report as the basis for your new report. That will populate the new report form with the existing SQL for easy editing and resaving."
+msgstr "在報表右方有個 '動作' 下拉選單。按下並選擇 '複製' 鈕以現在的報表為基礎產生新報表。修改必要的 SQL 後成為新的報表。"
+
+#: ../../source/reports.rst:504
+msgid "Edit custom reports"
+msgstr "編輯客製化報表"
+
+#: ../../source/reports.rst:506
+msgid "Every report can be edited from the reports lists. To see the list of reports already stored in Koha, click 'Use saved.'"
+msgstr "可從報表清單編輯各報表。點選 '使用已儲存的'，檢視 Koha 已儲存的報表清單。"
+
+#: ../../source/reports.rst:517
+msgid "To find the report you'd like to edit you can sort by any of the columns by clicking the on the column header. You can also filter your results using the filter menu on the left or use the tabs to find reports based on your custom groups."
+msgstr "點選欄位標題，讓報表依欄位排序，就能找到指定的報表。也可用左方的篩選器選單或分頁，依照客製化群組，找到指定的報表。"
+
+#: ../../source/reports.rst:522
+msgid "From this list you can edit any custom report by clicking 'Actions' to the right of the report and choosing 'Edit' from the menu that appears."
+msgstr "您可以從這個清單勾選報表右下角的 '動作' 鈕從彈出的選單裡選擇 '編輯'。"
+
+#: ../../source/reports.rst:525
+msgid "|editsavedreport|"
+msgstr ""
+
+#: ../../source/reports.rst:527
+msgid "The form to edit the report will appear. Use the \"update button\" to save your modifications or click on \"update and run SQL\" to save and display the report results."
+msgstr ""
+
+#: ../../source/reports.rst:529
+#, fuzzy
+msgid "|updatesavedreport|"
+msgstr "複製報表"
+
+#: ../../source/reports.rst:534
+msgid "Running custom reports"
+msgstr "執行客製化報表"
+
+#: ../../source/reports.rst:536
+msgid "Once custom reports are saved to Koha, you can run them by going to the Saved Reports page and clicking the 'Actions' button to the right of the report and choosing 'Run'."
+msgstr "儲存客製化報表後，可從儲存報表頁面勾選該報表右方的 '動作' 連結再點選 '執行' 它。"
+
+#: ../../source/reports.rst:540
+msgid "|image899|"
+msgstr ""
+
+#: ../../source/reports.rst:542
+msgid "When you report runs you will either be asked for some values"
+msgstr "執行報表時將被要求輸入若干值"
+
+#: ../../source/reports.rst:544
+msgid "|image900|"
+msgstr ""
+
+#: ../../source/reports.rst:546
+msgid "or you will see the results right away"
+msgstr "或直接看到結果"
+
+#: ../../source/reports.rst:548
+msgid "|image901|"
+msgstr ""
+
+#: ../../source/reports.rst:550
+msgid "From the results you can choose to rerun the report by clicking 'Run report' at the top, edit the report by clicking the 'Edit' button or starting over and creating a new report by using the 'New' button. You can also download your results by choosing a file type at the bottom of the results next to the 'Download the report' label and clicking 'Download.'"
+msgstr "從此結果裡，您可以點選上方的 '執行報表'，再執行報表；或點選 '編輯' 鈕，編輯報表；或點選 '新增' 鈕，重新建立報表。從結果下方選取檔案類型，選擇 '下載報表' 標籤，再選取 '下載' ，就能下載您的結果。"
+
+#: ../../source/reports.rst:559
+msgid "A comma separated text file is a CSV file and it can be opened by any spreadsheet application."
+msgstr "逗點區隔的純文字檔案稱為 CSV 檔案，任何試算表應用程式都可以打開它。"
+
+#: ../../source/reports.rst:565
+msgid "Send report output to batch modification tools"
+msgstr "將報表輸出寄送給批次修改工具"
+
+#: ../../source/reports.rst:567
+msgid "After running a report that contains itemnumbers, biblionumbers and/or patron cardnumbers the list of numbers can be imported directly into the relevant batch modification tool by clicking the 'Batch operations with X visible records' button in the report results.  The X depends on the number of records you have chosen to display on screen (up to 1000)."
+msgstr "在執行一個包含館藏編號、書目編號和/或讀者卡片編號的報表後，可以通過點擊報表結果中的 '具有X條可見記錄的批次操作 '按鈕，將編號列表直接輸入相關的批次修改工具中。  X取決於你選擇在螢幕上顯示的記錄數（最多 1000條）。"
+
+#: ../../source/reports.rst:570
+msgid "|image1343|"
+msgstr ""
+
+#: ../../source/reports.rst:575
+msgid "Statistics reports"
+msgstr "統計報表"
+
+#: ../../source/reports.rst:577
+#, fuzzy
+msgid "Statistic reports will show you counts and sums. These reports are all about numbers and statistics, for reports that return more detailed data, use the :ref:`guided report wizard <guided-report-wizard-label>`. These reports are limited in what data they can look at, so it's often recommended to use :ref:`custom reports <custom-reports-label>` for official end of the year statistics."
+msgstr "統計報表顯示次數及總數。這些報表的內容有關於數字與統計，至於詳細數字的報表，請使用 :ref:`報表精靈`。可檢視的報表內容，建議參見 `客製化報表 <custom-reports-label>` 做為年度統計之用。"
+
+#: ../../source/reports.rst:587
+msgid "Acquisitions statistics"
+msgstr "採訪統計"
+
+#: ../../source/reports.rst:591 ../../source/reports.rst:625
+#: ../../source/reports.rst:650 ../../source/reports.rst:674
+#: ../../source/reports.rst:733 ../../source/reports.rst:757
+msgid "These reports are limited in what data they can look at, so it's often recommended to use :ref:`custom reports <custom-reports-label>` for official end of the year statistics."
+msgstr "可檢視的報表內容有限，建議使用 :ref:`客製化報表 <custom-reports-label>` 做為年度統計之用。"
+
+#: ../../source/reports.rst:598
+msgid "|acqform|"
+msgstr ""
+
+#: ../../source/reports.rst:600 ../../source/reports.rst:634
+#: ../../source/reports.rst:659 ../../source/reports.rst:683
+#: ../../source/reports.rst:742 ../../source/reports.rst:768
+#: ../../source/reports.rst:785 ../../source/reports.rst:803
+#: ../../source/reports.rst:821 ../../source/reports.rst:839
+#: ../../source/reports.rst:857 ../../source/reports.rst:917
+msgid "If you choose to output to the browser your results will print to the screen."
+msgstr "選擇輸出至瀏覽器，您的結果將出現在螢幕。"
+
+#: ../../source/reports.rst:603
+msgid "|image903|"
+msgstr ""
+
+#: ../../source/reports.rst:605 ../../source/reports.rst:664
+#: ../../source/reports.rst:688 ../../source/reports.rst:747
+#: ../../source/reports.rst:773 ../../source/reports.rst:790
+#: ../../source/reports.rst:808 ../../source/reports.rst:826
+#: ../../source/reports.rst:844 ../../source/reports.rst:862
+#: ../../source/reports.rst:922
+msgid "You can also choose to export to a file that you can manipulate to your needs."
+msgstr "您可選擇匯出成檔案，供後續的使用。"
+
+#: ../../source/reports.rst:608
+msgid "When generating your report, note that you get to choose between counting or summing the values."
+msgstr "產生報表時，必須選定計算或總結其值。"
+
+#: ../../source/reports.rst:611
+msgid "|image904|"
+msgstr ""
+
+#: ../../source/reports.rst:613
+msgid "Choosing amount will change your results to appear as the sum of the amounts spent."
+msgstr "選擇改變結果的總數，做為總支出的金額。"
+
+#: ../../source/reports.rst:616
+msgid "|image905|"
+msgstr ""
+
+#: ../../source/reports.rst:621
+msgid "Patron statistics"
+msgstr "讀者統計"
+
+#: ../../source/reports.rst:632
+msgid "|patronform|"
+msgstr ""
+
+#: ../../source/reports.rst:637
+msgid "|image907|"
+msgstr ""
+
+#: ../../source/reports.rst:639
+msgid "Based on your selections, you may see some query information above your results table. You can also choose to export to a file that you can manipulate to your needs."
+msgstr "根據你的選擇，可在搜尋表單之上看到部份查詢資訊。也可選擇匯出至檔案再編輯成您的需要。"
+
+#: ../../source/reports.rst:646
+msgid "Catalog statistics"
+msgstr "目錄統計"
+
+#: ../../source/reports.rst:657
+msgid "|image908|"
+msgstr ""
+
+#: ../../source/reports.rst:662
+msgid "|image909|"
+msgstr ""
+
+#: ../../source/reports.rst:670
+msgid "Circulation statistics"
+msgstr "流通統計"
+
+#: ../../source/reports.rst:681
+msgid "|circform|"
+msgstr ""
+
+#: ../../source/reports.rst:686
+msgid "|image911|"
+msgstr ""
+
+#: ../../source/reports.rst:693
+msgid "To get a complete picture of your monthly or daily circulation, you can run the report twice, once for 'Type' of 'Checkout' and again for 'Renewal.'"
+msgstr "為了對按月與逐日的流通有全盤瞭解，您可執行兩次報表，一次是 '借出' 的 '類型' 另一次是 '續借'。"
+
+#: ../../source/reports.rst:697
+msgid "This report uses 'Period,' or date, filtering that allows you to limit to a month by simply selecting the first day of the first month through the first day of the next month. For example, 10/1 to 11/1 to find statistics for the month of October."
+msgstr "此報表使用 '期間'，或日期篩選，允許您以每月第一天至次月第一天篩選。例如：10/1 至 11/1 做為十月份的統計。"
+
+#: ../../source/reports.rst:702
+msgid "To find daily statistics, set your date range.</br> Example: \"I want circulation data starting with date XXX up to, but not including, date XXX.\""
+msgstr "設定日期範圍，查看逐日統計。</br> 如：\"從 XXX 開始至 XXX 結束的流通統計\"。"
+
+#: ../../source/reports.rst:706
+msgid "For a whole month, an example range would be: 11/01/2009 to 12/01/2009"
+msgstr "對一個月而言，如11/01/2009 至 12/01/2009"
+
+#: ../../source/reports.rst:709
+msgid "For a whole year, an example range would be: 01/01/2009 to 01/01/2010"
+msgstr "對整年而言，如：01/01/2009 至 01/01/2010"
+
+#: ../../source/reports.rst:712
+msgid "For a single day, an example would be: 11/15/2009 to 11/16/2009 to find what circulated on the 15th"
+msgstr "以一天而言，如： 11/15/2009 至 11/16/2009，會找到15日的流通紀錄"
+
+#: ../../source/reports.rst:718
+msgid "Tracking in house use"
+msgstr "追蹤館內使用"
+
+#: ../../source/reports.rst:720
+msgid "Using the Circulation statistics reporting wizard you can run reports on in house usage of items simply by choosing 'Local use' from the 'Type' pull down:"
+msgstr "利用流通統計報表精靈，您可以執行館內使用報表，祗需從 '類型' 下拉選單裡選取 '館內使用' 即可："
+
+#: ../../source/reports.rst:724
+msgid "|inhouse|"
+msgstr ""
+
+#: ../../source/reports.rst:729
+msgid "Serials statistics"
+msgstr "期刊統計"
+
+#: ../../source/reports.rst:737
+msgid "Using the form provided, choose how you would like to list the serials in your system."
+msgstr "以提供的表單選擇系統內指定的期刊。"
+
+#: ../../source/reports.rst:740
+msgid "|serialsform|"
+msgstr ""
+
+#: ../../source/reports.rst:745
+msgid "|image914|"
+msgstr ""
+
+#: ../../source/reports.rst:753
+msgid "Holds statistics"
+msgstr "預約統計"
+
+#: ../../source/reports.rst:761
+msgid "Using the form provided you can see statistics for holds placed, filled, cancelled and more at your library. From the form choose what value you want to display in the column and what value to show in the row. You can also choose from the filters on the far right of the form."
+msgstr "根據提供的統計資料，可以看到本館的預約數、滿足數、取消及其他統計。從選定的表單指定顯示的欄與列。也可用表單右方的篩選器，祗統計部份內容。"
+
+#: ../../source/reports.rst:766
+msgid "|holdstatsform|"
+msgstr ""
+
+#: ../../source/reports.rst:771
+msgid "|image916|"
+msgstr ""
+
+#: ../../source/reports.rst:779
+msgid "Patrons with the most checkouts"
+msgstr "借出最多的讀者"
+
+#: ../../source/reports.rst:781
+msgid "This report will simply list the patrons who have the most checkouts."
+msgstr "此報表將列出借出最多館藏的讀者。"
+
+#: ../../source/reports.rst:783
+msgid "|topcheckoutsform|"
+msgstr ""
+
+#: ../../source/reports.rst:788
+msgid "|image918|"
+msgstr ""
+
+#: ../../source/reports.rst:796
+msgid "Most circulated items"
+msgstr "借出最多館藏"
+
+#: ../../source/reports.rst:798
+msgid "This report will simply list the items that have the been checked out the most."
+msgstr "此報表將列出被借出最多的館藏。"
+
+#: ../../source/reports.rst:801
+msgid "|image919|"
+msgstr ""
+
+#: ../../source/reports.rst:806
+msgid "|image920|"
+msgstr ""
+
+#: ../../source/reports.rst:814
+msgid "Patrons with no checkouts"
+msgstr "無借出的讀者"
+
+#: ../../source/reports.rst:816
+msgid "This report will list for you the patrons in your system who haven't checked any items out."
+msgstr "此報表將列出不曾借出館藏的讀者。"
+
+#: ../../source/reports.rst:819
+#, fuzzy
+msgid "|patnocheckout|"
+msgstr "無借出的讀者"
+
+#: ../../source/reports.rst:824
+msgid "|image922|"
+msgstr ""
+
+#: ../../source/reports.rst:832
+msgid "Items with no checkouts"
+msgstr "不曾借出的館藏"
+
+#: ../../source/reports.rst:834
+msgid "This report will list items in your collection that have never been checked out."
+msgstr "此報表將列出不曾借出的館藏。"
+
+#: ../../source/reports.rst:837
+msgid "|nocheckoutsform|"
+msgstr ""
+
+#: ../../source/reports.rst:842
+msgid "|image924|"
+msgstr ""
+
+#: ../../source/reports.rst:852
+msgid "This report will list the total number of items of each item type per branch."
+msgstr "此報表列出每個分館各種資料類型的館藏總數。"
+
+#: ../../source/reports.rst:855
+msgid "|itemtotals|"
+msgstr ""
+
+#: ../../source/reports.rst:860
+msgid "|itemtotalsresults|"
+msgstr ""
+
+#: ../../source/reports.rst:868
+msgid "Lost items"
+msgstr "遺失的館藏"
+
+#: ../../source/reports.rst:870
+msgid "This report will allow you to generate a list of items that have been marked as Lost within the system"
+msgstr "此報表允許您產生系統內被標記為遺失的館藏清單"
+
+#: ../../source/reports.rst:873
+#, fuzzy
+msgid "|lostitems|"
+msgstr "遺失的館藏"
+
+#: ../../source/reports.rst:875
+msgid "Once you have chosen parameters, you will see the corresponding list of items."
+msgstr "一旦你選擇了參數，你會看到相應的館藏清單。"
+
+#: ../../source/reports.rst:877
+msgid "|lostitemsresult|"
+msgstr ""
+
+#: ../../source/reports.rst:881
+msgid "You can customize the columns of this table in the :ref:`'Table settings'<column-settings-label>` section of the Administration module (table id: lostitems-table)."
+msgstr "您可以在管理模組的 :ref:`'欄組態'<column-settings-label>`部份, 客製化此表的列(table id: lostitems-table)。"
+
+#: ../../source/reports.rst:888
+msgid "Orders by fund"
+msgstr "以基金訂購"
+
+#: ../../source/reports.rst:890
+msgid "If you use the :ref:`Acquisitions module<acquisitions-label>`, you will be able to see all the items that were ordered in each fund."
+msgstr "如果你使用 :ref:`採訪模組<acquisitions-label>`，你將能夠看到每個基金中訂購的所有館藏。"
+
+#: ../../source/reports.rst:893
+msgid "|image1499|"
+msgstr ""
+
+#: ../../source/reports.rst:895
+msgid "Once you choose the fund you wish to view, you can export the results or view them in the browser. If you choose to view them directly, you will be shown the list of orders."
+msgstr "一旦你選擇了你想要查看的基金，你可以輸出結果或在瀏覽器中查看。如果你選擇直接查看，你將會看到訂單的清單。"
+
+#: ../../source/reports.rst:899
+msgid "|image1500|"
+msgstr ""
+
+#: ../../source/reports.rst:903
+msgid "You can customize the columns of this table in the :ref:`'Table settings'<column-settings-label>` section of the Administration module (table id: funds-table)."
+msgstr "您可以在管理模組的 :ref:`'欄組態'<column-settings-label>`部份, 客製化此表的列(table id: funds-table)。"
+
+#: ../../source/reports.rst:910
+msgid "Average loan time"
+msgstr "平均借出時間"
+
+#: ../../source/reports.rst:912
+msgid "This report will list the average time items are out on loan based on the criteria you enter:"
+msgstr "此報表將依照您要求的類型列出館藏平均借出的時間："
+
+#: ../../source/reports.rst:915
+msgid "|averloanform|"
+msgstr ""
+
+#: ../../source/reports.rst:920
+msgid "|image929|"
+msgstr ""
+
+#: ../../source/reports.rst:928
+msgid "Report dictionary"
+msgstr "報表字典"
+
+#: ../../source/reports.rst:930
+msgid "The report dictionary is a way to pre-define common filters you'd like to apply to your reports. This is a good way to add in filters that the report wizard doesn't include by default. To add a new definition, or filter, click 'New definition' on the reports dictionary page and follow the 4 step process."
+msgstr "報表字典是一種事先定義報表常用的篩選器。不妨新增報表精靈預設之外的篩選器。勾選報表字典頁面的 '新增定義'，並依照下列 4 個步驟，就能新增定義或篩選器。"
+
+#: ../../source/reports.rst:936
+msgid "Step 1: Name the definition and provide a description if necessary"
+msgstr "步驟 1：給予此定義並提供必要的說明"
+
+#: ../../source/reports.rst:938
+msgid "|image930|"
+msgstr ""
+
+#: ../../source/reports.rst:940
+msgid "Step 2: Choose the module that the will be queried."
+msgstr "步驟2：選擇詢問的模組。"
+
+#: ../../source/reports.rst:942
+msgid "|image931|"
+msgstr ""
+
+#: ../../source/reports.rst:944
+msgid "Step 3: Choose columns to query from the tables presented."
+msgstr "步驟3：從顯示的表單裡選取詢問的欄位。"
+
+#: ../../source/reports.rst:946
+msgid "|image932|"
+msgstr ""
+
+#: ../../source/reports.rst:948
+msgid "Step 4: Choose the value(s) from the field(s). These will be automatically populated with options available in your database."
+msgstr "步驟4：從欄位選取值。自動佈署於可用的資料庫。"
+
+#: ../../source/reports.rst:951
+msgid "|image933|"
+msgstr ""
+
+#: ../../source/reports.rst:953
+msgid "Confirm your selections to save the definition."
+msgstr "確認您的選項以便儲存此定義。"
+
+#: ../../source/reports.rst:955
+msgid "|image934|"
+msgstr ""
+
+#: ../../source/reports.rst:957
+msgid "Your definitions will all appear on the Reports Dictionary page"
+msgstr "您的定義將出現在報表字典頁面"
+
+#: ../../source/reports.rst:959
+msgid "|image935|"
+msgstr ""
+
+#: ../../source/reports.rst:961
+msgid "Then when generating reports on the module you created the value for you will see an option to limit by the definition at the bottom of the usual filters."
+msgstr "新增報表後，在下方的定義出現限制的選項，當成一般的篩選器。"
+
+#: ../../source/reports.rst:965
+msgid "|image936|"
+msgstr ""
+
+#: ../../source/reports.rst:970
+#, fuzzy
+msgid "Report plugins"
+msgstr "報表"
+
+#: ../../source/reports.rst:972
+msgid "Some plugins that are available can be used to make or enhance reports."
+msgstr ""
+
+#: ../../source/reports.rst:974
+#, fuzzy
+msgid "*Get there:* More > Reports > Report plugins > Report plugins"
+msgstr "*到那：* 更多 > 報表"
+
+#: ../../source/reports.rst:976
+msgid "From this page, you will see only report-type plugins."
+msgstr ""
+
+#: ../../source/reports.rst:978
+msgid "See the :ref:`managing plugins section <manage-plugins-label>` of this manual to learn how to manage your report-type plugins."
+msgstr ""

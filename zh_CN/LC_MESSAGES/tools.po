@@ -1,0 +1,4484 @@
+# Compendium of zh_TW.
+msgid ""
+msgstr ""
+"Project-Id-Version: Koha Manual 22.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-10-26 13:37+0000\n"
+"PO-Revision-Date: 2023-02-22 03:53+0000\n"
+"Last-Translator: Frank Chou <frank@sris.com.tw>\n"
+"Language-Team: Koha Translation Team\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: application/x-publican; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pootle 2.8\n"
+"X-POOTLE-MTIME: 1677037983.824537\n"
+"X-Pootle-Path: /zh_TW/manual22.11/tools.po\n"
+"X-Pootle-Revision: 1\n"
+
+#: ../../source/images.rst:2018
+msgid "Top of the your summary page, under the title of the page, it is written Welcome Mary Burton, Click here if you're not Mary Burton and below that is a text that says This is OpacMySummaryNote."
+msgstr ""
+
+#: ../../source/images.rst:2341
+msgid "Pop up window for patron search"
+msgstr ""
+
+#: ../../source/images.rst:2690
+msgid "A news block on the main page of the staff interface, followed by a quote of the day"
+msgstr ""
+
+#: ../../source/images.rst:2713
+msgid "New additional content entry form"
+msgstr ""
+
+#: ../../source/images.rst:2716
+msgid "Additional content / HTML customizations main page"
+msgstr ""
+
+#: ../../source/images.rst:2719
+msgid "Drop-down menu of display locations for additional content"
+msgstr ""
+
+#: ../../source/images.rst:2722
+msgid "New news entry form"
+msgstr ""
+
+#: ../../source/images.rst:2725
+msgid "New page entry form"
+msgstr ""
+
+#: ../../source/images.rst:2728
+msgid "View of patrons in the list and search form to add new patrons to the list"
+msgstr ""
+
+#: ../../source/images.rst:2731
+msgid "List of comments to approved with action buttons"
+msgstr ""
+
+#: ../../source/images.rst:2734
+msgid "List of comments to moderate with action buttons"
+msgstr ""
+
+#: ../../source/images.rst:2737
+msgid "View of alert that there are comments wainting on Koha main page"
+msgstr ""
+
+#: ../../source/images.rst:2740
+#, fuzzy
+msgid "View of alert that there are comments wainting on Koha tools page"
+msgstr "然後在工具頁面的評論工具旁"
+
+#: ../../source/images.rst:2743
+msgid "Quote deletion confirmation modal"
+msgstr ""
+
+#: ../../source/images.rst:2746
+msgid "Clicking in the table on the source or the text of a quote will open a editable field"
+msgstr ""
+
+#: ../../source/images.rst:2749
+msgid "Drop-down menu of display locations for news"
+msgstr ""
+
+#: ../../source/images.rst:2752
+msgid "A list of imported quotes in a table"
+msgstr ""
+
+#: ../../source/images.rst:2755
+msgid "Quote uploader screen"
+msgstr ""
+
+#: ../../source/images.rst:2758
+msgid "Log viewer results table"
+msgstr ""
+
+#: ../../source/images.rst:2761
+msgid "Screenshot of the log viewer tool"
+msgstr ""
+
+#: ../../source/images.rst:2764
+msgid "\"New\" button in the patron card creator is open, the mouse cursor is on the \"Card template\" option"
+msgstr ""
+
+#: ../../source/images.rst:2767
+#, fuzzy
+msgid "New patron list form"
+msgstr "讀者清單"
+
+#: ../../source/images.rst:2770
+msgid "New quote form"
+msgstr ""
+
+#: ../../source/images.rst:2773
+msgid "News tool main page"
+msgstr ""
+
+#: ../../source/images.rst:2776
+msgid "View of a news item on the OPAC with an RSS icon next to the text 'RSS feed for system-wide library news'"
+msgstr ""
+
+#: ../../source/images.rst:2779
+msgid "List of comments moderation when no comments"
+msgstr ""
+
+#: ../../source/images.rst:2782
+msgid "Example of an OpacNav HTML customization with links to pages"
+msgstr ""
+
+#: ../../source/images.rst:2785
+msgid "Table of problem reports submitted by patrons"
+msgstr ""
+
+#: ../../source/images.rst:2788
+msgid "Example of a page on the OPAC"
+msgstr ""
+
+#: ../../source/images.rst:2791
+msgid "Example of a custom page, with a form for patrons to send enquiries to the library"
+msgstr ""
+
+#: ../../source/images.rst:2794
+msgid "Example of a custom page \"How to use eBooks Tutorial\" catalogued as a bibliographic record"
+msgstr ""
+
+#: ../../source/images.rst:2797
+#, fuzzy
+msgid "Preview of a page"
+msgstr "檢視通知模板"
+
+#: ../../source/images.rst:2800
+msgid "Pages tool main page, with table of current pages"
+msgstr ""
+
+#: ../../source/images.rst:2803
+msgid "View of all patrons of the list after adding patrons"
+msgstr ""
+
+#: ../../source/images.rst:2806
+msgid "Action menu available on each patron list"
+msgstr ""
+
+#: ../../source/images.rst:2809
+#, fuzzy
+msgid "View of all patron lists and New patron list button"
+msgstr "點選 '新增讀者清單' 鈕，就能新增讀者清單"
+
+#: ../../source/images.rst:2812
+msgid "View of selected patron ready to be added to the list"
+msgstr ""
+
+#: ../../source/images.rst:2815
+msgid "Main page of the quote of the day editor"
+msgstr ""
+
+#: ../../source/images.rst:2818
+msgid "Dropdown list of measurement units used in the patron card creator tool, PostScript Points, Agates, US Inches, SI Millimeters, and SI Centimeters"
+msgstr ""
+
+#: ../../source/images.rst:2821
+msgid "Example of using javascript in the OPACUserJS system preference to add a link to a custom page under the search bar in the OPAC"
+msgstr ""
+
+#: ../../source/images.rst:2937
+msgid "image248"
+msgstr ""
+
+#: ../../source/images.rst:2938
+msgid "image255"
+msgstr ""
+
+#: ../../source/images.rst:2939
+msgid "image256"
+msgstr ""
+
+#: ../../source/images.rst:2940
+msgid "image257"
+msgstr ""
+
+#: ../../source/images.rst:2941
+msgid "image258"
+msgstr ""
+
+#: ../../source/images.rst:2942
+msgid "image259"
+msgstr ""
+
+#: ../../source/images.rst:2943
+msgid "image260"
+msgstr ""
+
+#: ../../source/images.rst:2944
+msgid "image261"
+msgstr ""
+
+#: ../../source/images.rst:2945
+msgid "image263"
+msgstr ""
+
+#: ../../source/images.rst:2946
+msgid "image265"
+msgstr ""
+
+#: ../../source/images.rst:2947
+msgid "image267"
+msgstr ""
+
+#: ../../source/images.rst:2948
+msgid "image268"
+msgstr ""
+
+#: ../../source/images.rst:2949
+msgid "image269"
+msgstr ""
+
+#: ../../source/images.rst:2950
+msgid "image271"
+msgstr ""
+
+#: ../../source/images.rst:2951
+msgid "image272"
+msgstr ""
+
+#: ../../source/images.rst:2952
+msgid "image273"
+msgstr ""
+
+#: ../../source/images.rst:2953
+msgid "image274"
+msgstr ""
+
+#: ../../source/images.rst:2954
+msgid "image275"
+msgstr ""
+
+#: ../../source/images.rst:2955
+msgid "image276"
+msgstr ""
+
+#: ../../source/images.rst:2956
+msgid "image277"
+msgstr ""
+
+#: ../../source/images.rst:2957
+msgid "image278"
+msgstr ""
+
+#: ../../source/images.rst:2958
+msgid "image279"
+msgstr ""
+
+#: ../../source/images.rst:2959
+msgid "image280"
+msgstr ""
+
+#: ../../source/images.rst:2960
+msgid "image281"
+msgstr ""
+
+#: ../../source/images.rst:2961
+msgid "image282"
+msgstr ""
+
+#: ../../source/images.rst:2962
+msgid "image283"
+msgstr ""
+
+#: ../../source/images.rst:2963
+msgid "image284"
+msgstr ""
+
+#: ../../source/images.rst:2964
+msgid "image285"
+msgstr ""
+
+#: ../../source/images.rst:2965
+msgid "image286"
+msgstr ""
+
+#: ../../source/images.rst:2966
+msgid "image287"
+msgstr ""
+
+#: ../../source/images.rst:2967
+msgid "image288"
+msgstr ""
+
+#: ../../source/images.rst:2968
+msgid "image289"
+msgstr ""
+
+#: ../../source/images.rst:2969
+msgid "image290"
+msgstr ""
+
+#: ../../source/images.rst:2970
+msgid "image291"
+msgstr ""
+
+#: ../../source/images.rst:2971
+msgid "image292"
+msgstr ""
+
+#: ../../source/images.rst:2972
+msgid "View of the calendar"
+msgstr ""
+
+#: ../../source/images.rst:2974
+msgid "Add new holiday form"
+msgstr ""
+
+#: ../../source/images.rst:2976
+msgid "Drop down menu of all libraries from which to choose to which library to copy the holidays"
+msgstr ""
+
+#: ../../source/images.rst:2978
+msgid "View of the calendar page showing the calendar and all the programmed holidays"
+msgstr ""
+
+#: ../../source/images.rst:2980
+msgid "Edit holiday form"
+msgstr ""
+
+#: ../../source/images.rst:2982
+msgid "Edit holiday form with the option of generating exceptions for repeating holidays"
+msgstr ""
+
+#: ../../source/images.rst:2984
+msgid "Text under \"Delete this holiday\": \"This will delete this holiday rule. If it is a repeatable holiday, this option checks for possible exceptions. If an exception exists, this option will remove the exception and set the date to a regular holiday.\""
+msgstr ""
+
+#: ../../source/images.rst:2986
+#, fuzzy
+msgid "Add new CSV profile form"
+msgstr "新增CSV設定檔"
+
+#: ../../source/images.rst:2988
+msgid "Add new CSV profile form filled with SQL information"
+msgstr ""
+
+#: ../../source/images.rst:2990
+msgid "View of the cart with the Download pull down menu open and \"CSV - Record export\" is selected"
+msgstr ""
+
+#: ../../source/images.rst:2992
+msgid "CSV file opened in a spreadsheet software where we can see the pipes separating subject headings when there are more than one"
+msgstr ""
+
+#: ../../source/images.rst:2994
+msgid "Blue box with the confirmation message \"CSV profile added successfully.\""
+msgstr ""
+
+#: ../../source/images.rst:2996
+msgid "image381"
+msgstr ""
+
+#: ../../source/images.rst:2997
+msgid "image382"
+msgstr ""
+
+#: ../../source/images.rst:2998
+msgid "image383"
+msgstr ""
+
+#: ../../source/images.rst:2999
+msgid "image384"
+msgstr ""
+
+#: ../../source/images.rst:3000
+msgid "Issue slip with news at the bottom"
+msgstr ""
+
+#: ../../source/images.rst:3002
+msgid "image392"
+msgstr ""
+
+#: ../../source/images.rst:3003
+msgid "image393"
+msgstr ""
+
+#: ../../source/images.rst:3004
+msgid "image394"
+msgstr ""
+
+#: ../../source/images.rst:3298
+msgid "View of the main page of the OPAC with each customizable section highlighted"
+msgstr ""
+
+#: ../../source/images.rst:3300
+msgid "View of the main page of the OPAC, customized, and with each section highlighted and labeled"
+msgstr ""
+
+#: ../../source/images.rst:3414
+msgid "image1220"
+msgstr ""
+
+#: ../../source/images.rst:3415
+msgid "image1221"
+msgstr ""
+
+#: ../../source/images.rst:3416
+msgid "image1222"
+msgstr ""
+
+#: ../../source/images.rst:3417
+msgid "image1223"
+msgstr ""
+
+#: ../../source/images.rst:3418
+msgid "image1224"
+msgstr ""
+
+#: ../../source/images.rst:3419
+msgid "image1225"
+msgstr ""
+
+#: ../../source/images.rst:3420
+msgid "image1227"
+msgstr ""
+
+#: ../../source/images.rst:3421
+msgid "image1228"
+msgstr ""
+
+#: ../../source/images.rst:3422
+msgid "image1229"
+msgstr ""
+
+#: ../../source/images.rst:3423
+msgid "image1230"
+msgstr ""
+
+#: ../../source/images.rst:3425
+msgid "image1242"
+msgstr ""
+
+#: ../../source/images.rst:3426
+msgid "image1243"
+msgstr ""
+
+#: ../../source/images.rst:3427
+msgid "image1244"
+msgstr ""
+
+#: ../../source/images.rst:3428
+msgid "image1245"
+msgstr ""
+
+#: ../../source/images.rst:3472
+msgid "image1335"
+msgstr ""
+
+#: ../../source/images.rst:3477
+msgid "image1340"
+msgstr ""
+
+#: ../../source/images.rst:3479
+msgid "image1342"
+msgstr ""
+
+#: ../../source/images.rst:3489
+msgid "image1355"
+msgstr ""
+
+#: ../../source/images.rst:3493
+msgid "image1364"
+msgstr ""
+
+#: ../../source/images.rst:3494
+msgid "image1365"
+msgstr ""
+
+#: ../../source/images.rst:3495
+msgid "image1366"
+msgstr ""
+
+#: ../../source/images.rst:3496
+msgid "image1367"
+msgstr ""
+
+#: ../../source/images.rst:3497
+msgid "image1368"
+msgstr ""
+
+#: ../../source/images.rst:3498
+msgid "image1369"
+msgstr ""
+
+#: ../../source/images.rst:3499
+msgid "image1370"
+msgstr ""
+
+#: ../../source/images.rst:3532
+msgid "Add new CSV profile form filled with MARC information"
+msgstr ""
+
+#: ../../source/images.rst:3540
+msgid "A cashup summary view modal"
+msgstr ""
+
+#: ../../source/images.rst:3552
+#, fuzzy
+msgid "Batch extend due dates selection page"
+msgstr "批次延長到期日"
+
+#: ../../source/images.rst:3554
+#, fuzzy
+msgid "Batch extend due dates preview results page"
+msgstr "批次延長到期日"
+
+#: ../../source/tools.rst:6
+msgid "Tools"
+msgstr "工具"
+
+#: ../../source/tools.rst:8
+msgid "Tools in Koha all perform some sort of action. Often many of the items listed under Tools in Koha are referred to as 'Reports' in other library management systems."
+msgstr "Koha 的工具都是執行特定工作之用。其他的圖書館管理系統常把這些工具當作 '報表'。"
+
+#: ../../source/tools.rst:12
+msgid "*Get there:* More > Tools"
+msgstr "*到那裡：* 更多 > 工具"
+
+#: ../../source/tools.rst:17
+msgid "Patrons and circulation"
+msgstr "讀者和流通"
+
+#: ../../source/tools.rst:22
+msgid "Patron lists"
+msgstr "讀者清單"
+
+#: ../../source/tools.rst:24
+msgid "*Get there:* More > Tools > Patrons and circulation > Patron lists"
+msgstr "*到那裡：* 更多 > 工具 > 讀者與流通 > 讀者清單"
+
+#: ../../source/tools.rst:26
+msgid "Patron lists are a way to store a group of patrons for easy modification via the :ref:`batch patron modification tool <batch-patron-modification-label>` or reporting."
+msgstr "讀者清單是儲存讀者群組的地方，可以經由 :ref:`批次修改讀者工具 <batch-patron-modification-label>` 或報表修改讀者。"
+
+#: ../../source/tools.rst:30
+#, fuzzy
+msgid "|patronlists|"
+msgstr "讀者清單"
+
+#: ../../source/tools.rst:32
+msgid "To create a new list of patrons click the 'New patron list' button"
+msgstr "點選 '新增讀者清單' 鈕，就能新增讀者清單"
+
+#: ../../source/tools.rst:34
+#, fuzzy
+msgid "|newpatronlist|"
+msgstr "讀者清單"
+
+#: ../../source/tools.rst:36
+msgid "Enter a list name."
+msgstr "輸入虛擬書架名稱。"
+
+#: ../../source/tools.rst:38
+msgid "Checking the 'Shared' box will make this list visible to all users with the :ref:`manage_patron_lists permission <patron-permissions-defined-label>`."
+msgstr "勾選 '共享' 盒後，此選單可以被使用 :ref:`manage_patron_lists permission <patron-permissions-defined-label>` 的讀者看到。"
+
+#: ../../source/tools.rst:41
+msgid "Save the list."
+msgstr "儲存虛擬書架。"
+
+#: ../../source/tools.rst:43
+#, fuzzy
+msgid "|addtopatronlist|"
+msgstr "讀者清單"
+
+#: ../../source/tools.rst:45
+msgid "Each list has an 'Actions' menu with more list options."
+msgstr "每個清單都有 '作用' 鈕以開啟更多選項。"
+
+#: ../../source/tools.rst:47
+#, fuzzy
+msgid "|patronlistmenu|"
+msgstr "讀者清單"
+
+#: ../../source/tools.rst:49
+msgid "To add patrons to the list click the 'Add patrons' link in the 'Actions' menu."
+msgstr "按 '作用' 選單裡的 '新增讀者' 鈕，就能新增讀者入選單。"
+
+#: ../../source/tools.rst:52
+msgid "|image248|"
+msgstr ""
+
+#: ../../source/tools.rst:54
+msgid "Enter the patron's name or cardnumber in the search box and click on the right result to add the patron."
+msgstr "請在搜尋框輸入讀者名字或讀者證號並在右側空白處點擊以加入讀者資訊。"
+
+#: ../../source/tools.rst:57
+msgid "Alternatively, you can click on the 'Enter multiple card numbers' link and scan (or type in) barcodes in the box."
+msgstr "此外，也可以按 '鍵入多個讀者證號碼' 連結，並把條碼掃瞄 (或鍵入) 盒內。"
+
+#: ../../source/tools.rst:60
+msgid "|patronstoadd|"
+msgstr ""
+
+#: ../../source/tools.rst:62
+msgid "Once you have all of the patrons you would like to add you can click the 'Add patrons' button to save them to the list."
+msgstr "所有的讀者都選定後，按 '新增讀者' 鈕把他們加入清單。"
+
+#: ../../source/tools.rst:65
+#, fuzzy
+msgid "|patronlist|"
+msgstr "讀者清單"
+
+#: ../../source/tools.rst:67 ../../source/tools.rst:291
+#: ../../source/tools.rst:309 ../../source/tools.rst:371
+#: ../../source/tools.rst:416 ../../source/tools.rst:458
+#: ../../source/tools.rst:490 ../../source/tools.rst:494
+#: ../../source/tools.rst:1547 ../../source/tools.rst:1576
+#: ../../source/tools.rst:1584 ../../source/tools.rst:1596
+#: ../../source/tools.rst:1676 ../../source/tools.rst:1703
+#: ../../source/tools.rst:1754 ../../source/tools.rst:1768
+#: ../../source/tools.rst:1854 ../../source/tools.rst:1896
+#: ../../source/tools.rst:2308 ../../source/tools.rst:2316
+#: ../../source/tools.rst:2442 ../../source/tools.rst:2475
+msgid "**Note**"
+msgstr "**說明**"
+
+#: ../../source/tools.rst:69
+msgid "You can customize the columns of this table in the :ref:`'Table settings'<column-settings-label>` section of the Administration module (table id: patron-list-table)."
+msgstr "您可以在管理模組的 :ref:`'欄組態'<column-settings-label>` 部分, 自訂義此表的列(table id: patron-list-table)。"
+
+#: ../../source/tools.rst:76
+msgid "Patron clubs"
+msgstr "讀者讀書會"
+
+#: ../../source/tools.rst:78
+msgid "*Get there:* More > Tools > Patrons and circulation > Patron clubs"
+msgstr "*到那裡：* 更多 &gt; 工具 &gt; 讀者與流通 &gt; 讀者讀書會"
+
+#: ../../source/tools.rst:80
+msgid "Patron clubs create clubs in which patrons may be enrolled. It is useful for tracking summer reading programs, book clubs and other such clubs."
+msgstr "讀者讀書會新增供讀者加入的讀書會。可做為追蹤讀書會、圖書俱樂部及其他俱樂部活動。"
+
+#: ../../source/tools.rst:83 ../../source/tools.rst:264
+#: ../../source/tools.rst:271 ../../source/tools.rst:279
+#: ../../source/tools.rst:285 ../../source/tools.rst:404
+#: ../../source/tools.rst:463 ../../source/tools.rst:484
+#: ../../source/tools.rst:535 ../../source/tools.rst:1469
+#: ../../source/tools.rst:1475 ../../source/tools.rst:1491
+#: ../../source/tools.rst:1620 ../../source/tools.rst:1697
+#: ../../source/tools.rst:1892 ../../source/tools.rst:1932
+#: ../../source/tools.rst:1939 ../../source/tools.rst:1944
+#: ../../source/tools.rst:2004 ../../source/tools.rst:2145
+#: ../../source/tools.rst:2167 ../../source/tools.rst:2223
+msgid "**Important**"
+msgstr "**重要**"
+
+#: ../../source/tools.rst:85
+#, fuzzy
+msgid "Staff will need the :ref:`clubs permissions <patron-permissions-defined-label>` to edit clubs, templates and enroll patrons. To learn how to set patron permissions, go to the :ref:`patron permissions section <setting-patron-permissions-label>` of this manual."
+msgstr "須設定 :ref:`讀書會權限 <granular-clubs-permissions-label>`，館員才能為編輯讀書會、模板與註冊讀者。設定讀者權限的方法，參見手冊的 :ref:`讀者權限篇 <setting-patron-permissions-label>`。"
+
+#: ../../source/tools.rst:91
+msgid "Creating a new club template"
+msgstr "新增讀書會模板"
+
+#: ../../source/tools.rst:93
+msgid "Click on the 'New club template' button. Here you can add fields that can be filled out at the time a new club is created based on the template, or a new enrollment is created for a given club based on the template."
+msgstr "按 '新增讀書會模板' 鈕。新增的欄位可於新增模板時填入資料，或新增讀書會時加入為會員。"
+
+#: ../../source/tools.rst:97
+msgid "|image1364|"
+msgstr ""
+
+#: ../../source/tools.rst:99
+msgid "The name is required. This could be something like 'Adult book club', 'Children’s book club' or 'Summer reading program'. Remember these templates will be starting point for each club you create."
+msgstr "名稱為必備。例如，'成人讀書俱樂部'、'兒讀讀書俱樂部' 或 '夏季閱讀計晝'。新增俱樂部時將開啟這些模板。"
+
+#: ../../source/tools.rst:103 ../../source/tools.rst:149
+msgid "The description can be any additional information."
+msgstr "可加入其他資訊。"
+
+#: ../../source/tools.rst:105
+msgid "Allow public enrollment: if this box is checked it will allow patrons to enroll in a club based on this template from the OPAC."
+msgstr "允許公開註冊：勾選之後所有讀者都可經由 OPAC 的模板加入俱樂部。"
+
+#: ../../source/tools.rst:108
+msgid "Require valid email address: if this box is checked only patrons with a valid email address can enroll. So they will need a email address to enroll."
+msgstr "有效的電子郵件信箱為必備：勾選之後必須留下有效電子郵件信箱的讀者才能註冊。因此必須先行註冊電子信箱。"
+
+#: ../../source/tools.rst:112
+msgid "The library drop down gives you the flexibility to let staff from specific branches create clubs with this template. If you let it set to blank, staff from any branch will be able to create a new club using this template."
+msgstr "從下拉式圖書館裡選取分館的讀者註冊。若空白，則所有的分館讀者均可註冊。"
+
+#: ../../source/tools.rst:116
+msgid "Club fields: these fields will be used when creating a club based on this template. For example, this can be the name of the club, the name of the animator, the theme, etc."
+msgstr "讀書會欄位：依此模板新增讀書會時，可以使用該等欄位。例如，可以是讀書會的名稱、發起人姓名、主題等。"
+
+#: ../../source/tools.rst:119
+msgid "|image1365|"
+msgstr ""
+
+#: ../../source/tools.rst:121 ../../source/tools.rst:132
+msgid "'Name' is the label of the field"
+msgstr "'名稱' 是欄位的標籤"
+
+#: ../../source/tools.rst:123 ../../source/tools.rst:134
+msgid "'Description' is additional information about this field."
+msgstr "'說明' 是此欄位的其他資訊。"
+
+#: ../../source/tools.rst:125 ../../source/tools.rst:136
+msgid "You can connect authorized values here."
+msgstr "可把容許值連結至此。"
+
+#: ../../source/tools.rst:127
+msgid "Enrollment fields: you can add any additional fields you want to have filled out by your patrons when they enroll in a club base on this template."
+msgstr "註冊欄位：在此模版註冊讀書會時，您可新增供讀者填寫的欄位。"
+
+#: ../../source/tools.rst:130
+msgid "|image1366|"
+msgstr ""
+
+#: ../../source/tools.rst:139
+msgid "Creating a new club based on a template"
+msgstr "依此模版新增讀書會"
+
+#: ../../source/tools.rst:141
+msgid "Click on the 'New club' dropdown menu and select the template you want to use. Here you can add information about a new club using a template you created."
+msgstr "勾選 '新增讀書會' 下拉選單並選定使用的模板。以該模板填入新讀書會的資料。"
+
+#: ../../source/tools.rst:144
+msgid "|image1367|"
+msgstr ""
+
+#: ../../source/tools.rst:146
+msgid "The name is required, this will be the name of the specific club using the template you created. For example, 'Summer 2018 reading club'."
+msgstr "名稱為必備，使用模板將此名稱列為讀書會的名稱。例如，'夏季兒童讀書會'。"
+
+#: ../../source/tools.rst:151
+msgid "Start and End date will depict when this club runs, the entire duration of the club. Once the club expires, enrollment will not be possible."
+msgstr "讀書會應有開始與束的時間。到期後，不能再註冊該讀書會。"
+
+#: ../../source/tools.rst:154
+msgid "The library drop down gives you the flexibility to enroll patrons from specific branches. If you let it set to blank, patrons from any branch will be able to enroll."
+msgstr "從下拉式圖書館裡選取分館的讀者註冊。若空白，則所有的分館讀者均可註冊。"
+
+#: ../../source/tools.rst:158
+#, fuzzy
+msgid "Enrolling a patron in a club from the staff interface"
+msgstr "從館員介面註冊讀書會的讀者"
+
+#: ../../source/tools.rst:160
+msgid "To enroll a patron in a club from the staff client, go to the patron's account."
+msgstr "以館員的帳號，從館員介面註冊讀書會的讀者。"
+
+#: ../../source/tools.rst:162
+msgid "On the 'Details' page or the 'Check out' page, click on the 'Clubs' tab. All ongoing clubs will be displayed in this tab."
+msgstr "在 '詳情' 頁面或 '借出' 頁面，點選 '讀書會' 分頁。當前的讀書會將顯現在此分頁。"
+
+#: ../../source/tools.rst:165
+msgid "|image1368|"
+msgstr ""
+
+#: ../../source/tools.rst:167
+msgid "Click on the 'Enroll' button and fill in the fields."
+msgstr "按下 '註冊' 鈕並在欄位內填入資料。"
+
+#: ../../source/tools.rst:169
+msgid "You can also cancel enrollment by clicking on the cancel enrollment."
+msgstr "按取消註冊鈕就能取消註冊。"
+
+#: ../../source/tools.rst:172
+msgid "Enrolling a patron in a club from the OPAC"
+msgstr "從 OPAC 註冊至讀書會"
+
+#: ../../source/tools.rst:174
+msgid "If you allow public enrollment, the club will be visible on the OPAC."
+msgstr "若同意公開註冊，讀書會將顯示在 OPAC。"
+
+#: ../../source/tools.rst:176
+msgid "Patrons have to sign into their account. In the 'Your summary' section, they will be able to click on the 'Clubs' tab and enroll."
+msgstr "讀者必須登入其帳號。在 '您的摘要' 區塊，點選 '讀書會Clubs' 分頁並註冊。"
+
+#: ../../source/tools.rst:179
+msgid "|image1369|"
+msgstr ""
+
+#: ../../source/tools.rst:182
+msgid "Viewing enrollments"
+msgstr "檢視註冊"
+
+#: ../../source/tools.rst:184
+msgid "You can monitor the enrollments in each club by going to the 'Patron clubs' tool page and choosing 'Enrollment' from the 'Actions' button."
+msgstr "進入 '讀者讀書會' 工具頁並從 '行動' 鈕選擇註冊。"
+
+#: ../../source/tools.rst:187
+msgid "|image1370|"
+msgstr ""
+
+#: ../../source/tools.rst:190
+msgid "Placing a hold for a patron club"
+msgstr "為讀者群組預留"
+
+#: ../../source/tools.rst:192
+msgid "You can place holds for a patron club - holds are placed for club members in a random order."
+msgstr "您可以為讀者群組預留 - 以隨機順序為群組成員預留."
+
+#: ../../source/tools.rst:194
+msgid "To place a hold for a patron club:"
+msgstr "預留給讀者群組:"
+
+#: ../../source/tools.rst:196
+msgid "Go to the patron clubs tool ('Home > Tools > Patron clubs')."
+msgstr "前往讀者讀書會工具 ('首頁 > 工具 > 讀者讀書會')."
+
+#: ../../source/tools.rst:197
+msgid "Click the 'Actions' button for the club and select 'Search to hold'."
+msgstr "點擊群組的'動作'按鈕以及選擇'搜尋館藏'."
+
+#: ../../source/tools.rst:198
+msgid "Search for a title and select a record."
+msgstr "搜尋題名以及選擇記錄."
+
+#: ../../source/tools.rst:199
+msgid "Select 'Place hold for [CLUBNAME]' from either the action links for the record, or from the 'Place hold' action in the menu bar."
+msgstr "從紀錄的操作連結選擇'預留[群組名稱]', 或是從功能表列裡'預留'動作."
+
+#: ../../source/tools.rst:200
+msgid "The place holds page is displayed and lists the club members."
+msgstr "預留頁面顯示和列出群組成員."
+
+#: ../../source/tools.rst:201
+msgid "Click the 'Place hold' button."
+msgstr "點擊'預留'按鈕."
+
+#: ../../source/tools.rst:203
+msgid "Result: Holds are placed for all club members."
+msgstr "結果: 預留給所有的群組成員."
+
+#: ../../source/tools.rst:208
+msgid "Comments"
+msgstr "評論"
+
+#: ../../source/tools.rst:210
+msgid "*Get there:* More > Tools > Patrons and circulation > Comments"
+msgstr "*到那裡：* 更多 &gt; 工具 &gt; 讀者與流通 &gt; 評論"
+
+#: ../../source/tools.rst:212
+msgid "All comments added by patrons via the OPAC to bibliographic records require moderation by the librarians. If there are comments awaiting moderation they will be listed on the main page of the staff client below the module list:"
+msgstr "讀者經由 OPAC 新增的評論都需經館員審核。待審核的評論出現在館員首頁的工具分頁之下："
+
+#: ../../source/tools.rst:217
+msgid "|commentswaiting|"
+msgstr ""
+
+#: ../../source/tools.rst:219
+msgid "and next to the Comments tool on the Tools page"
+msgstr "然後在工具頁面的評論工具旁"
+
+#: ../../source/tools.rst:221
+msgid "|commentswaitingtools|"
+msgstr ""
+
+#: ../../source/tools.rst:223
+msgid "To moderate comments click on the notification on the main dashboard or go directly to the Comments tool and click 'Approve' or 'Delete' to the right of the comments awaiting moderation."
+msgstr "勾選主頁的通知或進入評論工具點選評論右方的 '通過' 或 '拒絕' 就能評審讀者送來的評論。"
+
+#: ../../source/tools.rst:227
+#, fuzzy
+msgid "|commentmoderation|"
+msgstr "管理標籤"
+
+#: ../../source/tools.rst:229
+msgid "If there are no comments to moderate you will see a message saying just that"
+msgstr "若無評論待審核，您可看到無可審核的訊息"
+
+#: ../../source/tools.rst:232
+#, fuzzy
+msgid "|nocomments|"
+msgstr "評論"
+
+#: ../../source/tools.rst:234
+msgid "You can also review and unapprove comments you have approved in the past by choosing the 'Approved comments' tab"
+msgstr "選擇 '通過審評' 分頁，就能檢視或拒絕曾經通過的評論"
+
+#: ../../source/tools.rst:237
+msgid "|commentapproved|"
+msgstr ""
+
+#: ../../source/tools.rst:242
+msgid "Patron import"
+msgstr "匯入讀者"
+
+#: ../../source/tools.rst:244
+msgid "*Get there:* More > Tools > Patrons and circulation > Import patrons"
+msgstr "*到那裡：* 更多 &gt; 工具 &gt; 讀者與流通 &gt; 匯入讀者"
+
+#: ../../source/tools.rst:246
+msgid "The patron import tool can be used at any time to add patrons in bulk. It is commonly used in universities and schools when a new batch of students registers."
+msgstr "任何時間都可以使用讀者匯入工具批次新增讀者。通常用於各級學校新生入學時。"
+
+#: ../../source/tools.rst:253
+msgid "Creating a patron import file"
+msgstr "新增讀者匯入檔"
+
+#: ../../source/tools.rst:255
+msgid "You can download a blank CSV file with a header from the start page of the patron import tool that you can use as a template for your patron import. The header contains all fields that can be used with the patron import tool. You can delete fields and columns you don't need with the exception of a few mandatory ones. When overlaying, if your new .csv includes blank columns, any existing values in patron records will be overwritten with blanks. It is best to remove any blank columns in a .csv to ensure no existing data is removed."
+msgstr "您可從讀者匯入工具的啟始頁使用匯入的模板，下載含標頭的空白 CSV 檔案。標頭包括讀者匯入工具的所有欄位。您可以刪除不需要的欄位和列，少數必填欄位和列除外。 覆蓋時，如果您的新 .csv 包含空白列，則讀者記錄中的任何現有值都將被空白覆蓋。 最好刪除 .csv 中的所有空白列，以確保沒有刪除現有數據。"
+
+#: ../../source/tools.rst:266
+#, fuzzy
+msgid "cardnumber, surname, and all fields you have defined in the :ref:`BorrowerMandatoryField <borrowermandatoryfield-label>` preference are required and must match valid entries in your database."
+msgstr "cardnumber、surname 及定"
+
+#: ../../source/tools.rst:273
+msgid "The 'password' should be stored in plaintext, and will be converted to a Bcrypt hash."
+msgstr "此 'password' 欄的值必須是純文字，將以 MD5 雜湊演算法編碼。"
+
+#: ../../source/tools.rst:276
+msgid "If your passwords are already encrypted, talk to your systems administrator about options"
+msgstr "若密碼已經編碼，請洽系統管理員，詢求其他選項"
+
+#: ../../source/tools.rst:281
+#, fuzzy
+msgid "Date formats should match your :ref:`dateformat system preference <dateformat-label>`, and must be zero-padded, e.g. '01/02/2008'. Alternatively you can supply dates in ISO format (e.g. '2008-12-01')."
+msgstr "日期格式必須符合 :ref:`系統偏好 <dateformat-label>` 的設定，且必須補零，如：'01/02/2008'。也可以使用 ISO 格式 (如，'2008-12-01')。"
+
+#: ../../source/tools.rst:287
+msgid "If your data contains special characters or diacritics, make sure your file is encoded in UTF-8. Otherwise, the special characters will not be imported correctly."
+msgstr "含有特殊字元或語音符號，請使用 UTF-8 編碼。否則，該等字元或符號不會被正確地匯入。"
+
+#: ../../source/tools.rst:293
+msgid "If loading :ref:`patron attributes <patron-attribute-types-label>`, the 'patron\\_attributes' field should contain a comma-separated list of attribute types and values."
+msgstr "若載入 :ref:`讀者屬性 <patron-attribute-types-label>`，'patron\\_attributes' 欄位應包括以逗點區隔的屬性類型及其值。"
+
+#: ../../source/tools.rst:297
+msgid "The attribute type code and a colon should precede each value."
+msgstr "每個值之前應有屬性類型與冒號。"
+
+#: ../../source/tools.rst:299
+msgid "For example: \"INSTID:12345,BASEBALL:Cubs\""
+msgstr "例如：\"INSTID:12345,BASEBALL:Cubs\""
+
+#: ../../source/tools.rst:301
+msgid "This field must be wrapped in quotes if multiple values are defined."
+msgstr "若設定多個值則此欄位必須折收起來。"
+
+#: ../../source/tools.rst:304
+msgid "Since values can contain spaces, additional doubled-quotes may be required:"
+msgstr "因為可能包括空格，所以必須置於雙括號內："
+
+#: ../../source/tools.rst:307
+msgid "\"INSTID:12345,BASEBALL:Cubs,\"\"BASEBALL:White Sox\"\""
+msgstr "\"INSTID:12345,BASEBALL:Cubs,\"\"BASEBALL:White Sox\"\""
+
+#: ../../source/tools.rst:311
+msgid "It's possible to set restrictions using the patron import tool. If the expiration date and comment match an existing restriction, the one in the import file will be skipped. So a patron import can be repeated multiple times without creating duplicate restrictions. But if one of the criteria is different, a new restriction will be added."
+msgstr "可以對讀者匯入工具設限。若到期日與評論符合既有的限制，在匯入檔案內符合該限制的讀者將被排除在外。所以，一個讀者可以重複匯入，但祗收錄一位。祗要新增限制，就能阻止其他的重複。"
+
+#: ../../source/tools.rst:320
+msgid "Importing patrons"
+msgstr "匯入讀者"
+
+#: ../../source/tools.rst:322
+msgid "Once you have created your file, you can use the patron import tool to bring the data into Koha."
+msgstr "新增檔案後，可以使用匯入讀者工具把資料加入Koha。"
+
+#: ../../source/tools.rst:325
+msgid "Choose your CSV file"
+msgstr "選定 CSV 檔案"
+
+#: ../../source/tools.rst:327
+msgid "|image255|"
+msgstr ""
+
+#: ../../source/tools.rst:329
+msgid "Choose to match on 'cardnumber' or 'username' to prevent adding of duplicate card numbers to the system. Additional matchpoints can be set up using patron attributes marked as unique."
+msgstr "指定對映 'cardnumber' 或 'username' 以避免新增重複的讀者號。使用其他的讀者屬性可以增加對映點。"
+
+#: ../../source/tools.rst:333
+msgid "|image256|"
+msgstr ""
+
+#: ../../source/tools.rst:335
+msgid "Next you can choose default values to apply to all patrons you are importing"
+msgstr "接著選擇適用於匯入讀者的預設值"
+
+#: ../../source/tools.rst:338
+msgid "For example, if you're importing patrons specific to one branch you can use the field on the import form to apply the branch code to all those you are importing."
+msgstr "如：匯入指定分館的讀者時，可在匯入表單將分館代碼欄位給那些匯入的讀者。"
+
+#: ../../source/tools.rst:342
+msgid "Finally, you need to decide on what data you want to replace if there are duplicates."
+msgstr "最後，若有重複時，需決定以何種資料取代它。"
+
+#: ../../source/tools.rst:345
+msgid "A matching record is found using the field you chose for matching criteria to prevent duplication"
+msgstr "匹配紀錄是以欄位找到的，避免出現重複紀錄"
+
+#: ../../source/tools.rst:348
+msgid "|image257|"
+msgstr ""
+
+#: ../../source/tools.rst:350
+msgid "When using patron attributes in your installation, you can choose how they are handled on import. You can either decide to always overlay all patron attributes or you choose to only replace patron attributes included in your import file. This will leave other attributes untouched."
+msgstr "安裝時已用到的讀者屬性，就能夠在匯入時選用它。可以覆寫所有讀者屬性或取代匯入檔內的讀者屬性。讓其他屬性保持原樣不變。"
+
+#: ../../source/tools.rst:356
+msgid "|image1355|"
+msgstr ""
+
+#: ../../source/tools.rst:361
+msgid "Notices & slips"
+msgstr "通知 & 收條"
+
+#: ../../source/tools.rst:363
+msgid "*Get there:* More > Tools > Patrons and circulation > Notices & slips"
+msgstr "*到那裡：* 更多 &gt; 工具 &gt; 讀者與流通 &gt; 通知 &amp; 收條"
+
+#: ../../source/tools.rst:365
+msgid "All notices and circulation receipts (or slips) generated by Koha can be customized using the Notices & slips tool. The system comes with several predefined templates that will appear when you first visit this tool."
+msgstr "Koha 產生的通知與流通收據 (或收條) 都可以用通知&amp;收條工具客製它。系統本身有若干預設的模版在工具頁面裡。"
+
+#: ../../source/tools.rst:369
+msgid "|image258|"
+msgstr ""
+
+#: ../../source/tools.rst:373
+msgid "You can customize the columns of this table in the :ref:`'Table settings'<column-settings-label>` section of the Administration module (table id: lettert)."
+msgstr "您可以在管理模組的 :ref:`'欄組態'<column-settings-label>` 部份, 自定義此表的列 (table id: lettert)."
+
+#: ../../source/tools.rst:377
+msgid "Each notice can be edited, but only a few can be deleted, this is to prevent system errors should a message try to send without a template. Each notice and slip can be edited on a per library basis, by default you will see the notices for all libraries."
+msgstr "每個通知都可編輯，為了避免系統錯誤，祗有少數才能被刪除。每個通知與收條都可以編輯供各圖書館使用，預設是給所有圖書館使用。"
+
+#: ../../source/tools.rst:382
+#, fuzzy
+msgid "If you have a style you'd like applied to all slips you can point the :ref:`SlipCSS <slipcss-label>` preference to a stylesheet. The same is true for notices, using the :ref:`NoticeCSS <noticecss-label>` preference to define a stylesheet."
+msgstr "可把固定的樣式適用於所有的收條，您可設定 :ref:`SlipCSS` 偏好為該樣式。同樣的情形也適用於通知，可設定 :ref:`NoticeCSS` 偏好為指定的樣式表。"
+
+#: ../../source/tools.rst:387
+msgid "You will also want to review the `Customising notices and slips <https://wiki.koha-community.org/wiki/Customising_Notices_and_Slips>`_ wiki page for more information on formatting these notices."
+msgstr "格式化此通知也需檢視 `客製化通知與收條 <https://wiki.koha-community.org/wiki/Customising_Notices_and_Slips>`_ 共筆頁面。"
+
+#: ../../source/tools.rst:394
+msgid "Adding notices and slips"
+msgstr "新增通知與收條"
+
+#: ../../source/tools.rst:396
+msgid "To add a new notice or slip"
+msgstr "新增通知或收條"
+
+#: ../../source/tools.rst:398
+msgid "Click 'New notice'"
+msgstr "勾選 '新增通知'"
+
+#: ../../source/tools.rst:400
+msgid "|image259|"
+msgstr ""
+
+#: ../../source/tools.rst:402
+msgid "Choose which library this notice or slip is for"
+msgstr "選擇此通知或收條適用的圖書館"
+
+#: ../../source/tools.rst:406
+msgid "Not all notices can be branch specific for more information review the `Customising notices and slips <https://wiki.koha-community.org/wiki/Customising_Notices_and_Slips>`_ wiki page."
+msgstr "並非所有通知都可以依館別區分，詳情見 `客製化通知與收條 <https://wiki.koha-community.org/wiki/Customising_Notices_and_Slips>`_ 共筆頁頁。"
+
+#: ../../source/tools.rst:410
+msgid "Choose the module this notice is related to"
+msgstr "選擇此通知相關的模組"
+
+#: ../../source/tools.rst:412
+msgid "The Code is limited to 20 characters"
+msgstr "代碼限制20字元內"
+
+#: ../../source/tools.rst:414
+msgid "Use the name field to expand on your Code"
+msgstr "以同樣的欄位擴允您的代碼"
+
+#: ../../source/tools.rst:418
+msgid "With overdue notices, be sure to put your branch name in the description as well so that it will be visible when setting up your :ref:`triggers <overdue-notice/status-triggers-label>`."
+msgstr "使用逾期通知時，確認分館名稱出現其中以及設定 :ref:`triggers <overdue-notice/status-triggers-label>` 之內。"
+
+#: ../../source/tools.rst:422
+msgid "Next you can customize the notice for every possible delivery method"
+msgstr "接著您可客製化各種可能發送方式的通知"
+
+#: ../../source/tools.rst:424
+msgid "Every notice should have an Email template set for it"
+msgstr "每種通知都應有專屬的電子郵件模板"
+
+#: ../../source/tools.rst:426
+msgid "|image1220|"
+msgstr ""
+
+#: ../../source/tools.rst:428
+#, fuzzy
+msgid "If you're using the :ref:`TalkingTechItivaPhoneNotification <talkingtechitivaphonenotification-label>` service you can set up a Phone notification"
+msgstr "若使用 :ref:`TalkingTechItivaPhoneNotification` 服務就能設定電話通知"
+
+#: ../../source/tools.rst:432
+msgid "|image1221|"
+msgstr ""
+
+#: ../../source/tools.rst:434
+msgid "If you plan on printing this notice you can set the Print template next"
+msgstr "列印此通知時，可以設定列印模板"
+
+#: ../../source/tools.rst:437
+msgid "|image1222|"
+msgstr ""
+
+#: ../../source/tools.rst:439
+#, fuzzy
+msgid "If you have enabled SMS notices with the :ref:`SMSSendDriver <smssenddriver-label>` preference you can set the text for your SMS notices next"
+msgstr "若從 :ref:`SMSSendDriver` 偏好啟用簡訊通知就能送出簡訊通知"
+
+#: ../../source/tools.rst:443
+msgid "|image1223|"
+msgstr ""
+
+#: ../../source/tools.rst:445
+msgid "Each notice offers you the same options"
+msgstr "每個通知都有相同的選項"
+
+#: ../../source/tools.rst:447
+msgid "If you plan on writing the notice or slip in HTML check the 'HTML message' box, otherwise the content will be generated as plain text"
+msgstr "若計畫以 HTML 格式撰寫通知或收條，勾選 'HTML訊息' 盒，否則其內容將視為純文字"
+
+#: ../../source/tools.rst:451
+msgid "Message subject is what will appear in the subject line of the email"
+msgstr "合併主題將顯示在電子郵件主題列"
+
+#: ../../source/tools.rst:454
+msgid "In the message body feel free to type whatever message you feel is best, use the fields on the left hand side to enter individualized data from the from database."
+msgstr "可在訊息本體使用任何文字，使用左手邊的欄位鍵入來自資料庫的個人化資料。"
+
+#: ../../source/tools.rst:460
+msgid "Review the `Customising notices and slips <https://wiki.koha-community.org/wiki/Customising_Notices_and_Slips>`_ wiki page for more information."
+msgstr "詳情見 `客製化通知與收條 <https://wiki.koha-community.org/wiki/Customising_Notices_and_Slips>`_ 共筆頁面。"
+
+#: ../../source/tools.rst:465
+msgid "Overdue notices can use <<items.content>> tags by themselves, or use <item></item> to span all of the tags. Learn more about the :ref:`Overdue notice markup <overdue-notice-markup-label>`"
+msgstr "逾期通知本身可使用 <<items.content>> 標籤，或使用 <item></item> 展開所有的標籤。詳情見 :ref:`標記逾期通知 <overdue-notice-markup-label>`"
+
+#: ../../source/tools.rst:470
+msgid "On overdue notices make sure to use <<items.content>> tags to print out the data related to all items that are overdue."
+msgstr "確認使用 <<items.content>> 於逾期通知裡，列出所有逾期的館藏資料。"
+
+#: ../../source/tools.rst:474
+msgid "The other option, only for overdue notices, is to use the <item></item> tags to span the line so that it will print out multiple lines. One example for the <item></item> tag option is:"
+msgstr "另個祗適用於另個逾期通知的選項是，使用 <item></item> 標籤展開它以印出多列。給 <item></item> 標籤選項的範例是："
+
+#: ../../source/tools.rst:479
+msgid "<item>\"<<biblio.title>>\" by <<biblio.author>>, <<items.itemcallnumber>>, Barcode: <<items.barcode>> , Checkout date: <<issues.issuedate>>, Due date: <<issues.date\\_due>> Fine: <<items.fine>> </item>"
+msgstr "<item>\"<<biblio.title>>\" 著者 <<biblio.author>>, <<items.itemcallnumber>>, 條碼：<<items.barcode>>, 借出日期：<<issues.issuedate>>, 到期日：<<issues.date\\_due>> 罰款：<<items.fine>> </item>"
+
+#: ../../source/tools.rst:486
+msgid "Only the overdue notices take advantage of the <item></item> tags, all other notices referencing items need to use <<items.content>>"
+msgstr "祗有逾期通知才能使用 <item></item> 標籤，其他的通知使用 <<items.content>>"
+
+#: ../../source/tools.rst:492
+msgid "To add today's date you can use the <<today>> syntax"
+msgstr "可使用 <<today>> 語法新增今天的日期"
+
+#: ../../source/tools.rst:496
+msgid "If you don't want to print the patron's full name on your slips or notice you can enter data in the Other name or Initials field for each patron and use that value instead."
+msgstr "可在其他姓名或縮寫欄位鍵入讀者全名就能在收條或通知內顯示其全名。"
+
+#: ../../source/tools.rst:500
+#, fuzzy
+msgid "The system preference :ref:`TranslateNotices <translatenotices-label>` will add tabs for each installed language to the notices editor. The notice defined in the 'Default' tab will be used if there is no preferred language set for a patron."
+msgstr "系統偏好 :ref:`TranslateNotices` 將在通知編輯內新增每個語系的分頁。讀者若沒有設定首選的語系，則使用設定在 '預設' 分頁的通知。"
+
+#: ../../source/tools.rst:505
+msgid "|image1335|"
+msgstr ""
+
+#: ../../source/tools.rst:510
+msgid "Preview notice templates"
+msgstr "檢視通知模板"
+
+#: ../../source/tools.rst:512
+msgid "For some notices it is possible to preview the notice template showing how it would look to a specified patron for a particular item or record."
+msgstr "有的時候，仍需要檢視通知模板，以確認對指定讀者特定館藏或紀錄發送的通知。"
+
+#: ../../source/tools.rst:515
+msgid "If a notice template is previewable the notice template header will contain a field to enter preview data"
+msgstr "檢視通知模板時，可看到模板標題的鍵入資料的欄位"
+
+#: ../../source/tools.rst:518
+msgid "|image1342|"
+msgstr ""
+
+#: ../../source/tools.rst:520
+msgid "Fill in the necessary information for the template then click the Preview button below the message body. The preview dialog will indicate if there are any problems generating the notice template preview."
+msgstr "填入必要的資訊，按下方的檢視鈕。檢視對話將顯示任何問題。"
+
+#: ../../source/tools.rst:527
+msgid "Overdue notice markup"
+msgstr "標記逾期通知"
+
+#: ../../source/tools.rst:529
+msgid "When creating your overdue notices there are two tags in addition to the various database fields that you can use in your notices. You will also want to review the `Customising notices and slips <https://wiki.koha-community.org/wiki/Customising_Notices_and_Slips>`_ wiki page for information on formatting item information in these notices."
+msgstr "新增逾期通知時，在資料庫欄位外還可以加入兩個標籤。詳情見 `客製化通知與收條 <https://wiki.koha-community.org/wiki/Customising_Notices_and_Slips>`_ 共筆頁面。"
+
+#: ../../source/tools.rst:537
+msgid "These new tags only work on the overdue notices, not other circulation related notices at this time."
+msgstr "這些新標籤祗適用於逾期通知，不能用在其他的流通通知。"
+
+#: ../../source/tools.rst:540
+msgid "These tags are <item> and </item> which should enclose all fields from the biblio, biblioitems, and items tables."
+msgstr "<item> 與 </item> 應包括來自書目與館藏表的所有欄位。"
+
+#: ../../source/tools.rst:543
+msgid "An example of using these tags in a notice template might be like:"
+msgstr "可使用通知模版裡這些欄號裡的範例："
+
+#: ../../source/tools.rst:551
+msgid "Which, assuming two items were overdue, would result in a notice like:"
+msgstr "假設兩筆館藏逾期，通知內容會是這樣："
+
+#: ../../source/tools.rst:563
+msgid "Existing notices and slips"
+msgstr "既有說明與收條"
+
+#: ../../source/tools.rst:565
+#, fuzzy
+msgid "Among the default notices are notices for several common actions within Koha. All of these notices can be customized by altering their text via the Notices and slips tool and their style using the :ref:`NoticeCSS <noticecss-label>` system preference to define a stylesheet."
+msgstr "一組事先設定好的收條 (或收據) 列在此頁。經由通知 &amp; 收條工具可以客製化這些收條的內容並經由設定 :ref:`SlipCSS` 偏好設定新的樣式。這些收條的功能是："
+
+#: ../../source/tools.rst:572
+#, fuzzy
+msgid "Review the `Customising notices and slips <https://wiki.koha-community.org/wiki/Customising_Notices_and_Slips>`_ wiki page for information on formatting item information in these notices."
+msgstr "格式化此通知也需檢視 `客製化通知與收條 <https://wiki.koha-community.org/wiki/Customising_Notices_and_Slips>`_ 共筆頁面。"
+
+#: ../../source/tools.rst:577
+msgid "Here are some of what those notices do:"
+msgstr ""
+
+#: ../../source/tools.rst:579
+msgid "2FA\\_DISABLE"
+msgstr ""
+
+#: ../../source/tools.rst:581
+#, fuzzy
+msgid "This notice is sent to a staff user when they disable the :ref:`two-factor authentication <two-factor-authentication-staff-label>` on their account."
+msgstr "當館員在採訪模組中 :ref:`被指派為建議的管理員<managing-purchase-suggestions-label>` 這則通知將會發送給他們。"
+
+#: ../../source/tools.rst:585
+msgid "2FA\\_ENABLE"
+msgstr ""
+
+#: ../../source/tools.rst:587
+#, fuzzy
+msgid "This notice is sent to a staff user when they enable the :ref:`two-factor authentication <two-factor-authentication-staff-label>` on their account."
+msgstr "當館員在採訪模組中 :ref:`被指派為建議的管理員<managing-purchase-suggestions-label>` 這則通知將會發送給他們。"
+
+#: ../../source/tools.rst:591
+msgid "2FA\\_OTP\\_TOKEN"
+msgstr ""
+
+#: ../../source/tools.rst:593
+msgid "This notice is used to send a time-based one-time password to a staff user for them to use to log into the staff interface if they have enabled the :ref:`two-factor authentication <two-factor-authentication-staff-label>` on their account."
+msgstr ""
+
+#: ../../source/tools.rst:598
+msgid "ACCEPTED"
+msgstr "已接受"
+
+#: ../../source/tools.rst:600
+#, fuzzy
+msgid "This notice is sent to the patron when their :ref:`purchase suggestion is accepted <approve-reject-suggestions-label>`."
+msgstr "從採訪建議來的訂單已成立後，此通知送給提出建議的讀者。"
+
+#: ../../source/tools.rst:605 ../../source/tools.rst:723
+#, fuzzy
+msgid "If you don't want to send this notice, simply delete it."
+msgstr "說明：若不想要此通知，刪除即可。"
+
+#: ../../source/tools.rst:607
+msgid "ACCOUNT\\_PAYMENT"
+msgstr "ACCOUNT\\_PAYMENT"
+
+#: ../../source/tools.rst:609
+#, fuzzy
+msgid "This notice is sent for each :ref:`payment transaction <pay-and-writeoff-fines-label>` in a patron's account if the :ref:`UseEmailReceipts <useemailreceipts-label>` system preference is set to 'Send'."
+msgstr "若 :ref:`UseEmailReceipts` 系統偏好設為 '送出'，則將此通知送至付費讀者的帳戶。"
+
+#: ../../source/tools.rst:614
+msgid "ACCOUNT\\_WRITEOFF"
+msgstr "ACCOUNT\\_WRITEOFF"
+
+#: ../../source/tools.rst:616
+#, fuzzy
+msgid "This notice is sent for each :ref:`writeoff transaction <pay-and-writeoff-fines-label>` in a patron's account if the :ref:`UseEmailReceipts <useemailreceipts-label>` system preference is set to 'Send'."
+msgstr "若將 :ref:`UseEmailReceipts` 系統偏好設為 '送出'，則把此通知送給豁免的讀者帳戶。"
+
+#: ../../source/tools.rst:621
+msgid "ACQCLAIM (Acquisition claim)"
+msgstr "ACQCLAIM (採訪催缺)"
+
+#: ../../source/tools.rst:623
+msgid "Used for :ref:`claiming orders <claims-and-late-orders-label>` in the :ref:`aquisitions module <acquisitions-label>`."
+msgstr ""
+
+#: ../../source/tools.rst:626
+#, fuzzy
+msgid "ACQCLAIM is the code of the sample notice, but it's possible to define several notices choosing any code. Only the module 'Claim acquisition' will be taken into account. All notices with this module will appear in the pull down on the :ref:`late orders page <claims-and-late-orders-label>`."
+msgstr "ACQCLAIM 是範例通知的代碼，但可以選擇任何代碼來定義多個通知。 僅考慮'要求採訪' 模組。 此模組的所有通知都將顯示在後續訂單頁面的下拉選單中。"
+
+#: ../../source/tools.rst:631 ../../source/tools.rst:647
+msgid "This notice is sent if several criteria are met:"
+msgstr "在若干情況下，使用此通知："
+
+#: ../../source/tools.rst:633 ../../source/tools.rst:649
+msgid "The staff patron triggering the email has a valid email address."
+msgstr "館員以有效電子郵件地址發送電子郵件。"
+
+#: ../../source/tools.rst:635
+#, fuzzy
+msgid "The :ref:`vendor contact <vendors-label>` marked as 'Contact about late orders?' has a valid email address."
+msgstr "代理商的連絡資訊標記為 '有關晚到的訂單嗎？' 另有可用的電子郵件地址。"
+
+#: ../../source/tools.rst:638
+msgid "ACQORDER (Acquisition order)"
+msgstr "ACQORDER (採訪訂單)"
+
+#: ../../source/tools.rst:640
+#, fuzzy
+msgid "Used in the :ref:`acquisitions module <acquisitions-label>` to send order information to the vendor"
+msgstr "以採訪模組發送採購資訊給代理商"
+
+#: ../../source/tools.rst:643
+#, fuzzy
+msgid "The notice is triggered manually from the :ref:`basket summary page <edit-basket-label>` using the 'Email order' button in the toolbar."
+msgstr "從借出籃摘要頁面的工具列，使用 '電子郵件訂單'，就能人工啟動通知。"
+
+#: ../../source/tools.rst:651
+#, fuzzy
+msgid "The :ref:`vendor contact <vendors-label>` marked as 'Primary acquisitions contact' and 'Contact when ordering' has a valid email address."
+msgstr "代理商的連絡資訊標記為 '主要採訪連絡資訊' 與 '訂購時請連絡' 有可用的電子郵件地址。"
+
+#: ../../source/tools.rst:654
+#, fuzzy
+msgid "ACQ\\_NOTIF\\_ON\\_RECEIV"
+msgstr "ACQ_NOTIF_ON_REVEIV"
+
+#: ../../source/tools.rst:656
+#, fuzzy
+msgid "Used in the acquisition module to :ref:`inform patrons on receiving orders <order-patron-notifications-label>` they have been added to."
+msgstr "於採訪模組通知讀者已收到訂單。"
+
+#: ../../source/tools.rst:660
+msgid "AR\\_CANCELED"
+msgstr "AR\\_CANCELLED"
+
+#: ../../source/tools.rst:662
+#, fuzzy
+msgid "This notice is sent to the patron when an :ref:`article request <managing-article-requests-label>` is cancelled by staff."
+msgstr "論文請求被館員取消後，發送此通知給讀者。"
+
+#: ../../source/tools.rst:666
+msgid "AR\\_COMPLETED"
+msgstr "AR\\_COMPLETED"
+
+#: ../../source/tools.rst:668
+#, fuzzy
+msgid "This notice is sent to the patron when an :ref:`article request <managing-article-requests-label>` is marked as completed by staff."
+msgstr "論文請求被館員標記為已完成，發送此通知給讀者。"
+
+#: ../../source/tools.rst:672
+msgid "AR\\_PENDING"
+msgstr "AR\\_PENDING"
+
+#: ../../source/tools.rst:674
+#, fuzzy
+msgid "This notice is sent to the patron when an :ref:`article request <managing-article-requests-label>` is changed to 'pending' status"
+msgstr "當論文請求更改為“待處理”狀態時，此通知將發送給讀者"
+
+#: ../../source/tools.rst:678
+msgid "AR\\_PROCESSING"
+msgstr "AR\\_PROCESSING"
+
+#: ../../source/tools.rst:680
+#, fuzzy
+msgid "This notice is sent to the patron when an :ref:`article request <managing-article-requests-label>` is marked as being processed by staff."
+msgstr "論文請求標記為館員正在處理時，發送此通知給讀者。"
+
+#: ../../source/tools.rst:684
+#, fuzzy
+msgid "AR\\_REQUESTED"
+msgstr "AR\\_COMPLETED"
+
+#: ../../source/tools.rst:686
+#, fuzzy
+msgid "This notice is sent to the patron when an :ref:`article request has been made <placing-article-requests-label>` in order to confirm the request."
+msgstr "論文請求被確認後，發送此通知給讀者。"
+
+#: ../../source/tools.rst:690
+#, fuzzy
+msgid "AUTO\\_RENEWALS"
+msgstr "RENEWAL"
+
+#: ../../source/tools.rst:692
+msgid "This notice is sent to the patron if automatic renewals are enabled and the patron has chosen to receive it in their :ref:`messaging preferences <advance-notices-and-hold-notices-label>`."
+msgstr "這則通知將會寄送給讀者如果自動續借已被啟用，而讀者選擇接收訊息在他們的 :ref:`訊息偏好<advance-notices-and-hold-notices-label>`."
+
+#: ../../source/tools.rst:696 ../../source/tools.rst:708
+#, fuzzy
+msgid "In order to send this notice, you must set the :ref:`AutoRenewalNotices <autorenewalnotices-label>` system preference to \"according to patron messaging preferences\"."
+msgstr "為了寄送通知，你必須設定 :ref:`AutoRenewalNotices` 系統偏好 \"根據讀者訊息偏好\"."
+
+#: ../../source/tools.rst:699 ../../source/tools.rst:711
+msgid "This notice is set so that, depending on the result of the renewal, whether is was successful or not, the message will be different."
+msgstr "這則通知已設定，所以根據續借的結果，無論成功與否，訊息會有所不同。"
+
+#: ../../source/tools.rst:702
+msgid "AUTO\\_RENEWALS\\_DGST"
+msgstr "AUTO\\_RENEWALS\\_DGST"
+
+#: ../../source/tools.rst:704
+msgid "This notice is sent to the patron if automatic renewals are enabled and the patron has chosen to receive the digest in their :ref:`messaging preferences <advance-notices-and-hold-notices-label>`."
+msgstr "這則通知將會寄送讀者，如果自動續借已啟用，並且讀者在他們的訊息偏好選擇 :ref:`messaging preferences <advance-notices-and-hold-notices-label>`."
+
+#: ../../source/tools.rst:714
+msgid "AVAILABLE"
+msgstr "AVAILABLE"
+
+#: ../../source/tools.rst:716
+#, fuzzy
+msgid "This notice is sent to the patron who :ref:`made a purchase suggestion <purchase-suggestions-opac-label>`, when the :ref:`order created from the suggestion <order-from-purchase-suggestion-label>` is :ref:`received <receiving-orders-label>`."
+msgstr "從採訪建議來的訂單已成立後，此通知送給提出建議的讀者。"
+
+#: ../../source/tools.rst:725
+msgid "CART"
+msgstr ""
+
+#: ../../source/tools.rst:727
+msgid "This notice is used when :ref:`sending the cart by email from the OPAC <managing-the-cart-label>` or when :ref:`sending the cart by email from the staff interface <cart-label>`."
+msgstr ""
+
+#: ../../source/tools.rst:731
+msgid "CANCEL\\_HOLD\\_ON\\_LOST"
+msgstr ""
+
+#: ../../source/tools.rst:733
+msgid "This notice is sent to a patron who placed a hold on an item and staff marked this items as lost from the :ref:`'Holds to pull' list <holds-to-pull-label>`."
+msgstr ""
+
+#: ../../source/tools.rst:736
+msgid "This notice is sent if the :ref:`CanMarkHoldsToPullAsLost <CanMarkHoldsToPullAsLost-label>` system preference is set to 'Allow to mark items as lost and notify the patron'."
+msgstr ""
+
+#: ../../source/tools.rst:740
+msgid "CHECKIN"
+msgstr "CHECKIN"
+
+#: ../../source/tools.rst:742
+msgid "This notice is sent as the 'Check in' notice for all items that are checked in"
+msgstr "還入館藏時發送此 '還入' 通知"
+
+#: ../../source/tools.rst:745 ../../source/tools.rst:766
+#: ../../source/tools.rst:806 ../../source/tools.rst:828
+#: ../../source/tools.rst:848 ../../source/tools.rst:1109
+#: ../../source/tools.rst:1131
+msgid "This notice is used if two criteria are met:"
+msgstr "碰到以下兩種情況時使用此通知："
+
+#: ../../source/tools.rst:747 ../../source/tools.rst:768
+#: ../../source/tools.rst:808 ../../source/tools.rst:830
+#: ../../source/tools.rst:850 ../../source/tools.rst:1111
+#: ../../source/tools.rst:1133 ../../source/tools.rst:1175
+#, fuzzy
+msgid "The :ref:`EnhancedMessagingPreferences <enhancedmessagingpreferences-label>` is set to 'Allow'"
+msgstr "把 :ref:`EnhancedMessagingPreferences` 偏好設為 '允許'"
+
+#: ../../source/tools.rst:751 ../../source/tools.rst:772
+#: ../../source/tools.rst:812 ../../source/tools.rst:1115
+#: ../../source/tools.rst:1182
+msgid "The patron has requested to receive this notice"
+msgstr "讀者請求收到此通知"
+
+#: ../../source/tools.rst:753 ../../source/tools.rst:774
+#: ../../source/tools.rst:814 ../../source/tools.rst:836
+#: ../../source/tools.rst:856 ../../source/tools.rst:1030
+#: ../../source/tools.rst:1117 ../../source/tools.rst:1139
+#: ../../source/tools.rst:1184
+msgid "If :ref:`EnhancedMessagingPreferencesOPAC <enhancedmessagingpreferencesopac-label>` is set to 'Show', patrons will be able to choose their messaging preferences in their online account in the :ref:`Messaging tab <your-messaging-label>`."
+msgstr ""
+
+#: ../../source/tools.rst:758 ../../source/tools.rst:779
+#: ../../source/tools.rst:819 ../../source/tools.rst:841
+#: ../../source/tools.rst:861 ../../source/tools.rst:1122
+#: ../../source/tools.rst:1144 ../../source/tools.rst:1189
+#, fuzzy
+msgid "Staff can select this notice for a patron in their :ref:`messaging preferences <advance-notices-and-hold-notices-label>`."
+msgstr "這則通知將會寄送給讀者如果自動續借已被啟用，而讀者選擇接收訊息在他們的 :ref:`訊息偏好<advance-notices-and-hold-notices-label>`."
+
+#: ../../source/tools.rst:761
+msgid "CHECKOUT"
+msgstr "CHECKOUT"
+
+#: ../../source/tools.rst:763
+msgid "This notice is sent as the 'Check out' notice for all items that are checked out"
+msgstr "借出館藏時發送此 '借出' 通知"
+
+#: ../../source/tools.rst:782
+#, fuzzy
+msgid "CHECKOUT\\_NOTE"
+msgstr "CHECKOUT"
+
+#: ../../source/tools.rst:784
+msgid "This notice is sent to the system administration (the email address in :ref:`KohaAdminEmailAddress <kohaadminemailaddress-label>`) to alert them that a patron added a :ref:`checkout note <checkoutnotes-label>` from their :ref:`checkouts list on the OPAC <your-summary-label>`."
+msgstr ""
+
+#: ../../source/tools.rst:789
+msgid "DISCHARGE"
+msgstr "DISCHARGE"
+
+#: ../../source/tools.rst:791
+msgid "This notice is used to generate a PDF to document a successful discharge request"
+msgstr "此通知用於製作 PDF，表示離館請求已完成"
+
+#: ../../source/tools.rst:794
+msgid "The PDF can either be downloaded by the patron from their patron account or from the staff interface when discharging a patron"
+msgstr "此 PDF 可以被讀者從其帳號下載，或讀者請求離館時，由館員介面下載"
+
+#: ../../source/tools.rst:797
+#, fuzzy
+msgid "The discharge feature is controlled by the :ref:`useDischarge <usedischarge-label>` system preference."
+msgstr "離館功能由 :ref:`useDischarge` 系統偏好控制。"
+
+#: ../../source/tools.rst:800
+msgid "DUE"
+msgstr "DUE"
+
+#: ../../source/tools.rst:802
+#, fuzzy
+msgid "This notice is sent as the :ref:`'Item due' notice <advance-notices-and-hold-notices-label>` for an checked out item that is due today."
+msgstr "此通知當成發送 '到期提前通知' 之用"
+
+#: ../../source/tools.rst:822
+msgid "DUEDGST"
+msgstr "DUEDGST"
+
+#: ../../source/tools.rst:824
+#, fuzzy
+msgid "This notice is sent as the :ref:`'Item due' notice <advance-notices-and-hold-notices-label>` for all checked out items that are due today (digest option)."
+msgstr "此通知當成發送 '到期提前通知' 之用"
+
+#: ../../source/tools.rst:834 ../../source/tools.rst:854
+#: ../../source/tools.rst:1137
+msgid "The patron has requested to receive this notice as a digest"
+msgstr "讀者要求以摘要方式收取此通知"
+
+#: ../../source/tools.rst:844
+msgid "HOLD (Hold available for pickup)"
+msgstr "HOLD (預約到館待提取)"
+
+#: ../../source/tools.rst:846
+#, fuzzy
+msgid "This notice is sent to the patron when their hold is ready for pickup."
+msgstr "當館藏準備好讓他們取走時，此通知將發送給要求催還的讀者。"
+
+#: ../../source/tools.rst:864
+msgid "When this notice references the branches table it is referring to the pickup branch information."
+msgstr "當此通知指向分館表單時，係指提取分館的資訊。"
+
+#: ../../source/tools.rst:867
+msgid "HOLD\\_CHANGED"
+msgstr ""
+
+#: ../../source/tools.rst:869
+msgid "This notice is sent to library staff (either the email address in :ref:`ExpireReservesAutoFillEmail <expirereservesautofillemail-label>`), or the :ref:`library's <libraries-label>` reply-to address, to alert them that a hold has been canceled, the item filled the next hold and is now waiting for another patron."
+msgstr ""
+
+#: ../../source/tools.rst:875
+msgid "This notice is only sent if :ref:`ExpireReservesAutoFill <expirereservesautofill-label>` is set to 'Do'."
+msgstr ""
+
+#: ../../source/tools.rst:879
+msgid "HOLD\\_REMINDER"
+msgstr ""
+
+#: ../../source/tools.rst:881
+#, fuzzy
+msgid "This notice is sent to the patron when their hold has been waiting for pickup for more than a number of days"
+msgstr "論文請求被確認後，發送此通知給讀者。"
+
+#: ../../source/tools.rst:884
+msgid "If :ref:`EnhancedMessagingPreferencesOPAC <enhancedmessagingpreferencesopac-label>` is set to 'Show', patrons will be able to choose their messaging preferences in their online account in the :ref:`Messaging tab <your-messaging-label>`. The notice is 'Hold reminder'."
+msgstr ""
+
+#: ../../source/tools.rst:889
+#, fuzzy
+msgid "Staff can select this notice for a patron in their :ref:`messaging preferences <advance-notices-and-hold-notices-label>`. The notice is 'Hold reminder'."
+msgstr "這則通知將會寄送給讀者如果自動續借已被啟用，而讀者選擇接收訊息在他們的 :ref:`訊息偏好<advance-notices-and-hold-notices-label>`."
+
+#: ../../source/tools.rst:893
+msgid "The :ref:`holds\\_reminder.pl <cron-holdsreminder-label>` cron job is required to generate this notice."
+msgstr ""
+
+#: ../../source/tools.rst:896
+msgid "HOLDPLACED"
+msgstr ""
+
+#: ../../source/tools.rst:898
+#, fuzzy
+msgid "This notice is sent to the library staff when a hold has been placed."
+msgstr "HOLDPLACED (告知館員預約已被取代的通知)"
+
+#: ../../source/tools.rst:900
+#, fuzzy
+msgid "This notice requires the :ref:`emailLibrarianWhenHoldIsPlaced <emaillibrarianwhenholdisplaced-label>` system preference to be set to 'Enable'."
+msgstr "此通知要求把 :ref:`emailLibrarianWhenHoldIsPlaced` 系統偏好設為 '啟用'"
+
+#: ../../source/tools.rst:904
+#, fuzzy
+msgid "When this notice references the branches table it is referring to the pickup library information."
+msgstr "當此通知指向分館表單時，係指提取分館的資訊。"
+
+#: ../../source/tools.rst:907
+msgid "ILL\\_PARTNER\\_REQ"
+msgstr ""
+
+#: ../../source/tools.rst:909
+msgid "This notice is used by the :ref:`ILL module <ill-requests-label>` to send :ref:`requests to partner libraries <place-request-with-partners-label>`."
+msgstr ""
+
+#: ../../source/tools.rst:912
+#, fuzzy
+msgid "ILL\\_PICKUP\\_READY"
+msgstr "PICKUP\\_RECALLED\\_ITEM"
+
+#: ../../source/tools.rst:914
+#, fuzzy
+msgid "This notice is sent to the patron when the :ref:`inter-library loan <ill-requests-label>` they requested has been fulfilled and is now ready for pickup."
+msgstr "當館藏準備好讓他們取走時，此通知將發送給要求催還的讀者。"
+
+#: ../../source/tools.rst:918
+#, fuzzy
+msgid "Staff can select this notice for a patron in their :ref:`messaging preferences <advance-notices-and-hold-notices-label>`. The notice is 'Interlibrary loan ready'."
+msgstr "這則通知將會寄送給讀者如果自動續借已被啟用，而讀者選擇接收訊息在他們的 :ref:`訊息偏好<advance-notices-and-hold-notices-label>`."
+
+#: ../../source/tools.rst:924 ../../source/tools.rst:935
+#: ../../source/tools.rst:962 ../../source/tools.rst:973
+#: ../../source/tools.rst:987 ../../source/tools.rst:998
+msgid "The option will only appear in the messaging preferences if the :ref:`ILLModule <illmodule-label>` system preference is enabled."
+msgstr ""
+
+#: ../../source/tools.rst:927
+msgid "If :ref:`EnhancedMessagingPreferencesOPAC <enhancedmessagingpreferencesopac-label>` is set to 'Show', patrons will be able to choose their messaging preferences in their online account in the :ref:`Messaging tab <your-messaging-label>`. The notice is 'Interlibrary loan ready'."
+msgstr ""
+
+#: ../../source/tools.rst:938
+#, fuzzy
+msgid "ILL\\_REQUEST\\_CANCEL"
+msgstr "RECALL\\_REQUESTER\\_DET"
+
+#: ../../source/tools.rst:940
+msgid "This notice is sent to library staff when a patron :ref:`cancels their inter-library loan request <your-interlibrary-loan-requests-label>` from their account in the OPAC."
+msgstr ""
+
+#: ../../source/tools.rst:944
+#, fuzzy
+msgid "ILL\\_REQUEST\\_MODIFIED"
+msgstr "RECALL\\_REQUESTER\\_DET"
+
+#: ../../source/tools.rst:946
+msgid "This notice is sent to library staff when a patron :ref:`modifies their inter-library loan request <your-interlibrary-loan-requests-label>` from their account in the OPAC."
+msgstr ""
+
+#: ../../source/tools.rst:950
+#, fuzzy
+msgid "ILL\\_REQUEST\\_UNAVAIL"
+msgstr "RECALL\\_REQUESTER\\_DET"
+
+#: ../../source/tools.rst:952
+#, fuzzy
+msgid "This notice is sent to the patron when the :ref:`inter-library loan <ill-requests-label>` they requested has been cancelled because it was unavailable."
+msgstr "論文請求被館員取消後，發送此通知給讀者。"
+
+#: ../../source/tools.rst:956
+#, fuzzy
+msgid "Staff can select this notice for a patron in their :ref:`messaging preferences <advance-notices-and-hold-notices-label>`. The notice is 'Interlibrary loan unavailable'."
+msgstr "這則通知將會寄送給讀者如果自動續借已被啟用，而讀者選擇接收訊息在他們的 :ref:`訊息偏好<advance-notices-and-hold-notices-label>`."
+
+#: ../../source/tools.rst:965
+msgid "If :ref:`EnhancedMessagingPreferencesOPAC <enhancedmessagingpreferencesopac-label>` is set to 'Show', patrons will be able to choose their messaging preferences in their online account in the :ref:`Messaging tab <your-messaging-label>`. The notice is 'Interlibrary loan unavailable'."
+msgstr ""
+
+#: ../../source/tools.rst:976
+#, fuzzy
+msgid "ILL\\_REQUEST\\_UPDATE"
+msgstr "RECALL\\_REQUESTER\\_DET"
+
+#: ../../source/tools.rst:978
+#, fuzzy
+msgid "This notice is sent to the patron to alert them that :ref:`their inter-library loan request has been updated <managing-ILL-requests-label>`."
+msgstr "論文請求被確認後，發送此通知給讀者。"
+
+#: ../../source/tools.rst:981
+#, fuzzy
+msgid "Staff can select this notice for a patron in their :ref:`messaging preferences <advance-notices-and-hold-notices-label>`. The notice is 'Interlibrary loan updated'."
+msgstr "這則通知將會寄送給讀者如果自動續借已被啟用，而讀者選擇接收訊息在他們的 :ref:`訊息偏好<advance-notices-and-hold-notices-label>`."
+
+#: ../../source/tools.rst:990
+msgid "If :ref:`EnhancedMessagingPreferencesOPAC <enhancedmessagingpreferencesopac-label>` is set to 'Show', patrons will be able to choose their messaging preferences in their online account in the :ref:`Messaging tab <your-messaging-label>`. The notice is 'Interlibrary loan updated'."
+msgstr ""
+
+#: ../../source/tools.rst:1001
+msgid "LIST"
+msgstr ""
+
+#: ../../source/tools.rst:1003
+msgid "This notice is used when :ref:`sending a list by email from the OPAC <viewing-lists-contents-label>` or when :ref:`sending a list by email from the staff interface <viewing-lists-label>`."
+msgstr ""
+
+#: ../../source/tools.rst:1007
+msgid "MEMBERSHIP\\_EXPIRY"
+msgstr "MEMBERSHIP\\_EXPIRY"
+
+#: ../../source/tools.rst:1009
+msgid "This notice can be sent to patrons to warn them that their cards are expiring soon."
+msgstr "此通知告訴讀者其讀者證即將到期。"
+
+#: ../../source/tools.rst:1012
+#, fuzzy
+msgid "Requires that you have the :ref:`MembershipExpiryDaysNotice <membershipexpirydaysnotice-label>` set and the :ref:`related cron job <cron-notify-patrons-of-expiration-label>` set."
+msgstr "需要擁有 :ref:`MembershipExpiryDaysNotice` 設定以及 :ref:`相關工作排程 <cron-notify-patrons-of-expiration-label>` 設定。"
+
+#: ../../source/tools.rst:1016
+msgid "NEW\\_CURBSIDE\\_PICKUP"
+msgstr ""
+
+#: ../../source/tools.rst:1018
+#, fuzzy
+msgid "This notice is sent to the patron when :ref:`a curbside pickup is scheduled <curbsidepickup-schedule-label>`."
+msgstr "論文請求被館員取消後，發送此通知給讀者。"
+
+#: ../../source/tools.rst:1021
+msgid "In order to send this notice,"
+msgstr ""
+
+#: ../../source/tools.rst:1023
+msgid "The :ref:`curbside pickup module must be enabled <curbside-pickup-configuration-label>`"
+msgstr ""
+
+#: ../../source/tools.rst:1025
+#, fuzzy
+msgid "The patron must have chosen to receive the 'Hold filled' notice by email."
+msgstr "讀者要求以摘要方式收取此通知"
+
+#: ../../source/tools.rst:1027
+#, fuzzy
+msgid "Staff can select this notice for a patron in their :ref:`messaging preferences <advance-notices-and-hold-notices-label>`"
+msgstr "這則通知將會寄送給讀者如果自動續借已被啟用，而讀者選擇接收訊息在他們的 :ref:`訊息偏好<advance-notices-and-hold-notices-label>`."
+
+#: ../../source/tools.rst:1035
+msgid "NEW\\_SUGGESTION"
+msgstr ""
+
+#: ../../source/tools.rst:1037
+#, fuzzy
+msgid "This notice is sent to library staff when the :ref:`EmailPurchaseSuggestions <emailpurchasesuggestions-and-emailaddressforsuggestions-label>` system preference is enabled."
+msgstr "當館員在採訪模組中 :ref:`被指派為建議的管理員<managing-purchase-suggestions-label>` 這則通知將會發送給他們。"
+
+#: ../../source/tools.rst:1041
+msgid "NOTIFY\\_MANAGER"
+msgstr "NOTIFY\\_MANAGER"
+
+#: ../../source/tools.rst:1043
+msgid "This notice is sent to a staff member when they are :ref:`assigned as manager of a suggestion <managing-purchase-suggestions-label>` in the acquisitions module."
+msgstr "當館員在採訪模組中 :ref:`被指派為建議的管理員<managing-purchase-suggestions-label>` 這則通知將會發送給他們。"
+
+#: ../../source/tools.rst:1046
+msgid "ODUE (Overdue notice)"
+msgstr "ODUE (逾期通知)"
+
+#: ../../source/tools.rst:1048
+msgid "This notice is used to send overdue notices to patrons"
+msgstr "此通知係發送逾期通知之用"
+
+#: ../../source/tools.rst:1050
+msgid "ODUE is the code of the sample notice, but it's possible to use any code and define multiple different messages for different patron categories and notice levels"
+msgstr "ODUE 是範本通知的代碼，但也可用於任何代碼設定多個不同的訊息，供不同讀者類型及通知層次使用"
+
+#: ../../source/tools.rst:1054
+msgid "Requires that you set :ref:`Overdue notice/status triggers <overdue-notice/status-triggers-label>`"
+msgstr "要求設定 :ref:`啟動逾期通知/狀態 <overdue-notice/status-triggers-label>`"
+
+#: ../../source/tools.rst:1057
+msgid "OPAC\\_REG"
+msgstr ""
+
+#: ../../source/tools.rst:1059
+msgid "This notice is sent to library staff when the :ref:`EmailPatronRegistrations <emailpatronregistrations-and-emailaddressforpatronregistrations-label>` system preference is enabled and a :ref:`patron registers through the OPAC <opac-self-registration-label>`."
+msgstr ""
+
+#: ../../source/tools.rst:1064
+msgid "OPAC\\_REG\\_VERIFY"
+msgstr ""
+
+#: ../../source/tools.rst:1066
+msgid "This notice is sent to the :ref:`patron who registered through the OPAC <opac-self-registration-label>` if the :ref:`PatronSelfRegistrationVerifyByEmail <patronselfregistrationverifybyemail-label>` system preference is enabled."
+msgstr ""
+
+#: ../../source/tools.rst:1071
+msgid "ORDERED"
+msgstr "ORDERED"
+
+#: ../../source/tools.rst:1073
+#, fuzzy
+msgid "This notice is sent to the :ref:`patron who made a suggestion <your-purchase-suggestions-label>`, when the :ref:`'from a suggestion' option is used to create an order from it <order-from-purchase-suggestion-label>`."
+msgstr "勾選 '來自採訪建議' 產生訂單時，此通知送給當初提出採訪建議的讀者。"
+
+#: ../../source/tools.rst:1080 ../../source/tools.rst:1166
+#, fuzzy
+msgid "If you don't want to send this notice, just delete it."
+msgstr "說明：若不想要此通知，刪除即可。"
+
+#: ../../source/tools.rst:1082
+#, fuzzy
+msgid "PASSWORD\\_CHANGE"
+msgstr "PASSWORD_RESET"
+
+#: ../../source/tools.rst:1084
+#, fuzzy
+msgid "This notice is sent to a patron whose password was changed, if the :ref:`NotifyPasswordChange <notifypasswordchange-label>` system preference is enabled."
+msgstr "若 :ref:`UseEmailReceipts` 系統偏好設為 '送出'，則將此通知送至付費讀者的帳戶。"
+
+#: ../../source/tools.rst:1088
+#, fuzzy
+msgid "PASSWORD\\_RESET"
+msgstr "PASSWORD_RESET"
+
+#: ../../source/tools.rst:1090
+#, fuzzy
+msgid "This notice is sent when :ref:`a patron requests a new password from the OPAC <resetting-your-password-label>` in order to validate the email address."
+msgstr "讀者從 OPAC 要求新密碼寄至電子郵件地址時，送出此通知。"
+
+#: ../../source/tools.rst:1094 ../../source/tools.rst:1257
+#, fuzzy
+msgid "The password reset feature is controlled by the :ref:`OpacResetPassword <opacresetpassword-label>` system preference."
+msgstr "重設密碼功能由 :ref:`OpacResetPassword` 系統偏好控制。"
+
+#: ../../source/tools.rst:1097
+msgid "PICKUP\\_RECALLED\\_ITEM"
+msgstr "PICKUP\\_RECALLED\\_ITEM"
+
+#: ../../source/tools.rst:1099
+#, fuzzy
+msgid "This notice is sent to the patron who has :ref:`requested a recall <request-recalls-opac-label>` when the item is :ref:`ready for them to pick up <recalls-receive-label>`."
+msgstr "當館藏準備好讓他們取走時，此通知將發送給要求催還的讀者。"
+
+#: ../../source/tools.rst:1103
+msgid "PREDUE"
+msgstr "PREDUE"
+
+#: ../../source/tools.rst:1105
+#, fuzzy
+msgid "This notice is sent as the :ref:`'Advanced notice' <advance-notices-and-hold-notices-label>` when an item is due"
+msgstr "此通知當成發送 '到期提前通知' 之用"
+
+#: ../../source/tools.rst:1125
+msgid "PREDUEDGST"
+msgstr "PREDUEDGST"
+
+#: ../../source/tools.rst:1127
+#, fuzzy
+msgid "This notice is sent as the :ref:`'Advanced notice' digest <advance-notices-and-hold-notices-label>` for all items that are due"
+msgstr "此通知當成發送 '到期提前通知' 之用"
+
+#: ../../source/tools.rst:1147
+msgid "PROBLEM\\_REPORT"
+msgstr ""
+
+#: ../../source/tools.rst:1149
+msgid "This notice is sent to the email address in the :ref:`KohaAdminEmailAddress <KohaAdminEmailAddress-label>` system preference, or the :ref:`library <libraries-label>`'s email address when a patron :ref:`reports a problem on the OPAC <opac-report-problem-label>`."
+msgstr ""
+
+#: ../../source/tools.rst:1154 ../../source/tools.rst:1432
+msgid "RECEIPT"
+msgstr ""
+
+#: ../../source/tools.rst:1156
+msgid "Used to send a payment receipt by email from the :ref:`point of sale module <point-of-sale-label>`."
+msgstr ""
+
+#: ../../source/tools.rst:1159
+msgid "REJECTED"
+msgstr "已拒絕"
+
+#: ../../source/tools.rst:1161
+#, fuzzy
+msgid "This notice is sent when a :ref:`patron's purchase suggestion is rejected <approve-reject-suggestions-label>`."
+msgstr "此通知係告知採訪建議被拒絕。"
+
+#: ../../source/tools.rst:1168
+msgid "RENEWAL"
+msgstr "RENEWAL"
+
+#: ../../source/tools.rst:1170
+#, fuzzy
+msgid "This notice is sent as the 'Item checkout and renewal' notice for all items that are renewed"
+msgstr "續借館藏時發送此 '借出' 通知"
+
+#: ../../source/tools.rst:1173
+msgid "This notice is used if three criteria are met:"
+msgstr "滿足三種情況時使用此通知："
+
+#: ../../source/tools.rst:1179
+#, fuzzy
+msgid "The :ref:`RenewalSendNotice <renewalsendnotice-label>` system preference is set to 'Send'"
+msgstr "此 :ref:`RenewalSendNotice` 偏好已設為 '送出'"
+
+#: ../../source/tools.rst:1192
+msgid "RETURN\\_RECALLED\\_ITEM"
+msgstr "RETURN\\_RECALLED\\_ITEM"
+
+#: ../../source/tools.rst:1194
+#, fuzzy
+msgid "This notice is sent to the patron who currently has an item in their possession that :ref:`has been recalled <request-recalls-opac-label>`. It serves to notify them of the new due date for the checked out item."
+msgstr "這則通知傳給持有催還館藏的讀者，用來通知他們借出館藏的新到期日。"
+
+#: ../../source/tools.rst:1198
+msgid "SERIAL_ALERT (New serial issue)"
+msgstr "SERIAL_ALERT (新期刊)"
+
+#: ../../source/tools.rst:1200
+msgid "Notice used in the serials module to notify patrons/staff of new issues of a serial. SERIAL_ALERT (RLIST in older versions) is provided as a sample notice, but the notice code can be chosen freely as only the module is taken into account. Multiple notices can also be managed."
+msgstr "此通知用於期刊模組，告知讀者/館員新期刊到了。SERIAL_ALERT (舊版用 RLIST) 提供範例通知，但通知代碼可以任選。可以管理多個通知。"
+
+#: ../../source/tools.rst:1206
+#, fuzzy
+msgid "You have the option to select the notice used to inform the patron about a received serial issue when :ref:`adding or editing a subscription <add-a-subscription-label>`. Choose from the 'Patron notification' drop down menu."
+msgstr "讀者可以選擇新到期刊的通知方式。由 '讀者通知' 下拉選單內選擇。"
+
+#: ../../source/tools.rst:1211
+#, fuzzy
+msgid "If a notice has been selected for a subscription, patrons can subscribe to the email notification from the subscription tab in the :ref:`detail view in the OPAC <bibliographic-record-label>`."
+msgstr "已被訂閱選用的通知，讀者可以從 OPAC 詳細檢視的訂閱分頁訂閱電子郵件通知。"
+
+#: ../../source/tools.rst:1217
+#, fuzzy
+msgid "Notice also that if you'd like to notify patrons of new serial issues, you can click on 'define a notice' which will take you to the 'Notices' tool."
+msgstr "按 '設定新通知' 鈕進入 '通知' 工具，就能通知讀者新的期刊到館"
+
+#: ../../source/tools.rst:1221
+msgid "SHARE\\_ACCEPT"
+msgstr "SHARE\\_ACCEPT"
+
+#: ../../source/tools.rst:1223
+msgid "Used to notify a patron when another patron has accepted their shared list."
+msgstr "通知讀者，其他讀者接受共享虛擬書架。"
+
+#: ../../source/tools.rst:1225 ../../source/tools.rst:1237
+#, fuzzy
+msgid "Requires that the :ref:`OpacAllowSharingPrivateLists <opacallowsharingprivatelists-label>` system preference be set to 'Allow'."
+msgstr "您需把 :ref:`OpacAllowSharingPrivateLists` 偏好設為 '允許'"
+
+#: ../../source/tools.rst:1229 ../../source/tools.rst:1241
+msgid "See :ref:`Managing lists <managing-lists-label>` for more information about sharing lists."
+msgstr ""
+
+#: ../../source/tools.rst:1232
+msgid "SHARE\\_INVITE"
+msgstr "SHARE\\_INVITE"
+
+#: ../../source/tools.rst:1234
+msgid "Used to notify a patron that another patron would like to share a list with them."
+msgstr "通知讀者，其他讀者想要共享其虛擬書架。"
+
+#: ../../source/tools.rst:1244
+#, fuzzy
+msgid "SR\\_SLIP"
+msgstr "AR\\_SLIP"
+
+#: ../../source/tools.rst:1246
+msgid "Used to notify library staff from a particular library branch of items that should be transferred to another library in the context of :ref:`stock rotation <stock-rotation-label>`."
+msgstr ""
+
+#: ../../source/tools.rst:1250
+#, fuzzy
+msgid "Requires the :ref:`stockrotation.pl <cron-stockrotation-label>` cron job."
+msgstr "需要 :ref:`notice\\_unprocessed\\_suggestions <cron-email-suggestions-to-process-label>` 工作排程"
+
+#: ../../source/tools.rst:1252
+#, fuzzy
+msgid "STAFF\\_PASSWORD\\_RESET"
+msgstr "PASSWORD_RESET"
+
+#: ../../source/tools.rst:1254
+#, fuzzy
+msgid "This notice is sent when a staff member sends a :ref:`password reset email <patron-password-label>` to a patron."
+msgstr "當館員在採訪模組中 :ref:`被指派為建議的管理員<managing-purchase-suggestions-label>` 這則通知將會發送給他們。"
+
+#: ../../source/tools.rst:1260
+msgid "TICKET\\_ACKNOWLEDGE"
+msgstr ""
+
+#: ../../source/tools.rst:1262
+msgid "This notice is sent to the reporter of a catalog concern when they :ref:`report a concern through the staff interface <report-concern-staff-label>`, or when they :ref:`report a concern through the OPAC <report-concern-opac-label>`, to acknowledge that the concern report was received."
+msgstr ""
+
+#: ../../source/tools.rst:1267 ../../source/tools.rst:1279
+#: ../../source/tools.rst:1289 ../../source/tools.rst:1299
+msgid "The concern report feature is enabled in the staff interface by the :ref:`CatalogConcerns <catalogconcerns-label>` system preference and in the OPAC by the :ref:`OpacCatalogConcerns <opaccatalogconcerns-label>` system preference."
+msgstr ""
+
+#: ../../source/tools.rst:1272
+msgid "TICKET\\_NOTIFY"
+msgstr ""
+
+#: ../../source/tools.rst:1274
+msgid "This notice is sent to the cataloging team, to the email address in the :ref:`CatalogerEmails <catalogeremails-label>` system preference, to notify them that :ref:`a concern was reported about a bibliographic record <report-concern-staff-label>`."
+msgstr ""
+
+#: ../../source/tools.rst:1284
+msgid "TICKET\\_RESOLVE"
+msgstr ""
+
+#: ../../source/tools.rst:1286
+msgid "This notice is sent to the reporter of a catalog concern when :ref:`the concern is marked as resolved with the 'Notify' flag <manage-catalog-concerns-label>`."
+msgstr ""
+
+#: ../../source/tools.rst:1294
+msgid "TICKET\\_UPDATE"
+msgstr ""
+
+#: ../../source/tools.rst:1296
+msgid "This notice is sent to the reporter of a catalog concern when :ref:`the concern is updated with the 'Notify' flag <manage-catalog-concerns-label>`."
+msgstr ""
+
+#: ../../source/tools.rst:1304
+msgid "TO\\_PROCESS"
+msgstr "TO\\_PROCESS"
+
+#: ../../source/tools.rst:1306
+msgid "Used to notify a staff member if a purchase suggestion has been moved to the fund they manage"
+msgstr "告知館員採訪建議是否移入基金"
+
+#: ../../source/tools.rst:1309
+msgid "Requires the :ref:`notice\\_unprocessed\\_suggestions <cron-email-suggestions-to-process-label>` cron job"
+msgstr "需要 :ref:`notice\\_unprocessed\\_suggestions <cron-email-suggestions-to-process-label>` 工作排程"
+
+#: ../../source/tools.rst:1312
+msgid "WELCOME"
+msgstr ""
+
+#: ../../source/tools.rst:1314
+#, fuzzy
+msgid "Sent to patrons when their account is set up if the :ref:`AutoEmailNewUser <autoemailnewuser-label>` preference is set to 'Send'"
+msgstr "將 :ref:`AutoEmailOPACUser` 偏好設為 '送出' 時就能送出給讀者"
+
+#: ../../source/tools.rst:1320
+msgid "For security reasons, it is not possible to send the patron's password in a notice."
+msgstr ""
+
+#: ../../source/tools.rst:1323
+#, fuzzy
+msgid "There are also a set of predefined slips (or receipts) listed on this page. All of these slips can be customized by altering their text via the Notices & slips tool and their style using the :ref:`SlipCSS <slipcss-label>` preference to define a stylesheet. Here is what those slips are used for:"
+msgstr "一組事先設定好的收條 (或收據) 列在此頁。經由通知 &amp; 收條工具可以客製化這些收條的內容並經由設定 :ref:`SlipCSS` 偏好設定新的樣式。這些收條的功能是："
+
+#: ../../source/tools.rst:1329
+#, fuzzy
+msgid "ACCOUNT\\_CREDIT"
+msgstr "ACCOUNT\\_WRITEOFF"
+
+#: ../../source/tools.rst:1331
+msgid "Used to print a receipt for a credit (either a payment, writeoff or other credit)."
+msgstr ""
+
+#: ../../source/tools.rst:1334
+msgid "The slip or receipt can be printed manually with the 'Print' button next to a credit type account line in the :ref:`patron's accounting tab <charging-fines/actions-label>`."
+msgstr ""
+
+#: ../../source/tools.rst:1338
+msgid "The slip or receipt can also be printed semi-automatically when :ref:`paying or writing off a charge <pay-and-writeoff-fines-label>` if the :ref:`FinePaymentAutoPopup <FinePaymentAutoPopup-label>` system preference is enabled."
+msgstr ""
+
+#: ../../source/tools.rst:1345
+msgid "It is possible to set specific notices for different credit types. To do so, :ref:`create a new notice <adding-notices-and-slips-label>` with the code CREDIT\\_ followed by the :ref:`credit type code <credit-types-label>`."
+msgstr ""
+
+#: ../../source/tools.rst:1349
+msgid "For example, to have a specific slip for writeoffs, :ref:`create a new notice <adding-notices-and-slips-label>` with the code CREDIT\\_WRITEOFF."
+msgstr ""
+
+#: ../../source/tools.rst:1353
+#, fuzzy
+msgid "ACCOUNT\\_DEBIT"
+msgstr "ACCOUNT\\_PAYMENT"
+
+#: ../../source/tools.rst:1355
+msgid "Used to print an invoice for a debit (any type of charge, such as a lost item fee, or overdue fine)."
+msgstr ""
+
+#: ../../source/tools.rst:1358
+msgid "The slip or invoice can be printed manually with the 'Print' button next to a debit type account line in the :ref:`patron's accounting tab <charging-fines/actions-label>`."
+msgstr ""
+
+#: ../../source/tools.rst:1364
+msgid "It is possible to set specific notices for different debit types. To do so, :ref:`create a new notice <adding-notices-and-slips-label>` with the code DEBIT\\_ followed by the :ref:`debit type code <debit-types-label>`."
+msgstr ""
+
+#: ../../source/tools.rst:1368
+msgid "For example, to have a specific slip for lost items, :ref:`create a new notice <adding-notices-and-slips-label>` with the code DEBIT\\_LOST."
+msgstr ""
+
+#: ../../source/tools.rst:1372
+#, fuzzy
+msgid "ACCOUNTS_SUMMARY"
+msgstr "ACCOUNT\\_PAYMENT"
+
+#: ../../source/tools.rst:1374
+msgid "Used to print a summary of outstanding charges and unused credits in the patron's account."
+msgstr ""
+
+#: ../../source/tools.rst:1377
+msgid "The slip can be printed manually with the 'Print account balance' option in the :ref:`'Print' button <printing-receipts-label>` at the top of the patron's details page."
+msgstr ""
+
+#: ../../source/tools.rst:1381
+msgid "AR\\_SLIP"
+msgstr "AR\\_SLIP"
+
+#: ../../source/tools.rst:1383
+#, fuzzy
+msgid "Used to print a slip for an :ref:`article request <managing-article-requests-label>`"
+msgstr "使用於請求列印論文的的收條"
+
+#: ../../source/tools.rst:1385
+#, fuzzy
+msgid "The slip or receipt can be printed manually when :ref:`managing article requests from the staff interface <managing-article-requests-label>`."
+msgstr "從館員介面管理論文請求時，可以人工列印收條或回條。"
+
+#: ../../source/tools.rst:1388
+msgid "*Get there:* Circulation > Article requests > Actions > Print slip"
+msgstr "*到那裡*： 流通 > 請求論文 > 啟用 > 列印收條"
+
+#: ../../source/tools.rst:1390
+msgid "CHECKINSLIP"
+msgstr "CHECKINSLIP"
+
+#: ../../source/tools.rst:1392
+msgid "This slip lists all items that were checked in today for this patron"
+msgstr "這張清單列出了今天為該讀者還入的所有館藏。"
+
+#: ../../source/tools.rst:1394
+msgid "To print this slip, click Print > :ref:`Print checkin slip <printing-receipts-label>` from the patron file"
+msgstr "要列印此單據, 點擊列印 > :ref:`列印還入單據 <printing-receipts-label>` 從讀者檔"
+
+#: ../../source/tools.rst:1397
+msgid "You can also print this slip from the :ref:`Check in page <check-in-(returning)-label>`"
+msgstr "你也可以從還入頁面 :ref:`列印此單據 <check-in-(returning)-label>`"
+
+#: ../../source/tools.rst:1399
+msgid "ISSUEQSLIP"
+msgstr "ISSUEQSLIP"
+
+#: ../../source/tools.rst:1401
+#, fuzzy
+msgid "Used to :ref:`print the quick slip in circulation <printing-receipts-label>`"
+msgstr "使用於流通的快速收條"
+
+#: ../../source/tools.rst:1403
+msgid "The quick slip only includes items that were checked out today"
+msgstr "快速收條祗包括今天借出的館藏"
+
+#: ../../source/tools.rst:1405
+msgid "ISSUESLIP"
+msgstr "ISSUESLIP"
+
+#: ../../source/tools.rst:1407
+#, fuzzy
+msgid "Used to :ref:`print a full slip in circulation <printing-receipts-label>`"
+msgstr "使用於列印流通的完整收條"
+
+#: ../../source/tools.rst:1409
+msgid "The slip or receipt will show items checked out today as well as items that are still checked out"
+msgstr "收條顯示今天借出與尚未還入的館藏"
+
+#: ../../source/tools.rst:1412
+msgid "HOLD\\_SLIP"
+msgstr "HOLD\\_SLIP"
+
+#: ../../source/tools.rst:1414
+msgid "Used to print a holds slip"
+msgstr "使用於列印預約收條"
+
+#: ../../source/tools.rst:1416
+#, fuzzy
+msgid "The holds slip is generated when :ref:`a hold is confirmed and set to waiting <receiving-holds-label>`."
+msgstr "預約確認後，產生預約收條"
+
+#: ../../source/tools.rst:1419
+msgid "OVERDUE\\_SLIP"
+msgstr "OVERDUE\\_SLIP"
+
+#: ../../source/tools.rst:1421
+msgid "Used to print an overdues slip"
+msgstr "使用於列印逾期收條"
+
+#: ../../source/tools.rst:1423
+#, fuzzy
+msgid "The overdues slip can be generated manually using the :ref:`'print' menu in the patron account <printing-receipts-label>` in the staff interface. It will show all items overdue."
+msgstr "在館員介面以讀者帳號使用 '列印' 選單，就能夠以人工方式產生逾期回條。將顯示所有館藏的逾期。"
+
+#: ../../source/tools.rst:1427
+msgid "RECALL\\_REQUESTER\\_DET"
+msgstr "RECALL\\_REQUESTER\\_DET"
+
+#: ../../source/tools.rst:1429
+#, fuzzy
+msgid "Used to print the details of the patron who has requested a recall on an item, when :ref:`receiving the recall <recalls-receive-label>`."
+msgstr "用來列印已要求催還館藏的讀者詳情。"
+
+#: ../../source/tools.rst:1434
+msgid "Used to print a payment receipt in the :ref:`point of sale module <point-of-sale-label>`."
+msgstr ""
+
+#: ../../source/tools.rst:1437
+msgid "TRANSFERSLIP"
+msgstr "TRANSFERSLIP"
+
+#: ../../source/tools.rst:1439
+msgid "Used to print a transfer slip"
+msgstr "使用於列印快速收條"
+
+#: ../../source/tools.rst:1441
+msgid "The transfer slip is printed when you confirm a transfer from one branch to another in your system"
+msgstr "確認轉移後，列印轉移收條，隨書轉移至另個圖書館"
+
+#: ../../source/tools.rst:1444
+msgid "This tool also allows you to modify database entries for some specific purposes. So far, only the overdue fine description is available."
+msgstr ""
+
+#: ../../source/tools.rst:1447
+#, fuzzy
+msgid "OVERDUE\\_FINE\\_DESC"
+msgstr "OVERDUE\\_SLIP"
+
+#: ../../source/tools.rst:1449
+msgid "This template is used to generate the description for overdue fines in a :ref:`patron's account <fines-label>`."
+msgstr ""
+
+#: ../../source/tools.rst:1454
+msgid "The information available to this customization come from the checkouts (issues), items and patrons (borrowers)."
+msgstr ""
+
+#: ../../source/tools.rst:1460
+msgid "Overdue notice/status triggers"
+msgstr "啟動逾期通知/狀態"
+
+#: ../../source/tools.rst:1462
+msgid "*Get there:* More > Tools > Patrons and circulation > Overdue notice/status triggers"
+msgstr "*到那裡：* 更多 &gt; 工具 &gt; 讀者與流通 &gt; 啟動逾期通知/狀態"
+
+#: ../../source/tools.rst:1465
+msgid "In order to send the overdue notices that you defined using the :ref:`Notices & slips <notices-and-slips-label>` tool, you need to first set the triggers to have these messages."
+msgstr "必須先使用 :ref:`通知與收條 <notices-and-slips-label>` 工具設定逾期通知，才能啟動發出逾期訊息。"
+
+#: ../../source/tools.rst:1471
+msgid "In order to have overdue notices sent to your patrons, you need to :ref:`set that patron category <adding-a-patron-category-label>` to require overdue notices."
+msgstr "設定需要逾期通知的 :ref:`讀者類型 <adding-a-patron-category-label>`，才能發送逾期通知給讀者。"
+
+#: ../../source/tools.rst:1477
+#, fuzzy
+msgid "Depending on the value of your :ref:`OverdueNoticeCalendar <overduenoticecalendar-label>` preference the delay may or may not include days the library is closed based on the :ref:`holiday calendar <calendar-label>`."
+msgstr "依照您在 :ref:`OverdueNoticeCalendar` 偏好的設定內容可能根據 :ref:`行事曆 <calendar-label>` 的閉館日延後逾期的天數。"
+
+#: ../../source/tools.rst:1482
+msgid "The Overdue notice/status triggers tool gives the librarian the power to send up to three notices to each patron type notifying them of overdue items"
+msgstr "逾期通知/啟動狀態工具讓館員有權限，送出最多三次通知給逾期館藏的讀者"
+
+#: ../../source/tools.rst:1486
+msgid "|image260|"
+msgstr ""
+
+#: ../../source/tools.rst:1488
+msgid "Delay is the number of days after an issue is due before an action is triggered."
+msgstr "延遲日數是應該到期卻逾期後啟動通知的日數。"
+
+#: ../../source/tools.rst:1493
+msgid "If you want Koha to trigger an action (send a letter or restrict member), a delay value is required."
+msgstr "必須設定延遲日數，才能要求 Koha 啟動此作業 (送出信件或限制借閱權利)。"
+
+#: ../../source/tools.rst:1496
+msgid "To send additional notices, click on the tabs for 'Second' and 'Third' notice"
+msgstr "勾選分頁的 '第二' 與 '第三' 通知，送出更多的通知"
+
+#: ../../source/tools.rst:1499
+msgid "If you would like to prevent a patron from checking items out because of their overdue items, check the 'Restrict' box, this will put a notice on the patron's record at checkout informing the librarian that the patron cannot check out due to overdue items."
+msgstr "勾選 '限制' 盒，把通知置於讀者紀錄裡，在借出時，告知館員，該讀者還有逾期館藏，不得借出；如此一來，就達到禁止讀者借出館藏的目的。"
+
+#: ../../source/tools.rst:1504
+#, fuzzy
+msgid "If you choose to restrict a patron in this way you can also have Koha automatically remove that restriction with the :ref:`AutoRemoveOverduesRestrictions <autoremoveoverduesrestrictions-label>` preference."
+msgstr "可移除 :ref:`AutoRemoveOverduesRestrictions` 偏好的限制讓 Koha 自動移除該限制。"
+
+#: ../../source/tools.rst:1509
+#, fuzzy
+msgid "Next you can choose the delivery method for the overdue notice. You can choose from Email, Phone (if you are using the :ref:`i-tiva Talking Tech service <talkingtechitivaphonenotification-label>`), Print and SMS (if you have set your :ref:`SMSSendDriver <smssenddriver-label>`)."
+msgstr "接著選定傳送逾期通知的方式。選項有電子郵件、電話 (若使用 :ref:`iTiva Talking Tech 服務 <talkingtechitivaphonenotification-label>`)、印本與簡訊 (若使用 :ref:`SMSSendDriver`)。"
+
+#: ../../source/tools.rst:1517
+msgid "Patron card creator"
+msgstr "新增讀者證"
+
+#: ../../source/tools.rst:1519
+msgid "*Get there:* More > Tools > Patron card creator"
+msgstr "*到那裡：* 更多 &gt; 工具 &gt; 新增讀者證"
+
+#: ../../source/tools.rst:1521
+msgid "The patron card creator allow you to use layouts and templates which you design to print your custom patron cards on your printer. Here are some of the features of the patron card creator module:"
+msgstr "可以在新增讀者證使用列印用的客製化布局與模板。以下是若干新增讀者證模組的功能："
+
+#: ../../source/tools.rst:1525
+msgid "Customize patron card layouts with text retrieved from the Koha patron data"
+msgstr "從 Koha 讀者資料取得客製化讀者證布局的文字內容"
+
+#: ../../source/tools.rst:1528
+msgid "Design custom card templates for printed patron cards (to match the label sheets)"
+msgstr "設計讀者證面板供列印之用(符合書標格式)"
+
+#: ../../source/tools.rst:1531
+msgid "Build and manage batches of patron cards to print"
+msgstr "建立與管理供批次列印的讀者證"
+
+#: ../../source/tools.rst:1533
+msgid "Export (as PDF) single or multiple batches to print"
+msgstr "匯出 (PDF 格式) 一件或多件批次列印資料"
+
+#: ../../source/tools.rst:1535
+msgid "Export (as PDF) single or multiple patron cards from within a batch"
+msgstr "匯出 (PDF 格式) 一個批次的一件或多件讀者證"
+
+#: ../../source/tools.rst:1540
+msgid "Layouts"
+msgstr "布局"
+
+#: ../../source/tools.rst:1542
+msgid "*Get there:* More > Tools > Patron card creator > Manage > Layouts"
+msgstr "*到那裡：* 更多 &gt; 工具 &gt; 新增讀者證 &gt; 管理 &gt; 布局"
+
+#: ../../source/tools.rst:1544
+msgid "A layout defines the text and images that will be printed on to the card and where it will appear."
+msgstr "布局定義印在讀者證的文字與照片位置。"
+
+#: ../../source/tools.rst:1549
+msgid "Up to three lines of text, the patron's number in barcode representation and up to two images can be printed on to the card."
+msgstr "讀者證可使用最多三列文字的條碼，以及最多兩張照片。"
+
+#: ../../source/tools.rst:1555
+msgid "Add a layout"
+msgstr "新增布局"
+
+#: ../../source/tools.rst:1557
+msgid "If you have no layouts defined, you will add a new layout by clicking the 'New' button and choosing 'Layout'."
+msgstr "若還沒有設定布局，可按螢幕上方的 '新增' 鈕並選擇 '布局'，就能新增它。"
+
+#: ../../source/tools.rst:1560
+msgid "|image1224|"
+msgstr ""
+
+#: ../../source/tools.rst:1562
+msgid "You may also choose to press 'Manage layout' on the left side. Here you are offered a list of available layouts you can select for editing. But at the top of the page there is still the 'New layout' button."
+msgstr "可按左方的 '管理布局'。出垷可供編輯的布局清單。但每頁上方仍有 '新增布局' 鈕。"
+
+#: ../../source/tools.rst:1566
+msgid "|image261|"
+msgstr ""
+
+#: ../../source/tools.rst:1568
+msgid "The name you assign to the layout is for your benefit, name it something that will be easy to identify at a later date"
+msgstr "指定給布局的名稱係供您未來容易辨識使用"
+
+#: ../../source/tools.rst:1571
+msgid "The Units pull down is used to define what measurement scale you're going to be using for your layout."
+msgstr "以下拉選單使用的單位設定在布局內使用的度量的單位。"
+
+#: ../../source/tools.rst:1574 ../../source/tools.rst:1674
+#: ../../source/tools.rst:1766
+msgid "|units|"
+msgstr ""
+
+#: ../../source/tools.rst:1578 ../../source/tools.rst:1678
+#: ../../source/tools.rst:1770
+msgid "A Postscript Point is 1/72\", an Adobe Agate is 1/64\", an Inch is 25.4 SI Millimeters"
+msgstr "Postscript Point 是 1/72\" Adobe Agate 是 1/64\"，一英吋是 25.4 SI 公釐"
+
+#: ../../source/tools.rst:1581
+msgid "Next, note if this layout is for the front or the back of the patron card"
+msgstr "接著，說明布局為讀者證的正面或背面"
+
+#: ../../source/tools.rst:1586
+msgid "You will need a layout for both the front and back of your card if you have 2-sided library cards, this option doesn't allow you to print two sided cards, just lets you track which side of the card you're designing."
+msgstr "使用 2 面讀者證時需設定正反面的布局，此選項不允許列印雙面讀者證，祗能用於追蹤設計的讀者證。"
+
+#: ../../source/tools.rst:1591
+msgid "You have the option of adding up to 3 lines of text to your card. Your text can be static text of your choosing and/or fields from the patron record. If you want to print fields from the patron record you want to put the field names in brackets like so - <firstname>"
+msgstr "讀者證最多有 3 列文字。可以是固定的文字或從讀者紀錄提取的欄位內容。把欄位名稱置於方括號內，就能提取欄位的內容 - <firstname>"
+
+#: ../../source/tools.rst:1598
+msgid "A full list of field names can be found in the database schema at http://schema.koha-community.org"
+msgstr "可從資料庫概要 http://schema.koha-community.org 取得檔案名稱的清單"
+
+#: ../../source/tools.rst:1601
+msgid "For each line of text, you can choose your font, font size and the location of the text on the card using the lower X and Y coordinates"
+msgstr "對每列文字，您需選定字型、大小與讀者證上文字的位置"
+
+#: ../../source/tools.rst:1604
+msgid "In order to show the barcode and the patron card number you will need to check the 'Print card number as barcode' option. This will turn the patron card number into a barcode. If you want the number to print in human readable format you will need to check the 'Print card number as text under barcode' option."
+msgstr "勾選 '列印讀者證號碼當成條碼' 顯示條碼與讀者證號碼。把讀者證號碼轉換為條碼。還可勾選 '將讀者證號碼以文字方式列印在條碼之下' 讓條碼可以被肉眼閱讀。"
+
+#: ../../source/tools.rst:1610
+msgid "Finally you can choose up to two images to print on the card."
+msgstr "最後，可選擇兩張以內的照片印在讀者證上。"
+
+#: ../../source/tools.rst:1612
+msgid "One can be the :ref:`patron image <upload-patron-images-label>` which you can resize to meet your needs."
+msgstr "可以調整 :ref:`讀者照片 <upload-patron-images-label>` 的大小，以符合 Koha 的要求。"
+
+#: ../../source/tools.rst:1615
+msgid "The other image can be something like a library logo or symbol that you uploaded using the ':ref:`manage images <manage-images-label>`' module of the patron card creator Tool."
+msgstr "以新增讀者證工具的 ':ref:`管理照片 <manage-images-label>`' 模組上傳另張圖書館標識或符號的圖片。"
+
+#: ../../source/tools.rst:1622
+msgid "It is the designers responsibility to define textlines, barcode and images such that overlap is avoided."
+msgstr "設計者需負責文字、條碼與照片以免重複。"
+
+#: ../../source/tools.rst:1625
+msgid "After saving, your layouts will appear on the 'Manage layouts' page."
+msgstr "儲存之後，您的布局將出現在 '管理布局' 頁面。"
+
+#: ../../source/tools.rst:1627
+msgid "|image263|"
+msgstr ""
+
+#: ../../source/tools.rst:1632
+msgid "Templates"
+msgstr "模板"
+
+#: ../../source/tools.rst:1634
+msgid "*Get there:* More > Tools > Patron card creator > Manage > Card templates"
+msgstr "*到那裡：* 更多 &gt; 工具 &gt; 新增讀者證 &gt; 管理 &gt; 讀者證模板"
+
+#: ../../source/tools.rst:1637
+msgid "A template describes the arrangement of labels on the label sheet/card stock you are using. This might be Avery 5160 for address labels, Gaylord 47-284 for spine labels or Avery 28371 for your patron cards, just to give a couple of examples. All of the information you will need for setting up a template may be on the packaging, and if not it can usually be found on the vendor's website or can be measured from a sample sheet."
+msgstr "布局的作用是在書標/讀者證排列標籤。可能是 Avery 5160 地址機、Gaylord 47-284 書標機或 28371 讀者證製作機等。布局所需的資訊可能在包裝上，或者從代理商的網站或範例取得。"
+
+#: ../../source/tools.rst:1648
+msgid "Add a template"
+msgstr "新增模版"
+
+#: ../../source/tools.rst:1650
+msgid "To add a new template click on the 'New template' button at the top of your page which brings you to the Edit template form immediately. You may also choose to press 'Manage templates' on the left side. Here you are offered a list of available templates you can select for editing. But in the top of the page there is still the 'New template' button."
+msgstr "按頁面上方的 '新增模版' 就立即進入編輯模版頁面。可按左方的 '管理模版' 鈕。從可得的模版中選取編輯的模版。不過在頁面上方仍有 '新增模版' 鈕。"
+
+#: ../../source/tools.rst:1656
+msgid "|newcardtemplate|"
+msgstr ""
+
+#: ../../source/tools.rst:1658
+msgid "Using the form that appears after pressing either 'Edit' or 'New template' you can define the template for your sheet of labels or cards."
+msgstr "按了 '編輯' 或 '新增布局' 後就可以在標籤或讀者證上設定布局。"
+
+#: ../../source/tools.rst:1661
+msgid "|image265|"
+msgstr ""
+
+#: ../../source/tools.rst:1663
+msgid "Template ID is simply a system generated unique id"
+msgstr "模版代碼是系統產生的代碼"
+
+#: ../../source/tools.rst:1665
+msgid "Template code should be the name of this template to identify it on a list of templates"
+msgstr "模版代碼應足以在代碼清單中代表該模版"
+
+#: ../../source/tools.rst:1668
+msgid "You can use the template description to add additional information about the template"
+msgstr "您可用模板說明新增模板的資訊"
+
+#: ../../source/tools.rst:1671
+msgid "The Units pull down is used to define what measurement scale you're going to be using for the template."
+msgstr "以下拉選單使用的單位設定在布局內使用的度量的單位。"
+
+#: ../../source/tools.rst:1681
+msgid "The measurements (page height, page width, card width, card height) may be on the packaging, and if not it can usually be found on the vendor's website or can be measured from a sample sheet."
+msgstr "度量 (頁高、頁廣、卡片廣、卡片高) 可從包裝取得，也可從代理商網站或樣張量取。"
+
+#: ../../source/tools.rst:1685
+msgid "A profile is a set of \"adjustments\" applied to a given template just prior to printing which compensates for anomalies unique and peculiar to a given printer (to which the profile is assigned)."
+msgstr "設定檔是一組適用於指定模版的 \"調整\"，於列印之前補償特定印表機的偏移 (指定給該印表機)。"
+
+#: ../../source/tools.rst:1689
+msgid "Before defining a profile try printing some sample cards so that you can take measurements to define a profile to perform the right adjustments for your printer/template combination."
+msgstr "挑選列印的設定檔前先試印幾張讀者證就能看出印表機/模版組合的可行性。"
+
+#: ../../source/tools.rst:1693
+msgid "After finding and documenting any anomalies in the printed document, then you can :ref:`create a profile <patron-add-a-profile-label>` and assign it to the template."
+msgstr "從印表機文件找到偏移值後，:ref:`新增設定檔 <patron-add-a-profile-label>` 並指定給模板。"
+
+#: ../../source/tools.rst:1699
+msgid "Do not specify a profile unless needed, i.e. do not click to define a printer profile. It is not possible to remove a profile from a template but you can switch to another profile."
+msgstr "必要時才建置設定檔，不要隨意設定印表機設定檔。不可能移除模版內移除設定檔但可以切換至另個設定檔。"
+
+#: ../../source/tools.rst:1705
+msgid "If you are using different printers you may be required to define several templates that are identical only different profiles are specified."
+msgstr "使用不同的印表機則應設定多個模版。"
+
+#: ../../source/tools.rst:1709
+msgid "After saving, your templates will appear on the 'Manage templates' page."
+msgstr "儲存之後，您的布局將出現在 '管理布局' 頁面。"
+
+#: ../../source/tools.rst:1711
+msgid "|image267|"
+msgstr ""
+
+#: ../../source/tools.rst:1716
+msgid "Profiles"
+msgstr "設定檔"
+
+#: ../../source/tools.rst:1718
+msgid "*Get there:* More > Tools > Patron card creator > Manage > Profiles"
+msgstr "*到那裡：* 更多 &gt; 工具 &gt; 新增讀者證 &gt; 管理 &gt; 設定檔"
+
+#: ../../source/tools.rst:1720
+msgid "A profile is a set of \"adjustments\" applied to a given :ref:`template <patron-templates-label>` just prior to printing which compensates for anomalies unique and peculiar to a given printer. This means if you set a template up and then print a sample set of data and find that the items are not all aligned the same on each card, you need to set up a profile for each printer (or even different tray selections on the same printer) to make up for the differences in printing styles, such as the shifting of text to the left, right, top or bottom."
+msgstr "設定檔是一組適用於指定 :ref:`模版 <patron-templates-label>` 的 \"調整\" 於列印之前補償特定印表機的偏移。設定模版後並列印樣本資料若發現館藏並未出現在預期的位置，對該印表機給個設定檔 (或同個印表機的不同紙匣)，指示上、下、左、右的位移值。"
+
+#: ../../source/tools.rst:1729
+msgid "If your cards are printing just the way you want, you will not need a profile."
+msgstr "印出的讀者證與預期相同，就不需要設定檔。"
+
+#: ../../source/tools.rst:1735
+msgid "Add a profile"
+msgstr "新增設定檔"
+
+#: ../../source/tools.rst:1737
+msgid "To add a new profile, you want to click on the 'Profiles' button at the top of your page and choose 'New profile'"
+msgstr "勾選頁面上方的 '設定檔' 鈕，選取 '新增設定檔'，就能新增設定檔"
+
+#: ../../source/tools.rst:1740
+msgid "|image268|"
+msgstr ""
+
+#: ../../source/tools.rst:1742
+msgid "To add a new profile, you want to click on the 'New profile' button at the top of your page. Using the form that appears you can define the values to correct the card misalignment on your label sheet. You may also choose 'Manage profiles' on the left side and select one of the currently available profiles for editing."
+msgstr "按頁面上方的 '新增設定檔' 鈕，就能新增設定檔。以表單方式設定借書證偏移的部份。可從左方的 '管理設定檔' 選定欲編輯的設定檔。"
+
+#: ../../source/tools.rst:1748
+msgid "|image269|"
+msgstr ""
+
+#: ../../source/tools.rst:1750
+msgid "The Printer name and Paper bin do not have to match your printer exactly, they are for your reference so you can remember what printer you have set the profile for."
+msgstr "印表機名稱與紙匣不符合現況，這是供您的設定檔使用。"
+
+#: ../../source/tools.rst:1756
+msgid "For example: if you want to use the Printer model number in printer name you can, or you can call it 'the printer on my desk'"
+msgstr "例如：可在印表機名稱內使用印表機型號，或者稱他為 '我的桌面印表機'"
+
+#: ../../source/tools.rst:1760
+msgid "Template will be filled in once you have chosen which template to apply the profile to on the :ref:`template edit form <patron-add-a-template-label>`"
+msgstr "在 :ref:`編輯模板表單 <patron-add-a-template-label>` 選定設定檔後即把內容加入該模板內"
+
+#: ../../source/tools.rst:1763
+msgid "The Units pull down is used to define what measurement scale you're going to be using for your profile."
+msgstr "單位下拉選單用在您的設定檔內，用以設定衡量的單位。"
+
+#: ../../source/tools.rst:1773
+msgid "Offset should be used when the entire image is off center either vertically or horizontally. Creep describes a condition where the distance between the labels changes across the page or up and down the page"
+msgstr "整個圖像水平或垂宜偏離中心就該處理位移。小心描述該偏離的狀況"
+
+#: ../../source/tools.rst:1778
+msgid "For offset and creep values, negative numbers move the printed information up and to the left on the printed sheet and positive numbers move down and to the right"
+msgstr "對偏移值而言，負數表示向上與向左移動內容而正數表示向下與向右"
+
+#: ../../source/tools.rst:1782
+msgid "Example: the text is printed 0 .25\" from the left edge of the first label, 0 .28\" from the left edge of the second label and 0 .31\" from the left edge of the third label. This means the horizontal creep should be set to (minus) -0.03 \" to make up for this difference."
+msgstr "範例：距離第一個標籤左緣 0 .25\"，距離第二個標籤左緣 0 .28\" 且距離第三個標籤左緣 0 .31\"。表示水平偏移應設為 (減) -0.03 \" 以補償其差距。"
+
+#: ../../source/tools.rst:1788
+msgid "After saving, your profiles will appear on the 'Manage printer profiles' page."
+msgstr "儲存之後，設定檔將出現在 '管理印表機設定檔' 頁面。"
+
+#: ../../source/tools.rst:1791
+msgid "|image271|"
+msgstr ""
+
+#: ../../source/tools.rst:1793
+msgid "Once you have saved your new profile, you can return to the list of templates and choose to edit the template that this profile is for."
+msgstr "儲存新的設定檔後，可回到模板清單並選擇編輯該模板。"
+
+#: ../../source/tools.rst:1799
+msgid "Batches"
+msgstr "批次"
+
+#: ../../source/tools.rst:1801
+msgid "*Get there:* More > Tools > Patron card creator > Manage > Card batches"
+msgstr "*到那裡：* 更多 &gt; 工具 &gt; 新增讀者證 &gt; 管理 &gt; 批次讀者證"
+
+#: ../../source/tools.rst:1804
+msgid "A batch is a collection of patrons for whom you want to generate cards."
+msgstr "批次是一群讀者，您可批次製作讀者證。"
+
+#: ../../source/tools.rst:1809
+msgid "Add a batch"
+msgstr "新增批次"
+
+#: ../../source/tools.rst:1811
+msgid "To add a new batch, you want to click on the 'New batches' button at the top of your page. Choosing the menu item 'Manage batches' on the left a list of already defined batches is displayed. In this display you can either select a batch for editing or add a new batch."
+msgstr "按頁面上方的 '新增批次'，就能新增批次了。選擇左方的 '管理批次' 就可從選單中選取批次。您可從這裡選取待編輯的批次或新增批次。"
+
+#: ../../source/tools.rst:1816
+msgid "|image272|"
+msgstr ""
+
+#: ../../source/tools.rst:1818
+msgid "For a new batch a message pops up and directs you to select patrons to be processed in this batch."
+msgstr "彈出新的批次訊息並指引您選擇被發送的讀者。"
+
+#: ../../source/tools.rst:1821
+msgid "|image1225|"
+msgstr ""
+
+#: ../../source/tools.rst:1823
+msgid "After choosing the 'Add patron(s)' button the Patron Search window pops up."
+msgstr "選定 '新增館藏' 鈕後彈出讀者搜尋視窗。"
+
+#: ../../source/tools.rst:1826
+msgid "|patronsearchpopup|"
+msgstr ""
+
+#: ../../source/tools.rst:1828
+msgid "From here you can search for patrons to add to your batch by any part of their name, their category and/or library. Entering \\* in the search box will display all the patrons."
+msgstr "從這裡搜尋讀者姓名、類型或所屬圖書館就能把讀者加入批次內。以萬用字元 \\* 搜尋所有的讀者。"
+
+#: ../../source/tools.rst:1832
+msgid "|image1227|"
+msgstr ""
+
+#: ../../source/tools.rst:1834
+msgid "From the results you can add patrons to the batch by clicking the 'Add' button. After adding patrons from the results you can start over and perform another search or click 'Close' at the bottom of the screen to indicate that you are done. You will then be presented with your batch."
+msgstr "按 '新增' 鈕就能新增讀者至批次。從結果新增讀者後可執行另個搜尋重新來過或按螢幕下方的 '關閉' 鈕表示做完了。然後出現此批次。"
+
+#: ../../source/tools.rst:1840
+#, fuzzy
+msgid "|image1228| If you are satisfied with your batch you can proceed to export. If you want to correct or even delete that batch the buttons to do so can be found at the top of your screen. You can always come back here through the 'Manage > Card batches' button."
+msgstr "|image1228| If you are satisfied with your batch you can proceed to export. If you want to correct or even delete that batch the buttons to do so can be found at the top of your screen. You can always come back here through the 'Manage > Card batches' button."
+
+#: ../../source/tools.rst:1846
+msgid "If you would like to export all patron cards you can click 'Export card batch' otherwise you can choose specific patrons to print cards for by checking the box to the right of their names and then choose 'Export selected card(s)' at the top."
+msgstr "可以按 '批次匯出讀者證' 或勾選讀者名字右方的盒，再按上方的 '匯出讀者證' 鈕，匯出勾選的讀者。"
+
+#: ../../source/tools.rst:1851
+msgid "The export menu will ask you to choose a template, a layout and starting position (where on the sheet should printing begin)."
+msgstr "匯出選單請您指定模板、布局與開始位置 (在報表紙開始列印的位置)。"
+
+#: ../../source/tools.rst:1856
+msgid "For the starting position if the first 6 labels have already been used on your sheet you can start printing on label in position 7 on the sheet. The labels are numbered left to right from top to bottom."
+msgstr "若前 6 個書標已使用則可從第 7 個位置開始列印。書標的位置編碼係由左而右由上而下。"
+
+#: ../../source/tools.rst:1860
+msgid "|image1229|"
+msgstr ""
+
+#: ../../source/tools.rst:1862
+msgid "Once you click 'Export' you will be presented with a PDF of your labels for printing"
+msgstr "按下 '匯出' 鈕後出現列印書標的 PDF 檔案"
+
+#: ../../source/tools.rst:1865 ../../source/tools.rst:2072
+msgid "|image1230|"
+msgstr ""
+
+#: ../../source/tools.rst:1867
+msgid "When you open the PDF you will see the cards for printing"
+msgstr "開啟 PDF 檔案後可看到待列印的讀者證"
+
+#: ../../source/tools.rst:1869
+msgid "|image273|"
+msgstr ""
+
+#: ../../source/tools.rst:1871
+msgid "The above image shows a layout that is made up of two textlines. The first one is just plain text, the second one is composed of the <firstname> <surname> fields. A patron image is printed (if available) and the barcode of patrons number is displayed in code 39. All this is printed on a template with three columns and 8 rows using position 1-3 here. When printing this PDF please take care that your printer doesn't rescale the PDF (e.g do not fit to paper size) otherwise the printer will not be able to print to the right place per your templates."
+msgstr "以上的圖像是兩行文字式的布局。第一行是純文字，第二行是兩個欄位的內容 <firstname> <surname>。可以列印讀者照片 (若提供的話) 與 39 碼式的讀者號。以三欄 8 列的模板在位置 1-3 列印。列印時不會重組 PDF (即不會自動符合紙張大小) 印表機可能無法在模板上正確印出。"
+
+#: ../../source/tools.rst:1883
+msgid "Manage images"
+msgstr "管理照片"
+
+#: ../../source/tools.rst:1885
+msgid "*Get there:* More > Tools > Patron card creator > Manage > Images"
+msgstr "*到那裡：* 更多 &gt; 工具 &gt; 新增讀者證 &gt; 管理 > 照片"
+
+#: ../../source/tools.rst:1887
+#, fuzzy
+msgid "Images uploaded using this tool will appear on the menu when creating :ref:`patron card layouts <patron-card-layouts-label>`. You are limited in how many images you can upload (not counting patron images) by the :ref:`ImageLimit <imagelimit-label>` system preference."
+msgstr "新增 :ref:`讀者證布局 <patron-layouts-label>` 時以此工具上傳的照片將出現在選單內。經由 :ref:`ImageLimit` 系統偏好限制上傳的照片數 (不含讀者照片)。"
+
+#: ../../source/tools.rst:1894
+msgid "Images must be under 500k in size."
+msgstr "照片必須小於500K。"
+
+#: ../../source/tools.rst:1898
+msgid "Pictures uploaded with this tool should be at least 300dpi which is the minimum quality for a printable image."
+msgstr "以此工具上傳的照片不得少於300dpi，這是列印的最低品質。"
+
+#: ../../source/tools.rst:1901
+msgid "In the center of the screen is a simple upload form, simply browse for the file on your computer and give it a name you'll recognize later."
+msgstr "在螢幕中央是一個簡單的上傳表單，瀏覽電腦的檔案，選定後給個容易辨識的名稱。"
+
+#: ../../source/tools.rst:1904
+msgid "|image274|"
+msgstr ""
+
+#: ../../source/tools.rst:1906
+msgid "Once the file is uploaded you will be presented with a confirmation message."
+msgstr "檔案上傳後，出現確認訊息。"
+
+#: ../../source/tools.rst:1909
+msgid "|image275|"
+msgstr ""
+
+#: ../../source/tools.rst:1911
+msgid "And the image will be listed with all of your others on the right hand side of the page."
+msgstr "照片與其他資料將顯示在頁面的右手邊。"
+
+#: ../../source/tools.rst:1914
+msgid "|image276|"
+msgstr ""
+
+#: ../../source/tools.rst:1916
+msgid "To delete one or multiple of these images, click the checkbox to the right of each image you want to delete and click the 'Delete' button."
+msgstr "勾選照片右方盒，再按下 '刪除' 鈕，就能刪除照片。"
+
+#: ../../source/tools.rst:1922
+msgid "Batch patron deletion/anonymization"
+msgstr "批次刪除讀者/匿名讀者"
+
+#: ../../source/tools.rst:1924
+msgid "*Get there:* More > Tools > Patrons and circulation > Batch patron deletion/anonymization"
+msgstr "*到那裡：* 更多 &gt; 工具 &gt; 讀者與流通 &gt; 批次刪除讀者/匿名讀者"
+
+#: ../../source/tools.rst:1927
+msgid "This tool allows you to bulk anonymize circulation histories (this means that you keep records of how many times items were checked out - but not the patrons who checked the items out) or bulk delete patrons (remove them from the system completely)."
+msgstr "此工具允許批次匿名流通紀錄 (圖書館仍保留館藏借出次數的資料 - 但沒有借閱者的資料) 或批次刪除讀者 (從系統裡完全移除)。"
+
+#: ../../source/tools.rst:1934
+msgid "Patrons with outstanding fines or items checked out are not saved. They are not completely removed from the system (they are only moved to the delete\\_borrowers table), but this tool does not provide as many checks as one may desire."
+msgstr "不能儲存還有罰款待繳或待還館藏的讀者。不能從系統移除他們 (祗能從 delete\\_borrowers 表單移除)，但此工具不提供其他的選項。"
+
+#: ../../source/tools.rst:1941
+msgid "Before using this tool it is recommended that you backup your database. Changes made here are permanent."
+msgstr "使用此工具前建議先備份資料庫。改變後無法復原。"
+
+#: ../../source/tools.rst:1946
+#, fuzzy
+msgid "The anonymization will fail quietly if :ref:`AnonymousPatron <anonymouspatron-label>` preference does not contain a valid value."
+msgstr "若 :ref:`AnonymousPatron` 偏好的值無效則匿名化不會成功。"
+
+#: ../../source/tools.rst:1950
+msgid "|image277|"
+msgstr ""
+
+#: ../../source/tools.rst:1952
+msgid "To either delete or anonymize patrons"
+msgstr "刪除或匿名讀者"
+
+#: ../../source/tools.rst:1954
+msgid "Check the 'Verify' box on the task you would like to complete (delete or anonymize)"
+msgstr "在您想要完成的工作 (刪除或匿名) 裡，勾選 '確認' 鈕"
+
+#: ../../source/tools.rst:1957
+msgid "Enter a date before which you want to alter the data"
+msgstr "改變資料前，先鍵入日期"
+
+#: ../../source/tools.rst:1959
+msgid "If deleting patrons you can also choose to find patrons who"
+msgstr "尋欲刪除的讀者"
+
+#: ../../source/tools.rst:1961
+msgid "have not borrowed since a specific date"
+msgstr "指定日期後不曾借出館藏的讀者"
+
+#: ../../source/tools.rst:1963
+msgid "have accounts that will expire before a specific date"
+msgstr "指定日期前就已到期的讀者"
+
+#: ../../source/tools.rst:1965
+msgid "are in a specific :ref:`patron category <patron-categories-label>`"
+msgstr "是特定的 :ref:`讀者類型 <patron-categories-label>`"
+
+#: ../../source/tools.rst:1967
+msgid "are in a :ref:`patron list <patron-lists-label>`"
+msgstr "是在 :ref:`讀者清單 <patron-lists-label>`"
+
+#: ../../source/tools.rst:1969
+msgid "Click 'Next'"
+msgstr "勾選 '下一步'"
+
+#: ../../source/tools.rst:1971
+msgid "A confirmation will appear asking if you're sure this is what you want to happen"
+msgstr "將出現確認訊息，讓您確認將進行的工作"
+
+#: ../../source/tools.rst:1974
+msgid "|image278|"
+msgstr ""
+
+#: ../../source/tools.rst:1976
+msgid "Clicking 'Finish' will delete or anonymize your data"
+msgstr "勾選 '完成' 將刪除或匿名您的資料"
+
+#: ../../source/tools.rst:1978
+msgid "|image279|"
+msgstr ""
+
+#: ../../source/tools.rst:1983
+msgid "Batch patron modification"
+msgstr "批次讀者修改"
+
+#: ../../source/tools.rst:1985
+msgid "*Get there:* More > Tools > Patrons and circulation > Batch patron modification"
+msgstr "*到那裡：* 更多 &gt; 工具 &gt; 讀者與流通 &gt; 批次修改讀者"
+
+#: ../../source/tools.rst:1988
+msgid "With this tool you can make edits to a batch of patron records. Simply load in a file of cardnumbers (one per line), choose from a :ref:`list of patrons <patron-lists-label>` or scan patron card numbers in to the box provided."
+msgstr "此工具允許批次編輯讀者記錄。上傳讀者號檔案 (一號一行)，選擇 :ref:`讀者清單 <patron-lists-label>` 或掃瞄讀者號。"
+
+#: ../../source/tools.rst:1993
+msgid "|image280|"
+msgstr ""
+
+#: ../../source/tools.rst:1995
+msgid "Once you have the file loaded or the barcodes scanned click 'Continue.' You will be presented with a list of the patrons and the changes you can make."
+msgstr "上傳檔案或掃瞄條碼後可按 '繼續' 鈕。將出現包括剛才改變的者清單。"
+
+#: ../../source/tools.rst:1999
+msgid "|image281|"
+msgstr ""
+
+#: ../../source/tools.rst:2001
+msgid "To the left of each text box there is a checkbox. Clicking that checkbox will clear our the field values."
+msgstr "每個文字盒左邊有勾選盒。用來清除欄位裡的值。"
+
+#: ../../source/tools.rst:2006
+msgid "If the field is mandatory you will not be able to clear the value in it."
+msgstr "不能清除必備欄位的值。"
+
+#: ../../source/tools.rst:2009
+msgid "If you have multiple patron attributes you can change them all by using the '+ New' link to the right of the text box. This will allow you to add another attribute value."
+msgstr "若有多個讀者屬性可使用文字區右方的加號 '新增+' 切換它。允許您新增其他屬性。"
+
+#: ../../source/tools.rst:2013
+msgid "|image282|"
+msgstr ""
+
+#: ../../source/tools.rst:2015
+msgid "Once you have made the changes you want, you can click 'Save' and Koha will present you with the changed patron records."
+msgstr "改變之後，勾選 '儲存' Koha 將出現改變後的讀者紀錄。"
+
+#: ../../source/tools.rst:2022
+msgid "Batch extend due dates"
+msgstr "批次延長到期日"
+
+#: ../../source/tools.rst:2024
+msgid "*Get there:* More > Tools > Patrons and circulation > Batch extend due dates"
+msgstr "*到那裡：* 更多 > 工具 > 讀者與流通 > 批次延長到期日"
+
+#: ../../source/tools.rst:2026
+msgid "This tool allows you to update due dates in bulk, this can be useful if a library needs to close unexpectedly and cannot accept returns."
+msgstr "此工具讓您批次更新到期日期，如果圖書館需要無預期地關閉且無法接受還入，這將非常有用。"
+
+#: ../../source/tools.rst:2028
+msgid "|batchextendselection|"
+msgstr ""
+
+#: ../../source/tools.rst:2030
+msgid "You can filter the selection of checkouts based on patron category, library or a combination of both.  You can select multiple options in the dropdown lists if needed."
+msgstr "您可以根據讀者類別、圖書館或兩者的組合篩選借出選擇。  如果需要，您可以在下拉式選單中選擇多個選項。"
+
+#: ../../source/tools.rst:2032
+msgid "Next, specify a date range for the current due date of the materials on loan.  For example, you may want to extend the due dates for recent checkouts but exclude long overdue loans."
+msgstr "接下來，為借出資料的當前到期日期指定一個日期範圍。  例如，您可能想要延長最近借出的到期日期，但不包括長期逾期的借出。"
+
+#: ../../source/tools.rst:2034
+msgid "Choose to extend the due dates either to a new hard due date or by a number of days.  Using the number of days option can prevent large numbers of loans being due on the same date."
+msgstr "選擇將到期日延長到新的確定到期日或延長幾天。  使用天數選項可以防止大量借出在同一日到期。"
+
+#: ../../source/tools.rst:2036
+msgid "You can choose whether to preview the results of your selections."
+msgstr "您可以選擇是否預覽選擇的結果。"
+
+#: ../../source/tools.rst:2038
+msgid "|batchextendpreview|"
+msgstr ""
+
+#: ../../source/tools.rst:2040
+msgid "If you preview the results you will see a table which shows you the current due date and the new due date so that you can check your selections.  You can untick checkouts if they are incorrect or go back and change your selection."
+msgstr "如果您預覽結果，您將看到一個顯示當前截止日期和新截止日期的表格，以便您檢查您的選擇。  如果不正確，您可以取消勾選借出或返回並更改您的選擇。"
+
+#: ../../source/tools.rst:2042
+msgid "Click on the Modify selected checkouts button to see a confirmation screen showing the checkouts that have been modified."
+msgstr "點擊修改已選定的借出按鈕以查看顯示已修改為借出的確認畫面。"
+
+#: ../../source/tools.rst:2045
+msgid "Access to this tool requires the Tools permission `batch_extend_due_dates`."
+msgstr "使用此工具需要工具權限`batch_extend_due_dates`."
+
+#: ../../source/tools.rst:2051
+msgid "Tag moderation"
+msgstr "管理標籤"
+
+#: ../../source/tools.rst:2053
+msgid "*Get there:* More > Tools > Patrons and circulation > Tags"
+msgstr "*到那裡：* 更多 &gt; 工具 &gt; 讀者與流通 &gt; 標籤"
+
+#: ../../source/tools.rst:2055
+msgid "Depending on your :ref:`tagging system preferences <tagging-label>`, librarians may need to approve tags before they are published on the OPAC. This is done via the tag moderation tool. If there are tags awaiting moderation they will be listed on the main staff dashboard under the module labels:"
+msgstr "依照 :ref:`標籤系統偏好 <tagging-label>` 的設定方式，標籤需通過館員的審核才能出現的 OPAC。可經由管理標籤工具設定它。待審核標籤出現在館員介面的主頁之下："
+
+#: ../../source/tools.rst:2061
+msgid "|image283|"
+msgstr ""
+
+#: ../../source/tools.rst:2063
+msgid "To moderate the tags visit the Tags tool. When first visiting the tool, you will be presented with a list of tags that are pending approval or rejection by a librarian"
+msgstr "以標籤工具管理標籤。首次使用此工具時，出現待評審的標籤清單，或被館員拒絕的標籤清單"
+
+#: ../../source/tools.rst:2067
+msgid "|image284|"
+msgstr ""
+
+#: ../../source/tools.rst:2069
+msgid "To see all of the titles this tag was added to simply click on the term"
+msgstr "點選標籤詞彙，就可看到所有的相關題名"
+
+#: ../../source/tools.rst:2074
+msgid "From this list of titles you can remove a tag without outright rejecting it from being used in the future by clicking the 'Remove tag' button to the right of the title."
+msgstr "按題名右方的 '移除標籤' 鈕，就可以移除個別題名的標籤。"
+
+#: ../../source/tools.rst:2078
+msgid "To approve a tag, you can either click the 'Approve' button in line with the term, or check all terms you want to approve and click 'Approve' below the table."
+msgstr "勾選個別詞彙列的 '核准' 鈕或勾選所有的詞彙再選取表單下的 '核准' 鈕，都可以核准欄號。"
+
+#: ../../source/tools.rst:2082
+msgid "To reject a tag, you can either click the 'Reject' button in line with the term, or check all terms you want to reject and click 'Reject' below the table."
+msgstr "點選詞彙的 '拒絕' 鈕，或勾選表格下方的 '拒絕'，都可拒絕標籤。"
+
+#: ../../source/tools.rst:2086
+msgid "Once a tag has been approved or rejected it will be moved to the appropriate list of tags. A summary of all tags will appear on the right of the screen."
+msgstr "標籤被審核通過或拒絕後，將移到適當的標籤清單。所有標籤的摘要將顯示在螢幕右方。"
+
+#: ../../source/tools.rst:2090
+msgid "|image285|"
+msgstr ""
+
+#: ../../source/tools.rst:2092
+msgid "Even though a tag is approved or rejected, it can still be moved to another list. When viewing approved tags each tag has the option to reject:"
+msgstr "即便已通過或拒絕的標籤，仍可移至其他清單。檢視通過的標籤時，有個拒絕的選項："
+
+#: ../../source/tools.rst:2096
+msgid "|image286|"
+msgstr ""
+
+#: ../../source/tools.rst:2098
+msgid "To check terms against the approved and rejected lists (and possibly against :ref:`the dictionary <tagsexternaldictionary-label>` you have assigned for tag moderation) simply enter the term into the search box on the bottom right of the screen to see the status of the term"
+msgstr "在螢幕右下方的搜尋盒裡，鍵入術語，即可搜尋該術語的合法性 (或許使用指定的標籤審核 :ref:`字典 <tagsexternaldictionary-label>`)"
+
+#: ../../source/tools.rst:2103
+msgid "|image287|"
+msgstr ""
+
+#: ../../source/tools.rst:2105
+msgid "Finally you can find tags by using the filters on the left."
+msgstr "最後以左方的篩選器搜尋標籤。"
+
+#: ../../source/tools.rst:2107
+msgid "|image288|"
+msgstr ""
+
+#: ../../source/tools.rst:2112
+msgid "Upload patron images"
+msgstr "上傳讀者圖片"
+
+#: ../../source/tools.rst:2114
+msgid "*Get there:* More > Tools > Patrons and circulation > Upload patron images"
+msgstr "*到那裡：* 更多 &gt; 工具 &gt; 讀者與流通 &gt; 上傳讀者照片"
+
+#: ../../source/tools.rst:2117
+msgid "Patron images can be uploaded in bulk if you are :ref:`allowing patron images <patronimages-label>` to be attached to patron records. These images can also be used when creating :ref:`patron cards <patron-card-creator-label>`."
+msgstr "若 :ref:`允許讀者照片 <patronimages-label>` 附加在讀者紀錄內，就可以大批上傳讀者照片。也可用這些照片新增 :ref:`讀者證 <patron-card-creator-label>`。"
+
+#: ../../source/tools.rst:2121
+msgid "Create a txt file and title it \"DATALINK.TXT\" or \"IDLINK.TXT\""
+msgstr "新增文字檔，並命名為 \"DATALINK.TXT\" 或 \"IDLINK.TXT\""
+
+#: ../../source/tools.rst:2123
+msgid "On each line in the text file enter the patron's card number followed by comma (or tab) and then the image file name"
+msgstr "每列的內容是讀者證號碼以及逗點 (或定位) 和照片檔名"
+
+#: ../../source/tools.rst:2126
+msgid "|image289|"
+msgstr ""
+
+#: ../../source/tools.rst:2128
+msgid "Make sure that your TXT file is a plain text document, not RTF."
+msgstr "確定您TXT檔為純文字檔，不是RTF檔。"
+
+#: ../../source/tools.rst:2130
+msgid "Zip up the text file and the image files"
+msgstr "關閉文字檔與圖像檔"
+
+#: ../../source/tools.rst:2132
+msgid "Go to the Upload patron images tool"
+msgstr "進入上傳讀者照片工具"
+
+#: ../../source/tools.rst:2134
+msgid "|image290|"
+msgstr ""
+
+#: ../../source/tools.rst:2136
+msgid "For a single image, simply point to the image file and enter the patron card number"
+msgstr "對單一照片而言，點選該照片檔案，並鍵入讀者號"
+
+#: ../../source/tools.rst:2139
+msgid "For multiple images, choose to upload a zip file"
+msgstr "多筆圖片時，選擇上傳一個壓縮檔"
+
+#: ../../source/tools.rst:2141
+msgid "After uploading you will be presented with a confirmation"
+msgstr "上傳之後，出現確認訊息"
+
+#: ../../source/tools.rst:2143
+msgid "|image291|"
+msgstr ""
+
+#: ../../source/tools.rst:2147
+msgid "There is a limit of 100K on the size of the picture uploaded and it is recommended that the image be 200x300 pixels, but smaller images will work as well."
+msgstr "每張照片的大小不能超過 100K，建議解析度不超過 200x300 圖素。"
+
+#: ../../source/tools.rst:2154
+msgid "Rotating collections"
+msgstr "巡迴書庫"
+
+#: ../../source/tools.rst:2156
+msgid "*Get there:* More > Tools > Catalog > Rotating collections"
+msgstr "*到那裡：* 更多 &gt; 工具 &gt; 目錄 &gt; 巡迴館藏"
+
+#: ../../source/tools.rst:2158
+msgid "Rotating collections is a tool for managing collections of materials that frequently get shifted from library to library. It adds the ability to store not only an item's home library and current location but also information about where it is supposed to be transferred to next to ensure that all items in the collection are sent to the correct library. When an item in a rotating collection is checked in, library staff is notified that the item is part of a rotating collection and which branch it should be sent to if it is not at the correct one."
+msgstr "巡迴館藏是是把館藏在各圖書館間流動。不僅具有儲存館藏在所屬圖書館與現在位置的功能，同時提示即將轉移至下個圖書館，以確保館藏送至正確的圖書館。還入巡迴館藏後，系統顯示該館藏為巡迴館藏，並指示圖書館員將其送至正確的圖書館。"
+
+#: ../../source/tools.rst:2169
+#, fuzzy
+msgid "The :ref:`AutomaticItemReturn <automaticitemreturn-label>` system preference must be set to \"Don't automatically transfer items to their home library when they are returned\" for rotating collections to function properly."
+msgstr "此 :ref:`AutomaticItemReturn` 系統偏好必須設為 \"不要館藏還入後自動轉移至所屬圖書館\" 以便讓巡迴館藏正確運作。"
+
+#: ../../source/tools.rst:2174
+msgid "To create a new rotating collection, click the \"New collection\" button, fill in the title and description, and click \"Submit\". Once submitted you'll see \"Collection name added successfully\"; click \"Return to rotating collections home\" to return to the main Rotating collections management page (or click Rotating collections in the sidebar)."
+msgstr "新增巡迴合集時，按 \"新增合集\" 鈕，鍵入名稱與說明，再按 \"送出\" 鈕。畫面出現 \"成功新增合集名稱\"；按 \"回到巡迴合集首頁\" 就回到巡迴合集管理頁面 (或按側面的巡迴合集連結)。"
+
+#: ../../source/tools.rst:2181
+msgid "To add items to a collection, click \"Actions\" and choose \"Add or remove items\" next to the collection's name in the list of collections. Under \"Add or remove items\" scan or type in the barcode of the item you wish to add to the collection, and hit enter or click 'Submit' if necessary."
+msgstr "新增館藏入書庫時，先按 \"Actions\" 鈕，再按書庫名稱清單旁的 \"新增或移除館藏\" 鈕。在 \"新增或移除館藏\" 鈕下掃瞄或鍵入館藏條碼，再按 Enter 就能新增該館藏入書庫。"
+
+#: ../../source/tools.rst:2187
+msgid "To remove an item from a collection, either click 'Remove' next to the item's barcode in the list of items within the collection or check the \"Remove item from collection\" box next to the Barcode text box under \"Add or remove items\", and scan or type in the barcode, clicking \"Submit\" or hitting Enter if necessary. Note: The \"Remove item from collection\" checkbox will remain checked as long as you are on the \"Add or remove items\" page, unless you uncheck it, to facilitate quickly removing a number of items at a time by scanning their barcodes."
+msgstr "移除館藏的方法是，按下館藏清單條碼旁的 '移除' 或按下 \"新增或移除館藏\" 條碼旁的 \"從書架移除館藏\"，再掃瞄條碼，按下 \"送出\" 或歸位鍵。說明：祗要還在 \"新增或移除館藏\" 頁面，\"從書庫移除館藏\" 就保持被勾選狀態，可以主動不勾選它，還可以掃瞄館藏的條碼，快速刪除它們。"
+
+#: ../../source/tools.rst:2200
+msgid "Transfer a rotating collection"
+msgstr "轉移巡迴書庫"
+
+#: ../../source/tools.rst:2202
+msgid "Transferring a collection will:"
+msgstr "轉移巡迴書庫將："
+
+#: ../../source/tools.rst:2204
+msgid "Change the current location of the items in that collection to the library it is to be transferred to"
+msgstr "變更即將轉移的館藏至新的館藏地"
+
+#: ../../source/tools.rst:2207
+msgid "Initiate a transfer from its original current location/holding library to the current location/holding library it is to be rotated to. When a library receives a collection they will need to check in the items to complete the transfer."
+msgstr "啟動轉移程序從原位置/儲存圖書館至現在位置/儲存圖書館。收到館藏後應先還入才算完成轉移。"
+
+#: ../../source/tools.rst:2212
+msgid "You can transfer a collection in one of two ways:"
+msgstr "可以用以下的方法之一轉移巡迴書庫："
+
+#: ../../source/tools.rst:2214
+msgid "From the main Rotating collections page, click on \"Actions\" and choose \"Transfer\" next to the title of the collection you wish to transfer; choose the library you wish to transfer the collection to and click \"Transfer collection\"."
+msgstr "於巡迴書庫首頁，按 \"啟用\" 並選擇欲轉移題名旁的 \"轉移\"；選定轉移至的圖書館，再按 \"轉移館藏\" 鈕。"
+
+#: ../../source/tools.rst:2219
+msgid "Or, from the \"add or remove items\" page for a collection, you can click the \"Transfer\" button, choose the library you wish to transfer the collection to and click \"Transfer Collection\"."
+msgstr "或，從合集的 \"新增或移除館藏\" 頁面，您可按轉移鈕，選擇欲轉移至的合集再按 \"轉移合集\" 鈕。"
+
+#: ../../source/tools.rst:2225
+msgid "In order to complete the transfer process, the library receiving the rotating collection should check in all items from the collection as they receive them. This will clear the transfer so that the items are no longer shown as being \"in transit\"."
+msgstr "為了完成轉移程序，應先還入至巡迴書庫的圖書館。甚狀態就不會是 \"轉移中\"。"
+
+#: ../../source/tools.rst:2230
+msgid "If an item in a rotating collection is checked in at a library other than the one it is supposed to be transferred to, a notification will appear notifying library staff that the item is part of a rotating collection, also letting them know where the item needs to be sent."
+msgstr "若巡迴書庫的館藏被還入非巡迴書庫的圖書館，將出現提示訊息，並警示圖書館員將該館藏送至適當的地方。"
+
+#: ../../source/tools.rst:2235
+msgid "|image292|"
+msgstr ""
+
+#: ../../source/tools.rst:2240
+#, fuzzy
+msgid "Additional tools"
+msgstr "其他工具"
+
+#: ../../source/tools.rst:2245
+msgid "Calendar"
+msgstr "行事曆"
+
+#: ../../source/tools.rst:2247
+msgid "*Get there:* More > Tools > Additional tools > Calendar"
+msgstr "*到那裡：* 更多 > 工具 > 其他工具 > 行事曆"
+
+#: ../../source/tools.rst:2249
+msgid "Libraries can define library closings and holidays to be used when calculating due dates. You can make use of the calendar by turning on the proper system preferences:"
+msgstr "圖書館設定閉館日與假日供計算到期日之用。打開適當的系統偏好設定，就能使用行事曆："
+
+#: ../../source/tools.rst:2253
+#, fuzzy
+msgid ":ref:`useDaysMode <usedaysmode-label>`: Choose the method for calculating due date - either include days the library is closed in the calculation or don't include them"
+msgstr ":ref:`useDaysMode`:選擇計算到期日的方法 - 包括或不包括閉館日。"
+
+#: ../../source/tools.rst:2256
+#, fuzzy
+msgid ":ref:`finescalendar <finescalendar-label>`: This will check the holiday calendar before charging fines"
+msgstr ":ref:`finescalendar`: 罰款前先檢查行事曆"
+
+#: ../../source/tools.rst:2259
+msgid "|image369|"
+msgstr ""
+
+#: ../../source/tools.rst:2264
+msgid "Adding events"
+msgstr "新增事件"
+
+#: ../../source/tools.rst:2266
+msgid "Before adding events, choose the library you would like to apply the closings to. When adding events you will be asked if you would like to apply the event to one branch or all branches. To add events, simply"
+msgstr "新增事件前，選擇適用此閉館日的圖書館。新增事件後應選定該事件適用於單一圖書館或所有圖書館。新增事件，祗要"
+
+#: ../../source/tools.rst:2270
+msgid "Click on the date on the calendar that you would like to apply the closing to"
+msgstr "勾選行事曆的日期，加入終止的時間"
+
+#: ../../source/tools.rst:2273
+msgid "|image370|"
+msgstr ""
+
+#: ../../source/tools.rst:2275
+msgid "In the form that appears above the calendar, enter the closing information (for more info on each option click the question mark [?] to the right of the option)"
+msgstr "於行事曆上方的表單內，鍵入閉館資訊 (詳情請按選項右方的問號 [?])"
+
+#: ../../source/tools.rst:2279
+msgid "Library will be filled in automatically based on the library you chose from the pull down at the top of the page"
+msgstr "根據從頁面上方的下拉選單選定的圖書館，圖書館將自動補入"
+
+#: ../../source/tools.rst:2282
+msgid "The day information will also be filled in automatically based on the date you clicked on the calendar"
+msgstr "日期資訊將根據點選的行事曆自動更新"
+
+#: ../../source/tools.rst:2285
+msgid "If this holiday extends on more than one day, enter the end date in 'To date'"
+msgstr "如果這個假期超過一天，請在“截止日期”中輸入結束日期"
+
+#: ../../source/tools.rst:2288
+msgid "In the 'title' enter the name of the holiday or the reason for the closing"
+msgstr "在“標題”中輸入假期的名稱或關閉的原因"
+
+#: ../../source/tools.rst:2291
+msgid "In the 'description' enter more information about this holiday"
+msgstr "在“說明”中輸入更多有關此假期的資訊"
+
+#: ../../source/tools.rst:2293
+msgid "Next you can choose if this event is a one time event or if it is repeatable."
+msgstr "接著可選擇此事件為單一事件或重複事件。"
+
+#: ../../source/tools.rst:2296
+msgid "'Holiday only on this day': this is a one day holiday"
+msgstr "'只在這一天放假'：這是為期一天的假期"
+
+#: ../../source/tools.rst:2298
+msgid "'Holiday repeated every same day of the week': this is a weekly closing (if you're closed every Sunday, for example)"
+msgstr "'每週重複相同時間的假期'：這是每週關閉（例如，如果您每個星期天都關閉）"
+
+#: ../../source/tools.rst:2301
+msgid "'Holiday repeated yearly on the same date': this is an annual holiday closing (if you're closed on January 1st each year, for example)"
+msgstr "'每年同一天重複的假期'：這是一個每年一次的假期關閉（例如，如果您在每年的 1 月 1 日關閉）"
+
+#: ../../source/tools.rst:2305
+msgid "'Holiday on a range': this is a holiday that extends on several days"
+msgstr "'範圍內的假期'：這是一個持續數天的假期"
+
+#: ../../source/tools.rst:2310
+msgid "Make sure to enter a 'To Date' at the top if you choose 'Holiday on a range'"
+msgstr "如果您選擇“範圍內的假期”，請確保在頂部輸入“截止日期”"
+
+#: ../../source/tools.rst:2313
+msgid "'Holiday repeated yearly on a range': this is a holiday that extends on several days each year (such as summer holidays for schools)"
+msgstr "'每年在範圍內重複的假期'：這是一個每年延長好幾天的假期（例如學校的暑假）"
+
+#: ../../source/tools.rst:2318
+msgid "Make sure to enter a 'To Date' at the top if you choose 'Holiday repeated yearly on a range'"
+msgstr "如果您選擇“範圍內每年重複的假期”，請確保在最上面輸入“截止日期”"
+
+#: ../../source/tools.rst:2321
+msgid "Finally decide if this event should be applied to all libraries or just the one you have originally selected"
+msgstr "最後設定事件適用於所有圖書館或祗適用於單一圖書館"
+
+#: ../../source/tools.rst:2324
+msgid "If you'd rather enter all the holidays and then copy them all to another branch all at once you can use the copy menu below the calendar"
+msgstr "以行事曆下方的複製選單把所有假日複製至其他分館"
+
+#: ../../source/tools.rst:2328
+msgid "|image371|"
+msgstr ""
+
+#: ../../source/tools.rst:2330
+msgid "After saving you will see the event listed in the summary to the right the calendar"
+msgstr "儲存之後，您可在行事曆右方看到事件清單摘要"
+
+#: ../../source/tools.rst:2333
+msgid "|image372|"
+msgstr ""
+
+#: ../../source/tools.rst:2338
+msgid "Editing events"
+msgstr "編輯事件"
+
+#: ../../source/tools.rst:2340
+msgid "To edit events"
+msgstr "編輯事件"
+
+#: ../../source/tools.rst:2342
+msgid "Click on the event on the calendar that you want to change (do this by clicking on the date on the calendar, not the event listed in the summary)"
+msgstr "勾選行事曆的事件，以改變它(勾選行事曆的日期，不是摘要)"
+
+#: ../../source/tools.rst:2346
+msgid "|image373|"
+msgstr ""
+
+#: ../../source/tools.rst:2348
+msgid "From this form you can make edits to the holiday or delete the holiday completely."
+msgstr "在此表單內可以編輯或刪除假日。"
+
+#: ../../source/tools.rst:2351 ../../source/tools.rst:2364
+msgid "All actions require that you click 'Save' before the change will be made."
+msgstr "必須按 '儲存' 鈕才算完成編修。"
+
+#: ../../source/tools.rst:2354
+msgid "Clicking on repeatable events will offer slightly different options"
+msgstr "按可重複事件將出現略有不同的選項"
+
+#: ../../source/tools.rst:2356
+msgid "|image374|"
+msgstr ""
+
+#: ../../source/tools.rst:2358
+msgid "In the form above you will note that there is now an option to 'Generate an exception for this repeated holiday' and 'Generate exceptions on a range of dates' choosing one of these options will allow you to make it so that this date is not closed even though the library is usually closed on this date."
+msgstr "在上面的表格中，您會注意到現在有一個選項“為這個重複的假期生成一個例外”和“在一個日期範圍內生成例外”，選擇這些選項之一將使您能夠使這個日期不關閉，即使圖書館通常在這個日期關閉。"
+
+#: ../../source/tools.rst:2370
+msgid "Additional help"
+msgstr "其他說明"
+
+#: ../../source/tools.rst:2372
+msgid "When adding or editing events you can get additional help by clicking on the question mark next to various different options on the form"
+msgstr "新增或編輯事件時，可以勾選表單旁的問號，取得額外的說明"
+
+#: ../../source/tools.rst:2375
+msgid "|image375|"
+msgstr ""
+
+#: ../../source/tools.rst:2380
+msgid "CSV profiles"
+msgstr "CSV設定檔"
+
+#: ../../source/tools.rst:2382
+msgid "*Get there:* More > Tools > Additional tools > CSV profiles"
+msgstr "*到:* 更多 > 工具 > 額外的工具 > CSV設定檔"
+
+#: ../../source/tools.rst:2384
+msgid "CSV profiles are created to define how you would like your cart or list to export."
+msgstr "建立CSV設定檔說明您如何輸出您的購物車或是清單."
+
+#: ../../source/tools.rst:2390
+msgid "Add CSV profiles"
+msgstr "新增CSV設定檔"
+
+#: ../../source/tools.rst:2392
+msgid "To add a CSV profile"
+msgstr "新增一個CSV設定檔"
+
+#: ../../source/tools.rst:2394
+msgid "Click on 'New CSV profile'"
+msgstr "點擊“新增 CSV 設定檔”"
+
+#: ../../source/tools.rst:2396
+msgid "|image376|"
+msgstr ""
+
+#: ../../source/tools.rst:2398
+msgid "The 'Profile name' will appear on the export pull down list when choosing 'Download' from your cart or list"
+msgstr "從採購單或虛擬書架裡選擇 '下載' 時，'設定檔' 名稱將顯示在匯出下拉選單"
+
+#: ../../source/tools.rst:2401
+msgid "|image378|"
+msgstr ""
+
+#: ../../source/tools.rst:2403
+msgid "The 'Profile type' determines what type of fields you plan to use (MARC or SQL) to define your profile"
+msgstr "從 '設定檔類型' 決定設定的欄位類型 (MARC 或 SQL)"
+
+#: ../../source/tools.rst:2406
+msgid "If you choose MARC then you will need to enter MARC fields"
+msgstr "選擇 MARC 之後需鍵入 MARC 欄位"
+
+#: ../../source/tools.rst:2408
+msgid "|image1502|"
+msgstr ""
+
+#: ../../source/tools.rst:2410
+msgid "If you choose SQL then you will need to enter SQL database fields"
+msgstr "若選擇 SQL 則需鍵入 SQL 資料庫的欄位"
+
+#: ../../source/tools.rst:2412
+msgid "|image377|"
+msgstr ""
+
+#: ../../source/tools.rst:2414
+msgid "The 'Usage' field is used to indicate what type of report this CSV profile is used with"
+msgstr "'用法' 欄段用於指示此 CSV 設定檔與哪種類型的紀錄一起使用"
+
+#: ../../source/tools.rst:2417
+msgid "'Export records' (only available with MARC profile type): this is used to export records from your cart or lists"
+msgstr "“匯出記錄”（僅適用於 MARC 設定檔類型）：用於從書目清單或虛擬書架中匯出記錄"
+
+#: ../../source/tools.rst:2420
+msgid "'Late serial issues claims' (only available with SQL profile type): this is used to :ref:`export late issues of serial subscriptions <claim-late-serials-label>`"
+msgstr "'近期連續期刊催缺'（僅適用於 SQL 設定檔類型）：這用於 :ref:`匯出連續訂閱的近期期刊 <claim-late-serials-label>`"
+
+#: ../../source/tools.rst:2423
+msgid "'Export late orders' (only available with SQL profile type): this is used to :ref:`export late orders in the acquisitions module <claims-and-late-orders-label>`"
+msgstr "'匯出延遲訂單'（僅適用於 SQL 設定檔類型）：這用於 :ref:`在採訪模組 <claims-and-late-orders-label>` 中匯出延遲訂單"
+
+#: ../../source/tools.rst:2428
+msgid "type): this is used to :ref:`download records from acquisitions baskets <create-a-basket-label>`"
+msgstr "類型）：用於 :ref:`從採訪籃中下載記錄<create-a-basket-label>`"
+
+#: ../../source/tools.rst:2429
+msgid "'Basket export in acquisition' (only available with SQL profile"
+msgstr "“籃中以採訪匯出”（僅適用於 SQL 設定檔"
+
+#: ../../source/tools.rst:2432
+msgid "type): this is used to export a CSV from the :ref:`lost items report <lost-items-label>`"
+msgstr "類型）：用於從遺失館藏報表 :ref:`匯出CSV<lost-items-label>"
+
+#: ../../source/tools.rst:2433
+msgid "'Export lost items in report' (only available with SQL profile"
+msgstr "“在報表中匯出遺失的館藏”（僅適用於 SQL 設定檔"
+
+#: ../../source/tools.rst:2435
+msgid "The 'Profile description' is for your own benefit, but will also appear in the OPAC when patrons download content, so make sure it's clear for your patrons as well"
+msgstr "此 '設定檔說明' 是給館員用的，當讀者下載內容時，也顯示在 OPAC，確保讀者知道其內容"
+
+#: ../../source/tools.rst:2439
+msgid "The 'CSV separator' is the character used to separate values and value groups"
+msgstr "此 'CSV產生器' 是以字元區隔值與值的群組"
+
+#: ../../source/tools.rst:2444
+msgid "The most common option here is comma because most spreadsheet applications know how to open files split by commas."
+msgstr "最常見的選項是逗點，因為大部份的試算表應用程式都能以逗點使用開放檔案。"
+
+#: ../../source/tools.rst:2447
+msgid "The 'Field separator' is the character used to separate duplicate fields"
+msgstr "此 '欄位區隔字元' 是用於區隔重複的欄位"
+
+#: ../../source/tools.rst:2450
+msgid "Example: You may have multiple 650 fields and this is the character that will appear in between each one in the column"
+msgstr "例如：您可有多個650欄位，這是顯示在欄位的字元"
+
+#: ../../source/tools.rst:2453
+msgid "|image379|"
+msgstr ""
+
+#: ../../source/tools.rst:2455
+msgid "The 'Subfield separator' is the character used to separate duplicate subfields"
+msgstr "此 '分欄區隔字元' 是用於區隔重複的分欄"
+
+#: ../../source/tools.rst:2458
+msgid "Example: You may have multiple $a subfields in a field"
+msgstr "何如：您可有多個$a分欄"
+
+#: ../../source/tools.rst:2460
+msgid "The 'Encoding' field lets you define the encoding used when saving the file"
+msgstr "此 '編碼' 欄位讓您設定儲存檔案時使用的編碼方式"
+
+#: ../../source/tools.rst:2463
+msgid "The 'Only available on the staff interface' checkbox (only for MARC profile types) lets you limit this CSV profile to staff interface only, meaning patrons will not be able to use this profile to export their cart or lists from the OPAC"
+msgstr "“僅在館員界面上可用”核取方塊（僅適用於 MARC 設定檔類型）允許您將此 CSV 設定檔限制為僅館員界面，這表示讀者將無法使用此設定檔從 OPAC 匯出他們的書目清單或虛擬書架"
+
+#: ../../source/tools.rst:2468
+msgid "Finally format your CSV file using the 'Profile MARC fields' or 'Profile SQL fields' box"
+msgstr "最後以 'MARC 欄位設定檔' 或 'SQL 欄位設定檔' 格式化您的 CSV 檔案"
+
+#: ../../source/tools.rst:2471
+msgid "Define which fields or subfields you want to export, separated by pipes. Example : 200\\|210$a\\|301 for MARC or biblio.title\\|biblio.author for SQL"
+msgstr "設定匯出的欄位與分欄，以直線區隔。如：200\\|210$a\\|301 供 MARC 使用或biblio.title\\|biblio.author 供 SQL 使用"
+
+#: ../../source/tools.rst:2477
+msgid "You can also use your own headers (instead of the ones from Koha) by prefixing the field number with a header, followed by the equal sign. Example: Personal name=100\\|title=245$a\\|300"
+msgstr "在欄號前加入標題，後面加個等號，就能加入自己的標題 (不使用 Koha 的)。如：個人名稱=100\\|題名=245$a\\|300"
+
+#: ../../source/tools.rst:2482
+msgid "When you have entered in all of the information for your profile, simply click 'Submit' and you will be presented with a confirmation that your profile has been saved."
+msgstr "鍵入設定檔的所有資訊後，按 '送出' 鈕，出現確認訊息，表示你的設定檔已儲存。"
+
+#: ../../source/tools.rst:2486
+msgid "|image380|"
+msgstr ""
+
+#: ../../source/tools.rst:2491
+msgid "Modify CSV profiles"
+msgstr "修改CSV設定檔"
+
+#: ../../source/tools.rst:2493
+msgid "Once you have created at least one CSV profile an 'Edit profile' tab will appear next to the 'New profile' button."
+msgstr "您需要建立至少一個CSV設定檔一個'編輯設定檔'標籤將會出現在'新設定檔'按鈕的旁邊."
+
+#: ../../source/tools.rst:2496
+msgid "|image381|"
+msgstr ""
+
+#: ../../source/tools.rst:2498
+msgid "Choose the profile you would like to edit and alter the necessary fields."
+msgstr "選擇編輯的設定檔，並修改必要的欄位。"
+
+#: ../../source/tools.rst:2501
+msgid "After submitting your changes you will be presented with a confirmation message at the top of the screen"
+msgstr "送出您的改變後，在螢幕上端出現確認訊息"
+
+#: ../../source/tools.rst:2504
+msgid "|image382|"
+msgstr ""
+
+#: ../../source/tools.rst:2506
+msgid "To delete a profile, check the 'Delete selected profile' option before clicking 'Submit Query'"
+msgstr "按下 '送出詢問' 前，勾選 '刪除選定的設定檔' 選項，就能刪除設定檔"
+
+#: ../../source/tools.rst:2509
+msgid "|image383|"
+msgstr ""
+
+#: ../../source/tools.rst:2514
+msgid "Using CSV profiles"
+msgstr "使用CSV設定檔"
+
+#: ../../source/tools.rst:2516
+msgid "Your CSV profiles will appear on the export list or cart menu under the 'Download' button in both the staff client and the OPAC"
+msgstr "您的CSV設定檔將會出現在館員操作端和OPAC中'下載'按鈕下的輸出清單上或是購物車選單"
+
+#: ../../source/tools.rst:2519
+msgid "|image384|"
+msgstr ""
+
+#: ../../source/tools.rst:2524
+msgid "Log viewer"
+msgstr "日誌檢視器"
+
+#: ../../source/tools.rst:2526
+msgid "*Get there:* More > Tools > Additional tools > Log viewer"
+msgstr "*到:* 更多 > 工具 > 額外的工具 > 日誌檢視器"
+
+#: ../../source/tools.rst:2528
+msgid "Actions within the Koha system are tracked in log files. Your :ref:`system preferences <logs-label>` can be changed to prevent the logging of different actions. These logs can be viewed using the log viewer."
+msgstr "在日誌檔案中紀錄Koha系統的運作. 您 :ref:`system preferences <logs-label>`可以更改防止不同運作的日誌. 可以使用這些日誌檢視器查看日誌."
+
+#: ../../source/tools.rst:2532
+#, fuzzy
+msgid "|logviewer|"
+msgstr "日誌檢視器"
+
+#: ../../source/tools.rst:2536
+msgid "The warning sign next to a module name indicates that the actions in this module are not logged. Change your :ref:`logs preferences<logging-label>` to log actions from a module."
+msgstr "模組名稱旁邊的警告標誌表示未記錄此模組中的操作。 更改您的 :ref:`日誌偏好<logging-label>` 以記錄來自模組的操作。"
+
+#: ../../source/tools.rst:2540
+msgid "Choosing different combinations of menu options will produce the log file for that query."
+msgstr "選擇選單的不同組合，以產生詢問的紀錄檔。"
+
+#: ../../source/tools.rst:2543
+msgid "A query for all logs related to the Circulation module produces a result"
+msgstr "搜尋與流通模組有關的紀錄，產生結果"
+
+#: ../../source/tools.rst:2545
+msgid "|logresults|"
+msgstr ""
+
+#: ../../source/tools.rst:2549
+msgid "You can customize the columns of this table in the :ref:`'Table settings'<column-settings-label>` section of the Administration module (table id: logst)."
+msgstr "您可以在管理模組的 :ref:`'欄組態'<column-settings-label>`部份, 自定義此表的列 (table id: logst)。"
+
+#: ../../source/tools.rst:2556
+msgid "News"
+msgstr "最新消息"
+
+#: ../../source/tools.rst:2558
+msgid "*Get there:* More > Tools > Additional tools > News"
+msgstr "*到:* 更多 > 工具 > 額外的工具 > 新聞"
+
+#: ../../source/tools.rst:2560
+msgid "Koha's news module allows librarians to post news to the OPAC, staff interface and circulation receipts."
+msgstr "Koha 的最新消息模組允許館員張貼最新消息至 OPAC、館員目錄與流通收條。"
+
+#: ../../source/tools.rst:2563
+msgid "|news|"
+msgstr ""
+
+#: ../../source/tools.rst:2565
+msgid "To add news to either the OPAC, the staff interface or a circulation receipt:"
+msgstr "新增消息在OPAC, 館員操作端或是一個流通收據:"
+
+#: ../../source/tools.rst:2568 ../../source/tools.rst:2668
+#: ../../source/tools.rst:2848
+msgid "Click 'New entry'"
+msgstr "點擊'新的款目'"
+
+#: ../../source/tools.rst:2570
+msgid "|addnews|"
+msgstr ""
+
+#: ../../source/tools.rst:2572
+msgid "Code: enter a unique code for this news item"
+msgstr "代碼：輸入此消息館藏的唯一代碼"
+
+#: ../../source/tools.rst:2574
+msgid "Display location: choose where to put the news"
+msgstr "顯示位置: 選擇放置消息的地方"
+
+#: ../../source/tools.rst:2576
+msgid "|newsdisplaylocations|"
+msgstr ""
+
+#: ../../source/tools.rst:2578
+msgid "Librarian and OPAC interfaces: content will appear on the staff interface main page as well as in the news block on the OPAC"
+msgstr "圖書館館員和OPAC介面: 內容將出現在館員界面主頁以及 OPAC 的消息區域中"
+
+#: ../../source/tools.rst:2581
+msgid "Librarian interface: content will appear on the staff interface main page"
+msgstr "圖書館館員介面: 目錄會出現在員工介面的主頁上"
+
+#: ../../source/tools.rst:2584 ../../source/tools.rst:3060
+msgid "|staffnews|"
+msgstr ""
+
+#: ../../source/tools.rst:2586
+msgid "OPAC: content will appear in the top middle part of the OPAC page"
+msgstr "OPAC：內容將出現在OPAC頁面的頂端中間部分"
+
+#: ../../source/tools.rst:2589
+msgid "Below the news in the OPAC there will be an RSS icon allowing you and your users to subscribe to library news"
+msgstr "在 OPAC 的最新消息下有個 RSS 圖示允許您和您的使用者訂閱圖書館的消息"
+
+#: ../../source/tools.rst:2592
+msgid "|newsrss|"
+msgstr ""
+
+#: ../../source/tools.rst:2594
+#, fuzzy
+msgid "You can allow your users to choose to see branch-specific news with the :ref:`OpacNewsLibrarySelect <opacnewslibraryselect-label>` system preference"
+msgstr "您可以允許您的用戶使用 :ref:`OpacNewsLibrarySelect` 系統偏好來選擇查看特定分行的消息"
+
+#: ../../source/tools.rst:2597
+msgid "Slip: content will appear on the circulation receipts"
+msgstr "條: 目錄會出現在流通收據上"
+
+#: ../../source/tools.rst:2599
+msgid "|image391|"
+msgstr ""
+
+#: ../../source/tools.rst:2603
+#, fuzzy
+msgid "This can be activated or deactivated in the :ref:`Notices & slips tool <notices-and-slips-label>`"
+msgstr "**說明** 可以在 :ref:`Notices & slips tool啟動或是使其無效"
+
+#: ../../source/tools.rst:2606
+msgid "Library: choose the library for which this news item will be shown"
+msgstr "圖書館: 選擇顯示此消息館藏的圖書館"
+
+#: ../../source/tools.rst:2608
+#, fuzzy
+msgid "Prior to end users logging in to the OPAC only news items listed to appear for 'All libraries' will display unless your system administrator has configured an 'OPAC_BRANCH_DEFAULT' override in virtual host configuration. See :ref:`installation <advanced-configurations-label>` for details."
+msgstr "在最終使用者登錄到 OPAC 之前，只有為“所有圖書館”列出的新館藏才會顯示，除非您的系統管理員在虛擬主機配置中配置了“OPAC_BRANCH_DEFAULT”覆蓋。 有關詳細資訊， :ref:`installation <advanced-configurations-label>`請參閱。"
+
+#: ../../source/tools.rst:2613
+msgid "Publication date: use the publication date field to control from which date your news item appears"
+msgstr "出版日期：使用出版日期欄位來控制您的新增館藏出現的日期"
+
+#: ../../source/tools.rst:2616 ../../source/tools.rst:2788
+msgid "Examples: (these assume today's date as 7 May 2019)"
+msgstr "範例: (假設今天的日期是2019年5月7日)"
+
+#: ../../source/tools.rst:2618 ../../source/tools.rst:2790
+msgid "Publish on current date: set publication date as 7 May 2019"
+msgstr "現行出版日期: 設定出版日期是2019年5月7日"
+
+#: ../../source/tools.rst:2620 ../../source/tools.rst:2792
+msgid "Schedule for publishing in future: set date later than 7 May 2019"
+msgstr "未來預訂出版日期: 設定日期在2019年5月7日之後"
+
+#: ../../source/tools.rst:2622 ../../source/tools.rst:2794
+msgid "Backdate the news item: set date earlier than 7 May 2019"
+msgstr "新聞館藏的回溯日期: 設定日期在2019年5月7日之前"
+
+#: ../../source/tools.rst:2624
+msgid "Expiration date: use the expiration date field to automatically stop showing the news item when it is no longer relevant."
+msgstr "過期日期：使用過期日期欄位在不再相關時自動停止顯示新增館藏。"
+
+#: ../../source/tools.rst:2627
+msgid "If this field is empty the news item will be shown until you remove it manually"
+msgstr "如果此欄位為空，則將顯示新增館藏，直到您手動將其刪除"
+
+#: ../../source/tools.rst:2630
+msgid "Appear in position: you decide in what order your news items appear"
+msgstr "顯示位置: 讓您決定新增館藏的顯示順序"
+
+#: ../../source/tools.rst:2632
+msgid "If the field is left empty, the news will appear from newest to oldest"
+msgstr "如果該欄位留空，則消息將從最新顯示到最舊"
+
+#: ../../source/tools.rst:2634
+msgid "In this field, 0 is the top-most position; the larger the number, the lower in the list the news will appear"
+msgstr "在此欄位中，0 是最上面的位置； 數字越大，消息出現在列表中的位置越下面"
+
+#: ../../source/tools.rst:2637
+msgid "You can enter the news title and text for each language installed"
+msgstr "您可以為安裝的每種語言輸入消息標題和文字"
+
+#: ../../source/tools.rst:2641 ../../source/tools.rst:2821
+#: ../../source/tools.rst:2897
+#, fuzzy
+msgid "You can choose which type of editor to use here (either a text editor or a WYSIWYG (what you see is what you get) editor) with the :ref:`AdditionalContentsEditor <additionalcontentseditor-label>` system preference."
+msgstr "您可以使用  :ref:`AdditionalContentsEditor` 系統偏好在此處選擇要使用的編輯器類型（文字編輯器或 WYSIWYG（所見即所得）編輯器）。"
+
+#: ../../source/tools.rst:2645 ../../source/tools.rst:2825
+#: ../../source/tools.rst:2901
+#, fuzzy
+msgid "After filling in all of the fields, click 'Save' at the top of the page."
+msgstr "鍵入資料於所有欄位後，點選 '送出'"
+
+#: ../../source/tools.rst:2647 ../../source/tools.rst:2827
+#: ../../source/tools.rst:2903
+msgid "Alternatively, click the arrow next to the 'Save' button and choose 'Save and continue editing' if you need to stay on this page to continue editing the news item."
+msgstr ""
+
+#: ../../source/tools.rst:2651
+#, fuzzy
+msgid "Depending on your choice for the :ref:`NewsAuthorDisplay <newsauthordisplay-label>` system preference, you will also see the person who created the news item (this uses the logged in person)."
+msgstr "取決於您系統偏好的選擇 :ref:`NewsAuthorDisplay` 您可以看到建立消息館藏的人(親自使用登入)"
+
+#: ../../source/tools.rst:2658
+msgid "HTML customizations"
+msgstr "HTML客製化"
+
+#: ../../source/tools.rst:2660
+msgid "*Get there:* More > Tools > Additional tools > HTML customizations"
+msgstr "*到:* 更多 > 工具 > 額外的工具 > HTML 客製化"
+
+#: ../../source/tools.rst:2662
+msgid "Koha's HTML customizations tool allows staff to post content to the OPAC."
+msgstr "Koha 的 HTML 自定工具允許館員將內容發布到 OPAC。"
+
+#: ../../source/tools.rst:2664
+msgid "|additionalcontent|"
+msgstr ""
+
+#: ../../source/tools.rst:2666
+msgid "To add content to the OPAC:"
+msgstr "新增內容至OPAC："
+
+#: ../../source/tools.rst:2670
+msgid "|addadditionalcontent|"
+msgstr ""
+
+#: ../../source/tools.rst:2672
+msgid "Code: enter a unique code for this additional content item"
+msgstr "代碼：為此附加內容項輸入唯一代碼"
+
+#: ../../source/tools.rst:2674
+msgid "Display location: choose where to put the content"
+msgstr "顯示位置: 選擇放置內容的地方"
+
+#: ../../source/tools.rst:2676
+msgid "|additionalcontentdisplaylocations|"
+msgstr ""
+
+#: ../../source/tools.rst:2679
+msgid "The following image shows where each block is displayed on the OPAC's main page"
+msgstr "下圖顯示了每塊在 OPAC 主頁上的顯示位置"
+
+#: ../../source/tools.rst:2682
+msgid "|image1068|"
+msgstr ""
+
+#: ../../source/tools.rst:2686
+#, fuzzy
+msgid "The :ref:`Quote of the day <quote-of-the-day-(qotd)-editor-label>` feature is found in the tools module, and the news are managed in the :ref:`news tool <news-label>`. The rest of the customizable blocks are managed in the HTML customizations tool."
+msgstr ":ref:`OpacNav` 和 :ref:`OpacNavBottom` 是系統偏好和， :ref:`每日引據 <quote-of-the-day-(qotd)-editor-label>` 功能位於工具模組。 其餘可自定區塊在 HTML 自定工具中進行管理。"
+
+#: ../../source/tools.rst:2691
+msgid "ArticleRequestsDisclaimerText: content will appear and patron will have to accept before they can continue to the article request form; use for any copyright/disclaimer patrons need to be aware of regarding photocopies or scans of articles or chapters"
+msgstr "ArticleRequestsDisclaimerText: 內容將出現，讀者必須先接受，才能繼續文章申請表； 用於任何版權/免責聲明讀者需要注意有關文章或章節的影印本或掃描件"
+
+#: ../../source/tools.rst:2696
+msgid "CatalogConcernHelp: content will appear at the bottom of catalog concern form when :ref:`reporting a concern in the OPAC <report-concern-opac-label>`, or :ref:`reporting a concern in the staff interface <report-concern-staff-label>`. The default text is \"Please describe your concern clearly and the library will try to deal with it as quickly as possible\"."
+msgstr ""
+
+#: ../../source/tools.rst:2703
+msgid "CatalogConcernTemplate: content will appear in the main text area of the catalog concern form when :ref:`reporting a concern in the OPAC <report-concern-opac-label>`, or :ref:`reporting a concern in the staff interface <report-concern-staff-label>`. The default text is"
+msgstr ""
+
+#: ../../source/tools.rst:2729
+msgid "Since this will be in a text field, there is no way to add formatting. Make sure to use the text editor, not the WYSIWYG editor, in order to have line breaks in your text."
+msgstr ""
+
+#: ../../source/tools.rst:2733
+msgid "opaccredits: content will appear at the bottom of the page"
+msgstr "opaccredits: 內容會出現在頁面的底部"
+
+#: ../../source/tools.rst:2735
+msgid "OpacCustomSearch: content will replace the simple search bar at the top of the page"
+msgstr "OpacCustomSearch: 內容將取代頁面頂端的簡易搜尋欄"
+
+#: ../../source/tools.rst:2738
+msgid "opacheader: content will appear at the top of the OPAC page"
+msgstr "opacheader: 內容會出現在OPAC頁面的頂端"
+
+#: ../../source/tools.rst:2740
+#, fuzzy
+msgid "OpacLibraryInfo: content will appear in the :ref:`'Libraries' page in the OPAC <opaclibrariespage-label>`, as well as in the holdings table in the OPAC"
+msgstr "圖書館館員和OPAC介面: 內容將出現在館員界面主頁以及 OPAC 的消息區域中"
+
+#: ../../source/tools.rst:2744
+msgid "OpacLoginInstructions: content will appear under the login box on the OPAC's main page"
+msgstr "OpacLoginInstructions: 內容會出現在OPAC主頁的登入框下面"
+
+#: ../../source/tools.rst:2747
+msgid "OpacMainUserBlock: content will appear in the middle of the OPAC's main page"
+msgstr "OpacMainUserBlock: 內容會出現在OPAC主頁的中間"
+
+#: ../../source/tools.rst:2750
+msgid "OpacMoreSearches: content will appear under the search box at the top of the OPAC. By default (and depending on system preferences) there is a link for Advanced Search, Course reserves, Authority search, and Tag cloud. Any new searches will be added to the right of the already present links."
+msgstr ""
+
+#: ../../source/tools.rst:2756
+msgid "OpacMySummaryNote: content will appear above the patron's summary and below the welcome message when the patron logs in to the OPAC and views their :ref:`'your summary' tab <your-summary-label>`."
+msgstr ""
+
+#: ../../source/tools.rst:2760
+msgid "|OpacMySummaryNote|"
+msgstr ""
+
+#: ../../source/tools.rst:2762
+msgid "OpacNav: content will appear on the left hand column of the main page and patron account on the OPAC. When on the patron account page, the content in OpacNav will appear before the account tabs (summary, charges, personal details, etc.)"
+msgstr ""
+
+#: ../../source/tools.rst:2767
+msgid "OpacNavBottom: content will appear on the left hand column of the main page and patron account on the OPAC. When on the patron account page, the content in OpacNavBottom will appear after the account tabs (summary, charges, personal details, etc.). On the main page, the content in OpacNavBottom appears right below the content in OpacNav."
+msgstr ""
+
+#: ../../source/tools.rst:2773
+msgid "OpacNavRight: content will appear on the right side of the OPAC page"
+msgstr "OpacNavRight: 目錄會出現在OPAC頁面的右側"
+
+#: ../../source/tools.rst:2775
+msgid "OpacSuggestionInstructions: content will replace the text at the top of the :ref:`purchase suggestion form on the OPAC <purchase-suggestions-opac-label>`"
+msgstr "OpacSuggestionInstructions: 內容將替換 OPAC 上 :ref:`購買建議表頂端的文字 <purchase-suggestions-opac-label>`"
+
+#: ../../source/tools.rst:2778
+msgid "Library: choose the library for which this content will be shown"
+msgstr "圖書館：選擇將顯示此內容的圖書館"
+
+#: ../../source/tools.rst:2780
+msgid "Prior to end users logging in to the OPAC only content blocks listed to appear for 'All libraries' will display unless your system administrator has configured an 'OPAC_BRANCH_DEFAULT' override in virtual host configuration."
+msgstr "在最終使用者登錄到 OPAC 之前，只有為“所有圖書館”列出的內容塊才會顯示，除非您的系統管理員在虛擬主機中配置了“OPAC_BRANCH_DEFAULT”替換值。"
+
+#: ../../source/tools.rst:2785
+msgid "Publication date: use the publication date field to control from which date your content appears"
+msgstr "出版日期：使用出版日期欄位來控制您的內容出現的日期"
+
+#: ../../source/tools.rst:2796
+msgid "Expiration date: use the expiration date field to automatically stop showing the content when it is no longer relevant."
+msgstr "到期日期：使用到期日期欄位在不再相關時自動停止顯示內容。"
+
+#: ../../source/tools.rst:2799
+msgid "If this field is empty the content will be shown until you remove it manually"
+msgstr "如果此欄位為空，將顯示內容，直到您手動將其刪除"
+
+#: ../../source/tools.rst:2802
+msgid "Appear in position: you decide in what order your content appear, when there is more than one in the same display location"
+msgstr "顯示位置: 讓您決定您的內容顯示順序，當同一顯示位置有多個內容時"
+
+#: ../../source/tools.rst:2805
+msgid "If the field is left empty, the content will appear from oldest to newest"
+msgstr "如果該欄位留空，則內容將從最舊顯示到最新"
+
+#: ../../source/tools.rst:2807
+msgid "In this field, 0 is the top-most position; the larger the number, the lower in the list the content will appear"
+msgstr "在此欄位中，0 是最上面的位置； 數字越大，內容在列表中的顯示位置就越低"
+
+#: ../../source/tools.rst:2810
+msgid "You can enter the content title and text for each language installed"
+msgstr "您可以為安裝的每種語言輸入內容標題和文字"
+
+#: ../../source/tools.rst:2814
+msgid "The title is not shown for additional content. It mostly serves to know at a glance what the content is about when looking at the list of additional content items. If you want a title to appear, you must add it in the text portion."
+msgstr "附加內容不顯示題名。 它主要用於在查看附加內容館藏列表時一目了然地了解內容。 如果要顯示題名，則必須將其增加到文字部分。"
+
+#: ../../source/tools.rst:2834
+msgid "Pages"
+msgstr ""
+
+#: ../../source/tools.rst:2836
+#, fuzzy
+msgid "*Get there:* More > Tools > Additional tools > Pages"
+msgstr "*到:* 更多 > 工具 > 額外的工具 > 新聞"
+
+#: ../../source/tools.rst:2838
+msgid "The pages tool is a tool to create custom additional pages in the OPAC and in the staff interface. It is based on the same tool as the :ref:`news <news-label>` and the :ref:`HTML customizations<html-customizations-label>`, therefore it works in the same way."
+msgstr ""
+
+#: ../../source/tools.rst:2844 ../../source/tools.rst:2936
+msgid "|pages|"
+msgstr ""
+
+#: ../../source/tools.rst:2846
+#, fuzzy
+msgid "To add a new page:"
+msgstr "上傳一張影像:"
+
+#: ../../source/tools.rst:2850
+msgid "|addpage|"
+msgstr ""
+
+#: ../../source/tools.rst:2852
+#, fuzzy
+msgid "Display location: choose the interface from which this page should be accessed"
+msgstr "顯示位置: 選擇放置消息的地方"
+
+#: ../../source/tools.rst:2855
+#, fuzzy
+msgid "Librarian and OPAC interfaces: two links will be created, one for the OPAC and one for the staff interface"
+msgstr "圖書館館員介面: 目錄會出現在員工介面的主頁上"
+
+#: ../../source/tools.rst:2858
+#, fuzzy
+msgid "Librarian interface: a link for the staff interface will be created"
+msgstr "圖書館館員介面: 目錄會出現在員工介面的主頁上"
+
+#: ../../source/tools.rst:2860
+msgid "OPAC: a link for the OPAC will be created"
+msgstr ""
+
+#: ../../source/tools.rst:2862
+#, fuzzy
+msgid "Library: choose the library for which this page will be available"
+msgstr "圖書館：選擇將顯示此內容的圖書館"
+
+#: ../../source/tools.rst:2864
+msgid "If an OPAC page is limited to a library, only logged in users whose home library matches the page library will be able to access the page."
+msgstr ""
+
+#: ../../source/tools.rst:2867
+#, fuzzy
+msgid "Pages limited to a library will not be accessible to OPAC users who are not logged in, unless your system administrator has configured an 'OPAC_BRANCH_DEFAULT' override in virtual host configuration."
+msgstr "在最終使用者登錄到 OPAC 之前，只有為“所有圖書館”列出的內容塊才會顯示，除非您的系統管理員在虛擬主機中配置了“OPAC_BRANCH_DEFAULT”替換值。"
+
+#: ../../source/tools.rst:2871
+msgid "If a staff interface page is limited to a library, only staff logged into that library will be able to access the page."
+msgstr ""
+
+#: ../../source/tools.rst:2874
+#, fuzzy
+msgid "Publication date: use the publication date field to control from which date your page is accessible, if it should only be accessed at a future date."
+msgstr "出版日期：使用出版日期欄位來控制您的新增館藏出現的日期"
+
+#: ../../source/tools.rst:2885
+#, fuzzy
+msgid "Expiration date: use the expiration date field to remove the page after a specific date."
+msgstr "過期日期：使用過期日期欄位在不再相關時自動停止顯示新增館藏。"
+
+#: ../../source/tools.rst:2888
+#, fuzzy
+msgid "If this field is empty the page will be available until you remove it manually"
+msgstr "如果此欄位為空，將顯示內容，直到您手動將其刪除"
+
+#: ../../source/tools.rst:2893
+#, fuzzy
+msgid "You can enter the page title and content for each language installed"
+msgstr "您可以為安裝的每種語言輸入消息標題和文字"
+
+#: ../../source/tools.rst:2907
+msgid "In the table, a link will be generated for the OPAC or the staff interface or both. Use this link in HTML customizations, news or system preferences such as :ref:`IntranetNav<intranetnav-label>` or :ref:`IntranetmainUserBlock<intranetmainuserblock-label>` so that the patrons or staff members can access the new page."
+msgstr ""
+
+#: ../../source/tools.rst:2915
+msgid "To link to a specific page, use the code in the URL with the :code:`code=` parameter. For example::"
+msgstr ""
+
+#: ../../source/tools.rst:2922
+msgid "In multi-language installations, use the :code:`language=` parameter followed by the language code to link to the page in a specific language. For example::"
+msgstr ""
+
+#: ../../source/tools.rst:2930
+msgid "To use a custom page"
+msgstr ""
+
+#: ../../source/tools.rst:2932
+msgid "Once the page has been developed and saved, you will see a summary table of all custom pages. This table also displays the generated links to access these custom pages. The links will be available in both the default language, and the installed language currently in use by the logged in staff member."
+msgstr ""
+
+#: ../../source/tools.rst:2938
+msgid "There is a button to preview the created page. This is helpful to check how the page looks and functions before it is deployed."
+msgstr ""
+
+#: ../../source/tools.rst:2940
+msgid "|pagepreview|"
+msgstr ""
+
+#: ../../source/tools.rst:2942
+msgid "Now the page has been created, there are a number of ways to make the page accessible to your patrons in the Koha OPAC."
+msgstr ""
+
+#: ../../source/tools.rst:2944
+msgid "|pageexample|"
+msgstr ""
+
+#: ../../source/tools.rst:2946
+msgid "One option is to use an HTML customisation to add the link to the page to a section of the OPAC. The page can be added as a navigation link (in OpacNav, OpacNavBottom, or OpacNavRight). Depending on the page, it may be more suitable in the header (opacheader), footer (opaccredits), or main section of the homepage (OpacMainUserBlock)."
+msgstr ""
+
+#: ../../source/tools.rst:2950
+msgid "HTML customizations are only displayed on the OPAC, so News items would be the appropriate tool to add the link to the main landing page of the staff interface."
+msgstr ""
+
+#: ../../source/tools.rst:2953
+msgid "|opacnavexample|"
+msgstr ""
+
+#: ../../source/tools.rst:2955
+msgid "The benefit of putting the page link in an HTML customization or News item is that you can use the WYSIWYG editor, instead of writing code. However, there is always the option to write the content in the HTML text editor too, if you prefer."
+msgstr ""
+
+#: ../../source/tools.rst:2958
+msgid "Those more proficient in writing code could use jQuery (Javascript) to insert their page link anywhere in the OPAC or staff interface."
+msgstr ""
+
+#: ../../source/tools.rst:2960
+msgid "|opacuserjsexample|"
+msgstr ""
+
+#: ../../source/tools.rst:2962
+msgid "Using jQuery, the pages could be added to either interface as simple text links, or as more advanced button links or image links. Add code to the OPACUserJS system preference to apply jQuery to the OPAC, or to the IntranetUserJS system preference to apply jQuery to the staff interface."
+msgstr ""
+
+#: ../../source/tools.rst:2966
+msgid "Clever ways to use custom pages:"
+msgstr ""
+
+#: ../../source/tools.rst:2968
+msgid "There are many interesting ways to use custom pages in a Koha library. We’ve heard discussion of pages being used for tables of contents, frequently asked questions pages for the library, and enquiry forms."
+msgstr ""
+
+#: ../../source/tools.rst:2971
+msgid "|pageexample-form|"
+msgstr ""
+
+#: ../../source/tools.rst:2973
+msgid "Another way to make custom Koha page content accessible for users, would be to catalogue those pages so they pop in in Koha search results, for example library tutorials that patrons may be looking for."
+msgstr ""
+
+#: ../../source/tools.rst:2976
+msgid "|pageexample-record|"
+msgstr ""
+
+#: ../../source/tools.rst:2978
+msgid "Once the page has been created, it can be catalogued in the URI field of a record (856$u). Alternatively, it could be catalogued in the URI field of an item attached to a record (952$u). Both of these fields get converted into hyperlinks by Koha. If catalogued in a record or item, it would then be indexed and become searchable."
+msgstr ""
+
+#: ../../source/tools.rst:2982
+msgid "Once catalogued, these pages could be used in other ways that are typically reserved for books and other records. The records representing pages can be added to lists, or stored in virtual collections or locations that make them easier to find in the catalogue. They could even be captured and displayed in carousels!"
+msgstr ""
+
+#: ../../source/tools.rst:2991
+msgid "Task scheduler"
+msgstr "工作排程"
+
+#: ../../source/tools.rst:2993
+msgid "*Get there:* More > Tools > Additional tools > Task scheduler"
+msgstr "*到那裡：* 更多 > 工具 > 其他工具 > 工作排程"
+
+#: ../../source/tools.rst:2995
+msgid "The task scheduler is a way to schedule reports to run whenever you want."
+msgstr "工作排程是任何時間都可執行的報表排程。"
+
+#: ../../source/tools.rst:2998
+msgid "To schedule a task, visit the task scheduler and fill in the form"
+msgstr "進入工作排程並填寫表單，就能排入工作"
+
+#: ../../source/tools.rst:3000
+msgid "|image392|"
+msgstr ""
+
+#: ../../source/tools.rst:3002
+msgid "Current Server Time shows the time on your server (schedule all of your reports to run based on that time - not on your local time)"
+msgstr "伺服器現在時間(用於管理所有的報表 - 不是真的在地時間)"
+
+#: ../../source/tools.rst:3005
+msgid "Time should be entered as hh:mm (2 digit hour, 2 digit minute)"
+msgstr "時間應鍵入為時時：分分(2個數字為時，2個數字為分)"
+
+#: ../../source/tools.rst:3007
+msgid "Date should be entered using the calendar pop up"
+msgstr "應以彈出的日曆鍵入日期"
+
+#: ../../source/tools.rst:3009
+msgid "From Report choose the report you want to schedule"
+msgstr "從報表選取工作的報表"
+
+#: ../../source/tools.rst:3011
+msgid "Choose whether to receive the text of or a link to the results"
+msgstr "選是是否收取此結果的文字或連結"
+
+#: ../../source/tools.rst:3013
+msgid "In the Email filed enter the email of the person you want to receive your report"
+msgstr "在 Email 欄位鍵入接收報表者的電子郵件"
+
+#: ../../source/tools.rst:3016
+msgid "Below the task scheduler form, there is a list of scheduled reports"
+msgstr "工作排程表單下，有排定報表清單"
+
+#: ../../source/tools.rst:3018
+msgid "|image393|"
+msgstr ""
+
+#: ../../source/tools.rst:3020
+msgid "You can also schedule reports directly from the list of saved reports by clicking the 'Schedule' link"
+msgstr "按下 '排程' 連結，就可從儲存報表清單執行報表排程"
+
+#: ../../source/tools.rst:3023
+msgid "|image394|"
+msgstr ""
+
+#: ../../source/tools.rst:3028
+msgid "Troubleshooting"
+msgstr "解決問題"
+
+#: ../../source/tools.rst:3030
+msgid "Task scheduler will not work if the user the web server runs as doesn't have the permission to use it. To find out if the right user has the permissions necessary, check /etc/at.allow to see what users are in it. If you don't have that file, check etc/at.deny. If at.deny exists but is blank, then every user can use it. Talk to your system admin about adding the user to the right place to make the task scheduler work."
+msgstr "若網站使用者沒有權限則不會執行工作排程。檢查 /etc/at.allow 查看使用者的權限。若沒有該檔案，則檢查 etc/at.deny 檔案。若 at.deny 內容為空白，則每個人都可以執行它。要求您的系統管理員把使用者加入正確的位置才能執行排定工作。"
+
+#: ../../source/tools.rst:3040
+#, fuzzy
+msgid "Quote editor"
+msgstr "|qotdeditor|"
+
+#: ../../source/tools.rst:3042
+#, fuzzy
+msgid "*Get there:* More > Tools > Additional Tools > Quote editor"
+msgstr "*到那裡：* 更多 > 工具 > 其他工具 > 上傳"
+
+#: ../../source/tools.rst:3044
+msgid "This tool will allow you to add and edit quotes to show on the OPAC or the staff interface."
+msgstr "此工具可以新增與編輯顯示於 OPAC 的引句。"
+
+#: ../../source/tools.rst:3047 ../../source/tools.rst:3071
+#: ../../source/tools.rst:3106 ../../source/tools.rst:3134
+#: ../../source/tools.rst:3147
+#, fuzzy
+msgid "|qotdeditor|"
+msgstr "|qotdeditor|"
+
+#: ../../source/tools.rst:3049
+#, fuzzy
+msgid "To turn this feature on set the :ref:`QuoteOfTheDay <quoteoftheday-label>` system preference to either 'OPAC', 'staff interface', or both, and add at least one quote using this tool."
+msgstr "要打開此功能，請將 :ref:`QuoteOfTheDay` 系統偏好設定為“OPAC”、“館員界面”或兩者，並使用此工具至少增加一個引句。"
+
+#: ../../source/tools.rst:3053
+#, fuzzy
+msgid "In the OPAC, the quotes will appear above the 'OpacMainUserBlock' :ref:`news block <news-label>`."
+msgstr "OPAC最新消息: 目錄會出現在 :ref:`OpacMainUserBlock`上"
+
+#: ../../source/tools.rst:3056
+msgid "|image1069|"
+msgstr ""
+
+#: ../../source/tools.rst:3058
+msgid "In the staff interface, the quotes will appear under the news on the left side."
+msgstr "在館員界面中，引言將出現在左側消息下方。"
+
+#: ../../source/tools.rst:3065
+#, fuzzy
+msgid "Adding a quote"
+msgstr "新增引句"
+
+#: ../../source/tools.rst:3067
+msgid "To add a quote:"
+msgstr "新增引句："
+
+#: ../../source/tools.rst:3069
+#, fuzzy
+msgid "Click the 'New quote' button in the toolbar at the top of the page."
+msgstr "點擊工具列裡的 '新引言' 鈕"
+
+#: ../../source/tools.rst:3073
+msgid "Fill out the form."
+msgstr "填寫表格."
+
+#: ../../source/tools.rst:3075
+msgid "|newquote|"
+msgstr ""
+
+#: ../../source/tools.rst:3077
+msgid "Source: enter the source of the quote, e.g. the name of the person who said the quote"
+msgstr "來源：輸入引用的來源，例如 說這句話的人的名字"
+
+#: ../../source/tools.rst:3080
+msgid "Text: enter the text of the quote"
+msgstr "文字：輸入引句的文字"
+
+#: ../../source/tools.rst:3084
+msgid "Both the 'Source' and the 'Text' fields must be filled in in order to save the new quote."
+msgstr "必須在 '來源' 與 '內文' 欄位鍵入資料才能儲存新的引句。"
+
+#: ../../source/tools.rst:3087
+msgid "Click 'Submit' to save the new quote."
+msgstr "點擊“提交”以保存新引句。"
+
+#: ../../source/tools.rst:3089
+msgid "The new quote should now be visible in the list."
+msgstr "新引句現在應該在清單中可以看到。"
+
+#: ../../source/tools.rst:3094
+#, fuzzy
+msgid "Importing quotes"
+msgstr "匯入引句"
+
+#: ../../source/tools.rst:3096
+msgid "You can import a batch of quotes as a CSV file. Your file must contain two columns in the form: \"source\",\"text\" with no header row."
+msgstr "您可以以 CSV 檔案批次匯入引句。該檔案必須有以下兩個形式的欄位：\"來源\"、\"文字\" 且無標題行。"
+
+#: ../../source/tools.rst:3101
+msgid "You will be prompted to confirm upload of files larger than 512KB."
+msgstr "將提示確認上傳的檔案大於512KB。"
+
+#: ../../source/tools.rst:3103
+#, fuzzy
+msgid "To start the import process click the 'Import quotes' button at the top of the screen."
+msgstr "勾選螢幕上方的 '匯入引句' 鈕啟動匯入程序"
+
+#: ../../source/tools.rst:3108
+msgid "Once on the import quotes screen you can browse your computer for the file you would like to import"
+msgstr "進入匯入引句螢幕後可從電腦內選取欲匯入的檔案"
+
+#: ../../source/tools.rst:3111
+#, fuzzy
+msgid "|importquotes|"
+msgstr "匯入引句"
+
+#: ../../source/tools.rst:3113
+msgid "After selecting the CSV file, click the 'Open' button and the file will be uploaded into a temporary editing table."
+msgstr "選定CSV檔案後，點選 '開啟' 鈕，該檔案將上傳至暫存編輯表。"
+
+#: ../../source/tools.rst:3116
+msgid "|importedsummary|"
+msgstr ""
+
+#: ../../source/tools.rst:3118
+msgid "From the listing you can edit either the 'Source' or 'Text' fields by clicking on the desired field. When you are finished editing a field, press the <Enter> key on your keyboard to save the changes."
+msgstr "按下 '來源' 或 '文字' 欄位就能夠編輯該清單的內容。完成欄位的編輯後，按 <Enter> 鈕儲存該內容。"
+
+#: ../../source/tools.rst:3122
+#, fuzzy
+msgid "|editimportquote|"
+msgstr "匯入引句"
+
+#: ../../source/tools.rst:3124
+msgid "Once you are satisfied with the quotes, click the 'Save quotes' button in the toolbar at the top and the quotes will be saved."
+msgstr "完成之後，按上方工具列的 '儲存引句' 鈕儲存引句。"
+
+#: ../../source/tools.rst:3130
+#, fuzzy
+msgid "Editing a quote"
+msgstr "編輯引句"
+
+#: ../../source/tools.rst:3132
+msgid "To edit a quote, click on the 'Edit' button to the right of the quote."
+msgstr "要編輯引句，請點擊引句右邊的“編輯”按鈕。"
+
+#: ../../source/tools.rst:3136
+msgid "Edit either the 'Source' or 'Text' fields."
+msgstr "編輯 '來源' 或 '文字' 欄位。"
+
+#: ../../source/tools.rst:3138
+msgid "Click 'Submit' to save the quote."
+msgstr "點擊“提交”以保存引句。"
+
+#: ../../source/tools.rst:3143
+#, fuzzy
+msgid "Deleting a quote"
+msgstr "刪除引句"
+
+#: ../../source/tools.rst:3145
+msgid "To delete a quote, click on the 'Delete' button to the right of the quote."
+msgstr "要刪除引言，請點擊引句右邊的“刪除”按鈕。"
+
+#: ../../source/tools.rst:3149
+msgid "Confirm the deletion by clicking 'Delete'."
+msgstr "點擊“刪除”確認刪除。"
+
+#: ../../source/tools.rst:3151
+#, fuzzy
+msgid "|deletequote|"
+msgstr "刪除引句"
+
+#: ../../source/tools.rst:3156
+msgid "Tool plugins"
+msgstr ""
+
+#: ../../source/tools.rst:3158
+msgid "This tool is used to view, manage and configure plugins used as tools."
+msgstr ""
+
+#: ../../source/tools.rst:3160
+msgid "This section will only be visible once you have uploaded tool-type plugins in the :ref:`plugin administration page <plugn-administration-label>`."
+msgstr ""
+
+#: ../../source/tools.rst:3163
+#, fuzzy
+msgid "*Get there:* More > Tools > Additional Tools > Tool plugins"
+msgstr "*到那裡：* 更多 > 工具 > 其他工具 > 上傳"
+
+#: ../../source/tools.rst:3165
+msgid "From this page, you will see only tool-type plugins."
+msgstr ""
+
+#: ../../source/tools.rst:3167
+msgid "See the :ref:`managing plugins section <manage-plugins-label>` of this manual to learn how to manage your tool-type plugins."
+msgstr ""
+
+#: ../../source/tools.rst:3173
+msgid "Upload"
+msgstr "上傳"
+
+#: ../../source/tools.rst:3175
+msgid "*Get there:* More > Tools > Additional Tools > Upload"
+msgstr "*到那裡：* 更多 > 工具 > 其他工具 > 上傳"
+
+#: ../../source/tools.rst:3177
+msgid "This tool will allow you to upload files to your Koha system for selection from the :ref:`Cataloging form <attaching-files-to-records-label>`."
+msgstr "從 :ref:`編目表單 <attaching-files-to-records-label>` 上傳檔案供選擇。"
+
+#: ../../source/tools.rst:3183
+#, fuzzy
+msgid "Upload files"
+msgstr "上傳檔案"
+
+#: ../../source/tools.rst:3185
+msgid "When you first visit the Upload tool you might see a warning about missing a category."
+msgstr "第一次進入上傳工具時，可能看到缺少類型的警示。"
+
+#: ../../source/tools.rst:3188
+msgid "|image1242|"
+msgstr ""
+
+#: ../../source/tools.rst:3190
+msgid "Categories are defined in the :ref:`authorized value <authorized-values-label>` in the UPLOAD category. If you do not have upload categories then your files will be temporary and will be deleted the next time the server is rebooted. Once you have a value in the UPLOAD authorized value category you will see a Category pull down below the 'Browse' button."
+msgstr "類型設定在 UPLOAD 類型的 :ref:`容許值 <authorized-values-label>`。若沒有上傳類型，則把檔案暫存，在重新啟動伺服器時將被刪除。一但在 UPLOAD 容許值類型內有了資料，可在 '瀏覽' 鈕下看類型的下拉選單。"
+
+#: ../../source/tools.rst:3196
+msgid "|image1243|"
+msgstr ""
+
+#: ../../source/tools.rst:3198
+msgid "Browse your computer a file, choose a category and decide if the public will be able to download this file via the OPAC. Once your file is uploaded you will be presented with a confirmation."
+msgstr "瀏覽電腦的檔案，選擇類型並決定是否讓讀者經由 OPAC 下載。上傳之後，還有確認程序。"
+
+#: ../../source/tools.rst:3202
+msgid "|image1244|"
+msgstr ""
+
+#: ../../source/tools.rst:3207
+msgid "Search files"
+msgstr "搜尋檔案"
+
+#: ../../source/tools.rst:3209
+msgid "All uploaded files are searchable from below the upload form. Using the form you can search any part of the filename and/or the Hashvalue.Search uploaded files"
+msgstr "上傳的檔案都可以經由上傳表單搜尋。使用該表單可搜尋檔案名稱的任何部份及 Hashvalue。搜尋上傳檔案"
+
+#: ../../source/tools.rst:3213
+msgid "You will be presented with the results of your search."
+msgstr "出現搜尋結果。"
+
+#: ../../source/tools.rst:3215
+msgid "|image1245|"
+msgstr ""
+
+#: ../../source/tools.rst:3218
+msgid "Access files"
+msgstr "近用檔案"
+
+#: ../../source/tools.rst:3220
+msgid "*Get there:* More > Tools > Additional Tools > Access files"
+msgstr "*到那裡：* 更多 &gt; 工具 &gt; 其他工具 &gt; 近用檔案"
+
+#: ../../source/tools.rst:3222
+msgid "This option allows access to files stored on the server from the staff interface. The directories where the files are stored need to be defined in the koha-conf.xml file. In order to be able to access the tool, a staff patron requires the superlibrarian or access_files patron permission"
+msgstr "此選項允許從館員介面近用伺服器的檔案。被 koha-conf.xml 設定的資料夾內檔案。為了能夠近用工具，需有超級館員或 access_files 權限的館員。"
+
+#: ../../source/tools.rst:3227
+msgid "|image1340|"
+msgstr ""
+
+#: ../../source/tools.rst:3232
+msgid "OPAC problem reports"
+msgstr "OPAC 問題報表"
+
+#: ../../source/tools.rst:3234
+#, fuzzy
+msgid "*Get there:* More > Tools > Additional tools > OPAC problem reports"
+msgstr "*到:* 更多 > 工具 > 額外的工具 > CSV設定檔"
+
+#: ../../source/tools.rst:3236
+msgid "This tool is used to manage the problem reports sent by patrons via the OPAC."
+msgstr "該工具用於管理讀者通過 OPAC 發送的問題報表。"
+
+#: ../../source/tools.rst:3240
+#, fuzzy
+msgid "This tool only appears if the :ref:`OPACReportProblem <opacreportproblem-label>` system preference is enabled."
+msgstr "僅當您啟用 :ref:`OPACReportProblem` 系統偏好時才會顯示此工具。"
+
+#: ../../source/tools.rst:3244
+msgid "From this tool, you will see all the problems that were reported by patrons on the OPAC."
+msgstr "從此工具中，您將看到讀者在 OPAC 上報表的所有問題。"
+
+#: ../../source/tools.rst:3247
+#, fuzzy
+msgid "|opacproblemreports|"
+msgstr "OPAC 問題報表"
+
+#: ../../source/tools.rst:3249
+msgid "From the 'Actions' column, you can"
+msgstr "在“操作”列中，您可以"
+
+#: ../../source/tools.rst:3251
+msgid "'Mark viewed': mark this problem report as viewed, this will change the status of the problem report to 'Viewed'"
+msgstr "“標記已查看”：將此問題報表標記為已查看，這會將問題報表的狀態更改為“已查看”"
+
+#: ../../source/tools.rst:3254
+msgid "'Mark closed': close this problem report, this will change the status of the problem report to 'Closed'"
+msgstr "'標記為關閉'：關閉此問題報表，這會將問題報表的狀態更改為'關閉'"
+
+#: ../../source/tools.rst:3257
+msgid "'Mark new': mark this problem as new (i.e. not viewed), this will revert the status back to 'New'."
+msgstr "'標記為新'：將此問題標記為新問題（即未查看），這會將狀態恢復為“新”。"
+
+#: ../../source/tools.rst:3260
+msgid "You can also batch change statuses by checking the boxes next to the problem reports you want to change and use the button at the top of the page."
+msgstr "您還可以通過勾選要更改的問題報表旁邊的框並使用頁面頂端的按鈕來批次更改狀態。"
+
+#: ../../source/tools.rst:3266
+msgid "Cash management"
+msgstr "現金管理"
+
+#: ../../source/tools.rst:3268
+msgid "Koha includes a number of options for dealing with monetary transactions and actions to allow for fine grained tracking of these processes for audit and analytic processes."
+msgstr "Koha 包括許多處理貨幣交易和操作的選項，以允許對這些過程進行細度追蹤以進行審計和分析過程。"
+
+#: ../../source/tools.rst:3275
+msgid "Cash registers"
+msgstr "收銀機"
+
+#: ../../source/tools.rst:3277
+msgid "Cash registers can be used to track transactions to a specific location in your library. This can be especially helpful for detailing where cash has been taken for payments and then when this cash is subsequently removed and taken to the bank."
+msgstr "收銀機可用於跟蹤到圖書館特定位置的作業。 這對於詳細說明現金用於付款的位置以及隨後何時將現金取出並帶到銀行特別有用。"
+
+#: ../../source/tools.rst:3283
+msgid "Setup"
+msgstr "設定"
+
+#: ../../source/tools.rst:3285
+#, fuzzy
+msgid "To enable the use of cash registers, you must turn on the :ref:`UseCashRegisters <usecashregisters-label>` system preference."
+msgstr "如要啟用收銀機，您必須開啟 :ref:`UseCashRegisters` 系統偏好。"
+
+#: ../../source/tools.rst:3288
+msgid "You can then configure cash registers for your library from the :ref:`cash registers <cashregisters-label>` page in the administration module."
+msgstr "然後，您可以從管理模組中的 :ref:`收銀機 <cashregisters-label>` 頁面為您的圖書館配置收銀機。"
+
+#: ../../source/tools.rst:3294
+msgid "Cashup"
+msgstr "Cashup"
+
+#: ../../source/tools.rst:3296
+msgid "The action of 'cashing up' can be recorded against a cash register from both the :ref:`library details <cash-management-library-details-label>` and :ref:`register details <cash-management-register-details-label>` pages."
+msgstr "可以從 :ref:`圖書館細節 <cash-management-library-details-label>` 和 :ref:`收銀機細節<cash-management-register-details-label>` 頁面針對收銀機記錄“兌現”操作。"
+
+#: ../../source/tools.rst:3300
+msgid "Clicking the `Record cashup` button will simply record the date and time that the action has taken place and is intended to allow the regular record of when money is collected from the cash register and taken to the bank."
+msgstr "點擊`記錄現金`按鈕將簡單地記錄操作發生的日期和時間，目的是允許定期記錄何時從收銀機收取款項並將其存入銀行。"
+
+#: ../../source/tools.rst:3304
+msgid "Both of the above pages utilize the cashup record to limit the display of transactions/summaries to only pertinent information, since the last cashup."
+msgstr "上述兩個頁面都利用提現記錄將交易/摘要的顯示限制為自上次提現以來的相關訊息。"
+
+#: ../../source/tools.rst:3307
+msgid "Once a cashup has taken place, a summary of the transactions taken during that cashup period is available for display, and printing, via the `Summary` link found next to the last cashup date on the register details page."
+msgstr "一旦發生兌現，在該兌現期間進行的交易摘要可通過註冊詳細訊息頁面上最後兌現日期旁邊的“摘要”連結顯示和列印。"
+
+#: ../../source/tools.rst:3311
+msgid "|image1515|"
+msgstr ""
+
+#: ../../source/tools.rst:3316
+msgid "Cash summary for *library*"
+msgstr "*圖書館*的現金摘要"
+
+#: ../../source/tools.rst:3318
+msgid "*Get there:* Home > Tools > Cash summary for *library*"
+msgstr "*到那裡：* 主頁 > 工具 > *圖書館*的現金匯總"
+
+#: ../../source/tools.rst:3320
+msgid "A summary of transaction amounts associated to a libraries cash registers can be found under the 'Cash summary for *library*' page tool."
+msgstr "可以在“*圖書館*的現金摘要”頁面工具下找到與圖書館收銀機相關的交易金額摘要。"
+
+#: ../../source/tools.rst:3323
+msgid "The summary will list registers associated with your logged in branch alongside information about how much money should be found in each register, what is available to take to the bank and a breakdown of income vs outgoings."
+msgstr "該摘要將列出與您登錄的分行相關的登記簿，以及有關每個登記簿中應該有多少錢的訊息、可以帶到銀行的物品以及收入與支出的明細。"
+
+#: ../../source/tools.rst:3327 ../../source/tools.rst:3344
+msgid "*Note:* You can also access this page from the left hand menu available on the :ref:`Point of sale <point-of-sale-label>` page when that module is enabled."
+msgstr "*注意：*您還可以從 :ref:`銷售點 <point-of-sale-label>` 頁面啟用該模組時提供的左側選單訪問此頁面。"
+
+#: ../../source/tools.rst:3333
+msgid "Transaction history for *register*"
+msgstr "*註冊*的交易歷史"
+
+#: ../../source/tools.rst:3335
+msgid "*Get there:* Home > Tools > Cash management > Transaction history for *register*"
+msgstr "*到那裡：* 主頁 > 工具 > 現金管理 > *註冊*的交易歷史"
+
+#: ../../source/tools.rst:3337
+msgid "A list of all transactions to have taken place at a register is available by clicking on the cash register name from the :ref:`library details <cash-management-library-details-label>` page."
+msgstr "點擊 :ref:`圖書館詳細資訊 <cash-management-library-details-label>`頁面中的收銀機名稱，即可獲得所有在收銀台發生的交易列表。"
+
+#: ../../source/tools.rst:3341
+msgid "If you have the correct permissions, you can re-print receipts, issue refunds and record :ref:`cashups <cash-management-register-cashup-label>` from this page."
+msgstr "如果您擁有正確的權限，您可以從該頁面重新列印收據、發放退款和記錄 :ref:`cashups <cash-management-register-cashup-label>`。"

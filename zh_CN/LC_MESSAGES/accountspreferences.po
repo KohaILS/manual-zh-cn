@@ -1,0 +1,279 @@
+# Chinese translations for Koha Manual package.
+# Copyright (C) 2020, Koha Community
+# This file is distributed under the same license as the Koha Manual package.
+# Automatically generated, 2021.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Koha Manual 22.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-10-26 08:18+0200\n"
+"PO-Revision-Date: 2023-03-22 07:54+0000\n"
+"Last-Translator: Saralin <c108126114@nkust.edu.tw>\n"
+"Language-Team: none\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pootle 2.8\n"
+"X-Pootle-Path: /zh_TW/manual22.11/accountspreferences.po\n"
+"X-Pootle-Revision: 1\n"
+"X-POOTLE-MTIME: 1679471667.445798\n"
+
+#: ../../source/accountspreferences.rst:6
+msgid "Accounting"
+msgstr "帳戶"
+
+#: ../../source/accountspreferences.rst:8
+msgid "*Get there:* More > Administration > Global system preferences > Acquisitions"
+msgstr "*到此：*其他 > 管理 > 整體系統偏好 > 採訪"
+
+#: ../../source/accountspreferences.rst:14
+msgid "Features"
+msgstr "特色"
+
+#: ../../source/accountspreferences.rst:19
+msgid "AutoCreditNumber"
+msgstr "AutoCreditNumber"
+
+#: ../../source/accountspreferences.rst:21
+msgid "Asks: \\_\\_\\_"
+msgstr "詢問: \\_\\_\\_"
+
+#: ../../source/accountspreferences.rst:23
+msgid "Default: Do not automatically generate credit numbers"
+msgstr "預設情況下: 不自動生成信用號碼"
+
+#: ../../source/accountspreferences.rst:25
+#: ../../source/accountspreferences.rst:56
+#: ../../source/accountspreferences.rst:80
+#: ../../source/accountspreferences.rst:110
+#: ../../source/accountspreferences.rst:135
+#: ../../source/accountspreferences.rst:156
+#: ../../source/accountspreferences.rst:177
+#: ../../source/accountspreferences.rst:202
+msgid "Values:"
+msgstr "值:"
+
+#: ../../source/accountspreferences.rst:27
+msgid "Do not automatically generate credit numbers"
+msgstr "不要自動生成信用號碼"
+
+#: ../../source/accountspreferences.rst:29
+msgid "Automatically generate credit numbers in the form <year>-0001"
+msgstr "自動生成<year>-0001形式的信用號碼"
+
+#: ../../source/accountspreferences.rst:31
+msgid "Automatically generate credit numbers in the form <branchcode>yyyymm0001"
+msgstr "以<branchcode>yyyymm0001的形式自動生成信用號碼"
+
+#: ../../source/accountspreferences.rst:33
+msgid "Automatically generate credit numbers in the form 1, 2, 3"
+msgstr "自動生成1、2、3形式的信用號碼"
+
+#: ../../source/accountspreferences.rst:35
+#: ../../source/accountspreferences.rst:62
+#: ../../source/accountspreferences.rst:86
+#: ../../source/accountspreferences.rst:116
+#: ../../source/accountspreferences.rst:141
+#: ../../source/accountspreferences.rst:162
+#: ../../source/accountspreferences.rst:183
+#: ../../source/accountspreferences.rst:208
+msgid "Description:"
+msgstr "說明："
+
+#: ../../source/accountspreferences.rst:37
+msgid "For auditing purposes, it might be necessary to attach a unique number to each credit (payments, writeoffs, refunds, etc.). This system preference allows you to choose the format of this unique number."
+msgstr "出於審計的目的，可能有必要給每個還款（付款、註銷、退款等）附上一個唯一的號碼。這個系統偏好允許你選擇這個唯一號碼的格式。"
+
+#: ../../source/accountspreferences.rst:41
+#: ../../source/accountspreferences.rst:66
+msgid "**Important**"
+msgstr "**重要的**"
+
+#: ../../source/accountspreferences.rst:43
+msgid "Automatic generation also has to be enabled for each :ref:`credit type <credit-types-label>`."
+msgstr "自動生成也必須為每個 :ref:`還款類型 <credit-types-label>`啟用。"
+
+#: ../../source/accountspreferences.rst:49
+msgid "EnablePointOfSale"
+msgstr "EnablePointOfSale"
+
+#: ../../source/accountspreferences.rst:51
+msgid "Asks: \\_\\_\\_ the point of sale feature to allow anonymous transactions with the accounting system."
+msgstr "詢問：\\_\\_\\_銷售點的功能允許與會計系統進行匿名交易。"
+
+#: ../../source/accountspreferences.rst:54
+msgid "Default: Disable"
+msgstr "預設值：停用"
+
+#: ../../source/accountspreferences.rst:58
+msgid "Disable"
+msgstr "停用"
+
+#: ../../source/accountspreferences.rst:60
+msgid "Enable"
+msgstr "啟用"
+
+#: ../../source/accountspreferences.rst:64
+msgid "This system preference controls the :ref:`point of sale module <point-of-sale-label>`."
+msgstr "這個系統偏好控制 :ref:`銷售點模組<point-of-sale-label>`。"
+
+#: ../../source/accountspreferences.rst:68
+#, fuzzy
+msgid "If you enable this system preference, make sure to enable :ref:`UseCashRegisters <UseCashRegisters-label>` as well."
+msgstr "如果你啟用這個系統偏好，請確保同時啟用 :ref:`UseCashRegisters`。"
+
+#: ../../source/accountspreferences.rst:74
+#, fuzzy
+msgid "RequireCashRegister"
+msgstr "UseCashRegisters"
+
+#: ../../source/accountspreferences.rst:76
+msgid "Asks: When collecting payment, \\_\\_\\_."
+msgstr ""
+
+#: ../../source/accountspreferences.rst:78
+msgid "Default: require a cash register only when the CASH payment type is selected"
+msgstr ""
+
+#: ../../source/accountspreferences.rst:82
+msgid "require a cash register only when the CASH payment type is selected"
+msgstr ""
+
+#: ../../source/accountspreferences.rst:84
+msgid "always require a cash register"
+msgstr ""
+
+#: ../../source/accountspreferences.rst:88
+#, fuzzy
+msgid "This system preference is only used if the :ref:`UseCashRegisters <usecashregisters-label>` system preference is enabled."
+msgstr "此優先於:ref:`cash registers <cashregisters-label>`管理模組中的功能。"
+
+#: ../../source/accountspreferences.rst:92
+msgid "This system preference is used to determine if selecting a cash register is required when :ref:`paying charges <pay-and-writeoff-fines-label>` in a patron's account."
+msgstr ""
+
+#: ../../source/accountspreferences.rst:96
+msgid "When using :ref:`UseCashRegisters <usecashregisters-label>`, selecting a cash register will always be required when the CASH payment type is chosen. This system preference determines if selecting a cash register is required when choosing another payment type."
+msgstr ""
+
+#: ../../source/accountspreferences.rst:104
+msgid "UseCashRegisters"
+msgstr "UseCashRegisters"
+
+#: ../../source/accountspreferences.rst:106
+msgid "Asks: \\_\\_\\_ cash registers with the accounting system to track payments."
+msgstr "詢問:\\_\\_\\_ 收銀機與帳戶系統一起追蹤付款的情況。"
+
+#: ../../source/accountspreferences.rst:108
+msgid "Default: Don't use"
+msgstr "預設值：不使用"
+
+#: ../../source/accountspreferences.rst:112
+msgid "Don't use"
+msgstr "不使用"
+
+#: ../../source/accountspreferences.rst:114
+msgid "Use"
+msgstr "使用"
+
+#: ../../source/accountspreferences.rst:118
+msgid "This preference enables the :ref:`cash registers <cashregisters-label>` feature in the administration module."
+msgstr "此優先於:ref:`cash registers <cashregisters-label>`管理模組中的功能。"
+
+#: ../../source/accountspreferences.rst:124
+msgid "Policy"
+msgstr "政策"
+
+#: ../../source/accountspreferences.rst:129
+msgid "AccountAutoReconcile"
+msgstr "AccountAutoReconcile"
+
+#: ../../source/accountspreferences.rst:131
+msgid "Asks: \\_\\_\\_ reconcile patron balances automatically on each transaction adding debits or credits."
+msgstr "詢問：\\_\\_\\_ 每次交易後新增餘額或額度時，自動整理讀者的帳號。"
+
+#: ../../source/accountspreferences.rst:133
+msgid "Default: Do not"
+msgstr "預設值：不"
+
+#: ../../source/accountspreferences.rst:137
+#: ../../source/accountspreferences.rst:158
+#: ../../source/accountspreferences.rst:206
+msgid "Do"
+msgstr "做"
+
+#: ../../source/accountspreferences.rst:139
+msgid "Do not"
+msgstr "不要"
+
+#: ../../source/accountspreferences.rst:143
+msgid "This preference controls whether or not credits are automatically used to to reduce the owed amounts in a patron's account."
+msgstr "此偏好控制自動減少讀者應付金額的信用。"
+
+#: ../../source/accountspreferences.rst:149
+msgid "FinePaymentAutoPopup"
+msgstr "FinePaymentAutoPopup"
+
+#: ../../source/accountspreferences.rst:151
+msgid "Asks: \\_\\_\\_ automatically display a print dialog for a payment receipt when making a payment."
+msgstr "詢問：\\_\\_\\_ 付款時自然而然彈出列印付款收據的對話框。"
+
+#: ../../source/accountspreferences.rst:154
+#: ../../source/accountspreferences.rst:200
+msgid "Default: Don't"
+msgstr "預設值：不"
+
+#: ../../source/accountspreferences.rst:160
+#: ../../source/accountspreferences.rst:204
+msgid "Don't"
+msgstr "不要"
+
+#: ../../source/accountspreferences.rst:164
+msgid "If activated, when :ref:`making a payment <pay-and-writeoff-fines-label>` in a patron's account, a printing popup will be displayed automatically instead of having to click on the 'print' button."
+msgstr "如果觸發了,:ref:`making a payment <pay-and-writeoff-fines-label>` 當讀者的帳戶付款了,將自動顯示列印窗口,而無需點擊“打印”按鈕。"
+
+#: ../../source/accountspreferences.rst:171
+msgid "RequirePaymentType"
+msgstr ""
+
+#: ../../source/accountspreferences.rst:173
+msgid "Asks: \\_\\_\\_ staff to select a payment type when a payment is made."
+msgstr ""
+
+#: ../../source/accountspreferences.rst:175
+#, fuzzy
+msgid "Default: Do not require"
+msgstr "預設值：不"
+
+#: ../../source/accountspreferences.rst:179
+#, fuzzy
+msgid "Do not require"
+msgstr "不要"
+
+#: ../../source/accountspreferences.rst:181
+msgid "Require"
+msgstr ""
+
+#: ../../source/accountspreferences.rst:185
+#, fuzzy
+msgid "This system preference is only used if the :ref:`UseCashRegisters <usecashregisters-label>` system preference disabled."
+msgstr "此優先於:ref:`cash registers <cashregisters-label>`管理模組中的功能。"
+
+#: ../../source/accountspreferences.rst:189
+msgid "This system preference is used to make the 'Payment type' field mandatory when :ref:`paying charges <pay-and-writeoff-fines-label>` in a patron's account."
+msgstr ""
+
+#: ../../source/accountspreferences.rst:196
+msgid "RoundFinesAtPayment"
+msgstr "RoundFinesAtPayment"
+
+#: ../../source/accountspreferences.rst:198
+msgid "Asks: \\_\\_\\_ round fines to the nearest cent when collecting payments."
+msgstr "詢問：收款時，\\_\\_\\_ 將罰款四捨五入到最接近的分值。"
+
+#: ../../source/accountspreferences.rst:210
+msgid "Enabling this preference allows paying fines of partial cents which may not be visible in the interface."
+msgstr "啟用該偏好允許支付部分分值的罰款，這些分值在介面上可能不可見。"

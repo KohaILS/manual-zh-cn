@@ -1,0 +1,291 @@
+# Chinese translations for Koha Manual package.
+# Copyright (C) 2020, Koha Community
+# This file is distributed under the same license as the Koha Manual package.
+# Automatically generated, 2021.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Koha Manual 22.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-10-26 13:37+0000\n"
+"PO-Revision-Date: 2023-03-28 02:29+0000\n"
+"Last-Translator: Saralin <c108126114@nkust.edu.tw>\n"
+"Language-Team: none\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pootle 2.8\n"
+"X-Pootle-Path: /zh_TW/manual22.11/i18npreferences.po\n"
+"X-Pootle-Revision: 1\n"
+"X-POOTLE-MTIME: 1679970559.434835\n"
+
+#: ../../source/i18npreferences.rst:6
+msgid "I18N/L10N"
+msgstr "I18N/L10N"
+
+#: ../../source/i18npreferences.rst:8
+msgid "These preferences control your Internationalization and Localization settings."
+msgstr "此等偏好控制國際化與在地化的設定。"
+
+#: ../../source/i18npreferences.rst:11
+#, fuzzy
+msgid "*Get there:* More > Administration > Global system preferences > I18N/L10N"
+msgstr "*到這兒：*其他 &gt; 管理 &gt; 系統偏好 > I18N/L10N"
+
+#: ../../source/i18npreferences.rst:17
+msgid "AddressFormat"
+msgstr "AddressFormat"
+
+#: ../../source/i18npreferences.rst:19
+msgid "Asks: Format postal addresses using \\_\\_\\_"
+msgstr "詢問：郵寄地址的格式 \\_\\_\\_"
+
+#: ../../source/i18npreferences.rst:21 ../../source/i18npreferences.rst:65
+#: ../../source/i18npreferences.rst:98 ../../source/i18npreferences.rst:126
+#: ../../source/i18npreferences.rst:144 ../../source/i18npreferences.rst:162
+#: ../../source/i18npreferences.rst:186 ../../source/i18npreferences.rst:203
+msgid "Values:"
+msgstr "值："
+
+#: ../../source/i18npreferences.rst:23
+msgid "German style ([Address] [Street number] - [Zip/Postal Code] [City] - [Country])"
+msgstr "德國式 ([地址] [門牌] - [郵遞區號] [縣市] - [國名])"
+
+#: ../../source/i18npreferences.rst:26
+msgid "French style ([Street number] [Address] - [ZIP/Postal Code] [City] - [Country])"
+msgstr "法國式 ([門牌] [地址] - [郵遞區號] [縣市] - [國名])"
+
+#: ../../source/i18npreferences.rst:29
+msgid "US style ([Street number], [Address] - [City], [Zip/Postal Code], [Country])"
+msgstr "US 式 ([門牌]、[地址] - [縣市]、[郵遞區號]、[國名])"
+
+#: ../../source/i18npreferences.rst:32
+msgid "Default: US style ([Street number], [Address] - [City], [Zip/Postal Code], [Country])"
+msgstr "預設: US 式 ([門牌]、[地址] - [縣市]、[郵遞區號]、[國名])"
+
+#: ../../source/i18npreferences.rst:35 ../../source/i18npreferences.rst:51
+#: ../../source/i18npreferences.rst:83 ../../source/i18npreferences.rst:110
+#: ../../source/i18npreferences.rst:170 ../../source/i18npreferences.rst:211
+msgid "Description:"
+msgstr "說明："
+
+#: ../../source/i18npreferences.rst:37
+msgid "This preference will let you control how Koha displays patron addresses given the information entered in the various fields on their record."
+msgstr "此偏好控制 Koha 在讀者記錄內顯示其地址資訊的方式。"
+
+#: ../../source/i18npreferences.rst:44
+msgid "alphabet"
+msgstr "字母"
+
+#: ../../source/i18npreferences.rst:46
+msgid "Asks: Use the alphabet \\_\\_\\_ for lists of browsable letters. This should be a space separated list of uppercase letters. Hint: Changing collation in the database for the 'surname' column of the 'borrowers' table is helpful to make browsing by last name work in members-home.pl when using an alphabet outside of A-Z."
+msgstr ""
+
+#: ../../source/i18npreferences.rst:49
+msgid "Default: A B C D E F G H I J K L M N O P Q R S T U V W X Y Z"
+msgstr "預設：A B C D E F G H I J K L M N O P Q R S T U V W X Y Z"
+
+#: ../../source/i18npreferences.rst:53
+msgid "This preference allows you define your own alphabet for browsing patrons in Koha."
+msgstr "此偏好允許您設定額外的字母供 Koha 讀者瀏覽。"
+
+#: ../../source/i18npreferences.rst:56
+msgid "|alphabetpatronbrowse|"
+msgstr ""
+
+#: ../../source/i18npreferences.rst:61
+msgid "CalendarFirstDayOfWeek"
+msgstr "CalendarFirstDayOfWeek"
+
+#: ../../source/i18npreferences.rst:63
+msgid "Asks: Use \\_\\_\\_ as the first day of week in the calendar."
+msgstr "詢問：以 \\_\\_\\_ 為日曆上每週開始的第一天。"
+
+#: ../../source/i18npreferences.rst:67
+msgid "Sunday"
+msgstr "星期日"
+
+#: ../../source/i18npreferences.rst:69
+msgid "Monday"
+msgstr "星期一"
+
+#: ../../source/i18npreferences.rst:71
+msgid "Tuesday"
+msgstr "星期二"
+
+#: ../../source/i18npreferences.rst:73
+msgid "Wednesday"
+msgstr "星期三"
+
+#: ../../source/i18npreferences.rst:75
+msgid "Thursday"
+msgstr "星期四"
+
+#: ../../source/i18npreferences.rst:77
+msgid "Friday"
+msgstr "星期五"
+
+#: ../../source/i18npreferences.rst:79
+msgid "Saturday"
+msgstr "星期六"
+
+#: ../../source/i18npreferences.rst:81
+msgid "Default: Sunday"
+msgstr "預設值：星期日"
+
+#: ../../source/i18npreferences.rst:85
+#, fuzzy
+msgid "Using this preference, you can control what day shows as the first day of the week in the calendar pop ups throughout Koha and on the Calendar tool. If you change this preference and don't see a change in your browser, try clearing your cache since it makes changes to the Javascript on these pages."
+msgstr "此偏好決定 Koha 與行事曆工具彈出的行事曆以星期日或星期一為一週之始。若改變此偏好但仍無法從瀏覽器看到改變的結果，重新載入最新的內容就可以改變儲存在內的 Javascript。"
+
+#: ../../source/i18npreferences.rst:94
+msgid "dateformat"
+msgstr "dateformat"
+
+#: ../../source/i18npreferences.rst:96
+msgid "Asks: Format dates like \\_\\_\\_"
+msgstr "詢問： 日期格式為 \\_\\_\\_"
+
+#: ../../source/i18npreferences.rst:100
+msgid "dd.mm.yyyy"
+msgstr "dd.mm.yyyy"
+
+#: ../../source/i18npreferences.rst:102
+#, fuzzy
+msgid "yyyy-mm-dd"
+msgstr "yyyy/mm/dd"
+
+#: ../../source/i18npreferences.rst:104
+msgid "dd/mm/yyyy"
+msgstr "dd/mm/yyyy"
+
+#: ../../source/i18npreferences.rst:106
+msgid "mm/dd/yyyy"
+msgstr "mm/dd/yyyy"
+
+#: ../../source/i18npreferences.rst:108
+msgid "Default: mm/dd/yyyy"
+msgstr "預設值：mm/dd/yyyy"
+
+#: ../../source/i18npreferences.rst:112
+msgid "This preference controls how the date is displayed."
+msgstr ""
+
+#: ../../source/i18npreferences.rst:114
+msgid "The options are: mm/dd/yyyy (e.g., 04/24/2010 for 24 April 2010); dd/mm/yyyy (24/04/2010); dd.mm.yyyy (24.04.2010); the ISO (International Organization for Standardization) format yyyy-mm-dd (2010-04-24)."
+msgstr ""
+
+#: ../../source/i18npreferences.rst:116
+msgid "The ISO format would primarily be used by libraries with locations in multiple nations that may use different date formats, to have a single display type."
+msgstr ""
+
+#: ../../source/i18npreferences.rst:122
+msgid "language"
+msgstr "語言"
+
+#: ../../source/i18npreferences.rst:124
+msgid "Asks: Enable the following languages on the staff interface"
+msgstr "詢問：以下列的語系為館員介面的預設語系"
+
+#: ../../source/i18npreferences.rst:128 ../../source/i18npreferences.rst:146
+#, fuzzy
+msgid "English (en)"
+msgstr "英語"
+
+#: ../../source/i18npreferences.rst:130 ../../source/i18npreferences.rst:148
+#, fuzzy
+msgid "Default: English (en)"
+msgstr "預設值：英文"
+
+#: ../../source/i18npreferences.rst:134 ../../source/i18npreferences.rst:152
+#, fuzzy
+msgid "To install additional languages, please refer to the Koha Wiki page `Installation of additional languages for OPAC and INTRANET staff client <https://wiki.koha-community.org/wiki/Installation_of_additional_languages_for_OPAC_and_INTRANET_staff_client>`_. Once an additional language are installed, it will show as an option in this preference."
+msgstr "安裝其他語系請參照以上連結 http://wiki.koha-community.org/wiki/Installation_of_additional_languages_for_OPAC_and_INTRANET_staff_client"
+
+#: ../../source/i18npreferences.rst:140
+msgid "OPACLanguages"
+msgstr "OPACLanguages"
+
+#: ../../source/i18npreferences.rst:142
+msgid "Asks: Enable the following languages on the OPAC"
+msgstr "詢問：以下列的語系為 OPAC 的預設語系"
+
+#: ../../source/i18npreferences.rst:158
+msgid "opaclanguagesdisplay"
+msgstr "opaclanguagesdisplay"
+
+#: ../../source/i18npreferences.rst:160
+msgid "Asks: \\_\\_\\_ patrons to change the language they see on the OPAC."
+msgstr "詢問：\\_\\_\\_ 讀者選擇 OPAC 的語系。"
+
+#: ../../source/i18npreferences.rst:164 ../../source/i18npreferences.rst:205
+msgid "Don't allow"
+msgstr "不允許"
+
+#: ../../source/i18npreferences.rst:166 ../../source/i18npreferences.rst:207
+msgid "Allow"
+msgstr "允許"
+
+#: ../../source/i18npreferences.rst:168 ../../source/i18npreferences.rst:209
+msgid "Default: Don't allow"
+msgstr "預設：不允許"
+
+#: ../../source/i18npreferences.rst:172
+#, fuzzy
+msgid "When Allow is selected, patrons will see a language selector on the public catalog. Use the :ref:`OpacLangSelectorMode <OpacLangSelectorMode-label>` preference to control where this selector will appear on the page."
+msgstr "使用 :ref:`OpacLangSelectorMode` 偏好可在公共目錄出現指定的語系。"
+
+#: ../../source/i18npreferences.rst:175
+#, fuzzy
+msgid "|opaclanguagesdisplayfooter|"
+msgstr "opaclanguagesdisplay"
+
+#: ../../source/i18npreferences.rst:177
+msgid "When Don't allow is selected, there is no option for a patron to choose their preferred language on the public catalog."
+msgstr ""
+
+#: ../../source/i18npreferences.rst:182
+msgid "TimeFormat"
+msgstr "TimeFormat"
+
+#: ../../source/i18npreferences.rst:184
+msgid "Asks: Format times in \\_\\_\\_"
+msgstr "詢問：時間格式 \\_\\_\\_"
+
+#: ../../source/i18npreferences.rst:188
+#, fuzzy
+msgid "12 hour format (e.g. \"02:18 PM\")"
+msgstr "12 小時格式 (如，02:18 PM)"
+
+#: ../../source/i18npreferences.rst:190
+#, fuzzy
+msgid "24 hour format (e.g. \"14:18\")"
+msgstr "24 小時格式(如，14:18)"
+
+#: ../../source/i18npreferences.rst:192
+#, fuzzy
+msgid "Default: 24 hour format (e.g. \"14:18\")"
+msgstr "24 小時格式(如，14:18)"
+
+#: ../../source/i18npreferences.rst:197
+msgid "TranslateNotices"
+msgstr "TranslateNotices"
+
+#: ../../source/i18npreferences.rst:199
+msgid "Asks: \\_\\_\\_ notices to be translated. If set, notices will be translatable from the \"Notices and Slips\" interface. The language used to send a notice to a patron will be the one defined for the patron."
+msgstr "詢問：\\_\\_\\_ 將翻譯的通知。設定之後，將從 \"通知與收條\" 介面翻譯其內容。將以讀者指定語文將通知送給讀者。"
+
+#: ../../source/i18npreferences.rst:213
+#, fuzzy
+msgid "If set to 'Allow' it is possible to choose a 'Preferred language for notices' when creating a new patron account in the staff interface, or for the patron to do this themselves from their messaging options when logged into their account on the OPAC."
+msgstr "如果設定為 '允許'，在館員介面建立新的讀者帳戶時，可以選擇 '偏好的通知語言'，或者由讀者在opac上登入他們的帳戶時從他們的訊息選項中自己選擇。"
+
+#: ../../source/images.rst:716
+msgid "On the Patrons module homepage, the alphabet is displayed next to \"Browse by last name\"."
+msgstr ""
+
+#: ../../source/images.rst:800
+msgid "Language selector in the footer of the Opac, with text: \"Languages: English Español Français\"."
+msgstr ""

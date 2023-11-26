@@ -1,0 +1,320 @@
+# Chinese translations for Koha Manual package.
+# Copyright (C) 2020, Koha Community
+# This file is distributed under the same license as the Koha Manual package.
+# Automatically generated, 2021.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Koha Manual 22.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-10-26 08:18+0200\n"
+"PO-Revision-Date: 2023-04-28 10:20+0000\n"
+"Last-Translator: Saralin <c108126114@nkust.edu.tw>\n"
+"Language-Team: none\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pootle 2.8\n"
+"X-Pootle-Path: /zh_TW/manual22.11/toolspreferences.po\n"
+"X-Pootle-Revision: 1\n"
+"X-POOTLE-MTIME: 1682677255.180336\n"
+
+#: ../../source/toolspreferences.rst:6
+msgid "Tools"
+msgstr "工具"
+
+#: ../../source/toolspreferences.rst:8
+#, fuzzy
+msgid "*Get there:* More > Administration > Global system preferences > Tools"
+msgstr "*到此：*其他 > 管理 > 整體系統偏好 > 工具"
+
+#: ../../source/toolspreferences.rst:13
+msgid "Barcodes"
+msgstr "條碼"
+
+#: ../../source/toolspreferences.rst:18
+msgid "BarcodeSeparators"
+msgstr "BarcodeSeparators"
+
+#: ../../source/toolspreferences.rst:20
+msgid "Asks: Split barcodes on the following separator chars \\_\\_\\_ in batch item modification and inventory."
+msgstr "詢問：分隔條碼用以下的分隔符號 \\_\\_\\_在批次館藏修改和庫存。"
+
+#: ../../source/toolspreferences.rst:23
+msgid "Default: \\\\s\\\\r\\\\n"
+msgstr "預設值：\\\\s\\\\r\\\\n"
+
+#: ../../source/toolspreferences.rst:25 ../../source/toolspreferences.rst:70
+#: ../../source/toolspreferences.rst:90 ../../source/toolspreferences.rst:110
+#: ../../source/toolspreferences.rst:141 ../../source/toolspreferences.rst:179
+#: ../../source/toolspreferences.rst:202 ../../source/toolspreferences.rst:227
+#: ../../source/toolspreferences.rst:251
+msgid "Description:"
+msgstr "說明："
+
+#: ../../source/toolspreferences.rst:27
+msgid "When importing barcode files in the :ref:`inventory tool <inventory-tool-label>` or the :ref:`batch item modification tool <batch-item-modification-label>` you can decide which character separates each barcode."
+msgstr "從 :ref:`登入工具 <inventory-tool-label>` 或 :ref:`批次館藏編修工具 <batch-item-modification-label>` 匯入條碼檔時，可以選擇區隔條碼的字元。"
+
+#: ../../source/toolspreferences.rst:33
+msgid "You must use the regular expression codes for the characters."
+msgstr "您必需使用正規表達式代碼於這些字符中。"
+
+#: ../../source/toolspreferences.rst:35
+msgid "\\\\s is used for a whitespace"
+msgstr "\\\\S 代表空格"
+
+#: ../../source/toolspreferences.rst:37
+msgid "\\\\r is used for a carriage return"
+msgstr "\\\\r 表示回車符"
+
+#: ../../source/toolspreferences.rst:39
+msgid "\\\\n is used for a new line"
+msgstr "\\\\n 用於換行"
+
+#: ../../source/toolspreferences.rst:41
+#, fuzzy
+msgid "\\\\t is used for a tab"
+msgstr "\\\t 表示跳一個定位鍵"
+
+#: ../../source/toolspreferences.rst:43
+msgid "Make sure you escape the other characters you put in there by preceding them with a backslash"
+msgstr "請確認您透過在其他字符前面加上反斜線來避免其他字符"
+
+#: ../../source/toolspreferences.rst:46
+msgid "\\\\. instead of a dot"
+msgstr "\\\\. 表示一點"
+
+#: ../../source/toolspreferences.rst:48
+msgid "\\\\\\\\ instead of a backslash"
+msgstr "\\\\\\\\ 表示反斜線"
+
+#: ../../source/toolspreferences.rst:50
+msgid "\\\\- instead of a hyphen"
+msgstr "\\\\- 表示連字號"
+
+#: ../../source/toolspreferences.rst:55
+msgid "Batch item"
+msgstr "批次館藏"
+
+#: ../../source/toolspreferences.rst:57
+msgid "These preferences are in reference to the :ref:`Batch item modification <batch-item-modification-label>` and :ref:`Batch item deletion <batch-item-deletion-label>` tools."
+msgstr "這些偏好指向 :ref:`批次館藏修改 <batch-item-modification-label>` 與 :ref:`批次刪除館藏 <batch-item-deletion-label>` 工具。"
+
+#: ../../source/toolspreferences.rst:64
+msgid "MaxItemsToDisplayForBatchDel"
+msgstr "MaxItemsToDisplayForBatchDel"
+
+#: ../../source/toolspreferences.rst:66
+msgid "Asks: Display up to \\_\\_\\_ items in a single item deletion batch."
+msgstr "詢問：批次刪除最多 \\_\\_\\_ 筆館藏。"
+
+#: ../../source/toolspreferences.rst:68 ../../source/toolspreferences.rst:88
+#: ../../source/toolspreferences.rst:108
+msgid "Default: 1000"
+msgstr "預設值：1000"
+
+#: ../../source/toolspreferences.rst:72
+msgid "In the :ref:`batch item delete tool <batch-item-deletion-label>` this will prevent the display of more than the items you entered in this preference, but you will be able to delete more than the number you enter here."
+msgstr "在 :ref:`批次刪除館藏工具 <batch-item-deletion-label>` 裡禁止顯示超過此設定的館藏量，但可以刪除超過此設定的館藏。"
+
+#: ../../source/toolspreferences.rst:79 ../../source/toolspreferences.rst:99
+msgid "Displaying a large number of items may slow down the display."
+msgstr "顯示大量館藏可能會減慢顯示速度。"
+
+#: ../../source/toolspreferences.rst:84
+msgid "MaxItemsToDisplayForBatchMod"
+msgstr "MaxItemsToDisplayForBatchMod"
+
+#: ../../source/toolspreferences.rst:86
+msgid "Asks: Display up to \\_\\_\\_ items in a single item modification batch."
+msgstr "詢問：顯示修改或刪除最多 \\_\\_\\_ 筆館藏。"
+
+#: ../../source/toolspreferences.rst:92
+#, fuzzy
+msgid "In the :ref:`batch item modification tool <batch-item-modification-label>` this will prevent the display of more than the items you entered in this preference, but you will be able to modify more than the number you enter here (see :ref:`MaxItemsToProcessForBatchMod<maxitemsforbatchmod-label>`)."
+msgstr "在 :ref:`批次修改館藏工具 <batch-item-modification-label>` 裡禁止顯示超過此設定的館藏量，但可以修改超過此設定的館藏(參見 :ref:`MaxItemsToProcessForBatchMod`)。"
+
+#: ../../source/toolspreferences.rst:104
+msgid "MaxItemsToProcessForBatchMod"
+msgstr "MaxItemsToProcessForBatchMod"
+
+#: ../../source/toolspreferences.rst:106
+msgid "Asks: Process up to \\_\\_\\_ items in a single modification batch."
+msgstr "詢問：批次修改或刪除最多 \\_\\_\\_ 筆館藏。"
+
+#: ../../source/toolspreferences.rst:112
+msgid "In the :ref:`batch item modification tool <batch-item-modification-label>` this preference will prevent the editing of more than the number entered here."
+msgstr "此 :ref:`批次館藏修改工具 <batch-item-modification-label>` 偏好將避免在此編輯多個數字。"
+
+#: ../../source/toolspreferences.rst:118
+msgid "Processing a large number of items may slow down the process and it may even time out."
+msgstr "處理大量館藏可能會減慢進度，甚至可能會超時。"
+
+#: ../../source/toolspreferences.rst:124
+msgid "News"
+msgstr "新聞"
+
+#: ../../source/toolspreferences.rst:129
+msgid "AdditionalContentsEditor"
+msgstr "AdditionalContentsEditor"
+
+#: ../../source/toolspreferences.rst:131
+msgid "Asks: By default edit additional contents and news items with"
+msgstr "詢問：預設編輯附加內容和新聞館藏"
+
+#: ../../source/toolspreferences.rst:133
+msgid "Default: a WYSIWYG editor (TinyMCE)"
+msgstr "預設值：WYSIWYG 編輯器 (TinyMCE)"
+
+#: ../../source/toolspreferences.rst:135 ../../source/toolspreferences.rst:169
+msgid "Values:"
+msgstr "值："
+
+#: ../../source/toolspreferences.rst:137
+msgid "a text editor (CodeMirror)"
+msgstr "文字編輯器 (CodeMirror)"
+
+#: ../../source/toolspreferences.rst:139
+msgid "a WYSIWYG editor (TinyMCE)"
+msgstr "WYSIWYG 編輯器 (TinyMCE)"
+
+#: ../../source/toolspreferences.rst:143
+msgid "This system preference allows you to choose which editor to use in the :ref:`news tool <news-label>` and the :ref:`HTML customizations tool <html-customizations-label>`."
+msgstr "此系統偏好允許您選擇在 :ref:`新聞工具 <news-label>` 和 :ref:`HTML 定製化工具 <html-customizations-label>` 中使用哪個編輯器。"
+
+#: ../../source/toolspreferences.rst:147
+msgid "A text editor will let you write HTML directly. Use this if you want more control over how your content will be displayed."
+msgstr "文字編輯器可讓您直接編寫 HTML。 如果您想更好地控制內容的顯示方式，請使用此選項。"
+
+#: ../../source/toolspreferences.rst:152
+#, fuzzy
+msgid "You can use CSS id's and classes in your HTML and format them with the :ref:`OPACUserCSS <opacusercss-label>` or :ref:`IntranetUserCSS <intranetusercss-label>` system preferences."
+msgstr "您可以在 HTML 中使用 CSS id's 和類，並使用 :ref:`OPACUserCSS` 或 :ref:`IntranetUserCSS` 系統偏好來設定它們的格式。"
+
+#: ../../source/toolspreferences.rst:156
+msgid "A WYSIWYG (what you see is what you get) editor is a user-friendly editor with functions similar to word processing software. Use this if you are unfamiliar with HTML."
+msgstr "WYSIWYG（你所看到的就是你得到的）編輯器是一個對使用者友善的編輯器，其功能類似於文字處理軟件。如果你對HTML不熟悉，可以使用這個編輯器。"
+
+#: ../../source/toolspreferences.rst:163
+msgid "NewsAuthorDisplay"
+msgstr "NewsAuthorDisplay"
+
+#: ../../source/toolspreferences.rst:165
+msgid "Asks: Show the author for news items: \\_\\_\\_"
+msgstr "詢問：在最新消息顯示著者名：\\_\\_\\_"
+
+#: ../../source/toolspreferences.rst:167
+msgid "Default: not at all"
+msgstr "預設值：不用"
+
+#: ../../source/toolspreferences.rst:171
+msgid "Both OPAC and staff interface"
+msgstr "OPAC 和員工介面"
+
+#: ../../source/toolspreferences.rst:173
+msgid "Not at all"
+msgstr "一點也不"
+
+#: ../../source/toolspreferences.rst:175
+msgid "OPAC only"
+msgstr "只限 OPAC"
+
+#: ../../source/toolspreferences.rst:177
+msgid "Staff interface only"
+msgstr "僅員工介面"
+
+#: ../../source/toolspreferences.rst:181
+msgid "This system preference lets you choose whether or not the name of the author of the news item is displayed and where."
+msgstr "此系統偏好允許您選擇是否顯示新聞館藏作者的姓名以及在何處顯示。"
+
+#: ../../source/toolspreferences.rst:187
+#, fuzzy
+msgid "Patron cards"
+msgstr "讀者證"
+
+#: ../../source/toolspreferences.rst:189
+msgid "These preferences are in reference to the :ref:`Patron card creator <patron-card-creator-label>` tool."
+msgstr "這些偏好與 :ref:`新增讀者證 <patron-card-creator-label>` 工具有關。"
+
+#: ../../source/toolspreferences.rst:195
+msgid "ImageLimit"
+msgstr "ImageLimit"
+
+#: ../../source/toolspreferences.rst:197
+msgid "Asks: Limit the number of creator images stored in the database to \\_\\_\\_ images."
+msgstr "詢問：限制讀者在資料庫內最多儲存 \\_\\_\\_ 張照片。"
+
+#: ../../source/toolspreferences.rst:200
+msgid "Default: 5"
+msgstr "預設值：5"
+
+#: ../../source/toolspreferences.rst:204
+msgid "This system preference determines the number of images that can be used in the :ref:`patron card creator tool <patron-card-creator-label>`."
+msgstr "此系統偏好決定了可以在 :ref:`讀者卡建立工具 <patron-card-creator-label>`中使用的圖片數量。"
+
+#: ../../source/toolspreferences.rst:209
+msgid "A large number of images may take a lot of storage space."
+msgstr "大量影像可能會佔用大量存儲空間。"
+
+#: ../../source/toolspreferences.rst:214
+msgid "Reports"
+msgstr "報表"
+
+#: ../../source/toolspreferences.rst:216
+msgid "These preferences are in reference to the :ref:`reports module <reports-label>`."
+msgstr "這些偏好參考 :ref:`報表模組 <reports-label>`。"
+
+#: ../../source/toolspreferences.rst:221
+msgid "NumSavedReports"
+msgstr "NumSavedReports"
+
+#: ../../source/toolspreferences.rst:223
+msgid "Asks: By default, show \\_\\_\\_ reports on the saved reports page."
+msgstr "詢問：預設，在館員介面每頁顯示 \\_\\_\\_ 筆結果。"
+
+#: ../../source/toolspreferences.rst:225
+msgid "Default: 20"
+msgstr "預設值：20"
+
+#: ../../source/toolspreferences.rst:229
+msgid "This system preference lets you determine the number of reports that should de displayed per page in the saved reports page."
+msgstr "這個系統偏好讓你決定在儲存的報告頁中，每頁應該顯示的報告數量。"
+
+#: ../../source/toolspreferences.rst:234
+msgid "Displaying a large number of reports may slow down the display."
+msgstr "顯示大量報告可能會減慢顯示速度。"
+
+#: ../../source/toolspreferences.rst:239
+msgid "Upload"
+msgstr "上傳"
+
+#: ../../source/toolspreferences.rst:244
+msgid "UploadPurgeTemporaryFilesDays"
+msgstr "UploadPurgeTemporaryFilesDays"
+
+#: ../../source/toolspreferences.rst:246
+msgid "Asks: Automatically delete temporary uploads older than \\_\\_\\_ days in cleanup\\_database cron job."
+msgstr "詢問：自動刪除在 cleanup\\_database 工作排程內最於 \\_\\_\\_ 天的暫存檔。"
+
+#: ../../source/toolspreferences.rst:249
+msgid "Default: blank"
+msgstr "預設值：空白"
+
+#: ../../source/toolspreferences.rst:253
+msgid "This system preference lets you determine how long temporary uploaded files (files uploaded through the :ref:`upload tool <upload-label>` without any category) are kept"
+msgstr "這個系統偏好讓你決定臨時上傳的文件（通過 :ref:`上傳工具 <upload-label>`上傳的文件，沒有任何類別）的儲存時間"
+
+#: ../../source/toolspreferences.rst:259
+msgid "If you leave this field empty, the cron job will not delete any files."
+msgstr "如果將此欄位留空，則工作排程作業將不會刪除任何文件。"
+
+#: ../../source/toolspreferences.rst:261
+msgid "On the other hand, a value of 0 means 'delete all temporary files'."
+msgstr "另一方面，值為 0 表示 '刪除所有臨時文件'。"
+
+#: ../../source/toolspreferences.rst:263
+msgid "This value can be overridden with the --temp-uploads-days option of the cleanup\\_database script."
+msgstr "這個值可以通過清理\\_資料庫腳本的 --臨時-上傳-天數選項來覆蓋。"

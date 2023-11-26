@@ -1,0 +1,165 @@
+# Chinese translations for Koha Manual package.
+# Copyright (C) 2020, Koha Community
+# This file is distributed under the same license as the Koha Manual package.
+# Automatically generated, 2021.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Koha Manual 22.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-10-26 13:37+0000\n"
+"PO-Revision-Date: 2023-05-29 08:54+0000\n"
+"Last-Translator: yien0408 <i4nn0408@gmail.com>\n"
+"Language-Team: none\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pootle 2.8\n"
+"X-Pootle-Path: /zh_TW/manual22.11/cash_management.po\n"
+"X-Pootle-Revision: 1\n"
+"X-POOTLE-MTIME: 1685350454.827949\n"
+
+#: ../../source/cash_management.rst:6
+msgid "Point of sale"
+msgstr "銷售點"
+
+#: ../../source/cash_management.rst:8
+msgid "Point of sale is a module designed for selling items to people who are not registered at the library or to make sales that do not need to be linked to a patron account."
+msgstr "銷售點是一個模組，用於將館藏出售給未在圖書館註冊的人或進行不需要連接到讀者帳戶的銷售。"
+
+#: ../../source/cash_management.rst:12
+msgid "For example, you can sell used books or promotional items. These items can be sold to anyone and you don't need to link the sale to a particular patron."
+msgstr "例如，您可以出售舊書或促銷館藏。這些館藏可以出售給任何人而且無需聯繫特定讀者以進行銷售。"
+
+#: ../../source/cash_management.rst:15
+msgid "For invoices that need to be linked to a patron's account (like a lost item or new card fee), use :ref:`manual invoicing <creating-manual-invoices-label>`."
+msgstr "對於需要連接到讀者帳戶的發票（例如丟失的館藏或新卡費用），請使用 :ref:`人工發票<creating-manual-invoices-label>。"
+
+#: ../../source/cash_management.rst:18
+msgid "*Get there:* More > Point of sale"
+msgstr "*到:*更多>銷售點"
+
+#: ../../source/cash_management.rst:23
+msgid "Setup"
+msgstr "設定"
+
+#: ../../source/cash_management.rst:25
+#, fuzzy
+msgid "To enable the point of sale module, you must turn on the :ref:`EnablePointOfSale <EnablePointOfSale-label>` system preference."
+msgstr "要啟用銷售點模組，必須打開 :ref:`EnablePointOfSale`系統偏好。"
+
+#: ../../source/cash_management.rst:28
+#, fuzzy
+msgid "If it's not already done, you must also enable the :ref:`UseCashRegisters <UseCashRegisters-label>` system preference."
+msgstr "如果尚未完成，則要啟用 :ref:`UseCashRegisters`系統偏好。"
+
+#: ../../source/cash_management.rst:31
+msgid "Make sure you :ref:`configure your cash registers <cashregisters-label>` in the administration module."
+msgstr "確認有在管理模組近用 :ref:`配置現金列表<cashregisters-label>`"
+
+#: ../../source/cash_management.rst:34
+msgid "Finally, you must add items that you will be selling in the :ref:`debit types <debit-types-label>` section of the administration module."
+msgstr "最後，必須在管理模組 :ref:`借方類型<debit-types-label>`中新增要出售的館藏"
+
+#: ../../source/cash_management.rst:40
+msgid "Making a sale"
+msgstr "進行銷售"
+
+#: ../../source/cash_management.rst:42
+msgid "When you first go in the point of sale module, the left side will show all the items for sale. These are :ref:`debit types <debit-types-label>` that were marked as 'Can be sold'."
+msgstr "首次進入銷售點模組時，左側將顯示所有待售館藏。這些是標記為'可出售'的 :ref:借方類型<debit-types-label>`。"
+
+#: ../../source/cash_management.rst:48
+msgid "You can customize the columns of this table in the :ref:`'Table settings'<column-settings-label>` section of the Administration module (table id: invoices)."
+msgstr "您可以在管理模組的 :ref:`'欄組態'<column-settings-label>`部份, 自定義此表的列(table id: invoices)。"
+
+#: ../../source/cash_management.rst:52
+msgid "On the right side is the current sale."
+msgstr "右側是目前的銷售。"
+
+#: ../../source/cash_management.rst:54
+#, fuzzy
+msgid "|pointofsale|"
+msgstr "銷售點"
+
+#: ../../source/cash_management.rst:56
+msgid "Click on the 'Add' button next to the items to add to the current sale."
+msgstr "點擊館藏旁邊的'新增'按鈕以新增到當前銷售中。"
+
+#: ../../source/cash_management.rst:58
+msgid "If you need to change the cost or the quantity, click on the amount on the right side and it will become an input box where you can enter the correct amount."
+msgstr "如果需要更改成本或數量，點擊右側的數量，它將變成一個輸入框，並可以在其中輸入正確的數量。"
+
+#: ../../source/cash_management.rst:62
+msgid "|image1459|"
+msgstr ""
+
+#: ../../source/cash_management.rst:64
+msgid "Once all the items have been added, quantities and prices adjusted if needed, fill out the 'Collect payment' form."
+msgstr ""
+
+#: ../../source/cash_management.rst:67
+msgid "Amount being paid: this is the total, it cannot be edited since it's not attached to a patron file, it cannot be partially paid."
+msgstr ""
+
+#: ../../source/cash_management.rst:70
+msgid "Amount tendered: enter the actual amount handed to you by the patron. The amount tendered must be equal or greater than 'Amoung being paid'."
+msgstr ""
+
+#: ../../source/cash_management.rst:73
+msgid "Change to give: if the amount tendered is greater than the amoung being paid, Koha will calculate how much change should be returned to the patron."
+msgstr ""
+
+#: ../../source/cash_management.rst:76
+msgid "Payment type: choose the type of payment."
+msgstr ""
+
+#: ../../source/cash_management.rst:80
+msgid "The values are managed in the :ref:`PAYMENT\\_TYPE authorized value <existing-values-label>`."
+msgstr ""
+
+#: ../../source/cash_management.rst:83
+msgid "Cash register: choose the cash register in which to enter the transaction."
+msgstr ""
+
+#: ../../source/cash_management.rst:85
+msgid "Click 'Confirm' to finalize the sale."
+msgstr ""
+
+#: ../../source/cash_management.rst:87
+msgid "If change was to be given back to the patron, a pop-up window will appear to remind you, click 'Yes' to confirm that you gave back the correct amount and confirm the payment."
+msgstr ""
+
+#: ../../source/cash_management.rst:91
+msgid "|changetogive|"
+msgstr ""
+
+#: ../../source/cash_management.rst:93
+msgid "You will have the choice to print or email the receipt for the sale."
+msgstr ""
+
+#: ../../source/cash_management.rst:95
+msgid "|paymentreceived|"
+msgstr ""
+
+#: ../../source/cash_management.rst:99
+msgid "The receipts can be customized in the :ref:`Notices and slips tool <notices-and-slips-label>`. The letter code is RECEIPT."
+msgstr ""
+
+#: ../../source/images.rst:2194
+msgid "Pop-up window saying 'The amount collected is more than the outstanding charge The amount collected from the patron is higher than the amount to be paid. The change to give is 2.25. Confirm this payment?' with Yes and No buttons"
+msgstr ""
+
+#: ../../source/images.rst:2379
+msgid "Payment received alert with two buttons Print receipt or Email receipt"
+msgstr ""
+
+#: ../../source/images.rst:2382
+msgid "Point of sale page, on the left is a list of items for purchase, on the right is a list of items in this transaction, followed by a payment form"
+msgstr ""
+
+#: ../../source/images.rst:3516
+msgid "image1459"
+msgstr ""

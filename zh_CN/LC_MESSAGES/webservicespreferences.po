@@ -1,0 +1,462 @@
+# Chinese translations for Koha Manual package.
+# Copyright (C) 2020, Koha Community
+# This file is distributed under the same license as the Koha Manual package.
+# Automatically generated, 2021.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Koha Manual 22.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-10-26 13:37+0000\n"
+"PO-Revision-Date: 2023-04-28 10:38+0000\n"
+"Last-Translator: Saralin <c108126114@nkust.edu.tw>\n"
+"Language-Team: none\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pootle 2.8\n"
+"X-Pootle-Path: /zh_TW/manual22.11/webservicespreferences.po\n"
+"X-Pootle-Revision: 1\n"
+"X-POOTLE-MTIME: 1682678280.193753\n"
+
+#: ../../source/images.rst:3403
+msgid "image1201"
+msgstr ""
+
+#: ../../source/images.rst:3404
+msgid "image1202"
+msgstr ""
+
+#: ../../source/webservicespreferences.rst:6
+msgid "Web services"
+msgstr "網頁服務"
+
+#: ../../source/webservicespreferences.rst:8
+msgid "*Get there:* More > Administration > Global system preferences > Web services"
+msgstr "*到那裡:* 更多 > 管理 > 系統偏好 > 網頁服務"
+
+#: ../../source/webservicespreferences.rst:14
+msgid "General"
+msgstr "一般"
+
+#: ../../source/webservicespreferences.rst:19
+msgid "AccessControlAllowOrigin"
+msgstr "AccessControlAllowOrigin"
+
+#: ../../source/webservicespreferences.rst:21
+msgid "Asks: Set the Access-Control-Allow-Origin header to \\_\\_\\_"
+msgstr "詢問: 將 Access-Control-Allow-Origin 標題設於 \\_\\_\\_"
+
+#: ../../source/webservicespreferences.rst:23
+#: ../../source/webservicespreferences.rst:84
+#: ../../source/webservicespreferences.rst:134
+#: ../../source/webservicespreferences.rst:165
+#: ../../source/webservicespreferences.rst:178
+#: ../../source/webservicespreferences.rst:207
+#: ../../source/webservicespreferences.rst:310
+#: ../../source/webservicespreferences.rst:337
+#: ../../source/webservicespreferences.rst:351
+#: ../../source/webservicespreferences.rst:370
+#: ../../source/webservicespreferences.rst:394
+#: ../../source/webservicespreferences.rst:414
+#: ../../source/webservicespreferences.rst:433
+msgid "Description:"
+msgstr "說明："
+
+#: ../../source/webservicespreferences.rst:25
+msgid "This is the header used for OPAC reports SVC routes."
+msgstr "這是用於 OPAC 報表 SVC 路由的標頭。"
+
+#: ../../source/webservicespreferences.rst:30
+#: ../../source/webservicespreferences.rst:35
+msgid "ILS-DI"
+msgstr "ILS-DI"
+
+#: ../../source/webservicespreferences.rst:37
+#: ../../source/webservicespreferences.rst:73
+#: ../../source/webservicespreferences.rst:197
+#: ../../source/webservicespreferences.rst:241
+#: ../../source/webservicespreferences.rst:257
+#: ../../source/webservicespreferences.rst:329
+#: ../../source/webservicespreferences.rst:362
+msgid "Default: Disable"
+msgstr "預設值：停用"
+
+#: ../../source/webservicespreferences.rst:39
+msgid "Asks: \\_\\_\\_ ILS-DI services for OPAC users"
+msgstr "詢問：\\_\\_\\_ 對 OPAC 讀者的 ILS-DI 服務"
+
+#: ../../source/webservicespreferences.rst:41
+#: ../../source/webservicespreferences.rst:78
+#: ../../source/webservicespreferences.rst:128
+#: ../../source/webservicespreferences.rst:157
+#: ../../source/webservicespreferences.rst:201
+#: ../../source/webservicespreferences.rst:246
+#: ../../source/webservicespreferences.rst:263
+#: ../../source/webservicespreferences.rst:292
+#: ../../source/webservicespreferences.rst:331
+#: ../../source/webservicespreferences.rst:364
+#: ../../source/webservicespreferences.rst:388
+#: ../../source/webservicespreferences.rst:408
+msgid "Values:"
+msgstr "值："
+
+#: ../../source/webservicespreferences.rst:43
+#: ../../source/webservicespreferences.rst:80
+#: ../../source/webservicespreferences.rst:159
+#: ../../source/webservicespreferences.rst:203
+#: ../../source/webservicespreferences.rst:248
+#: ../../source/webservicespreferences.rst:265
+#: ../../source/webservicespreferences.rst:333
+#: ../../source/webservicespreferences.rst:366
+#: ../../source/webservicespreferences.rst:390
+#: ../../source/webservicespreferences.rst:410
+msgid "Disable"
+msgstr "停用"
+
+#: ../../source/webservicespreferences.rst:45
+#: ../../source/webservicespreferences.rst:82
+#: ../../source/webservicespreferences.rst:161
+#: ../../source/webservicespreferences.rst:205
+#: ../../source/webservicespreferences.rst:250
+#: ../../source/webservicespreferences.rst:267
+#: ../../source/webservicespreferences.rst:335
+#: ../../source/webservicespreferences.rst:368
+#: ../../source/webservicespreferences.rst:392
+#: ../../source/webservicespreferences.rst:412
+msgid "Enable"
+msgstr "啟用"
+
+#: ../../source/webservicespreferences.rst:50
+msgid "ILS-DI:AuthorizedIPs"
+msgstr "ILS-DI:AuthorizedIPs"
+
+#: ../../source/webservicespreferences.rst:52
+msgid "Asks: Allow IP addresses \\_\\_\\_ to use the ILS-DI services (when enabled)."
+msgstr "詢問：\\_\\_\\_ 允許 IP 位址用在 ILS-DI 服務 (啟用後)。"
+
+#: ../../source/webservicespreferences.rst:54
+#: ../../source/webservicespreferences.rst:109
+msgid "**Note**"
+msgstr "**說明**"
+
+#: ../../source/webservicespreferences.rst:56
+msgid "Separate the IP addresses with commas and without spaces. For example: 15.78.193.62,197.85.10.1"
+msgstr "IP 位址以逗點沒有空格的方式區隔。如：15.78.193.62,197.85.10.1"
+
+#: ../../source/webservicespreferences.rst:59
+#: ../../source/webservicespreferences.rst:104
+msgid "**Important**"
+msgstr "**重要的**"
+
+#: ../../source/webservicespreferences.rst:61
+msgid "Leave the field blank to allow any IP address."
+msgstr "空白則表示允許使用任何 IP 位址。"
+
+#: ../../source/webservicespreferences.rst:66
+#: ../../source/webservicespreferences.rst:71
+msgid "IdRef"
+msgstr "IdRef"
+
+#: ../../source/webservicespreferences.rst:75
+msgid "Asks: \\_\\_\\_ the IdRef webservice from the OPAC detail page. IdRef allows to request authorities from the Sudoc database."
+msgstr "詢問: \\_\\_\\_ 來自OPAC線上公用目錄詳情的 IdRef 網頁服務。IdRef 允許從 Sudoc 資料庫請求權威。"
+
+#: ../../source/webservicespreferences.rst:86
+msgid "IdRef is a French service for Sudoc autorities. Using the `Sudoc database <http://www.sudoc.abes.fr/>`__, it allows to request / modify / add authorities. If a record comes from the Sudoc (so 009 is filled with an integer), at the OPAC you will see \"Author: Idref\" if a 7..$3 (unimarc author) if filled with a ppn. On clicking on the Idref link, a popup will display."
+msgstr "IdRef 是 Sudoc 權威的法文服務。使用 `Sudoc 資料庫 <http://www.sudoc.abes.fr/>`__，可以請求/修改/新增權威。若記錄來自 Sudoc (所以 009 欄位將填入整數)，在 OPAC 可看到 \"Author: Idref\" 若 7..$3 (unimarc 權威) 可填入 ppn。按 Idref 連結，顯示彈出視窗。"
+
+#: ../../source/webservicespreferences.rst:93
+msgid "|image1201|"
+msgstr ""
+
+#: ../../source/webservicespreferences.rst:95
+msgid "The Idref webservice is requested and all records (by roles) for this author will be displayed"
+msgstr "請求 Idref 網頁服務則顯示該著者的所有記錄 (依其功能)"
+
+#: ../../source/webservicespreferences.rst:98
+msgid "|image1202|"
+msgstr ""
+
+#: ../../source/webservicespreferences.rst:100
+msgid "There is 1 line / record and 2 links at the end. 1 will request Koha (cgi-bin/koha/opac-search.pl?q=ident:003381862), the other one will redirect to the sudoc page (http://www.sudoc.fr/003381862)."
+msgstr "有 1 列 / 記錄以及 2 連結在最後。1 將需要 Koha (cgi-bin/koha/opac-search.pl?q=ident:003381862)，另個則導向至 sudoc 頁面 (http://www.sudoc.fr/003381862)。"
+
+#: ../../source/webservicespreferences.rst:106
+msgid "Please note that this feature is available only for libraries using UNIMARC."
+msgstr "請注意此功能僅限於 UNIMARC。"
+
+#: ../../source/webservicespreferences.rst:111
+msgid "The French Sudoc database should not be confused with the US Superintendent of Documents (SuDocs) Classification Scheme."
+msgstr "法國的 Sudoc 資料庫不要與與美國政府印刷局 (SuDocs) 分類法弄混。"
+
+#: ../../source/webservicespreferences.rst:117
+msgid "Mana KB"
+msgstr "Mana 知識庫"
+
+#: ../../source/webservicespreferences.rst:122
+msgid "AutoShareWithMana"
+msgstr "AutoShareWithMana"
+
+#: ../../source/webservicespreferences.rst:124
+msgid "Asks: Fields automatically shared with Mana KB \\_\\_\\_"
+msgstr "詢問: 欄位自動分享與Mana知識庫 \\_\\_\\_"
+
+#: ../../source/webservicespreferences.rst:126
+msgid "Default: none"
+msgstr "預設值：無"
+
+#: ../../source/webservicespreferences.rst:130
+msgid "[Select all]"
+msgstr "[全選]"
+
+#: ../../source/webservicespreferences.rst:132
+msgid "Subscriptions"
+msgstr "訂閱"
+
+#: ../../source/webservicespreferences.rst:136
+#: ../../source/webservicespreferences.rst:167
+msgid "This preference reflects the choice made in the :ref:`Mana KB configuration <share-with-mana-kb-label>` in the administration module."
+msgstr "此偏好反應選擇使 :ref:`Mana KB 定義 <share-with-mana-kb-label>` 在管理模組"
+
+#: ../../source/webservicespreferences.rst:138
+msgid "Choosing to automatically share content with Mana KB means that every time you create that type of content, it will be automatically copied in the Mana KB repository, and it will be instantly available for other libraries to copy."
+msgstr "選擇自動分享內容給Mana知識庫意味著每次您產生那種類型的內容，它會自動複製到Mana知識庫，同時，它會提供讓其它圖書館得以取得此內容。"
+
+#: ../../source/webservicespreferences.rst:142
+msgid "All content shared with Mana KB is shared under the CC0 license, meaning that there is no (zero) copyright. Anyone using Mana KB can copy, reuse and change (their copy of) your content. Read more on CC0 on the `Creative Commons Website <https://creativecommons.org/choose/zero/>`__. This will in no way change your data in your Koha installation."
+msgstr "所有內容分享給Mana知識庫是基於CC0協定,意味著不含任何著作權。任何人使用Mana知識庫可以取得，重新使用以及修改您的內容。閱讀更多關於CC0的規範，請至 `Creative Commons 網站 <https://creativecommons.org/choose/zero/>`__. 此將不會改變您Koha安裝的資料。"
+
+#: ../../source/webservicespreferences.rst:151
+msgid "Mana"
+msgstr "Mana"
+
+#: ../../source/webservicespreferences.rst:153
+msgid "Asks: \\_\\_\\_ submissions to Mana KB."
+msgstr "詢問：\\_\\_\\_ 給Mana知識庫的意見書。"
+
+#: ../../source/webservicespreferences.rst:155
+msgid "Default: No, let me think about it"
+msgstr "預設值：不，讓我想想"
+
+#: ../../source/webservicespreferences.rst:163
+msgid "No, let me think about it"
+msgstr "不，讓我想想"
+
+#: ../../source/webservicespreferences.rst:172
+msgid "ManaToken"
+msgstr "ManaToken"
+
+#: ../../source/webservicespreferences.rst:174
+msgid "Asks: Security token used to authenticate on Mana KB: \\_\\_\\_"
+msgstr "詢問: 資安邀請碼用於Mana知識庫的認證: \\_\\_\\_"
+
+#: ../../source/webservicespreferences.rst:176
+msgid "Default: empty"
+msgstr "預設值：空白"
+
+#: ../../source/webservicespreferences.rst:180
+msgid "This preference will be automatically populated with your unique Mana Token when you register for one on the :ref:`Mana KB configuration <share-with-mana-kb-label>` in the administration module."
+msgstr "此偏好將自動填充您的獨特Mana邀請碼當您註冊:ref:`Mana KB定義<share-with-mana-kb-label>` 在管理模組。"
+
+#: ../../source/webservicespreferences.rst:184
+msgid "The Mana Token is unique and associated with your Koha installation. It is used by Koha to log onto the Mana KB server and prevents intrusions on said server."
+msgstr "Mana邀請碼是唯一的且和您的Koha安裝相關. 被用於登入Mana知識庫伺服器避免遭入侵所述伺服器。"
+
+#: ../../source/webservicespreferences.rst:190
+#: ../../source/webservicespreferences.rst:195
+msgid "OAI-PMH"
+msgstr "OAI-PMH"
+
+#: ../../source/webservicespreferences.rst:199
+msgid "Asks: \\_\\_\\_ Koha's OAI-PMH server."
+msgstr "詢問：\\_\\_\\_ Koha 的 OAI-PMH 伺服器。"
+
+#: ../../source/webservicespreferences.rst:209
+#, fuzzy
+msgid "Once enabled you can visit http://YOURKOHACATALOG/cgi-bin/koha/oai.pl to see your file. For the Open Archives Initiative-Protocol for Metadata Harvesting (OAI-PMH) there are two groups of 'participants': Data Providers and Service Providers. Data Providers (open archives, repositories) provide free access to metadata, and may, but do not necessarily, offer free access to full texts or other resources. OAI-PMH provides an easy to implement, low barrier solution for Data Providers. Service Providers use the OAI interfaces of the Data Providers to harvest and store metadata. Note that this means that there are no live search requests to the Data Providers; rather, services are based on the harvested data via OAI-PMH. Koha at present can only act as a Data Provider. It can not harvest from other repositories. The biggest stumbling block to having Koha harvest from other repositories is that MARC is the only metadata format that Koha indexes natively."
+msgstr "一旦啟用，你可以訪問 http://YOURKOHACATALOG/cgi-bin/koha/oai.pl，查看你的檔案。對於開放檔案倡議-元數據採集協議（OAI-PMH），有兩組 '參與者'。數據提供者和服務提供者。數據提供者（開放檔案館、儲存庫）提供對元數據的免費訪問，並可能（但不一定）提供對全文或其他資源的免費訪問。 OAI-PMH為數據提供者提供了一個易於實施、低門檻的解決方案。服務提供者使用數據提供者的OAI接口來採集和儲存元數據。請注意，這意味著不存在對數據提供者的實時搜尋請求；相反，服務是基於通過OAI-PMH收穫的數據。目前，Koha只能作為一個數據提供者。它不能從其他儲存庫中獲取數據。讓Koha從其他資源庫採集數據的最大絆腳石是MARC是Koha唯一可以直接索引的元數據格式。訪問http://www.oaforum.org/tutorial/english/page3.htm，了解OAI-PMH的工作原理圖。"
+
+#: ../../source/webservicespreferences.rst:225
+msgid "Learn more about OAI-PMH at: http://www.openarchives.org/pmh/"
+msgstr "OAI-PMH 詳情見：http://www.openarchives.org/pmh/"
+
+#: ../../source/webservicespreferences.rst:230
+msgid "OAI-PMH:archiveID"
+msgstr "OAI-PMH:archiveID"
+
+#: ../../source/webservicespreferences.rst:232
+msgid "Default: KOHA-OAI-TEST"
+msgstr "預設值：KOHA-OAI-TEST"
+
+#: ../../source/webservicespreferences.rst:234
+msgid "Asks: Identify records at this site with the prefix \\_\\_\\_ :"
+msgstr "詢問：以前置碼 \\_\\_\\_ 辦識此網站的紀錄："
+
+#: ../../source/webservicespreferences.rst:239
+msgid "OAI-PMH:AutoUpdateSets"
+msgstr "OAI-PMH:AutoUpdateSets"
+
+#: ../../source/webservicespreferences.rst:243
+msgid "Asks: \\_\\_\\_ automatic update of OAI-PMH sets when a bibliographic record is created or updated."
+msgstr "詢問：新增或更新書目紀錄時 \\_\\_\\_ 自動更新 OAI-PMH。"
+
+#: ../../source/webservicespreferences.rst:255
+msgid "OAI-PMH:AutoUpdateSetsEmbedItemData"
+msgstr "OAI-PMH:AutoUpdateSetsEmbedItemData"
+
+#: ../../source/webservicespreferences.rst:259
+#, fuzzy
+msgid "Asks: \\_\\_\\_ embedding of item data when automatically updating OAI-PMH sets. NOTE: This needs :ref:`OAI-PMH:AutoUpdateSets <oai-pmh-autoupdatesets-label>` system preference to be enabled."
+msgstr "詢問：\\_\\_\\_ 自動更新 OAI-PMH 集時嵌入館藏數據。 注意：這需要啟用 :ref:`OAI-PMH:AutoUpdateSets` 系統偏好。"
+
+#: ../../source/webservicespreferences.rst:272
+msgid "OAI-PMH:ConfFile"
+msgstr "OAI-PMH:ConfFile"
+
+#: ../../source/webservicespreferences.rst:274
+msgid "If this preference is left empty, Koha's OAI Server operates in normal mode, otherwise it operates in extended mode. In extended mode, it's possible to parameter other formats than marcxml or Dublin Core. OAI-PMH:ConfFile specify a YAML configuration file which list available metadata formats and XSL file used to create them from marcxml records."
+msgstr "若此偏好為空的，則 Koha 的開放檔案存取協定伺服器以正常模式運作，否則以延伸模式運作。在延伸模式下，可以納入 marcxml 或 Dublin Core 以外的格式。OAI-PMH:ConfFile 指定一個 YAML 組態檔列出可用的後設資料格式以及從 marcxml 紀錄新增 XSL 檔案。"
+
+#: ../../source/webservicespreferences.rst:280
+msgid "For more information, see the :ref:`sample conf file <sample-oai-conf-file-label>` section."
+msgstr "詳情，見附錄的 :ref:`conf 檔案範例 <sample-oai-conf-file-label>` 區塊。"
+
+#: ../../source/webservicespreferences.rst:286
+msgid "OAI-PMH:DeletedRecord"
+msgstr "OAI-PMH:DeletedRecord"
+
+#: ../../source/webservicespreferences.rst:288
+msgid "Default: will never be emptied or truncated (persistent)"
+msgstr "預設：永不空白或截切 (持續)"
+
+#: ../../source/webservicespreferences.rst:290
+msgid "Asks: Koha's deletedbiblio table \\_\\_\\_"
+msgstr "詢問：Koha 的 deletedbiblio 表單 \\_\\_\\_"
+
+#: ../../source/webservicespreferences.rst:294
+msgid "will never have any data in it (no)"
+msgstr "永遠沒有資料在內 (不)"
+
+#: ../../source/webservicespreferences.rst:296
+msgid "will never be emptied or truncated (persistent)"
+msgstr "永不空白或截切 (持續)"
+
+#: ../../source/webservicespreferences.rst:298
+msgid "might be emptied or truncated at some point (transient)"
+msgstr "有時可能空白或截切 (暫時)"
+
+#: ../../source/webservicespreferences.rst:303
+msgid "OAI-PMH:MaxCount"
+msgstr "OAI-PMH:MaxCount"
+
+#: ../../source/webservicespreferences.rst:305
+msgid "Default: 50"
+msgstr "預設值：50"
+
+#: ../../source/webservicespreferences.rst:307
+msgid "Asks: Only return \\_\\_\\_ records at a time in response to a ListRecords or ListIdentifiers query."
+msgstr "詢問：回應 ListRecords 或 ListIdentifiers 查詢時一次只送回 \\_\\_\\_ 筆紀錄。"
+
+#: ../../source/webservicespreferences.rst:312
+msgid "This is the maximum number of records that would be returned based on ListRecord or ListIdentifier queries from harvesters. ListRecords harvest the entire records while the ListIdentifier is an abbreviated form of ListRecords, retrieving only headers rather than records."
+msgstr "這是根據擷取器 ListRecord 或 ListIdentifier 詢問可取回的最大值紀錄。ListRecords 擷取全部紀錄而 ListIdentifier 是 ListRecords 的摘要格式，只擷取標題不取紀錄。"
+
+#: ../../source/webservicespreferences.rst:320
+msgid "REST API"
+msgstr "REST API"
+
+#: ../../source/webservicespreferences.rst:325
+msgid "RESTBasicAuth"
+msgstr "RESTBasicAuth"
+
+#: ../../source/webservicespreferences.rst:327
+msgid "Asks: \\_\\_\\_ Basic authentication for the REST API."
+msgstr "詢問：\\_\\_\\_ REST API 的基本身份驗證。"
+
+#: ../../source/webservicespreferences.rst:339
+msgid "If enabled, Basic authentication is enabled for the REST API."
+msgstr "如果啟用，則為 REST API 啟用基本身份驗證。"
+
+#: ../../source/webservicespreferences.rst:344
+msgid "RESTdefaultPageSize"
+msgstr "RESTdefaultPageSize"
+
+#: ../../source/webservicespreferences.rst:346
+msgid "Asks: Set the default number of results returned by the REST API endpoints to \\_\\_\\_ per page."
+msgstr "詢問：設定 REST API 每頁可以送回 \\_\\_\\_ 個結果。"
+
+#: ../../source/webservicespreferences.rst:349
+msgid "Default: 20"
+msgstr "預設值：20"
+
+#: ../../source/webservicespreferences.rst:353
+msgid "This preference lets you choose the number of endpoint results per page"
+msgstr "此偏好允許您選擇每頁端點結果的數量"
+
+#: ../../source/webservicespreferences.rst:358
+msgid "RESTOAuth2ClientCredentials"
+msgstr "RESTOAuth2ClientCredentials"
+
+#: ../../source/webservicespreferences.rst:360
+msgid "Asks: \\_\\_\\_ the OAuth2 client credentials grant for the REST API."
+msgstr "詢問：\\_\\_\\_ OAuth2 客戶授與憑證供 REST API 使用。"
+
+#: ../../source/webservicespreferences.rst:372
+msgid "If enabled, the OAuth2 client credentials flow is enabled for the REST API."
+msgstr "如果啟用，則為 REST API 啟用 OAuth2 客戶端的憑證流。"
+
+#: ../../source/webservicespreferences.rst:376
+msgid "Requires that Net::OAuth2::AuthorizationServer be installed."
+msgstr "必須安裝 Net::OAuth2::AuthorizationServer。"
+
+#: ../../source/webservicespreferences.rst:381
+msgid "RESTPublicAnonymousRequests"
+msgstr "RESTPublicAnonymousRequests"
+
+#: ../../source/webservicespreferences.rst:383
+msgid "Asks: \\_\\_\\_ anonymous access to public routes (that don't require authenticated access)"
+msgstr "詢問：\\_\\_\\_ 匿名訪問公開路由（不需要經過身份驗證的訪問）"
+
+#: ../../source/webservicespreferences.rst:386
+#: ../../source/webservicespreferences.rst:406
+msgid "Default: Enable"
+msgstr "預設值：啟用"
+
+#: ../../source/webservicespreferences.rst:396
+msgid "If enabled, the API will allow anonymous access to public routes that don't require authenticated access."
+msgstr "如果啟用，API 將允許匿名訪問不需要身份驗證訪問的公共路由。"
+
+#: ../../source/webservicespreferences.rst:402
+msgid "RESTPublicAPI"
+msgstr "RESTPublicAPI"
+
+#: ../../source/webservicespreferences.rst:404
+msgid "Asks: \\_\\_\\_ the \\/public namespace of the API."
+msgstr "詢問：\\_\\_\\_ API 的 \\/公開命名空間。"
+
+#: ../../source/webservicespreferences.rst:416
+msgid "If enabled, the REST API will expose the \\/public endpoints."
+msgstr "如果啟用，REST API 將公開 \\/公開端點。"
+
+#: ../../source/webservicespreferences.rst:421
+msgid "Reporting"
+msgstr "報表"
+
+#: ../../source/webservicespreferences.rst:426
+msgid "SvcMaxReportRows"
+msgstr "SvcMaxReportRows"
+
+#: ../../source/webservicespreferences.rst:428
+msgid "Default: 10"
+msgstr "預設值：10"
+
+#: ../../source/webservicespreferences.rst:430
+msgid "Asks: Only return \\_\\_\\_ rows of a report requested via the reports web service."
+msgstr "詢問： 只送回 \\_\\_\\_ 經由報表頁面服務指定報表的列數。"
+
+#: ../../source/webservicespreferences.rst:435
+msgid "This value will be used to limit the number of results returned by `public reports <#publicreport>`__."
+msgstr "此值限制 `公共報表 <#publicreport>`__的結果數量。"

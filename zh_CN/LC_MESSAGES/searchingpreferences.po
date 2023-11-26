@@ -1,0 +1,1360 @@
+# Chinese translations for Koha Manual package.
+# Copyright (C) 2020, Koha Community
+# This file is distributed under the same license as the Koha Manual package.
+# Automatically generated, 2021.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Koha Manual 22.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-10-26 13:37+0000\n"
+"PO-Revision-Date: 2023-04-26 01:56+0000\n"
+"Last-Translator: Saralin <c108126114@nkust.edu.tw>\n"
+"Language-Team: none\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pootle 2.8\n"
+"X-Pootle-Path: /zh_TW/manual22.11/searchingpreferences.po\n"
+"X-Pootle-Revision: 1\n"
+"X-POOTLE-MTIME: 1682474188.763286\n"
+
+#: ../../source/images.rst:2515
+msgid "Advanced search tabbed limits for item type, shelving location and collection"
+msgstr ""
+
+#: ../../source/images.rst:2551
+msgid "Search history option in the user menu at the top of the page"
+msgstr ""
+
+#: ../../source/images.rst:2563
+msgid "Facets on the search results page"
+msgstr ""
+
+#: ../../source/searchingpreferences.rst:6
+msgid "Searching"
+msgstr "搜尋"
+
+#: ../../source/searchingpreferences.rst:8
+#, fuzzy
+msgid "*Get there:* More > Administration > Global system preferences > Searching"
+msgstr "*到此：*其他 > 管理 > 整體系統偏好> 搜尋"
+
+#: ../../source/searchingpreferences.rst:14
+msgid "Did you mean / Spell checking"
+msgstr "你的意思是/拼寫檢查"
+
+#: ../../source/searchingpreferences.rst:19
+msgid "LibrisKey"
+msgstr "LibrisKey"
+
+#: ../../source/searchingpreferences.rst:21
+msgid "Asks: Swedish service for spellchecking. LIBRIS spellchecking API key \\_\\_\\_"
+msgstr "詢問：瑞典的拼寫檢查服務。 LIBRIS拼寫檢查的API密鑰\\_\\_\\_"
+
+#: ../../source/searchingpreferences.rst:23
+#: ../../source/searchingpreferences.rst:38
+#: ../../source/searchingpreferences.rst:67
+#: ../../source/searchingpreferences.rst:91
+#: ../../source/searchingpreferences.rst:138
+#: ../../source/searchingpreferences.rst:162
+#: ../../source/searchingpreferences.rst:192
+#: ../../source/searchingpreferences.rst:225
+#: ../../source/searchingpreferences.rst:259
+#: ../../source/searchingpreferences.rst:296
+#: ../../source/searchingpreferences.rst:322
+#: ../../source/searchingpreferences.rst:347
+#: ../../source/searchingpreferences.rst:374
+#: ../../source/searchingpreferences.rst:409
+#: ../../source/searchingpreferences.rst:438
+#: ../../source/searchingpreferences.rst:468
+#: ../../source/searchingpreferences.rst:515
+#: ../../source/searchingpreferences.rst:543
+#: ../../source/searchingpreferences.rst:575
+#: ../../source/searchingpreferences.rst:591
+#: ../../source/searchingpreferences.rst:612
+#: ../../source/searchingpreferences.rst:633
+#: ../../source/searchingpreferences.rst:651
+#: ../../source/searchingpreferences.rst:666
+#: ../../source/searchingpreferences.rst:689
+#: ../../source/searchingpreferences.rst:710
+#: ../../source/searchingpreferences.rst:737
+#: ../../source/searchingpreferences.rst:785
+#: ../../source/searchingpreferences.rst:805
+#: ../../source/searchingpreferences.rst:831
+#: ../../source/searchingpreferences.rst:857
+#: ../../source/searchingpreferences.rst:901
+#: ../../source/searchingpreferences.rst:928
+#: ../../source/searchingpreferences.rst:957
+#: ../../source/searchingpreferences.rst:1019
+#: ../../source/searchingpreferences.rst:1038
+#: ../../source/searchingpreferences.rst:1061
+#: ../../source/searchingpreferences.rst:1106
+#: ../../source/searchingpreferences.rst:1129
+#: ../../source/searchingpreferences.rst:1155
+#: ../../source/searchingpreferences.rst:1178
+msgid "Description:"
+msgstr "說明："
+
+#: ../../source/searchingpreferences.rst:25
+msgid "Use this system preference to enable the LIBRIS spellchecking service."
+msgstr "使用這個系統偏好來啟用LIBRIS拼寫檢查服務。"
+
+#: ../../source/searchingpreferences.rst:27
+msgid "You can obtain you API key at http://api.libris.kb.se/bibspell"
+msgstr "你可以從 http://api.libris.kb.se/bibspell 獲得你的API密鑰"
+
+#: ../../source/searchingpreferences.rst:32
+msgid "LibrisURL"
+msgstr "LibrisURL"
+
+#: ../../source/searchingpreferences.rst:34
+msgid "Asks: LIBRIS base URL \\_\\_\\_"
+msgstr "詢問：LIBRIS的基本網址 \\_\\_\\_"
+
+#: ../../source/searchingpreferences.rst:36
+msgid "Default: http://api.libris.kb.se/bibspell/"
+msgstr "預設值: http://api.libris.kb.se/bibspell/"
+
+#: ../../source/searchingpreferences.rst:40
+msgid "This system preference is used to set the base URL for the LIBRIS spellchecking service API"
+msgstr "此系統偏好用於設定 LIBRIS 拼寫檢查服務 API 的基本 URL"
+
+#: ../../source/searchingpreferences.rst:43
+msgid "The default value should be the right one. Make sure you only change it if you are sure it needs to be changed"
+msgstr "預設值應該是正確的。確保你只在確定需要改變時才改變它"
+
+#: ../../source/searchingpreferences.rst:49
+msgid "Features"
+msgstr "特色"
+
+#: ../../source/searchingpreferences.rst:54
+msgid "BrowseResultSelection"
+msgstr "BrowseResultSelection"
+
+#: ../../source/searchingpreferences.rst:56
+msgid "Asks: \\_\\_\\_ browsing search results from the bibliographic record detail page in staff interface."
+msgstr "詢問: \\_\\_\\_ 從館員介面的書目紀錄詳情頁面瀏覽搜尋結果。"
+
+#: ../../source/searchingpreferences.rst:59
+#: ../../source/searchingpreferences.rst:339
+msgid "Default: Disable"
+msgstr "預設值：停用"
+
+#: ../../source/searchingpreferences.rst:61
+#: ../../source/searchingpreferences.rst:81
+#: ../../source/searchingpreferences.rst:132
+#: ../../source/searchingpreferences.rst:156
+#: ../../source/searchingpreferences.rst:186
+#: ../../source/searchingpreferences.rst:219
+#: ../../source/searchingpreferences.rst:251
+#: ../../source/searchingpreferences.rst:290
+#: ../../source/searchingpreferences.rst:316
+#: ../../source/searchingpreferences.rst:341
+#: ../../source/searchingpreferences.rst:362
+#: ../../source/searchingpreferences.rst:397
+#: ../../source/searchingpreferences.rst:432
+#: ../../source/searchingpreferences.rst:462
+#: ../../source/searchingpreferences.rst:487
+#: ../../source/searchingpreferences.rst:537
+#: ../../source/searchingpreferences.rst:567
+#: ../../source/searchingpreferences.rst:627
+#: ../../source/searchingpreferences.rst:731
+#: ../../source/searchingpreferences.rst:757
+#: ../../source/searchingpreferences.rst:825
+#: ../../source/searchingpreferences.rst:851
+#: ../../source/searchingpreferences.rst:895
+#: ../../source/searchingpreferences.rst:922
+#: ../../source/searchingpreferences.rst:949
+#: ../../source/searchingpreferences.rst:972
+#: ../../source/searchingpreferences.rst:994
+#: ../../source/searchingpreferences.rst:1100
+#: ../../source/searchingpreferences.rst:1123
+#: ../../source/searchingpreferences.rst:1149
+#: ../../source/searchingpreferences.rst:1172
+msgid "Values:"
+msgstr "值："
+
+#: ../../source/searchingpreferences.rst:63
+#: ../../source/searchingpreferences.rst:83
+#: ../../source/searchingpreferences.rst:318
+#: ../../source/searchingpreferences.rst:343
+msgid "Disable"
+msgstr "停用"
+
+#: ../../source/searchingpreferences.rst:65
+#: ../../source/searchingpreferences.rst:85
+#: ../../source/searchingpreferences.rst:320
+#: ../../source/searchingpreferences.rst:345
+msgid "Enable"
+msgstr "啟用"
+
+#: ../../source/searchingpreferences.rst:69
+msgid "Enabling this system preference makes a button appear in the staff interface :ref:`search results page<search-results-label>` to browse the selected records."
+msgstr "啟用這個系統偏好，使館員介面 :ref:`搜尋結果頁<search-results-label>`出現一個按鈕，以瀏覽選定的記錄。"
+
+#: ../../source/searchingpreferences.rst:75
+msgid "ElasticsearchCrossFields"
+msgstr "ElasticsearchCrossFields"
+
+#: ../../source/searchingpreferences.rst:77
+msgid "Asks: \\_\\_\\_ the cross\\_fields option for Elasticsearch searches."
+msgstr "詢問：\\_\\_\\_ Elasticsearch 搜尋的 cross\\_fields 選項。"
+
+#: ../../source/searchingpreferences.rst:79
+#: ../../source/searchingpreferences.rst:314
+msgid "Default: Enable"
+msgstr "預設值：啟用"
+
+#: ../../source/searchingpreferences.rst:89
+msgid "The cross\\_fields option is supported in Elasticsearch 6.X and above."
+msgstr "交叉\\_欄位選項在 Elasticsearch 6.X 及以上版本中被支持。"
+
+#: ../../source/searchingpreferences.rst:93
+msgid "This system preference controls whether or not Elasticsearch's cross\\_fields option is enabled. As this option only works with ES6 and above, this system preference should be disabled if using an older version."
+msgstr "這個系統偏好控制彈性搜尋的交叉\\_欄位選項是否被啟用。由於該選項僅適用於ES6及以上版本，如果使用舊版本，該系統偏好應被禁用。"
+
+#: ../../source/searchingpreferences.rst:97
+msgid "The cross_fields option is used in keyword searches to search across all fields. In Koha, keyword searches are not searches in a specific 'keyword' index, but rather a search across all searchable indexes. With Elasticsearch 6, if cross_fields is disabled, the keyword search will return results where the search terms all appear in the same index (for example, the 'title' index). If cross_fields is enabled, the keyword search will return results where the search terms appear in any index."
+msgstr ""
+
+#: ../../source/searchingpreferences.rst:107
+msgid "For example, a keyword search for \"king grass\" with Elasticsearch 6 will return the following results"
+msgstr ""
+
+#: ../../source/searchingpreferences.rst:110
+#, fuzzy
+msgid "With ElasticsearchCrossFields disabled:"
+msgstr "ElasticsearchCrossFields"
+
+#: ../../source/searchingpreferences.rst:112
+#: ../../source/searchingpreferences.rst:116
+msgid "*The Island of the Grass King* by Nancy Willard (grass in title/king in title)"
+msgstr ""
+
+#: ../../source/searchingpreferences.rst:114
+#, fuzzy
+msgid "With ElasticsearchCrossFields enabled:"
+msgstr "ElasticsearchCrossFields"
+
+#: ../../source/searchingpreferences.rst:118
+msgid "*In the tall grass* by Stephen King (grass in title/king in author)"
+msgstr ""
+
+#: ../../source/searchingpreferences.rst:120
+msgid "Visit https://www.elastic.co/guide/en/elasticsearch/reference/current/query-dsl-multi-match-query.html#type-cross-fields for more information on this option."
+msgstr "有關此選項的更多訊息，請訪問 https://www.elastic.co/guide/en/elasticsearch/reference/current/query-dsl-multi-match-query.html#type-cross-fields。"
+
+#: ../../source/searchingpreferences.rst:126
+msgid "EnableSearchHistory"
+msgstr "EnableSearchHistory"
+
+#: ../../source/searchingpreferences.rst:128
+msgid "Asks: \\_\\_\\_ patron search history in the staff interface."
+msgstr "詢問：\\_\\_\\_ 館員介面中的讀者搜尋紀錄。"
+
+#: ../../source/searchingpreferences.rst:130
+msgid "Default: Don't keep"
+msgstr "預設值：不保留"
+
+#: ../../source/searchingpreferences.rst:134
+msgid "Don't keep"
+msgstr "不保留"
+
+#: ../../source/searchingpreferences.rst:136
+msgid "Keep"
+msgstr "保留"
+
+#: ../../source/searchingpreferences.rst:140
+#, fuzzy
+msgid "This system preference controls whether the staff interface keeps :ref:`search history<search-history-label>` for logged in users. :ref:`Search history<search-history-label>` will be accessible under the link to your account at the top right of the staff interface."
+msgstr "這個偏好控制館員介面是否為登入的使用者保留 :ref:`瀏覽紀錄<search-history-label>`。 :ref:`瀏覽紀錄<search-history-label>`將可以在館員介面右上方的帳號連結下訪問。"
+
+#: ../../source/searchingpreferences.rst:145
+#, fuzzy
+msgid "|searchhistory|"
+msgstr "EnableSearchHistory"
+
+#: ../../source/searchingpreferences.rst:150
+msgid "IncludeSeeFromInSearches"
+msgstr "IncludeSeeFromInSearches"
+
+#: ../../source/searchingpreferences.rst:152
+msgid "Asks: \\_\\_\\_ *see from* (non-preferred form) headings in bibliographic searches."
+msgstr "詢問：書目搜尋時 \\_\\_\\_ *見自* (不採用的格式) 標題。"
+
+#: ../../source/searchingpreferences.rst:154
+msgid "Default: Don't include"
+msgstr "預設值：不包括"
+
+#: ../../source/searchingpreferences.rst:158
+#: ../../source/searchingpreferences.rst:399
+msgid "Don't include"
+msgstr "不包括"
+
+#: ../../source/searchingpreferences.rst:160
+#: ../../source/searchingpreferences.rst:404
+msgid "Include"
+msgstr "包括"
+
+#: ../../source/searchingpreferences.rst:164
+#, fuzzy
+msgid "When this system preference is set to 'include', the search engine indexer will insert *see from* headings from authority records into bibliographic records when indexing, so that a search on an obsolete term will turn up relevant records. For example when you search for cookery (the old term) you get titles with the heading of cooking (the new term)."
+msgstr "此偏好設定為納入搜尋引擎索引器後將在索引時，把權威記錄的 *見自* 標題納入書目記錄裡，搜尋罕見辭彙時，自動展延至較新的相關辭彙。如搜尋 cookery (罕見辭) 時，展延至 cooking (新辭)。"
+
+#: ../../source/searchingpreferences.rst:172
+#, fuzzy
+msgid "You will need to reindex your bibliographic database when changing this system preference."
+msgstr "改變此偏好後需重新索引書目資料庫。"
+
+#: ../../source/searchingpreferences.rst:178
+msgid "QueryAutoTruncate"
+msgstr "QueryAutoTruncate"
+
+#: ../../source/searchingpreferences.rst:180
+msgid "Asks: Perform wildcard searching (where, for example, Har would match Harry and harp) \\_\\_\\_ (The \\* character would be used like so: Har\\* or \\*logging.)"
+msgstr "詢問：執行萬用字元搜尋 (如，Har 可檢索 Harry 與 harp) \\_\\_\\_ (\\* 字元當成萬用字元，如 Har\\* 或 \\*logging)。"
+
+#: ../../source/searchingpreferences.rst:184
+msgid "Default: automatically"
+msgstr "預設值：自動"
+
+#: ../../source/searchingpreferences.rst:188
+msgid "automatically"
+msgstr "自動"
+
+#: ../../source/searchingpreferences.rst:190
+msgid "only if \\* is added"
+msgstr "必須加入 \\* 字元"
+
+#: ../../source/searchingpreferences.rst:194
+msgid "This setting allows for searches to be automatically truncated or for additional characters to be added to the end of a search string. When set to \"automatically\" the search string automatically ends with a wildcard function. For example, a search for the word \"invent\" with auto truncation enabled will also retrieve results for inventor, invention, inventory, etc."
+msgstr "此項設定允許自動截斷搜尋或在搜尋字元串的末端新增額外的字元。當設定為 \"自動\" 時，搜尋字元串自動以通配符功能結束。例如，在啟用自動截斷功能的情況下搜尋 \"發明\" 一詞，也會檢尋到發明者、發明、庫存等的結果。"
+
+#: ../../source/searchingpreferences.rst:201
+msgid "If you don't want this to happen automatically you can still be perform wildcard searches manually by adding an asterisk (\\*). Typing \"invent\\*\" even with auto truncation disabled will retrieve the same inventor, invention, inventory results."
+msgstr "如果你不希望這種情況自動發生，你仍然可以通過新增星號（\\*）手動執行通配符搜尋。輸入 \"invent\\*\"，即使禁用了自動截斷功能，也會搜尋到相同的發明人、發明、庫存結果。"
+
+#: ../../source/searchingpreferences.rst:206
+msgid "Auto truncation bypasses the necessity to type long search strings in their entirety, but can return a lot of undesired results."
+msgstr "自動截斷繞過了完整輸入長搜尋字元串的必要性，但可能會返回很多不想要的結果。"
+
+#: ../../source/searchingpreferences.rst:212
+msgid "QueryFuzzy"
+msgstr "QueryFuzzy"
+
+#: ../../source/searchingpreferences.rst:214
+msgid "Asks: \\_\\_\\_ to match similarly spelled words in a search (for example, a search for *flang* would also match *flange* and *fang*)"
+msgstr "詢問：\\_\\_\\_ 比對相似拼法的字(即，搜尋 *flang*，同時比對 *flange* 與 *fang*)"
+
+#: ../../source/searchingpreferences.rst:217
+#: ../../source/searchingpreferences.rst:288
+msgid "Default: Try"
+msgstr "預設值：試"
+
+#: ../../source/searchingpreferences.rst:221
+#: ../../source/searchingpreferences.rst:292
+msgid "Don't try"
+msgstr "不試"
+
+#: ../../source/searchingpreferences.rst:223
+#: ../../source/searchingpreferences.rst:294
+msgid "Try"
+msgstr "試"
+
+#: ../../source/searchingpreferences.rst:227
+#, fuzzy
+msgid "This system preference enables \"fuzzy\" searching, in which the search engine returns results that are similar to, but not exactly matching, the word or words entered by the user. This system preference enables the search function to compensate for slightly misspelled names or phrases."
+msgstr "此偏好啟用 \"糢糊\" 搜尋，其中搜尋引擎返回到與使用者輸入的術語相似但又不完全匹配的結果。此偏好啟用搜尋的功能能夠補償略為拼錯的名字或句子。"
+
+#: ../../source/searchingpreferences.rst:234
+msgid "This does not work if ICU is enabled in your system."
+msgstr "如果您的系統啟用了 ICU，這將起不了作用。"
+
+#: ../../source/searchingpreferences.rst:238
+msgid "This system preference only works with Zebra. When using Elasticsearch, a fuzzy search can be performed by adding a tilde (~) directly after the term. For example, flang~."
+msgstr "這個系統偏好只適用於Zebra。當使用Elasticsearch時，可以透過在術語後面直接新增一個代字號（~）來進行模糊搜尋。例如，邊~。"
+
+#: ../../source/searchingpreferences.rst:245
+msgid "QueryRegexEscapeOptions"
+msgstr "QueryRegexEscapeOptions"
+
+#: ../../source/searchingpreferences.rst:247
+msgid "Asks: \\_\\_\\_ regular expressions within strings."
+msgstr "問： \\_\\_\\_ 字元串中的正規表示式。"
+
+#: ../../source/searchingpreferences.rst:249
+msgid "Default: Escape"
+msgstr "預設值：換碼"
+
+#: ../../source/searchingpreferences.rst:253
+msgid "Don't escape"
+msgstr "不要逸出"
+
+#: ../../source/searchingpreferences.rst:255
+msgid "Escape"
+msgstr "逸出"
+
+#: ../../source/searchingpreferences.rst:257
+msgid "Unescaped escaped"
+msgstr "未轉義逸出"
+
+#: ../../source/searchingpreferences.rst:261
+msgid "If 'Escape' is selected occurrences of '/'' in search terms will be automatically escaped, and regular expressions interpreted as regular strings. In other words, regular expressions are disabled and search terms are search as-is (for example, 'an essential grammar / William Z. Shetter')."
+msgstr "如果選擇了'逸出'，搜尋詞中出現的 '/'' 將被自動轉義，而正規表達式將被解釋為正規字元串。換句話說，正規表達式被禁用，搜尋詞被按原樣搜尋（例如，'一個基本的語法 / William Z. Shetter'）。"
+
+#: ../../source/searchingpreferences.rst:267
+msgid "If 'Unescape escaped' is selected this will allow writing regular expressions '\\/like this\\/'' while '/this/', 'or/this' will be escaped and interpreted as regular strings. In other words, use this option if you want to be able to use regular expressions in your search queries."
+msgstr "如果選擇 '未轉義逸出'，這將允許寫入正規表達式'\\/像這樣\\/\"，而'/這樣/'，'或/這樣' 將被轉義並解釋為正規字元串。換句話說，如果你希望能夠在你的搜尋查詢中使用正規表達式，請使用這個選項。"
+
+#: ../../source/searchingpreferences.rst:272
+msgid "If 'Don't escape' is selected, the default behavior of the Elasticsearch search engine will be left unaltered. Several characters will be interpreted as being part of a regular expression, such as the forward slash (/)."
+msgstr "如果選擇 '不逸出'，Elasticsearch搜尋引擎的預設行為將不被改變。有幾個字元將被解釋為正規表達式的一部分，比如正斜線(/)。"
+
+#: ../../source/searchingpreferences.rst:278
+#, fuzzy
+msgid "This system preference is used with Elasticsearch only. If you use Zebra as your :ref:`SearchEngine <SearchEngine-label>`, it will not change anything."
+msgstr "這個系統偏好只用於 Elasticsearch。如果你使用Zebra作為你的 :ref:`SearchEngine`，它將不會改變任何東西。"
+
+#: ../../source/searchingpreferences.rst:284
+msgid "QueryStemming"
+msgstr "QueryStemming"
+
+#: ../../source/searchingpreferences.rst:286
+msgid "Asks: \\_\\_\\_ to match words of the same base in a search"
+msgstr "詢問：搜尋時 \\_\\_\\_ 比對相同字根的字"
+
+#: ../../source/searchingpreferences.rst:298
+#, fuzzy
+msgid "This system preference enables word stemming. Stemming allows the search function to return multiple versions of the same word, as well as related terms (i.e., both fish and fishing would be returned)."
+msgstr "此偏好啟動字根功能。字根搜尋功能找尋不同寫法的字，以及相關的字 （例如，搜尋*啟用*”也將返回*啟用*和*已啟用*）。"
+
+#: ../../source/searchingpreferences.rst:304
+msgid "This system preference is used with Zebra only. Elasticsearch does stemming searches automatically."
+msgstr "此系統偏好僅用於 Zebra。 Elasticsearch 會自動進行詞幹搜尋。"
+
+#: ../../source/searchingpreferences.rst:310
+msgid "QueryWeightFields"
+msgstr "QueryWeightFields"
+
+#: ../../source/searchingpreferences.rst:312
+msgid "Asks: \\_\\_\\_ ranking of search results by relevance"
+msgstr "詢問：搜尋結果 \\_\\_\\_ 相關排序"
+
+#: ../../source/searchingpreferences.rst:324
+msgid "This system preference is used to enable or disable the sorting of search results by relevance."
+msgstr "這個系統偏好用於啟用或禁用按相關性對搜尋結果進行排序。"
+
+#: ../../source/searchingpreferences.rst:329
+msgid "This system preference is used with Zebra only."
+msgstr "該系統偏好僅用於Zebra。"
+
+#: ../../source/searchingpreferences.rst:334
+msgid "SavedSearchFilters"
+msgstr ""
+
+#: ../../source/searchingpreferences.rst:336
+msgid "Asks: \\_\\_\\_ the option for staff with permission to create/edit custom saved search filters."
+msgstr ""
+
+#: ../../source/searchingpreferences.rst:349
+msgid "When enabled, this system preference will add the possibility to :ref:`save searches as search filters <search-filters-label>`."
+msgstr ""
+
+#: ../../source/searchingpreferences.rst:355
+msgid "TraceCompleteSubfields"
+msgstr "TraceCompleteSubfields"
+
+#: ../../source/searchingpreferences.rst:357
+msgid "Asks: \\_\\_\\_ subject tracings in the OPAC and staff interface to search only for complete-subfield matches."
+msgstr "詢問: \\_\\_\\_ 在 OPAC 與館員介面檢索主題追尋，全面比對分欄的資料。"
+
+#: ../../source/searchingpreferences.rst:360
+msgid "Default: Force"
+msgstr "預設值：強制"
+
+#: ../../source/searchingpreferences.rst:364
+msgid "Don't force"
+msgstr "不強制"
+
+#: ../../source/searchingpreferences.rst:366
+msgid "Searches for subject keywords (example: opac-search.pl?q=su:World%20Wide%20Web)"
+msgstr "搜尋主題關鍵詞 (如：opac-search.pl?q=su:World%20Wide%20Web)"
+
+#: ../../source/searchingpreferences.rst:369
+msgid "Force"
+msgstr "強制"
+
+#: ../../source/searchingpreferences.rst:371
+msgid "Searches for complete subject fields (example: opac-search.pl?q=su,complete-subfield:World%20Wide%20Web)"
+msgstr "搜尋完整主題欄位 (example: opac-search.pl?q=su,complete-subfield:World%20Wide%20Web)"
+
+#: ../../source/searchingpreferences.rst:376
+msgid "When TraceCompleteSubfields is set to 'force', clicking on links in non-authority controlled subject tracings will only find other records where the entire subfields match. Leaving it at \"don't force\" does a keyword search of the subject indexes."
+msgstr "把 TraceCompleteSubfields 設定為 '強制' 時，點選非權威控制的主題追尋時，只找尋所有分欄皆吻合的記錄。設為 \"不強制\" 時就是主題索引的關鍵詞搜尋。"
+
+#: ../../source/searchingpreferences.rst:383
+#: ../../source/searchingpreferences.rst:419
+#, fuzzy
+msgid "This system preference assumes that XSLT stylesheets are used, as set in the :ref:`OPACXSLTDetailsDisplay <OPACXSLTDetailsDisplay-label>` or :ref:`XSLTDetailsDisplay <XSLTDetailsDisplay-label>` system preferences."
+msgstr "這個偏好假定使用XSLT樣式表，如在 :ref:`OPACXSLTDetailsDisplay`或 :ref:`XSLTDetailsDisplay`系統偏好中設定的。"
+
+#: ../../source/searchingpreferences.rst:390
+msgid "TraceSubjectSubdivisions"
+msgstr "TraceSubjectSubdivisions"
+
+#: ../../source/searchingpreferences.rst:392
+msgid "Asks: \\_\\_\\_ subdivisions for searches generated by clicking on subject tracings."
+msgstr "詢問：點選主題追尋時 \\_\\_\\_ 複分在內。"
+
+#: ../../source/searchingpreferences.rst:395
+msgid "Default: Include"
+msgstr "預設值：包括"
+
+#: ../../source/searchingpreferences.rst:401
+msgid "Searches for subject keywords (example: opac-search.pl?q=su,complete-subfield:%22Web%20sites%22)"
+msgstr "搜尋主題關鍵詞 (如：opac-search.pl?q=su,complete-subfield:%22Web%20sites%22)"
+
+#: ../../source/searchingpreferences.rst:406
+msgid "Searches for complete subject fields (example: opac-search.pl?q=(su,complete-subfield:%22Web%20sites%22)%20and%20(su,complete-subfield:%22Design.%22))"
+msgstr "搜尋完整主題關鍵詞欄位 (example: opac-search.pl?q=(su,complete-subfield:%22Web%20sites%22)%20and%20(su,complete-subfield:%22Design.%22))"
+
+#: ../../source/searchingpreferences.rst:411
+#, fuzzy
+msgid "When TraceSubjectSubdivisions is set to 'Include', if you click on a subject with subdivisions (subfields other than 'a') they will be searched along with the subject heading (subfield 'a'). To have only the subject heading (subfield 'a') searched, set this system preference to \"Don't include.\""
+msgstr "把 TraceSubjectSubdivisions 設定為 '包括'，若點選有複分 (不含 'a' 的分欄) 的主題時，將同時搜尋主題標題 (分欄 'a')。設定為 \"不包括\"，就只搜尋主題標題 (分欄 'a')。"
+
+#: ../../source/searchingpreferences.rst:426
+msgid "UseICUStyleQuotes"
+msgstr "UseICUStyleQuotes"
+
+#: ../../source/searchingpreferences.rst:428
+msgid "Asks: \\_\\_\\_ ICU style quotes ({}) when tracing subjects."
+msgstr "詢問：\\_\\_\\_ ICU 樣式引號 ({}) 在追蹤主題時。"
+
+#: ../../source/searchingpreferences.rst:430
+msgid "Default: Don't use"
+msgstr "預設值：不用"
+
+#: ../../source/searchingpreferences.rst:434
+msgid "Don't use"
+msgstr "不使用"
+
+#: ../../source/searchingpreferences.rst:436
+msgid "Use"
+msgstr "使用"
+
+#: ../../source/searchingpreferences.rst:440
+msgid "This system preference lets you decide which style of quotes to use when tracing subjects."
+msgstr "這個系統偏好讓你決定在追蹤主題時使用哪種風格的引句。"
+
+#: ../../source/searchingpreferences.rst:443
+msgid "If set to \"Don't use\", the regular double quotes (\"\") will be used"
+msgstr "如果設定為 \"不使用\"，將使用常規雙引號 (\"\")"
+
+#: ../../source/searchingpreferences.rst:445
+msgid "If set to \"Use\", the quotes will be replaced by curly brackets ({})"
+msgstr "如果設定為 \"使用\"，引號將替換為大括號 ({})"
+
+#: ../../source/searchingpreferences.rst:450
+#, fuzzy
+msgid "Results display"
+msgstr "顯示結果"
+
+#: ../../source/searchingpreferences.rst:455
+msgid "BiblioItemtypeInfo"
+msgstr "BiblioItemtypeInfo"
+
+#: ../../source/searchingpreferences.rst:457
+#, fuzzy
+msgid "Asks: \\_\\_\\_ Koha record-level itemtype info on detail and result pages in the OPAC and staff interface."
+msgstr "如果啟用，記錄館藏類型（942c）的名稱和圖標將顯示在OPAC和館員介面的記錄詳情和搜尋結果頁面。"
+
+#: ../../source/searchingpreferences.rst:460
+#: ../../source/searchingpreferences.rst:535
+#: ../../source/searchingpreferences.rst:729
+#: ../../source/searchingpreferences.rst:823
+msgid "Default: Don't show"
+msgstr "預設值：不顯示"
+
+#: ../../source/searchingpreferences.rst:464
+#: ../../source/searchingpreferences.rst:539
+#: ../../source/searchingpreferences.rst:733
+#: ../../source/searchingpreferences.rst:827
+msgid "Don't show"
+msgstr "不顯示"
+
+#: ../../source/searchingpreferences.rst:466
+#: ../../source/searchingpreferences.rst:541
+#: ../../source/searchingpreferences.rst:735
+#: ../../source/searchingpreferences.rst:829
+msgid "Show"
+msgstr "顯示"
+
+#: ../../source/searchingpreferences.rst:470
+#, fuzzy
+msgid "If enabled, the icons for the record item type (942$c) will be displayed on the record detail and search result pages in both the OPAC and staff interface."
+msgstr "如果啟用，記錄館藏類型（942c）的名稱和圖標將顯示在OPAC和館員介面的記錄詳情和搜尋結果頁面。"
+
+#: ../../source/searchingpreferences.rst:473
+#, fuzzy
+msgid "This information also displays if the :ref:`item-level\\_itypes <item-level_itypes-label>` system preference is set to bibliographic record."
+msgstr "詢問: \\_\\_\\_ Koha 在 OPAC 和館員介面中的詳情和結果頁面上記錄層次的館藏類型訊息。如果 :ref:`館藏-層級\\_類型 <item-level_itypes-label>`系統偏好設定為書目記錄，此訊息也會顯示。"
+
+#: ../../source/searchingpreferences.rst:480
+msgid "defaultSortField and defaultSortOrder"
+msgstr "defaultSortField 及 defaultSortOrder"
+
+#: ../../source/searchingpreferences.rst:482
+msgid "Asks: By default, sort search results in the staff interface by \\_\\_\\_, \\_\\_\\_"
+msgstr "詢問：預設情況下，館員介面搜尋結果按照\\_\\_\\_, \\_\\_\\_排序"
+
+#: ../../source/searchingpreferences.rst:485
+msgid "Default: relevance (defaultSortField), descending (defaultSortOrder)"
+msgstr "預設值：相關性 (defaultSortField)、降序 (defaultSortOrder)"
+
+#: ../../source/searchingpreferences.rst:489
+msgid "defaultSortField"
+msgstr "defaultSortField"
+
+#: ../../source/searchingpreferences.rst:491
+#: ../../source/searchingpreferences.rst:761
+msgid "date added"
+msgstr "新增日期"
+
+#: ../../source/searchingpreferences.rst:493
+#: ../../source/searchingpreferences.rst:763
+msgid "author"
+msgstr "作者"
+
+#: ../../source/searchingpreferences.rst:495
+#: ../../source/searchingpreferences.rst:765
+msgid "call number"
+msgstr "索書號"
+
+#: ../../source/searchingpreferences.rst:497
+#: ../../source/searchingpreferences.rst:767
+msgid "total number of checkouts"
+msgstr "借出總次數"
+
+#: ../../source/searchingpreferences.rst:499
+#: ../../source/searchingpreferences.rst:769
+msgid "date of publication"
+msgstr "出版年"
+
+#: ../../source/searchingpreferences.rst:501
+#: ../../source/searchingpreferences.rst:771
+msgid "relevance"
+msgstr "相關性"
+
+#: ../../source/searchingpreferences.rst:503
+#: ../../source/searchingpreferences.rst:773
+msgid "title"
+msgstr "題名"
+
+#: ../../source/searchingpreferences.rst:505
+msgid "defaultSortOrder"
+msgstr "defaultSortOrder"
+
+#: ../../source/searchingpreferences.rst:507
+#: ../../source/searchingpreferences.rst:777
+msgid "ascending"
+msgstr "升冪"
+
+#: ../../source/searchingpreferences.rst:509
+#: ../../source/searchingpreferences.rst:779
+msgid "from A to Z"
+msgstr "由 A 至 Z"
+
+#: ../../source/searchingpreferences.rst:511
+#: ../../source/searchingpreferences.rst:781
+msgid "descending"
+msgstr "降冪"
+
+#: ../../source/searchingpreferences.rst:513
+#: ../../source/searchingpreferences.rst:783
+msgid "from Z to A"
+msgstr "由 Z 至 A"
+
+#: ../../source/searchingpreferences.rst:517
+msgid "These preferences set the default sort field and sort order for searches in the staff interface."
+msgstr "這些偏好設定了館員介面中搜尋的預設排序欄位和排序順序。"
+
+#: ../../source/searchingpreferences.rst:520
+msgid "Regardless of this setting, the other sort options are still available in the :ref:`advanced search form<advanced-search-sort-label>` and the :ref:`search results page<search-results-actions-labels>`."
+msgstr "不管這個設定如何，其他的排序選項仍然可以在 :ref:`進階搜尋表單<advanced-search-sort-label>`和 :ref:`搜尋結果頁面<search-results-actions-labels>`中使用。"
+
+#: ../../source/searchingpreferences.rst:524
+#: ../../source/searchingpreferences.rst:792
+#: ../../source/searchingpreferences.rst:1081
+#: ../../source/searchingpreferences.rst:1136
+#: ../../source/searchingpreferences.rst:1185
+msgid "See also:"
+msgstr "參見："
+
+#: ../../source/searchingpreferences.rst:526
+msgid ":ref:`OPACdefaultSortField and OPACdefaultSortOrder<opacdefaultsortfield-and-opacdefaultsortorder-label>`"
+msgstr ":ref:`OPACdefaultSortField and OPACdefaultSortOrder<opacdefaultsortfield-and-opacdefaultsortorder-label>`"
+
+#: ../../source/searchingpreferences.rst:531
+msgid "displayFacetCount"
+msgstr "displayFacetCount"
+
+#: ../../source/searchingpreferences.rst:533
+msgid "Asks: \\_\\_\\_ facet counts."
+msgstr "詢問：\\_\\_\\_ 層面數。"
+
+#: ../../source/searchingpreferences.rst:545
+#, fuzzy
+msgid "This system preference lets you decide if you show how many times a :ref:`facet<search-results-facets-label>` is used in your search results in the OPAC and the staff interface."
+msgstr "這個偏好讓你決定是否在OPAC和館員介面中顯示一個 :ref:`分面<search-results-facets-label>`在你的搜尋結果中的使用次數。"
+
+#: ../../source/searchingpreferences.rst:549
+msgid "|searchresults-facets|"
+msgstr ""
+
+#: ../../source/searchingpreferences.rst:551
+#, fuzzy
+msgid "The relevance of these numbers highly depends on the value of the :ref:`maxRecordsForFacets <maxRecordsForFacets-label>` preference."
+msgstr "這些數字的相關性在很大程度上取決於 :ref:`maxRecordsForFacets`偏好的值。"
+
+#: ../../source/searchingpreferences.rst:554
+msgid "Showing these numbers can potentially affect the performance of your searching, so test your system with different values for this preference to see what works best."
+msgstr "顯示這些數字有可能影響你的搜尋性能，所以用這個偏好的不同值來測試你的系統，看看什麼效果最好。"
+
+#: ../../source/searchingpreferences.rst:561
+msgid "DisplayLibraryFacets"
+msgstr "DisplayLibraryFacets"
+
+#: ../../source/searchingpreferences.rst:563
+msgid "Asks: Show facets for \\_\\_\\_"
+msgstr "詢問：顯示層面給 \\_\\_\\_"
+
+#: ../../source/searchingpreferences.rst:565
+msgid "Default: holding library"
+msgstr "預設值：典藏圖書館"
+
+#: ../../source/searchingpreferences.rst:569
+msgid "both home and holding library"
+msgstr "所屬圖書館與典藏圖書館"
+
+#: ../../source/searchingpreferences.rst:571
+#: ../../source/searchingpreferences.rst:953
+msgid "holding library"
+msgstr "典藏圖書館"
+
+#: ../../source/searchingpreferences.rst:573
+#: ../../source/searchingpreferences.rst:955
+msgid "home library"
+msgstr "所屬圖書館"
+
+#: ../../source/searchingpreferences.rst:577
+#, fuzzy
+msgid "This system preference controls the 'libraries' facet that displays on the :ref:`search results page<search-results-facets-label>` in the staff interface and the OPAC. The value selected here will determine which libraries show in the facets when a search is run."
+msgstr "這個偏好控制在館員介面和OPAC中顯示在 :ref:`搜尋結果頁<search-results-facets-label>`的圖書館介面。這裡選擇的值將決定哪些圖書館在運行搜尋時顯示在介面上。"
+
+#: ../../source/searchingpreferences.rst:585
+msgid "FacetLabelTruncationLength"
+msgstr "FacetLabelTruncationLength"
+
+#: ../../source/searchingpreferences.rst:587
+msgid "Asks: Truncate facets length to \\_\\_\\_ characters, in OPAC/staff interface."
+msgstr "詢問：將 OPAC /館員介面的層面長度截切至 \\_\\_\\_ 字元。"
+
+#: ../../source/searchingpreferences.rst:589
+#: ../../source/searchingpreferences.rst:610
+#: ../../source/searchingpreferences.rst:649
+#: ../../source/searchingpreferences.rst:664
+#: ../../source/searchingpreferences.rst:687
+#: ../../source/searchingpreferences.rst:708
+#: ../../source/searchingpreferences.rst:803
+msgid "Default: 20"
+msgstr "預設值：20"
+
+#: ../../source/searchingpreferences.rst:593
+#, fuzzy
+msgid "In the OPAC and the staff interface, facets are cut off at 20 characters by default. Depending on the layout this may be too many or too few letters. This system preference lets you decide what number is best for your library's design."
+msgstr "在 OPAC 與館員介面裡預設層面是20個字元。依佈局的考量可能太多或太少，此偏好讓您選最最適宜的數字。"
+
+#: ../../source/searchingpreferences.rst:600
+msgid "This preference only works with Zebra. When using ElasticSearch, facets cannot be truncated, they will be displayed in full."
+msgstr "這個偏好只適用於Zebra。當使用ElasticSearch時，分面不能被截斷，它們將被完整地顯示。"
+
+#: ../../source/searchingpreferences.rst:606
+msgid "FacetMaxCount"
+msgstr "FacetMaxCount"
+
+#: ../../source/searchingpreferences.rst:608
+msgid "Asks: Show up \\_\\_\\_ to facets for each category."
+msgstr "詢問：每個類型最多顯示 \\_\\_\\_ 面向。"
+
+#: ../../source/searchingpreferences.rst:614
+#, fuzzy
+msgid "This system preference allows you to control how many possible limits show under each heading (Author, Series, Topics, etc) in the :ref:`facets<search-results-facets-label>` in the staff interface and OPAC."
+msgstr "這個偏好允許你控制在館員介面和OPAC中 :ref:`分面<search-results-facets-label>` 的每個標題（作者、系列、主題等）下顯示多少可能的限制。"
+
+#: ../../source/searchingpreferences.rst:621
+msgid "FacetOrder"
+msgstr "FacetOrder"
+
+#: ../../source/searchingpreferences.rst:623
+msgid "Asks: Sort facets \\_\\_\\_ for each category."
+msgstr "詢問：為每個類別對面 \\_\\_\\_ 進行排序。"
+
+#: ../../source/searchingpreferences.rst:625
+msgid "Default: alphabetically"
+msgstr "預設值：按字母順序"
+
+#: ../../source/searchingpreferences.rst:629
+msgid "alphabetically"
+msgstr "按字母順序"
+
+#: ../../source/searchingpreferences.rst:631
+msgid "by usage count"
+msgstr "按使用次數"
+
+#: ../../source/searchingpreferences.rst:635
+msgid "This preference allows you to control the order of facets in each category (Authors, Series, Topics, etc.)"
+msgstr "這個偏好允許你控制每個類別（作者、系列、主題等）中的分面順序"
+
+#: ../../source/searchingpreferences.rst:638
+msgid "By default, facets are ordered alphabetically. But it is possible to order them by the one with the most occurrences to the one with the least occurrences."
+msgstr "預設情況下，分面是按字母順序排列的。但也可以按照出現次數最多的分面和出現次數最少的分面來排序。"
+
+#: ../../source/searchingpreferences.rst:645
+msgid "maxItemsInSearchResults"
+msgstr "maxItemsInSearchResults"
+
+#: ../../source/searchingpreferences.rst:647
+msgid "Asks: Show up to \\_\\_\\_ items per bibliographic record in the search results."
+msgstr "詢問：在搜尋結果中，每條書目記錄最多可以顯示 \\_\\_\\_個館藏。"
+
+#: ../../source/searchingpreferences.rst:653
+#, fuzzy
+msgid "This system preference will let you set how many items are displayed for each record in the :ref:`search results<search-results-label>` in the staff interface."
+msgstr "這個偏好將讓你設定在館員介面的 :ref:`搜尋結果<search-results-label>`中，每條記錄顯示多少個館藏。"
+
+#: ../../source/searchingpreferences.rst:660
+msgid "maxRecordsForFacets"
+msgstr "maxRecordsForFacets"
+
+#: ../../source/searchingpreferences.rst:662
+msgid "Asks: Build facets based on \\_\\_\\_ records from the search results."
+msgstr "詢問：依照搜尋結果建立層面的 \\_\\_\\_ 記錄數。"
+
+#: ../../source/searchingpreferences.rst:668
+#, fuzzy
+msgid "By default, Koha only bases :ref:`facets<search-results-facets-label>` on the first twenty :ref:`search results<search-results-label>`. This system preference lets you tell Koha to base the facet descriptions and numbers on any number of search results returned."
+msgstr "預設情況下，Koha只根據前20個 :ref:`分面<search-results-facets-label>`搜尋結果<search-results-label>來決定。這個偏好可以讓你告訴Koha以任何數量的搜尋結果為基礎進行分面的描述和編號。"
+
+#: ../../source/searchingpreferences.rst:675
+msgid "The higher this number the longer it will take for your search results to return, so test with various different values to find the best balance according to your resources."
+msgstr "這個數字越大，您的搜尋結果返回所需的時間就越長，因此請使用各種不同的值進行測試，以根據您的資源找到最佳平衡點。"
+
+#: ../../source/searchingpreferences.rst:682
+msgid "MaxSearchResultsItemsPerRecordStatusCheck"
+msgstr "MaxSearchResultsItemsPerRecordStatusCheck"
+
+#: ../../source/searchingpreferences.rst:684
+msgid "Asks: For records with many items, only check the availability status for the first \\_\\_\\_ items."
+msgstr "詢問：多筆館藏的記錄，只檢查前面 \\_\\_\\_ 筆的狀態。"
+
+#: ../../source/searchingpreferences.rst:691
+msgid "Availability statuses may show incorrectly in :ref:`search results<search-results-label>` if a record has more items than the limit set."
+msgstr "可用性狀態可能會在 :ref:`搜尋結果<search-results-label>` 中顯示不正確，如果記錄的館藏數超過限制集的話。"
+
+#: ../../source/searchingpreferences.rst:697
+msgid "Statuses will display correctly in the record details."
+msgstr "狀態將在記錄詳細訊息中正確顯示。"
+
+#: ../../source/searchingpreferences.rst:699
+msgid "Leave empty for no limit."
+msgstr "留空表示沒有限制。"
+
+#: ../../source/searchingpreferences.rst:704
+msgid "numSearchResults"
+msgstr "numSearchResults"
+
+#: ../../source/searchingpreferences.rst:706
+msgid "Asks: By default, show \\_\\_\\_ results per page in the staff interface."
+msgstr "詢問：預設情況下，在館員介面中每頁顯示 \\_\\_\\_ 結果。"
+
+#: ../../source/searchingpreferences.rst:712
+msgid "This system preference allows you to choose the default number of results per page in :ref:`search results<search-results-label>` in the staff interface."
+msgstr "此系統偏好允許您在館員介面中的 :ref:`搜尋結果<search-results-label>`中選擇預設的每頁結果數。"
+
+#: ../../source/searchingpreferences.rst:716
+#, fuzzy
+msgid "If you want users to be able to change that number, enable the :ref:`numSearchResultsDropdown <numSearchResultsDropdown-label>` system preference."
+msgstr "如果你希望使用者能夠改變這個數字，請啟用 :ref:`numSearchResultsDropdown`系統偏好。"
+
+#: ../../source/searchingpreferences.rst:719
+#, fuzzy
+msgid "Use :ref:`OPACnumSearchResults <OPACnumSearchResults-label>` to define the default number of results per page in the OPAC."
+msgstr "使用 :ref:`OPACnumSearchResults`來定義OPAC中每頁的預設結果數量。"
+
+#: ../../source/searchingpreferences.rst:725
+msgid "numSearchResultsDropdown"
+msgstr "numSearchResultsDropdown"
+
+#: ../../source/searchingpreferences.rst:727
+msgid "Asks: \\_\\_\\_ results per page dropdown on staff interface search results."
+msgstr "詢問：\\_\\_\\_ 館員介面搜尋結果中每頁下拉列表的結果。"
+
+#: ../../source/searchingpreferences.rst:739
+msgid "If set to 'Show' this system preference will make a drop down menu appear in the :ref:`search results<search-results-label>` allowing the user to choose how many results they want to see per page."
+msgstr "如果設定為 '顯示'，這個系統偏好將使一個下拉選單出現在 :ref:`搜尋結果<search-results-label>`，允許使用者們選擇想在每頁看到多少結果。"
+
+#: ../../source/searchingpreferences.rst:743
+#, fuzzy
+msgid "Use :ref:`numSearchResults <numSearchResults-label>` to determine what is the default value."
+msgstr "使用 :ref:`numSearchResults` 來確定什麼是預設值。"
+
+#: ../../source/searchingpreferences.rst:745
+#, fuzzy
+msgid "Use :ref:`OPACnumSearchResultsDropdown <OPACnumSearchResultsDropdown-label>` to define if the dropdown appears in the OPAC."
+msgstr "使用 :ref:`OPACnumSearchResultsDropdown` 定義下拉列表是否出現在 OPAC 中。"
+
+#: ../../source/searchingpreferences.rst:751
+msgid "OPACdefaultSortField and OPACdefaultSortOrder"
+msgstr "OPACdefaultSortField 及 OPACdefaultSortOrder"
+
+#: ../../source/searchingpreferences.rst:753
+msgid "Asks: By default, sort search results in the OPAC by \\_\\_\\_, \\_\\_\\_"
+msgstr "詢問：預設依照 OPAC 的搜尋結果，依 \\_\\_\\_, \\_\\_\\_ 排序"
+
+#: ../../source/searchingpreferences.rst:755
+msgid "Default: relevance (OPACdefaultSortField), descending (OPACdefaultSortOrder)"
+msgstr "預設值：相關性 (OPACdefaultSortField)，降冪 (OPACdefaultSortOrder)"
+
+#: ../../source/searchingpreferences.rst:759
+msgid "OPACdefaultSortField"
+msgstr "OPACdefaultSortField"
+
+#: ../../source/searchingpreferences.rst:775
+msgid "OPACdefaultSortOrder"
+msgstr "OPACdefaultSortOrder"
+
+#: ../../source/searchingpreferences.rst:787
+#, fuzzy
+msgid "These system preferences set the default sort field and sort order for searches on the OPAC. Regardless of your choice, the other sort options are still available in the drop down list on the advanced search page."
+msgstr "此偏好設定預設在 OPAC 搜尋的排序欄位與順序。不論設定如何，其他的排序選項都會出現在進階搜尋頁面的下接選單。"
+
+#: ../../source/searchingpreferences.rst:794
+msgid ":ref:`defaultSortField and defaultSortOrder<defaultsortfield-and-defaultsortorder-label>`"
+msgstr ":ref:`defaultSortField 和 defaultSortOrder<defaultsortfield-and-defaultsortorder-label>`"
+
+#: ../../source/searchingpreferences.rst:799
+msgid "OPACnumSearchResults"
+msgstr "OPACnumSearchResults"
+
+#: ../../source/searchingpreferences.rst:801
+msgid "Asks: By default, show \\_\\_\\_ results per page in the OPAC."
+msgstr "詢問：預設，在 OPAC 的搜尋結果裡每頁顯示 \\_\\_\\_ 筆。"
+
+#: ../../source/searchingpreferences.rst:807
+msgid "This system preference allows you to choose the default number of results per page in search results in the OPAC."
+msgstr "這個系統偏好允許你在OPAC的搜尋結果中選擇每頁的預設結果數量。"
+
+#: ../../source/searchingpreferences.rst:810
+#, fuzzy
+msgid "If you want users to be able to change that number, enable the :ref:`OPACnumSearchResultsDropdown <OPACnumSearchResultsDropdown-label>` system preference."
+msgstr "如果你希望使用者能夠改變這個數字，請啟用 :ref:`OPACnumSearchResultsDropdown`系統偏好。"
+
+#: ../../source/searchingpreferences.rst:813
+#, fuzzy
+msgid "Use :ref:`numSearchResults <numSearchResults-label>` to define the default number of results per page in the staff interface."
+msgstr "使用 :ref:`numSearchResults`來定義館員介面中每頁的預設結果數量。"
+
+#: ../../source/searchingpreferences.rst:819
+msgid "OPACnumSearchResultsDropdown"
+msgstr "OPACnumSearchResultsDropdown"
+
+#: ../../source/searchingpreferences.rst:821
+msgid "Asks: \\_\\_\\_ results per page dropdown on OPAC search results."
+msgstr "詢問：OPAC 搜尋結果中每頁下拉列表的 \\_\\_\\_ 結果。"
+
+#: ../../source/searchingpreferences.rst:833
+msgid "If set to 'Show' this system preference will make a drop down menu appear in the search results allowing the user to choose how many results they want to see per page."
+msgstr "如果設定為 '顯示'，這個系統偏好將使搜尋結果中出現一個下拉選單，允許使用者選擇他們想在每頁看到多少結果。"
+
+#: ../../source/searchingpreferences.rst:837
+#, fuzzy
+msgid "Use :ref:`OPACnumSearchResults <OPACnumSearchResults-label>` to determine what is the default value."
+msgstr "使用 :ref:`OPACnumSearchResults` 來確定什麼是預設值。"
+
+#: ../../source/searchingpreferences.rst:839
+#, fuzzy
+msgid "Use :ref:`numSearchResultsDropdown <numSearchResultsDropdown-label>` to define if the dropdown appears in the staff interface."
+msgstr "使用 :ref:`numSearchResultsDropdown` 定義下拉列表是否出現在館員介面中。"
+
+#: ../../source/searchingpreferences.rst:845
+msgid "PassItemMarcToXSLT"
+msgstr "PassItemMarcToXSLT"
+
+#: ../../source/searchingpreferences.rst:847
+msgid "Asks: \\_\\_\\_ make item MARC tags available to XSLT stylesheets."
+msgstr "詢問：\\_\\_\\_ 使館藏 MARC 標籤可用於 XSLT 樣式表。"
+
+#: ../../source/searchingpreferences.rst:849
+msgid "Default: Don't"
+msgstr "預設值：不要"
+
+#: ../../source/searchingpreferences.rst:853
+msgid "Don't"
+msgstr "不要"
+
+#: ../../source/searchingpreferences.rst:855
+msgid "Do"
+msgstr "做"
+
+#: ../../source/searchingpreferences.rst:859
+msgid "This system preference determines whether or not the item fields are passed to the XSLT stylesheets for display."
+msgstr "該系統偏好決定是否將館藏欄位傳遞給 XSLT 樣式表以供顯示。"
+
+#: ../../source/searchingpreferences.rst:862
+msgid "Enable only if using custom XSLT stylesheets that display the items."
+msgstr "只在使用顯示館藏的自定義XSLT樣式表時啟用。"
+
+#: ../../source/searchingpreferences.rst:864
+msgid "If using default XSLT stylesheets, items are not displayed using these stylesheets but through different methods (holdings table), so it is not necessary to make these fields available to the XSLT stylesheets."
+msgstr "如果使用預設的XSLT樣式表，館藏不是用這些樣式表顯示的，而是透過不同的方法（預約表格），所以沒有必要讓這些欄位對XSLT樣式表可用。"
+
+#: ../../source/searchingpreferences.rst:868
+msgid "Use the following system preferences for custom stylesheets:"
+msgstr "對定製樣式表使用以下系統偏好："
+
+#: ../../source/searchingpreferences.rst:870
+#, fuzzy
+msgid ":ref:`OPACXSLTDetailsDisplay <OPACXSLTDetailsDisplay-label>`"
+msgstr ":ref:`OPACXSLTDetailsDisplay`"
+
+#: ../../source/searchingpreferences.rst:872
+#, fuzzy
+msgid ":ref:`OPACXSLTListsDisplay <OPACXSLTListsDisplay-label>`"
+msgstr ":ref:`OPACXSLTListsDisplay`"
+
+#: ../../source/searchingpreferences.rst:874
+#, fuzzy
+msgid ":ref:`OPACXSLTResultsDisplay <OPACXSLTResultsDisplay-label>`"
+msgstr ":ref:`OPACXSLTResultsDisplay`"
+
+#: ../../source/searchingpreferences.rst:876
+#, fuzzy
+msgid ":ref:`XSLTDetailsDisplay <XSLTDetailsDisplay-label>`"
+msgstr ":ref:`XSLTDetailsDisplay`"
+
+#: ../../source/searchingpreferences.rst:878
+#, fuzzy
+msgid ":ref:`XSLTListsDisplay <XSLTListsDisplay-label>`"
+msgstr ":ref:`XSLTListsDisplay`"
+
+#: ../../source/searchingpreferences.rst:880
+#, fuzzy
+msgid ":ref:`XSLTResultsDisplay <XSLTResultsDisplay-label>`"
+msgstr ":ref:`XSLTResultsDisplay`"
+
+#: ../../source/searchingpreferences.rst:882
+msgid "If this system preference is disabled, records are displayed faster when using the default XSLT stylesheets."
+msgstr "如果禁用此系統偏好，則在使用預設 XSLT 樣式表時記錄會顯示得更快。"
+
+#: ../../source/searchingpreferences.rst:888
+msgid "RetainCatalogSearchTerms"
+msgstr ""
+
+#: ../../source/searchingpreferences.rst:890
+#, fuzzy
+msgid "Asks: \\_\\_\\_ search terms between searches when searching from the 'search the catalog' tab in the staff interface header."
+msgstr "詢問: \\_\\_\\_ 從館員介面的書目紀錄詳情頁面瀏覽搜尋結果。"
+
+#: ../../source/searchingpreferences.rst:893
+#: ../../source/searchingpreferences.rst:920
+#, fuzzy
+msgid "Default: Retain"
+msgstr "預設值：20"
+
+#: ../../source/searchingpreferences.rst:897
+#: ../../source/searchingpreferences.rst:924
+#, fuzzy
+msgid "Don't retain"
+msgstr "不強制"
+
+#: ../../source/searchingpreferences.rst:899
+#: ../../source/searchingpreferences.rst:926
+msgid "Retain"
+msgstr ""
+
+#: ../../source/searchingpreferences.rst:903
+msgid "This system preference is used to determine whether or not, for catalog searches in the staff interface, the search term entered in the search bar at the top of the page stays there once the search is launched."
+msgstr ""
+
+#: ../../source/searchingpreferences.rst:907
+#: ../../source/searchingpreferences.rst:934
+msgid "If set to \"Don't retain\", the search bar will be emptied after the search is launched."
+msgstr ""
+
+#: ../../source/searchingpreferences.rst:910
+#: ../../source/searchingpreferences.rst:937
+msgid "If set to \"Retain\", the search term will stay in the search bar."
+msgstr ""
+
+#: ../../source/searchingpreferences.rst:915
+msgid "RetainPatronsSearchTerms"
+msgstr ""
+
+#: ../../source/searchingpreferences.rst:917
+msgid "Asks: \\_\\_\\_ search terms between searches when searching from the 'checkout' and 'search patrons' tab in the staff interface header."
+msgstr ""
+
+#: ../../source/searchingpreferences.rst:930
+msgid "This system preference is used to determine whether or not, for checkout and patron searches in the staff interface, the search term entered in the search bar at the top of the page stays there once the search is launched."
+msgstr ""
+
+#: ../../source/searchingpreferences.rst:942
+msgid "SearchLimitLibrary"
+msgstr "SearchLimitLibrary"
+
+#: ../../source/searchingpreferences.rst:944
+msgid "Asks: When limiting search results with a library or library group, limit by the item's \\_\\_\\_."
+msgstr "詢問：當用圖書館或圖書館組限制搜尋結果時，由館藏的 \\_\\_\\_ 限制。"
+
+#: ../../source/searchingpreferences.rst:947
+msgid "Default: home library"
+msgstr "預設值：所屬圖書館"
+
+#: ../../source/searchingpreferences.rst:951
+msgid "home library and holding library"
+msgstr "所屬圖書館與所在圖書館"
+
+#: ../../source/searchingpreferences.rst:959
+msgid "This system preference lets you decide which library is used when :ref:`limiting by library<advanced-search-location-availability-label>`"
+msgstr "此系統偏好可讓您決定在何時使用哪個圖書館 :ref:`圖書館限制<advanced-search-location-availability-label>`"
+
+#: ../../source/searchingpreferences.rst:965
+msgid "SearchWithISBNVariations"
+msgstr "SearchWithISBNVariations"
+
+#: ../../source/searchingpreferences.rst:967
+msgid "Asks: When searching on the ISBN index, \\_\\_\\_ on all variations of the ISBN."
+msgstr "詢問：搜尋 ISBN 索引時，\\_\\_\\_ ISBN 的所有變型。"
+
+#: ../../source/searchingpreferences.rst:970
+#: ../../source/searchingpreferences.rst:992
+msgid "Default: don't search"
+msgstr "預設值：不搜尋"
+
+#: ../../source/searchingpreferences.rst:974
+#: ../../source/searchingpreferences.rst:996
+msgid "don't search"
+msgstr "不搜尋"
+
+#: ../../source/searchingpreferences.rst:976
+#: ../../source/searchingpreferences.rst:998
+msgid "search"
+msgstr "搜尋"
+
+#: ../../source/searchingpreferences.rst:978
+#: ../../source/searchingpreferences.rst:1000
+msgid "Descriptions:"
+msgstr "說明："
+
+#: ../../source/searchingpreferences.rst:980
+#, fuzzy
+msgid "With this system preference set to search you'll be able to search for ISBNs even if there are dashes or spaces in the field. So if you search for 9781843345855 but the ISBN was cataloged as 978-1843345855 you'll still be able to find it if this system preference is set to 'search'."
+msgstr "將此偏好設定為 '搜尋' 就可搜尋含連結號或空格的 ISBN。輸入 9781843345855 但仍可找到把該 ISBN 編成 978-1843345855 的資料。"
+
+#: ../../source/searchingpreferences.rst:988
+#, fuzzy
+msgid "SearchWithISSNVariations"
+msgstr "SearchWithISBNVariations"
+
+#: ../../source/searchingpreferences.rst:990
+#, fuzzy
+msgid "Asks: When searching on the ISSN index, \\_\\_\\_ on all variations of the ISSN."
+msgstr "詢問：搜尋 ISBN 索引時，\\_\\_\\_ ISBN 的所有變型。"
+
+#: ../../source/searchingpreferences.rst:1002
+msgid "If this system preference is set to 'search' you'll be able to search for ISSNs without the hyphen. For example, searching for 12345678 will find records that have the ISSN 1234-5678."
+msgstr ""
+
+#: ../../source/searchingpreferences.rst:1006
+msgid "This system preference currently works in the :ref:`advanced search <advanced-searching-label>`, when using the ISSN index, and in the :ref:`orders advanced search in acquisitions <searching-orders-label>`."
+msgstr ""
+
+#: ../../source/searchingpreferences.rst:1013
+msgid "UNIMARCAuthorsFacetsSeparator"
+msgstr ""
+
+#: ../../source/searchingpreferences.rst:1015
+msgid "Asks: Use the following text as separator for UNIMARC authors facets \\_\\_\\_"
+msgstr "詢問：以下列的文字做為區隔 UNIMARC 著者面向 \\_\\_\\_"
+
+#: ../../source/searchingpreferences.rst:1017
+msgid "Default: , (comma, space)"
+msgstr "預設值：，(逗點， 空)"
+
+#: ../../source/searchingpreferences.rst:1021
+msgid "When using UNIMARC, the default separator for authors' last and first names in the :ref:`facets<search-results-facets-label>` is a comma followed by a space."
+msgstr "使用 UNIMARC 時， :ref:`分面<search-results-facets-label>` 中作者姓氏和名字的預設分隔符是一個逗號後跟一個空格。"
+
+#: ../../source/searchingpreferences.rst:1028
+msgid "Search form"
+msgstr "搜尋表單"
+
+#: ../../source/searchingpreferences.rst:1033
+msgid "AdvancedSearchLanguages"
+msgstr "AdvancedSearchLanguages"
+
+#: ../../source/searchingpreferences.rst:1035
+msgid "Asks: Limit the languages listed in the advanced search drop-down to the \\_\\_\\_ ISO 639-2 language codes (separate values with \\| or ,)."
+msgstr "詢問：限制列在進階搜尋下拉選單裡的語系 \\_\\_\\_￼ ISO 639-2 語系代碼 (以 \\| 或 , 區隔)。"
+
+#: ../../source/searchingpreferences.rst:1040
+#, fuzzy
+msgid "This system preference will allow you to decide which languages show in the drop down menu on the :ref:`advanced search page<advanced-search-date-lang-limits-label>` in the OPAC and the staff interface."
+msgstr "此偏好將允許您決定在 OPAC 和館員介面中 :ref:`進階搜尋頁面<advanced-search-date-lang-limits-label>` 的下拉選單中顯示哪些語言。"
+
+#: ../../source/searchingpreferences.rst:1045
+msgid "If this preference is left blank, all languages will show. To limit the languages that are shown enter their `ISO 639-2 language codes <http://www.loc.gov/standards/iso639-2/php/code_list.php>`__ separated by comma ( , ) or pipe ( \\| ). For example to limit listing to French and Italian, enter ita\\|fre."
+msgstr "如果此偏好留空，將顯示所有語言。 要限制顯示的語言，請輸入它們的 `ISO 639-2 語言代碼 <http://www.loc.gov/standards/iso639-2/php/code_list.php>`__ 用逗號 (,) 或豎線 ( \\|）。 例如，要將列表限制為法語和意大利語，請輸入 ita\\|fre。"
+
+#: ../../source/searchingpreferences.rst:1054
+msgid "AdvancedSearchTypes"
+msgstr "AdvancedSearchTypes"
+
+#: ../../source/searchingpreferences.rst:1056
+msgid "Asks: Show tabs in the staff interface advanced search for limiting searches on the \\_\\_\\_ fields."
+msgstr "詢問：在館員介面進階搜尋中顯示選項卡以限制對 \\_\\_\\_ 欄位的搜尋。"
+
+#: ../../source/searchingpreferences.rst:1059
+msgid "Default: itemtypes"
+msgstr "預設值：館藏類型"
+
+#: ../../source/searchingpreferences.rst:1063
+msgid "On the advanced search page in the staff interface, you can choose to allow filters on one or all of the following: item types (itemtypes), collection codes (ccode) and shelving location (loc)."
+msgstr "在館員介面的進階搜尋頁面上，您可以選擇允許對以下一項或全部進行篩選：館藏類型（itemtypes）、館藏代碼（ccode）和上架位置（loc）。"
+
+#: ../../source/searchingpreferences.rst:1067
+#, fuzzy
+msgid "|advancedsearch-itypetabs|"
+msgstr "AdvancedSearchTypes"
+
+#: ../../source/searchingpreferences.rst:1069
+msgid "Separate multiple values with a pipe (\\|). For example, enter itemtypes\\|loc to allow to limit searches on item type and shelving location."
+msgstr "使用豎線 (\\|) 分隔多個值。 例如，輸入 itemtypes\\|loc 以允許限制對館藏類型和貨架位置的搜尋。"
+
+#: ../../source/searchingpreferences.rst:1072
+msgid "The order in which the options are entered in the system preference is the order in which the tabs will appear. The first option in the system preference is the selected tab."
+msgstr "在系統偏好中輸入選項的順序就是標籤出現的順序。 系統偏好中的第一個選項是選定的標籤。"
+
+#: ../../source/searchingpreferences.rst:1076
+msgid "If left empty, \"itemtypes\" is used."
+msgstr "如果留空，則使用 \"館藏類型\"。"
+
+#: ../../source/searchingpreferences.rst:1078
+msgid "Values within the search type are OR'ed together, while each different search type is AND'ed together in the query limits."
+msgstr "搜尋類型中的值是被 OR' 一起運算的，而每個不同的搜尋類型在查詢限制中是被 AND' 一起的。"
+
+#: ../../source/searchingpreferences.rst:1083
+#, fuzzy
+msgid ":ref:`OpacAdvancedSearchTypes <OpacAdvancedSearchTypes-label>`"
+msgstr ":ref:`OpacAdvancedSearchTypes`"
+
+#: ../../source/searchingpreferences.rst:1093
+msgid "expandedSearchOption"
+msgstr "expandedSearchOption"
+
+#: ../../source/searchingpreferences.rst:1095
+msgid "Asks: By default, \\_\\_\\_ \"More options\" on the OPAC and staff interface advanced search pages."
+msgstr "詢問：預設，在 OPAC 與館員介面進階搜尋頁面 \\_\\_\\_ \"更多選項\"。"
+
+#: ../../source/searchingpreferences.rst:1098
+msgid "Default: don't show"
+msgstr "預設值：不顯示"
+
+#: ../../source/searchingpreferences.rst:1102
+msgid "don't show"
+msgstr "不顯示"
+
+#: ../../source/searchingpreferences.rst:1104
+msgid "show"
+msgstr "顯示"
+
+#: ../../source/searchingpreferences.rst:1108
+msgid "This system preference lets you decide if the 'More options' search options (such as :ref:`date and language limits<advanced-search-date-lang-limits-label>`) are displayed by default of if the user has to click 'More options' to access them."
+msgstr "此系統偏好可讓您決定是否預設顯示 '更多選項' 搜尋選項（例如 :ref:`日期和語言限制<advanced-search-date-lang-limits-label>`） 點擊 '更多選項' 以訪問它們。"
+
+#: ../../source/searchingpreferences.rst:1116
+msgid "IntranetNumbersPreferPhrase"
+msgstr "IntranetNumbersPreferPhrase"
+
+#: ../../source/searchingpreferences.rst:1118
+msgid "Asks: By default, \\_\\_\\_ the operator \"phr\" in the callnumber and standard number staff interface searches."
+msgstr "詢問：預設，\\_\\_\\_ 搜尋館員介面的索書號與標準號碼運算元 \"phr\"。"
+
+#: ../../source/searchingpreferences.rst:1121
+#: ../../source/searchingpreferences.rst:1170
+msgid "Default: don't use"
+msgstr "預設值：不使用"
+
+#: ../../source/searchingpreferences.rst:1125
+#: ../../source/searchingpreferences.rst:1174
+msgid "don't use"
+msgstr "不使用"
+
+#: ../../source/searchingpreferences.rst:1127
+#: ../../source/searchingpreferences.rst:1176
+msgid "use"
+msgstr "使用"
+
+#: ../../source/searchingpreferences.rst:1131
+msgid "When searching by call number and standard number (biblionumber) in the staff interface, you can choose to force the search to be a phrase search by setting this preference to 'use'. This will allow for more accurate results over doing a general keyword field search."
+msgstr "經由設定偏好為 '使用' 就能在館員介面強迫以索書號與標準號碼 (書目編號) 搜尋。此種方式搜尋較為精確。"
+
+#: ../../source/searchingpreferences.rst:1138
+#, fuzzy
+msgid ":ref:`OPACNumbersPreferPhrase <OPACNumbersPreferPhrase-label>`"
+msgstr ":ref:`OPACNumbersPreferPhrase`"
+
+#: ../../source/searchingpreferences.rst:1143
+msgid "LoadSearchHistoryToTheFirstLoggedUser"
+msgstr "LoadSearchHistoryToTheFirstLoggedUser"
+
+#: ../../source/searchingpreferences.rst:1145
+msgid "Asks: \\_\\_\\_ search history of the unlogged user to the next patron logging in."
+msgstr "詢問：\\_\\_\\_ 未登入使用者的搜尋歷史記錄到下一個登入的讀者。"
+
+#: ../../source/searchingpreferences.rst:1147
+msgid "Default: Add"
+msgstr "預設值：新增"
+
+#: ../../source/searchingpreferences.rst:1151
+msgid "Don't add"
+msgstr "不新增"
+
+#: ../../source/searchingpreferences.rst:1153
+msgid "Add"
+msgstr "新增"
+
+#: ../../source/searchingpreferences.rst:1157
+msgid "In the OPAC, if a patron is not logged in, the searches they do will not be added to their search history. This system preference determines if the searches done while not logged in are added to the search history of the next patron who logs in."
+msgstr "在OPAC中，如果一個讀者沒有登入，他們所做的搜尋將不會被新增到他們的搜尋紀錄中。這個系統偏好決定了在未登入時進行的搜尋是否會被新增到下一個登入讀者的搜尋紀錄中。"
+
+#: ../../source/searchingpreferences.rst:1165
+msgid "OPACNumbersPreferPhrase"
+msgstr "OPACNumbersPreferPhrase"
+
+#: ../../source/searchingpreferences.rst:1167
+msgid "Asks: By default, \\_\\_\\_ the operator \"phr\" in the callnumber and standard number OPAC searches"
+msgstr "詢問：預設，\\_\\_\\_ 運算元 \"phr\" 於 OPAC 的索書號與標準號碼搜尋"
+
+#: ../../source/searchingpreferences.rst:1180
+msgid "When searching by call number and standard number (biblionumber) in the OPAC you can choose to force the search to be a phrase search by setting this preference to 'use'. This will allow for more accurate results over doing a general keyword field search."
+msgstr "經由設定偏好為 '使用' 在 OPAC 以索書號與標準號碼 (書目編號) 搜尋。此種方式搜尋較為精確。"
+
+#: ../../source/searchingpreferences.rst:1187
+#, fuzzy
+msgid ":ref:`IntranetNumbersPreferPhrase <IntranetNumbersPreferPhrase-label>`"
+msgstr ":ref:`IntranetNumbersPreferPhrase`"

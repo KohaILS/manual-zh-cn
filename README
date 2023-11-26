@@ -1,0 +1,7 @@
+# Koha 手册（zh_CN）翻译
+
+cd koha-manual
+
+git clone https://gitlab.com/kohacn/manual-po-zh-cn.git locales
+
+本文件来自 https://gitlab.com/koha-community/koha-manual-l10n 的繁体。

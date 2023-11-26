@@ -1,0 +1,1440 @@
+# Chinese translations for Koha Manual package.
+# Copyright (C) 2020, Koha Community
+# This file is distributed under the same license as the Koha Manual package.
+# Automatically generated, 2021.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Koha Manual 22.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-10-26 13:37+0000\n"
+"PO-Revision-Date: 2023-03-30 08:36+0000\n"
+"Last-Translator: Frank Chou <frank@sris.com.tw>\n"
+"Language-Team: none\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pootle 2.8\n"
+"X-Pootle-Path: /zh_TW/manual22.11/staffclientpreferences.po\n"
+"X-Pootle-Revision: 1\n"
+"X-POOTLE-MTIME: 1680165369.439406\n"
+
+#: ../../source/images.rst:707
+msgid "856 field in the cataloging form; 856q contains img and 856u contains a link to an image"
+msgstr ""
+
+#: ../../source/images.rst:734
+msgid "Detailed record page in the staff interface, one of the 856 field is displayed as an image in the record"
+msgstr ""
+
+#: ../../source/images.rst:737
+msgid "Search results in the staff interface, one of the 856 field is displayed as an image in the listing"
+msgstr ""
+
+#: ../../source/images.rst:743
+#, fuzzy
+msgid "Screenshot of the XSLT icons in the search results in the staff interface"
+msgstr "這個系統偏好控制了館員介面中權威搜尋結果中的記錄顯示。"
+
+#: ../../source/images.rst:761
+msgid "The default look of the Search the catalog tab, without the index drop-down list"
+msgstr ""
+
+#: ../../source/images.rst:764
+msgid "When IntranetCatalogSearchPulldown is set to Show, a drop-down list of indexes appears next to the search box"
+msgstr ""
+
+#: ../../source/images.rst:767
+msgid "Screenshot that shows where the content of IntranetCirculationHomeHTML appears on the circulation home page, under the circulation action buttons and above the offline circulation links"
+msgstr ""
+
+#: ../../source/images.rst:770
+#, fuzzy
+msgid "The HTML code entered in IntranetCirculationHomeHTML"
+msgstr "IntranetCirculationHomeHTML"
+
+#: ../../source/images.rst:773
+msgid "Screenshot that shows where the content of IntranetmainUserBlock appears on the staff interface's main page, under the module buttons"
+msgstr ""
+
+#: ../../source/images.rst:776
+msgid "The HTML code entered in IntranetmainUserBlock"
+msgstr ""
+
+#: ../../source/images.rst:779
+msgid "Screenshot that shows where the content of IntranetNav is displayed at the top of the staff interface pages, to the right of the More menu"
+msgstr ""
+
+#: ../../source/images.rst:782
+msgid "Screenshot that shows where the content of IntranetReportsHomeHTML appears on the reports module main page, under the report links"
+msgstr ""
+
+#: ../../source/images.rst:785
+msgid "A small 'Last patron' button appears on the right side of the screen"
+msgstr ""
+
+#: ../../source/images.rst:839
+msgid "Checkboxes are displayed next to every item in the holdings tab of a detailed bibliographic record"
+msgstr ""
+
+#: ../../source/images.rst:842
+msgid "The small green 'k' on the browser tab is the default favicon"
+msgstr ""
+
+#: ../../source/images.rst:845
+msgid "Screenshot that shows where the content of StaffLoginInstructions appears on the staff login page, above the login fields"
+msgstr ""
+
+#: ../../source/images.rst:860
+#, fuzzy
+msgid "Example of a system preference using a WYSIWYG editor (TinyMCE) instead of a plain text editor"
+msgstr "此偏好允許您使用 WYSIWYG 編輯器以 HTML 格式變更系統偏好。"
+
+#: ../../source/images.rst:863
+msgid "The ISDB tab and record view"
+msgstr ""
+
+#: ../../source/images.rst:866
+msgid "The Labeled MARC tab and record view"
+msgstr ""
+
+#: ../../source/images.rst:869
+msgid "The MARC tab and record view"
+msgstr ""
+
+#: ../../source/images.rst:2699
+msgid "Menu and search bar at the top of the page in the staff interface, the Search catalog option is selected, the mouse cursor is on  the settings icon and there is a library drop-down menu"
+msgstr ""
+
+#: ../../source/staffclientpreferences.rst:6
+msgid "Staff interface"
+msgstr "館員介面"
+
+#: ../../source/staffclientpreferences.rst:8
+msgid "*Get there:* More > Administration > Global system preferences > Staff interface"
+msgstr "*到此：* 其他 > 管理 > 整體系統偏好 > 館員介面"
+
+#: ../../source/staffclientpreferences.rst:14
+msgid "Appearance"
+msgstr "外觀"
+
+#: ../../source/staffclientpreferences.rst:19
+msgid "AuthorityXSLTResultsDisplay"
+msgstr "AuthorityXSLTResultsDisplay"
+
+#: ../../source/staffclientpreferences.rst:21
+msgid "Asks: Display authority results in the staff interface using XSLT stylesheet at: \\_\\_\\_"
+msgstr "要求：使用 XSLT 樣式表在館員介面中顯示權威結果：\\_\\_\\_"
+
+#: ../../source/staffclientpreferences.rst:24
+msgid "Default: empty (uses the default non-XSLT display)"
+msgstr "預設：空白（使用預設的非XSLT顯示）"
+
+#: ../../source/staffclientpreferences.rst:26
+#: ../../source/staffclientpreferences.rst:72
+#: ../../source/staffclientpreferences.rst:175
+#: ../../source/staffclientpreferences.rst:556
+#: ../../source/staffclientpreferences.rst:581
+#: ../../source/staffclientpreferences.rst:631
+#: ../../source/staffclientpreferences.rst:649
+#: ../../source/staffclientpreferences.rst:704
+#: ../../source/staffclientpreferences.rst:757
+#: ../../source/staffclientpreferences.rst:821
+#: ../../source/staffclientpreferences.rst:841
+#: ../../source/staffclientpreferences.rst:887
+#: ../../source/staffclientpreferences.rst:913
+#: ../../source/staffclientpreferences.rst:937
+#: ../../source/staffclientpreferences.rst:963
+#: ../../source/staffclientpreferences.rst:987
+#: ../../source/staffclientpreferences.rst:1011
+#: ../../source/staffclientpreferences.rst:1034
+#: ../../source/staffclientpreferences.rst:1059
+#: ../../source/staffclientpreferences.rst:1081
+#: ../../source/staffclientpreferences.rst:1109
+#: ../../source/staffclientpreferences.rst:1137
+msgid "Values:"
+msgstr "值:"
+
+#: ../../source/staffclientpreferences.rst:28
+#: ../../source/staffclientpreferences.rst:653
+#: ../../source/staffclientpreferences.rst:708
+#: ../../source/staffclientpreferences.rst:761
+msgid "Enter a path to an XSLT file"
+msgstr "輸入一個XSLT文件的路徑"
+
+#: ../../source/staffclientpreferences.rst:30
+#: ../../source/staffclientpreferences.rst:655
+#: ../../source/staffclientpreferences.rst:710
+#: ../../source/staffclientpreferences.rst:763
+msgid "For example, /path/to/koha/and/your/stylesheet.xsl"
+msgstr "例如，/path/to/koha/and/your/stylesheet.xsl"
+
+#: ../../source/staffclientpreferences.rst:32
+#: ../../source/staffclientpreferences.rst:657
+#: ../../source/staffclientpreferences.rst:712
+#: ../../source/staffclientpreferences.rst:765
+msgid "In a multi-language system you can enter {langcode} in the path to tell Koha to look in the right language folder"
+msgstr "在多語系環境下可在路徑裡輸入 {langcode} 告知 Koha 取用正確的資料夾"
+
+#: ../../source/staffclientpreferences.rst:35
+#: ../../source/staffclientpreferences.rst:660
+#: ../../source/staffclientpreferences.rst:715
+#: ../../source/staffclientpreferences.rst:768
+msgid "For example, /home/koha/src/koha-tmpl/intranet-tmpl/prog/{langcode}/xslt/intranetDetail.xsl"
+msgstr "例如，/home/koha/src/koha-tmpl/intranet-tmpl/prog/{langcode}/xslt/intranetDetail.xsl"
+
+#: ../../source/staffclientpreferences.rst:38
+#: ../../source/staffclientpreferences.rst:663
+#: ../../source/staffclientpreferences.rst:718
+#: ../../source/staffclientpreferences.rst:771
+msgid "For example, http://mykohaopac.org/{langcode}/stylesheet.xsl"
+msgstr "例如，http://mykohaopac.org/{langcode}/stylesheet.xsl"
+
+#: ../../source/staffclientpreferences.rst:40
+msgid "If you have different stylesheets for different authority types, you can use the {authtypecode} placeholder"
+msgstr "如果不同的權威類型有不同的樣式表，則可以使用 {authtypecode} 占位符"
+
+#: ../../source/staffclientpreferences.rst:43
+#: ../../source/staffclientpreferences.rst:665
+#: ../../source/staffclientpreferences.rst:720
+#: ../../source/staffclientpreferences.rst:773
+msgid "Enter an URL to an external stylesheet"
+msgstr "輸入一個外部樣式表的URL"
+
+#: ../../source/staffclientpreferences.rst:45
+#: ../../source/staffclientpreferences.rst:667
+#: ../../source/staffclientpreferences.rst:722
+#: ../../source/staffclientpreferences.rst:775
+msgid "For example, http://mykohaopac.org/stylesheet.xsl"
+msgstr "例如，http://mykohaopac.org/stylesheet.xsl"
+
+#: ../../source/staffclientpreferences.rst:47
+#: ../../source/staffclientpreferences.rst:113
+#: ../../source/staffclientpreferences.rst:181
+#: ../../source/staffclientpreferences.rst:217
+#: ../../source/staffclientpreferences.rst:230
+#: ../../source/staffclientpreferences.rst:258
+#: ../../source/staffclientpreferences.rst:300
+#: ../../source/staffclientpreferences.rst:320
+#: ../../source/staffclientpreferences.rst:347
+#: ../../source/staffclientpreferences.rst:372
+#: ../../source/staffclientpreferences.rst:397
+#: ../../source/staffclientpreferences.rst:421
+#: ../../source/staffclientpreferences.rst:457
+#: ../../source/staffclientpreferences.rst:488
+#: ../../source/staffclientpreferences.rst:513
+#: ../../source/staffclientpreferences.rst:532
+#: ../../source/staffclientpreferences.rst:562
+#: ../../source/staffclientpreferences.rst:589
+#: ../../source/staffclientpreferences.rst:605
+#: ../../source/staffclientpreferences.rst:635
+#: ../../source/staffclientpreferences.rst:671
+#: ../../source/staffclientpreferences.rst:726
+#: ../../source/staffclientpreferences.rst:779
+#: ../../source/staffclientpreferences.rst:827
+#: ../../source/staffclientpreferences.rst:849
+#: ../../source/staffclientpreferences.rst:921
+#: ../../source/staffclientpreferences.rst:945
+#: ../../source/staffclientpreferences.rst:971
+#: ../../source/staffclientpreferences.rst:999
+#: ../../source/staffclientpreferences.rst:1042
+#: ../../source/staffclientpreferences.rst:1069
+#: ../../source/staffclientpreferences.rst:1089
+#: ../../source/staffclientpreferences.rst:1117
+#: ../../source/staffclientpreferences.rst:1145
+msgid "Description:"
+msgstr "說明："
+
+#: ../../source/staffclientpreferences.rst:49
+msgid "XSLT stylesheets allow for the customization of the details shown on the screen when viewing the authority search results. This preference will allow you either use the default look that comes with Koha or design your own stylesheet."
+msgstr "XSLT 樣式表允許客製化檢視權威搜尋結果的詳情。此偏好允許您使用 Koha 的預設值或設計自己的樣式表。"
+
+#: ../../source/staffclientpreferences.rst:54
+msgid "This system preference controls the display of the records in the authorities search results in the staff interface."
+msgstr "這個系統偏好控制了館員介面中權威搜尋結果中的記錄顯示。"
+
+#: ../../source/staffclientpreferences.rst:57
+#: ../../source/staffclientpreferences.rst:199
+#: ../../source/staffclientpreferences.rst:240
+#: ../../source/staffclientpreferences.rst:278
+#: ../../source/staffclientpreferences.rst:308
+#: ../../source/staffclientpreferences.rst:329
+#: ../../source/staffclientpreferences.rst:354
+#: ../../source/staffclientpreferences.rst:380
+#: ../../source/staffclientpreferences.rst:409
+#: ../../source/staffclientpreferences.rst:444
+#: ../../source/staffclientpreferences.rst:470
+#: ../../source/staffclientpreferences.rst:500
+#: ../../source/staffclientpreferences.rst:521
+#: ../../source/staffclientpreferences.rst:543
+#: ../../source/staffclientpreferences.rst:594
+#: ../../source/staffclientpreferences.rst:612
+#: ../../source/staffclientpreferences.rst:685
+#: ../../source/staffclientpreferences.rst:740
+#: ../../source/staffclientpreferences.rst:793
+#: ../../source/staffclientpreferences.rst:926
+#: ../../source/staffclientpreferences.rst:976
+#: ../../source/staffclientpreferences.rst:1096
+#: ../../source/staffclientpreferences.rst:1124
+#: ../../source/staffclientpreferences.rst:1152
+msgid "See also:"
+msgstr "參見："
+
+#: ../../source/staffclientpreferences.rst:59
+#: ../../source/staffclientpreferences.rst:795
+#, fuzzy
+msgid ":ref:`OPACXSLTResultsDisplay <OPACXSLTResultsDisplay-label>`"
+msgstr ":ref:`OPACXSLTResultsDisplay`"
+
+#: ../../source/staffclientpreferences.rst:61
+#: ../../source/staffclientpreferences.rst:122
+#: ../../source/staffclientpreferences.rst:163
+#: ../../source/staffclientpreferences.rst:203
+#: ../../source/staffclientpreferences.rst:691
+#: ../../source/staffclientpreferences.rst:746
+#, fuzzy
+msgid ":ref:`XSLTResultsDisplay <XSLTResultsDisplay-label>`"
+msgstr ":ref:`AuthorityXSLTResultsDisplay`"
+
+#: ../../source/staffclientpreferences.rst:66
+msgid "Display856uAsImage"
+msgstr "Display856uAsImage"
+
+#: ../../source/staffclientpreferences.rst:68
+msgid "Asks: Display the URI in the 856u field as an image on: \\_\\_\\_"
+msgstr "詢問：將 856u 欄位的 URI 以圖片形式顯示於：\\_\\_\\_"
+
+#: ../../source/staffclientpreferences.rst:70
+msgid "Default: Neither details or results page"
+msgstr "預設值：既不在詳情頁面也不在結果頁面"
+
+#: ../../source/staffclientpreferences.rst:74
+msgid "Both results and details pages"
+msgstr "同在搜尋結果與書目詳情頁面"
+
+#: ../../source/staffclientpreferences.rst:78
+#, fuzzy
+msgid "Both :ref:`XSLTDetailsDisplay <XSLTDetailsDisplay-label>` and :ref:`XSLTResultsDisplay <XSLTResultsDisplay-label>` need to have values in order for this option to work."
+msgstr "兩者 :ref:`XSLTDetailsDisplay` 與 :ref:`XSLTResultsDisplay` 都需要有值才能使此選項運作。"
+
+#: ../../source/staffclientpreferences.rst:83
+msgid "This option is only implemented for MARC21."
+msgstr "此選項只適用於 MARC21。"
+
+#: ../../source/staffclientpreferences.rst:85
+msgid "Detail page only"
+msgstr "詳情頁面"
+
+#: ../../source/staffclientpreferences.rst:87
+#, fuzzy
+msgid "|Display856uAsImage-detail|"
+msgstr "Display856uAsImage"
+
+#: ../../source/staffclientpreferences.rst:91
+#, fuzzy
+msgid ":ref:`XSLTDetailsDisplay <XSLTDetailsDisplay-label>` needs to have a value in it for this option to work."
+msgstr ":ref:`XSLTDetailsDisplay` 都需要有值才能使此選項作用。"
+
+#: ../../source/staffclientpreferences.rst:96
+msgid "This is only implemented for MARC21 and UNIMARC."
+msgstr "只適用於MARC21 與 UNIMARC。"
+
+#: ../../source/staffclientpreferences.rst:98
+msgid "Neither details or results page"
+msgstr "既不在詳情頁面也不在結果頁面"
+
+#: ../../source/staffclientpreferences.rst:100
+msgid "Results page only"
+msgstr "只限結果頁面"
+
+#: ../../source/staffclientpreferences.rst:102
+#, fuzzy
+msgid "|Display856uAsImage-results|"
+msgstr "Display856uAsImage"
+
+#: ../../source/staffclientpreferences.rst:106
+#, fuzzy
+msgid ":ref:`XSLTResultsDisplay <XSLTResultsDisplay-label>` needs to have a value in it for this option to work."
+msgstr ":ref:`XSLTResultsDisplay` 都需要有值才能使此選項作用。"
+
+#: ../../source/staffclientpreferences.rst:111
+msgid "This is only implemented for MARC21."
+msgstr "只適用於 MARC21。"
+
+#: ../../source/staffclientpreferences.rst:115
+msgid "In addition to this option being set, the corresponding XSLT option must be turned on."
+msgstr "除了這個選項被設定外，相應的XSLT選項必須被打開。"
+
+#: ../../source/staffclientpreferences.rst:118
+msgid "See"
+msgstr "參見"
+
+#: ../../source/staffclientpreferences.rst:120
+#: ../../source/staffclientpreferences.rst:161
+#: ../../source/staffclientpreferences.rst:205
+#: ../../source/staffclientpreferences.rst:744
+#: ../../source/staffclientpreferences.rst:799
+#, fuzzy
+msgid ":ref:`XSLTDetailsDisplay <XSLTDetailsDisplay-label>`"
+msgstr ":ref:`XSLTDetailsDisplay`"
+
+#: ../../source/staffclientpreferences.rst:124
+msgid "Also, the corresponding 856q field must have a valid MIME image extension (e.g., \"jpg\") or MIME image type (i.e. starting with \"image/\"), or the generic indicator \"img\" entered in the field."
+msgstr "此外，相應的 856q 欄位必須有一個有效的MIME圖像延伸名（例如，\"jpg\"）或MIME圖像類型（即以 \"image/\"開頭），或在該欄位中輸入通用指標 \"img\"。"
+
+#: ../../source/staffclientpreferences.rst:128
+msgid "|856imagemarc|"
+msgstr ""
+
+#: ../../source/staffclientpreferences.rst:132
+msgid "**Common image MIME types**"
+msgstr "**常見的圖像MIME類型**"
+
+#: ../../source/staffclientpreferences.rst:135
+msgid "File extension"
+msgstr "檔案延伸"
+
+#: ../../source/staffclientpreferences.rst:135
+msgid "File type"
+msgstr "檔案類型"
+
+#: ../../source/staffclientpreferences.rst:135
+msgid "Image MIME type"
+msgstr "圖片 MIME 類型"
+
+#: ../../source/staffclientpreferences.rst:137
+msgid "Bitmap"
+msgstr "點陣圖"
+
+#: ../../source/staffclientpreferences.rst:137
+msgid "bmp"
+msgstr "bmp"
+
+#: ../../source/staffclientpreferences.rst:137
+msgid "image/bmp"
+msgstr "圖片/bmp"
+
+#: ../../source/staffclientpreferences.rst:139
+msgid "Graphic interchange format (gif)"
+msgstr "圖像互換格式 (gif)"
+
+#: ../../source/staffclientpreferences.rst:139
+msgid "gif"
+msgstr "gif"
+
+#: ../../source/staffclientpreferences.rst:139
+msgid "image/gif"
+msgstr "圖片/gif"
+
+#: ../../source/staffclientpreferences.rst:141
+#: ../../source/staffclientpreferences.rst:143
+msgid "JPEG image"
+msgstr "JPEG 影像"
+
+#: ../../source/staffclientpreferences.rst:141
+#: ../../source/staffclientpreferences.rst:143
+msgid "image/jpeg"
+msgstr "影像/jpeg"
+
+#: ../../source/staffclientpreferences.rst:141
+msgid "jpg"
+msgstr "jpg"
+
+#: ../../source/staffclientpreferences.rst:143
+msgid "jpeg"
+msgstr "jpeg"
+
+#: ../../source/staffclientpreferences.rst:145
+msgid "Scalable vector graphic"
+msgstr "可縮放向量圖形"
+
+#: ../../source/staffclientpreferences.rst:145
+msgid "image/svg+xml"
+msgstr "影像/svg+xml"
+
+#: ../../source/staffclientpreferences.rst:145
+msgid "svg"
+msgstr "svg"
+
+#: ../../source/staffclientpreferences.rst:147
+#: ../../source/staffclientpreferences.rst:149
+msgid "TIF image"
+msgstr "TIF 影像"
+
+#: ../../source/staffclientpreferences.rst:147
+#: ../../source/staffclientpreferences.rst:149
+msgid "image/tiff"
+msgstr "影像/tiff"
+
+#: ../../source/staffclientpreferences.rst:147
+msgid "tiff"
+msgstr "tiff"
+
+#: ../../source/staffclientpreferences.rst:149
+msgid "tif"
+msgstr "tif"
+
+#: ../../source/staffclientpreferences.rst:152
+msgid "When all of the requirements are met, an image file will be displayed instead of the standard link text. Clicking on the image will open it in the same way as clicking on the link text. When you click on the image it should open to full size, in the current window."
+msgstr "當滿足所有要求時，將顯示圖像檔案而不是標準文字連結。點擊圖像將以與點擊文字連結打開它的方式相同。當您點擊圖像時，它應該在當前窗口中以全尺寸打開。"
+
+#: ../../source/staffclientpreferences.rst:157
+msgid "See also"
+msgstr "參見"
+
+#: ../../source/staffclientpreferences.rst:159
+#, fuzzy
+msgid ":ref:`OPACDisplay856uAsImage <OPACDisplay856uAsImage-label>`"
+msgstr ":ref:`OPACDisplay856uAsImage`"
+
+#: ../../source/staffclientpreferences.rst:168
+msgid "DisplayIconsXSLT"
+msgstr "DisplayIconsXSLT"
+
+#: ../../source/staffclientpreferences.rst:170
+msgid "Asks: \\_\\_\\_ the format, audience, and material type icons and descriptions in XSLT MARC21 results and detail pages in the staff interface."
+msgstr "詢問：\\_\\_\\_ 在館員介面 XSLT MARC21 結果與詳情頁面裡的格式、預期讀者及資料類型圖示和說明。"
+
+#: ../../source/staffclientpreferences.rst:173
+#: ../../source/staffclientpreferences.rst:919
+#: ../../source/staffclientpreferences.rst:969
+msgid "Default: Show"
+msgstr "預設值：顯示"
+
+#: ../../source/staffclientpreferences.rst:177
+#: ../../source/staffclientpreferences.rst:915
+#: ../../source/staffclientpreferences.rst:939
+#: ../../source/staffclientpreferences.rst:965
+#: ../../source/staffclientpreferences.rst:989
+#: ../../source/staffclientpreferences.rst:1013
+#: ../../source/staffclientpreferences.rst:1061
+msgid "Don't show"
+msgstr "不顯示"
+
+#: ../../source/staffclientpreferences.rst:179
+#: ../../source/staffclientpreferences.rst:917
+#: ../../source/staffclientpreferences.rst:941
+#: ../../source/staffclientpreferences.rst:967
+#: ../../source/staffclientpreferences.rst:993
+#: ../../source/staffclientpreferences.rst:1015
+#: ../../source/staffclientpreferences.rst:1063
+msgid "Show"
+msgstr "顯示"
+
+#: ../../source/staffclientpreferences.rst:183
+msgid "This preference enables or disables the display of icons based on coded values in the leader of bibliographic records."
+msgstr "該偏好的啟用或停用基於書目記錄前導中編碼值的顯示圖示。"
+
+#: ../../source/staffclientpreferences.rst:186
+#, fuzzy
+msgid "|DisplayIconsXSLT|"
+msgstr "DisplayIconsXSLT"
+
+#: ../../source/staffclientpreferences.rst:190
+msgid "See the :ref:`XSLT material type icons <material-type-cataloging-guide-label>` for more information on these icons."
+msgstr "這些圖示的資訊見 :ref:`XSLT 資料類型圖示 <material-type-cataloging-guide-label>`。"
+
+#: ../../source/staffclientpreferences.rst:195
+#, fuzzy
+msgid "This is only used in XSLT displays, so :ref:`XSLTResultsDisplay <XSLTResultsDisplay-label>` and/or :ref:`XSLTDetailsDisplay <XSLTDetailsDisplay-label>` must be set to use an XSLT stylesheet for this to show (default or custom)"
+msgstr "這只用於XSLT顯示，所以 :ref:`XSLTResultsDisplay`和/或 :ref:`XSLTDetailsDisplay`必須設定為使用XSLT樣式表才能顯示（預設或自定義）"
+
+#: ../../source/staffclientpreferences.rst:201
+#, fuzzy
+msgid ":ref:`DisplayOPACiconsXSLT <DisplayOPACiconsXSLT-label>`"
+msgstr ":ref:`DisplayOPACiconsXSLT`"
+
+#: ../../source/staffclientpreferences.rst:210
+msgid "intranet\\_includes"
+msgstr "intranet\\_includes"
+
+#: ../../source/staffclientpreferences.rst:212
+msgid "Asks: Use include files from the \\_\\_\\_ directory in the template directory, instead of includes/. (Leave blank to disable)"
+msgstr "詢問：使用模板資料夾裡的 \\_\\_\\_ 資料夾內的檔案，不用/。(空白則不用)"
+
+#: ../../source/staffclientpreferences.rst:215
+msgid "Default: includes"
+msgstr "預設值：包括"
+
+#: ../../source/staffclientpreferences.rst:219
+msgid "This system preference lets you modify the directory for include files, should you want to use files that are not the standard ones."
+msgstr "如果你想使用非標準的檔案，這個系統偏好可以讓你修改包含檔案的目錄。"
+
+#: ../../source/staffclientpreferences.rst:225
+msgid "IntranetCirculationHomeHTML"
+msgstr "IntranetCirculationHomeHTML"
+
+#: ../../source/staffclientpreferences.rst:227
+msgid "Asks: Show the following HTML in its own div on the bottom of the home page of the circulation module"
+msgstr "詢問：在流通模組首頁最下方顯示以下的 HTML"
+
+#: ../../source/staffclientpreferences.rst:232
+msgid "This system preference lets you add content to the :ref:`circulation home page <circulation-label>`. You can add links, memos or any other content."
+msgstr "這個系統偏好可以讓你向 :ref:`流通主頁 <circulation-label>`新增內容。你可以新增連結、備忘錄或任何其他內容。"
+
+#: ../../source/staffclientpreferences.rst:236
+#, fuzzy
+msgid "|IntranetCirculationHomeHTML-html|"
+msgstr "IntranetCirculationHomeHTML"
+
+#: ../../source/staffclientpreferences.rst:238
+#, fuzzy
+msgid "|IntranetCirculationHomeHTML|"
+msgstr "IntranetCirculationHomeHTML"
+
+#: ../../source/staffclientpreferences.rst:242
+#: ../../source/staffclientpreferences.rst:358
+#: ../../source/staffclientpreferences.rst:384
+#: ../../source/staffclientpreferences.rst:616
+#, fuzzy
+msgid ":ref:`IntranetmainUserblock <IntranetmainUserblock-label>`"
+msgstr ":ref:`IntranetmainUserblock`"
+
+#: ../../source/staffclientpreferences.rst:244
+#: ../../source/staffclientpreferences.rst:333
+#: ../../source/staffclientpreferences.rst:386
+#: ../../source/staffclientpreferences.rst:618
+#, fuzzy
+msgid ":ref:`IntranetNav <IntranetNav-label>`"
+msgstr ":ref:`IntranetNav`"
+
+#: ../../source/staffclientpreferences.rst:246
+#: ../../source/staffclientpreferences.rst:335
+#: ../../source/staffclientpreferences.rst:360
+#: ../../source/staffclientpreferences.rst:620
+#, fuzzy
+msgid ":ref:`IntranetReportsHomeHTML <IntranetReportsHomeHTML-label>`"
+msgstr ":ref:`IntranetReportsHomeHTML`"
+
+#: ../../source/staffclientpreferences.rst:248
+#: ../../source/staffclientpreferences.rst:337
+#: ../../source/staffclientpreferences.rst:362
+#: ../../source/staffclientpreferences.rst:388
+#, fuzzy
+msgid ":ref:`StaffLoginInstructions <StaffLoginInstructions-label>`"
+msgstr ":ref:`StaffLoginInstructions`"
+
+#: ../../source/staffclientpreferences.rst:253
+msgid "intranetcolorstylesheet"
+msgstr "intranetcolorstylesheet"
+
+#: ../../source/staffclientpreferences.rst:255
+msgid "Asks: Include the additional CSS stylesheet \\_\\_\\_ to override specified settings from the default stylesheet"
+msgstr "詢問：使用新增的 CSS 樣式表 \\_\\_\\_ 取代預設樣式表的設定"
+
+#: ../../source/staffclientpreferences.rst:260
+msgid "This preference is used to set custom CSS settings to the staff interface."
+msgstr "該偏好用於為館員介面設定自定義CSS設置。"
+
+#: ../../source/staffclientpreferences.rst:262
+#, fuzzy
+msgid "The value is a .css file. If you only need to add some directives, not necessarily a whole file, use :ref:`IntranetUserCSS <IntranetUserCSS-label>`"
+msgstr "其值是一個.css 檔案。如果你只需要新增一些指令，而不一定是整個檔案，請使用 :ref:`IntranetUserCSS`。"
+
+#: ../../source/staffclientpreferences.rst:265
+#: ../../source/staffclientpreferences.rst:428
+msgid "Enter just a filename, a full local path or a complete URL starting with http:// (if the file lives on a remote server). Please note that if you just enter a filename, the file should be in the css subdirectory for each active theme and language within the Koha templates directory. A full local path is expected to start from your HTTP document root."
+msgstr "以預設的樣式表(空白即停用)取代現有的設定。輸入檔案名稱，以及完整路徑或完整的 URL http://(若該檔案在外部的伺服器裡)。只輸入檔名，表示該檔案應在樣式表的資料夾裡，包括每個佈景、語言包都在 Koha 版面的資料夾裡。建議使用完整的路徑，即 HTTP 的網址。"
+
+#: ../../source/staffclientpreferences.rst:271
+#: ../../source/staffclientpreferences.rst:434
+msgid "Leave this field blank to disable."
+msgstr "空白則表示不使用。"
+
+#: ../../source/staffclientpreferences.rst:275
+msgid "The stylesheet entered here will be used **in addition to** the default staff interface CSS stylesheet."
+msgstr "此處輸入的樣式表將用於**除了**預設館員介面CSS樣式表之外。"
+
+#: ../../source/staffclientpreferences.rst:280
+#: ../../source/staffclientpreferences.rst:474
+#, fuzzy
+msgid ":ref:`intranetstylesheet <intranetstylesheet-label>`"
+msgstr ":ref:`intranetcolorstylesheet`"
+
+#: ../../source/staffclientpreferences.rst:282
+#: ../../source/staffclientpreferences.rst:448
+#: ../../source/staffclientpreferences.rst:502
+#, fuzzy
+msgid ":ref:`IntranetUserCSS <IntranetUserCSS-label>`"
+msgstr ":ref:`IntranetUserCSS`"
+
+#: ../../source/staffclientpreferences.rst:287
+msgid "IntranetFavicon"
+msgstr "IntranetFavicon"
+
+#: ../../source/staffclientpreferences.rst:289
+msgid "Asks: Use the image at \\_\\_\\_ for the staff interface's favicon."
+msgstr "詢問：在館員介面使用 \\_\\_\\_ 做為喜愛的圖示。"
+
+#: ../../source/staffclientpreferences.rst:293
+msgid "This should be a complete URL, starting with http:// or https://"
+msgstr "應該是完整的 URL，以 http:// 或 https:// 開頭"
+
+#: ../../source/staffclientpreferences.rst:297
+msgid "Turn your logo into a favicon with the `Favicon Generator <http://antifavicon.com/>`__."
+msgstr "以網頁圖示產生器 :ref:`Favicon Generator <http://antifavicon.com/>`__ 將標識轉換為網頁圖示。"
+
+#: ../../source/staffclientpreferences.rst:302
+msgid "The favicon is the little icon that appears next to the page name on the browser tab in most browsers. The default value for this field (if left blank) is the small 'K' in the Koha logo."
+msgstr "圖示是大多數瀏覽器中瀏覽器選項卡上頁面名稱旁邊顯示的小圖示。此欄位的預設值 (若空白) 是小小的 'K' 當成 Koha 的標識。"
+
+#: ../../source/staffclientpreferences.rst:306
+msgid "|stafffavicon|"
+msgstr ""
+
+#: ../../source/staffclientpreferences.rst:310
+#, fuzzy
+msgid ":ref:`OpacFavicon <OpacFavicon-label>`"
+msgstr ":ref:`OpacFavicon`"
+
+#: ../../source/staffclientpreferences.rst:315
+msgid "IntranetmainUserblock"
+msgstr "IntranetmainUserblock"
+
+#: ../../source/staffclientpreferences.rst:317
+msgid "Asks: Show the following HTML in its own column on the main page of the staff interface"
+msgstr "詢問： 在館員介面OPAC 的首頁顯示以下的 HTML 內容"
+
+#: ../../source/staffclientpreferences.rst:322
+msgid "This system preference lets you add content to the main staff interface page. You can add links, memos or any other content."
+msgstr "此系統偏好允許您將內容新增到館員主介面頁面。您可以新增連結、備忘錄或任何其他內容。"
+
+#: ../../source/staffclientpreferences.rst:325
+#, fuzzy
+msgid "|IntranetmainUserblock|"
+msgstr "IntranetmainUserblock"
+
+#: ../../source/staffclientpreferences.rst:327
+#, fuzzy
+msgid "|IntranetmainUserblock-html|"
+msgstr "IntranetmainUserblock"
+
+#: ../../source/staffclientpreferences.rst:331
+#: ../../source/staffclientpreferences.rst:356
+#: ../../source/staffclientpreferences.rst:382
+#: ../../source/staffclientpreferences.rst:614
+#, fuzzy
+msgid ":ref:`IntranetCirculationHomeHTML <IntranetCirculationHomeHTML-label>`"
+msgstr ":ref:`IntranetCirculationHomeHTML`"
+
+#: ../../source/staffclientpreferences.rst:342
+msgid "IntranetNav"
+msgstr "IntranetNav"
+
+#: ../../source/staffclientpreferences.rst:344
+msgid "Asks: Show the following HTML in the More menu at the top of each page on the staff interface (should be a list of links or blank)"
+msgstr "詢問：在館員介面的所有頁面的上端顯示以下 HTML 的內容(應是一串連結或空白)"
+
+#: ../../source/staffclientpreferences.rst:349
+msgid "This system preference lets you add links at the top of the staff interface pages."
+msgstr "這個系統偏好讓你在館員介面頁面的頂部新增連結。"
+
+#: ../../source/staffclientpreferences.rst:352
+#, fuzzy
+msgid "|IntranetNav|"
+msgstr "IntranetNav"
+
+#: ../../source/staffclientpreferences.rst:367
+msgid "IntranetReportsHomeHTML"
+msgstr "IntranetReportsHomeHTML"
+
+#: ../../source/staffclientpreferences.rst:369
+msgid "Asks: Show the following HTML in its own div on the bottom of the home page of the reports module"
+msgstr "詢問：在報表模組首頁最下方顯示以下的 HTML"
+
+#: ../../source/staffclientpreferences.rst:374
+msgid "This system preference lets you add content to the :ref:`reports home page <reports-label>`. You can add links, memos or any other content."
+msgstr "這個系統偏好可以讓你在 :ref:`報表主頁 <reports-label>`中新增內容。你可以新增連結、備忘錄或任何其他內容。"
+
+#: ../../source/staffclientpreferences.rst:378
+#, fuzzy
+msgid "|IntranetReportsHomeHTML|"
+msgstr "IntranetReportsHomeHTML"
+
+#: ../../source/staffclientpreferences.rst:393
+msgid "IntranetSlipPrinterJS"
+msgstr "IntranetSlipPrinterJS"
+
+#: ../../source/staffclientpreferences.rst:395
+msgid "Asks: Use the following JavaScript for printing slips."
+msgstr "詢問：使用以下的 JavaScript 列印收條。"
+
+#: ../../source/staffclientpreferences.rst:405
+msgid "Learn more about this preference and the add-on setup on the Koha wiki at http://wiki.koha-community.org/wiki/Setting_up_slip_printer_to_print_silently."
+msgstr "在Koha 維基上了解更多關於這個偏好和附加組件設置的訊息，網址是http://wiki.koha-community.org/wiki/Setting_up_slip_printer_to_print_silently。"
+
+#: ../../source/staffclientpreferences.rst:411
+#, fuzzy
+msgid ":ref:`SlipCSS <SlipCSS-label>`"
+msgstr ":ref:`SlipCSS`"
+
+#: ../../source/staffclientpreferences.rst:416
+msgid "intranetstylesheet"
+msgstr "intranetstylesheet"
+
+#: ../../source/staffclientpreferences.rst:418
+msgid "Asks: Use the CSS stylesheet \\_\\_\\_ on all pages in the staff interface, instead of the default css (used when leaving this field blank)."
+msgstr "詢問： 使用 CSS 樣式表 \\_\\_\\_ 於館員介面的所有頁面，取代預設的樣式表 (空白則使用預設的樣式表)。"
+
+#: ../../source/staffclientpreferences.rst:423
+msgid "This preference allows a library to customize the appearance of the staff interface."
+msgstr "這個偏好允許圖書館定制館員介面的外觀。"
+
+#: ../../source/staffclientpreferences.rst:426
+msgid "The value is a .css file. This new file will override the default stylesheet."
+msgstr "該值是一個.css檔案。這個新檔案將覆蓋預設的樣式表。"
+
+#: ../../source/staffclientpreferences.rst:438
+msgid "The stylesheet entered here will be used **instead of** the default staff interface CSS stylesheet."
+msgstr "這裡輸入的樣式表將被用來**代替**預設的館員介面CSS樣式表。"
+
+#: ../../source/staffclientpreferences.rst:441
+#, fuzzy
+msgid "If you'd rather use the default staff interface CSS, but add your own personal touch, see :ref:`intranetcolorstylesheet <intranetcolorstylesheet-label>`."
+msgstr "如果你願意使用預設的館員介面CSS，但要新增你自己的個人風格，請參見 :ref:`intranetcolorstylesheet`。"
+
+#: ../../source/staffclientpreferences.rst:446
+#: ../../source/staffclientpreferences.rst:472
+#, fuzzy
+msgid ":ref:`intranetcolorstylesheet <intranetcolorstylesheet-label>`"
+msgstr ":ref:`intranetcolorstylesheet`"
+
+#: ../../source/staffclientpreferences.rst:453
+msgid "IntranetUserCSS"
+msgstr "IntranetUserCSS"
+
+#: ../../source/staffclientpreferences.rst:455
+msgid "Asks: Include the following CSS on all pages in the staff interface"
+msgstr "要求：在館員介面的所有頁面上包括以下CSS"
+
+#: ../../source/staffclientpreferences.rst:459
+msgid "This system preference lets you add some CSS directives to customize the appearance of the staff interface."
+msgstr "這個系統偏好讓你新增一些CSS指令來訂製館員介面的外觀。"
+
+#: ../../source/staffclientpreferences.rst:462
+#, fuzzy
+msgid "The value is CSS code. If you have a .css file ready, use :ref:`intranetcolorstylesheet <intranetcolorstylesheet-label>` or :ref:`intranetstylesheet <intranetstylesheet-label>` instead."
+msgstr "該值是CSS代碼。如果你有一個.css檔案，請使用 :ref:`intranetcolorstylesheet`或 :ref:`intranetstylesheet`代替。"
+
+#: ../../source/staffclientpreferences.rst:467
+msgid "The CSS code entered here will be used **in addition to** the default staff interface CSS stylesheet."
+msgstr "在這裡輸入的CSS代碼將被用於預設的館員介面CSS樣式表**之外**。"
+
+#: ../../source/staffclientpreferences.rst:476
+#, fuzzy
+msgid ":ref:`IntranetUserJS <IntranetUserJS-label>`"
+msgstr ":ref:`IntranetUserJS`"
+
+#: ../../source/staffclientpreferences.rst:478
+#, fuzzy
+msgid ":ref:`OPACUserCSS <OPACUserCSS-label>`"
+msgstr ":ref:`OPACUserCSS`"
+
+#: ../../source/staffclientpreferences.rst:483
+msgid "IntranetUserJS"
+msgstr "IntranetUserJS"
+
+#: ../../source/staffclientpreferences.rst:485
+msgid "Asks: Include the following JavaScript on all pages in the staff interface"
+msgstr "詢問： 在館員介面的各頁面包括以下的 JavaScript"
+
+#: ../../source/staffclientpreferences.rst:490
+msgid "This preference allows the administrator to enter JavaScript or JQuery that will be embedded across all pages of the staff interface."
+msgstr "這個偏好允許管理員輸入JavaScript或JQuery，它將被嵌入到館員介面的所有頁面中。"
+
+#: ../../source/staffclientpreferences.rst:493
+msgid "Administrators may use this preference to customize some of the interactive sections of Koha, customizing the text for the login prompts, for example."
+msgstr "管理員可以使用這個偏好來訂製Koha的一些互動部分，例如，訂製登入提示的文字。"
+
+#: ../../source/staffclientpreferences.rst:497
+msgid "Sample JQuery scripts used by Koha libraries can be found on the wiki: http://wiki.koha-community.org/wiki/JQuery_Library."
+msgstr "可以在 wiki 上找到 Koha 圖書館使用的樣本 JQuery 文字：http://wiki.koha-community.org/wiki/JQuery_Library。"
+
+#: ../../source/staffclientpreferences.rst:504
+#, fuzzy
+msgid ":ref:`OPACUserJS <OPACUserJS-label>`"
+msgstr ":ref:`OPACUserJS`"
+
+#: ../../source/staffclientpreferences.rst:509
+msgid "SlipCSS"
+msgstr "SlipCSS"
+
+#: ../../source/staffclientpreferences.rst:511
+msgid "Asks: Include the stylesheet at \\_\\_\\_ on issue and hold slips."
+msgstr "詢問：在借出與預約收條裡加入樣式表 \\_\\_\\_。"
+
+#: ../../source/staffclientpreferences.rst:515
+msgid "If you would like to style your receipts or slips with a consistent set of fonts and colors you can use this preference to point Koha to a stylesheet specifically for your slips."
+msgstr "可用此偏好在收條使用指定的字型或顏色。"
+
+#: ../../source/staffclientpreferences.rst:519
+msgid "This should be a complete URL, starting with http://"
+msgstr "應該是完整的 URL，以 http:// 起頭"
+
+#: ../../source/staffclientpreferences.rst:523
+#, fuzzy
+msgid ":ref:`IntranetSlipPrinterJS <IntranetSlipPrinterJS-label>`"
+msgstr ":ref:`IntranetSlipPrinterJS`"
+
+#: ../../source/staffclientpreferences.rst:528
+msgid "staffClientBaseURL"
+msgstr "staffClientBaseURL"
+
+#: ../../source/staffclientpreferences.rst:530
+msgid "Asks: The staff interface is located at \\_\\_\\_"
+msgstr "詢問： 館員介面在 \\_\\_\\_"
+
+#: ../../source/staffclientpreferences.rst:534
+msgid "Enter the staff interface URL"
+msgstr "輸入館員介面的URL"
+
+#: ../../source/staffclientpreferences.rst:536
+msgid "This should be a complete URL, starting with http:// or https://. Do not include a trailing slash in the URL."
+msgstr "應該是完整的 URL，以 http:// 或 https:// 起頭。不要在結尾加入斜線。"
+
+#: ../../source/staffclientpreferences.rst:541
+msgid "This must be filled in correctly for CAS, svc, and load_testing to work."
+msgstr "必須填入正確的資料供 CAS、svc 與 load_testing 使用。"
+
+#: ../../source/staffclientpreferences.rst:545
+#, fuzzy
+msgid ":ref:`OPACBaseURL <OPACBaseURL-label>`"
+msgstr ":ref:`OPACBaseURL`"
+
+#: ../../source/staffclientpreferences.rst:550
+msgid "StaffHighlightedWords"
+msgstr "StaffHighlightedWords"
+
+#: ../../source/staffclientpreferences.rst:552
+msgid "Asks: \\_\\_\\_ words searched for in the staff interface search results pages."
+msgstr "詢問：\\_\\_\\_ 在館員介面搜尋結果頁面中搜尋到的單詞。"
+
+#: ../../source/staffclientpreferences.rst:554
+msgid "Default: Highlight"
+msgstr "預設值：強調"
+
+#: ../../source/staffclientpreferences.rst:558
+msgid "Don't highlight"
+msgstr "不強調"
+
+#: ../../source/staffclientpreferences.rst:560
+msgid "Highlight"
+msgstr "重點"
+
+#: ../../source/staffclientpreferences.rst:564
+msgid "When set to 'highlight', search terms will be highlighted in red and yellow in the :ref:`search results<search-results-label>`. Staff can click 'Unhighlight' to remove the highlighting manually during each search."
+msgstr "當設置為'突出顯示'時，搜尋館藏將在 :ref:`搜尋結果<search-results-label>`中以紅色和黃色突出顯示。館員可以在每次搜尋期間按兩下'取消突出顯示'以手動刪除突出顯示。"
+
+#: ../../source/staffclientpreferences.rst:568
+msgid "When set to \"don't hightlight\", search terms will not be highlighted, and staff will not be able to turn on the highlighting manually during each search."
+msgstr "當設定為\"不突出顯示\"時，搜尋詞將不會突出顯示，並且館員將無法在每次搜尋期間手動打開突出顯示。"
+
+#: ../../source/staffclientpreferences.rst:575
+msgid "StaffLangSelectorMode"
+msgstr "StaffLangSelectorMode"
+
+#: ../../source/staffclientpreferences.rst:577
+msgid "Asks: Display language selector on \\_\\_\\_"
+msgstr "詢問： 在 \\_\\_\\_ 顯示語文選擇器"
+
+#: ../../source/staffclientpreferences.rst:579
+msgid "Default: only footer"
+msgstr "預設值：只有頁尾"
+
+#: ../../source/staffclientpreferences.rst:583
+msgid "both top and footer"
+msgstr "頁首與頁尾"
+
+#: ../../source/staffclientpreferences.rst:585
+msgid "only footer"
+msgstr "只限頁尾"
+
+#: ../../source/staffclientpreferences.rst:587
+msgid "top"
+msgstr "頂端"
+
+#: ../../source/staffclientpreferences.rst:591
+msgid "If your staff interface is available in more than one language, you can choose where the language switch is located"
+msgstr "如果你的館員介面有一種以上的語言，你可以選擇語言開關的位置"
+
+#: ../../source/staffclientpreferences.rst:596
+#, fuzzy
+msgid ":ref:`language <language-label>`"
+msgstr ":ref:`language`"
+
+#: ../../source/staffclientpreferences.rst:601
+msgid "StaffLoginInstructions"
+msgstr "StaffLoginInstructions"
+
+#: ../../source/staffclientpreferences.rst:603
+msgid "Asks: Show the following HTML on the staff interface login page"
+msgstr "詢問：在館員介面登入頁面上顯示以下HTML"
+
+#: ../../source/staffclientpreferences.rst:607
+msgid "HTML entered in this field will appear above the login form of your staff client"
+msgstr "在此欄位輸入的 HTML 將出現在館員介面登入表單的上方"
+
+#: ../../source/staffclientpreferences.rst:610
+#, fuzzy
+msgid "|stafflogininstructions|"
+msgstr "StaffLoginInstructions"
+
+#: ../../source/staffclientpreferences.rst:625
+msgid "template"
+msgstr "模板"
+
+#: ../../source/staffclientpreferences.rst:627
+msgid "Asks: Use the \\_\\_\\_ theme on the staff interface."
+msgstr "詢問：館員介面使用 \\_\\_\\_ 模版。"
+
+#: ../../source/staffclientpreferences.rst:629
+msgid "Default: prog"
+msgstr "預設值：prog"
+
+#: ../../source/staffclientpreferences.rst:633
+msgid "prog"
+msgstr "prog"
+
+#: ../../source/staffclientpreferences.rst:637
+msgid "This system preference is used to choose the theme for the staff interface."
+msgstr "這個系統偏好用於選擇館員介面的主題。"
+
+#: ../../source/staffclientpreferences.rst:639
+msgid "There is currently only one theme that comes with Koha, prog."
+msgstr "目前只有一個與Koha配套的主題，即Prog。"
+
+#: ../../source/staffclientpreferences.rst:644
+msgid "XSLTDetailsDisplay"
+msgstr "XSLTDetailsDisplay"
+
+#: ../../source/staffclientpreferences.rst:646
+msgid "Asks: Display details in the staff client using XSLT stylesheet at \\_\\_\\_"
+msgstr "詢問：在館員介面的詳情頁面使用 \\_\\_\\_ 做為XSLT樣式表"
+
+#: ../../source/staffclientpreferences.rst:651
+#: ../../source/staffclientpreferences.rst:706
+#: ../../source/staffclientpreferences.rst:759
+msgid "Enter \"default\" to use the default stylesheet"
+msgstr "輸入 \"預設\"來使用預設的樣式表"
+
+#: ../../source/staffclientpreferences.rst:669
+#: ../../source/staffclientpreferences.rst:724
+#: ../../source/staffclientpreferences.rst:777
+msgid "Default: default"
+msgstr "預設: 預設"
+
+#: ../../source/staffclientpreferences.rst:673
+msgid "XSLT stylesheets allow for the customization of the details shown on the screen when viewing a bibliographic record. This preference will allow you either use the default look that comes with Koha or design your own stylesheet."
+msgstr "XSLT 樣式表允許客製化檢視書目記錄詳情。此偏好允許您使用 Koha 的預設值或設計自己的樣式表。"
+
+#: ../../source/staffclientpreferences.rst:678
+msgid "This system preference controls the display of the detailed bibliographic record in the staff interface."
+msgstr "這個系統偏好控制了館員介面中詳細書目記錄的顯示。"
+
+#: ../../source/staffclientpreferences.rst:681
+#: ../../source/staffclientpreferences.rst:736
+#: ../../source/staffclientpreferences.rst:789
+#, fuzzy
+msgid "If using a custom stylesheet that uses item MARC fields, enable the :ref:`PassItemMarcToXSLT <PassItemMarcToXSLT-label>` system preference. Otherwise, item fields are not available for use in XSLT stylesheets."
+msgstr "如果運用一個使用館藏MARC欄位的自定義樣式表，請啟用 :ref:`PassItemMarcToXSLT`系統偏好。否則，館藏欄位不能在XSLT樣式表中使用。"
+
+#: ../../source/staffclientpreferences.rst:687
+#, fuzzy
+msgid ":ref:`OPACXSLTDetailsDisplay <OPACXSLTDetailsDisplay-label>`"
+msgstr ":ref:`OPACXSLTDetailsDisplay`"
+
+#: ../../source/staffclientpreferences.rst:689
+#: ../../source/staffclientpreferences.rst:801
+#, fuzzy
+msgid ":ref:`XSLTListsDisplay <XSLTListsDisplay-label>`"
+msgstr ":ref:`XSLTListsDisplay`"
+
+#: ../../source/staffclientpreferences.rst:693
+#: ../../source/staffclientpreferences.rst:803
+#, fuzzy
+msgid ":ref:`DisplayIconsXSLT <DisplayIconsXSLT-label>`"
+msgstr ":ref:`DisplayIconsXSLT`"
+
+#: ../../source/staffclientpreferences.rst:695
+#: ../../source/staffclientpreferences.rst:748
+#: ../../source/staffclientpreferences.rst:805
+#, fuzzy
+msgid ":ref:`PassItemMarcToXSLT <PassItemMarcToXSLT-label>`"
+msgstr ":ref:`PassItemMarcToXSLT`"
+
+#: ../../source/staffclientpreferences.rst:700
+msgid "XSLTListsDisplay"
+msgstr "XSLTListsDisplay"
+
+#: ../../source/staffclientpreferences.rst:702
+msgid "Asks: Display lists in the staff interface using XSLT stylesheet at: \\_\\_\\_"
+msgstr "詢問：在館員介面的結果頁面使用 \\_\\_\\_ 做為 XSLT 樣式表"
+
+#: ../../source/staffclientpreferences.rst:728
+msgid "XSLT stylesheets allow for the customization of the details shown on the screen when viewing a list. This preference will allow you either use the default look that comes with Koha or design your own stylesheet."
+msgstr "XSLT 樣式表允許客製化檢視書目記錄詳情。此偏好允許您使用 Koha 的預設值或設計自己的樣式表。"
+
+#: ../../source/staffclientpreferences.rst:733
+msgid "This system preference controls the display of the records in a :ref:`list <lists-label>` in the staff interface."
+msgstr "這個系統偏好控制館員介面中a :ref:`清單 <lists-label>`中記錄的顯示。"
+
+#: ../../source/staffclientpreferences.rst:742
+#, fuzzy
+msgid ":ref:`OPACXSLTListsDisplay <OPACXSLTListsDisplay-label>`"
+msgstr ":ref:`OPACXSLTListsDisplay`"
+
+#: ../../source/staffclientpreferences.rst:753
+msgid "XSLTResultsDisplay"
+msgstr "XSLTResultsDisplay"
+
+#: ../../source/staffclientpreferences.rst:755
+msgid "Asks: Display results in the staff interface using XSLT stylesheet at \\_\\_\\_"
+msgstr "詢問：在館員介面中使用 XSLT 樣式表在 \\_\\_\\_ 處顯示結果"
+
+#: ../../source/staffclientpreferences.rst:781
+msgid "XSLT stylesheets allow for the customization of the details shown on the screen when viewing the search results. This preference will allow you either use the default look that comes with Koha or design your own stylesheet."
+msgstr "XSLT 樣式表允許客製化檢視搜尋結果的詳情。此偏好允許您使用 Koha 的預設值或設計自己的樣式表。"
+
+#: ../../source/staffclientpreferences.rst:786
+msgid "This system preference controls the display of the records in the :ref:`search results <search-results-label>` in the staff interface."
+msgstr "這個系統偏好控制館員介面中 :ref:`搜尋結果<search-results-label>`中記錄的顯示。"
+
+#: ../../source/staffclientpreferences.rst:797
+#, fuzzy
+msgid ":ref:`AuthorityXSLTResultsDisplay <AuthorityXSLTResultsDisplay-label>`"
+msgstr ":ref:`AuthorityXSLTResultsDisplay`"
+
+#: ../../source/staffclientpreferences.rst:810
+msgid "Authentication"
+msgstr "認證"
+
+#: ../../source/staffclientpreferences.rst:815
+msgid "staffShibOnly"
+msgstr "staffShibOnly"
+
+#: ../../source/staffclientpreferences.rst:817
+msgid "Asks: \\_\\_\\_ staff to login by means other than shibboleth."
+msgstr "要求：\\_\\_\\_館員通過shibboleth以外的方式登錄。"
+
+#: ../../source/staffclientpreferences.rst:819
+#: ../../source/staffclientpreferences.rst:1087
+#: ../../source/staffclientpreferences.rst:1115
+#: ../../source/staffclientpreferences.rst:1143
+msgid "Default: Allow"
+msgstr "預設值：允許"
+
+#: ../../source/staffclientpreferences.rst:823
+#: ../../source/staffclientpreferences.rst:1083
+#: ../../source/staffclientpreferences.rst:1111
+#: ../../source/staffclientpreferences.rst:1139
+msgid "Allow"
+msgstr "允許"
+
+#: ../../source/staffclientpreferences.rst:825
+#: ../../source/staffclientpreferences.rst:1085
+#: ../../source/staffclientpreferences.rst:1113
+#: ../../source/staffclientpreferences.rst:1141
+msgid "Don't allow"
+msgstr "不允許"
+
+#: ../../source/staffclientpreferences.rst:829
+msgid "This system preference allows you to limit the login to the staff interface to login through shibboleth."
+msgstr "這個系統偏好允許你限制通過shibboleth登入到館員介面。"
+
+#: ../../source/staffclientpreferences.rst:835
+msgid "TwoFactorAuthentication"
+msgstr "TwoFactorAuthentication"
+
+#: ../../source/staffclientpreferences.rst:837
+msgid "Asks: \\_\\_\\_ two-factor authentication (2FA)."
+msgstr "詢問：\\_\\_\\_ 雙因素身份驗證 （2FA）。"
+
+#: ../../source/staffclientpreferences.rst:839
+#: ../../source/staffclientpreferences.rst:893
+msgid "Default: Don't enable"
+msgstr "預設: 不啟用"
+
+#: ../../source/staffclientpreferences.rst:843
+#: ../../source/staffclientpreferences.rst:889
+msgid "Don't enable"
+msgstr "停用"
+
+#: ../../source/staffclientpreferences.rst:845
+#: ../../source/staffclientpreferences.rst:891
+#: ../../source/staffclientpreferences.rst:1038
+msgid "Enable"
+msgstr "啟用"
+
+#: ../../source/staffclientpreferences.rst:847
+msgid "Enforce"
+msgstr ""
+
+#: ../../source/staffclientpreferences.rst:851
+msgid "This system preference can be used to turn on two-factor authentication (2FA) to improve security when logging into the staff interface."
+msgstr "這個系統偏好可用於打開雙因素認證（2FA），以提高登錄館員介面時的安全性。"
+
+#: ../../source/staffclientpreferences.rst:854
+msgid "The two-factor authentication uses a time-based, one-time password (TOTP) as the second factor."
+msgstr "雙因素認證使用基於時間的一次性密碼（TOTP）作為第二因素。"
+
+#: ../../source/staffclientpreferences.rst:857
+msgid "Once this system preference is enabled, staff members must :ref:`enable the two-factor authentication in their account<two-factor-authentication-staff-label>` using a third-party authenticator app."
+msgstr "一但這個系統偏好被啟用，館員必須 :ref:`在他們的帳戶中啟用雙因素認證<two-factor-authentication-staff-label>`，使用第三方認證器應用。"
+
+#: ../../source/staffclientpreferences.rst:861
+msgid "After they have :ref:`enabled the two-factor authentication in their account<two-factor-authentication-staff-label>`, staff members will need to generate a time-based, one-time password every time they need to log into the staff interface."
+msgstr "在他們 :ref:`在他們的帳戶中啟用了雙因素認證<two-factor-authentication-staff-label>`後，館員每次需要登入到館員介面時，都需要生成一個基於時間的一次性密碼。"
+
+#: ../../source/staffclientpreferences.rst:866
+msgid "See the section :ref:`Two factor authentication in the staff interface<two-factor-authentication-staff-label>` for more information."
+msgstr "更多訊息請參見 :ref:`館員介面的雙因素認證<two-factor-authentication-staff-label>`部分。"
+
+#: ../../source/staffclientpreferences.rst:870
+msgid "If this system preference is set to 'Enforce', staff will no longer be able to log into the staff interface without setting up and using two-factor authentication."
+msgstr ""
+
+#: ../../source/staffclientpreferences.rst:877
+msgid "Options"
+msgstr "選項"
+
+#: ../../source/staffclientpreferences.rst:882
+msgid "AudioAlerts"
+msgstr "AudioAlerts"
+
+#: ../../source/staffclientpreferences.rst:884
+msgid "Asks: \\_\\_\\_ audio alerts for events defined in the :ref:`audio alerts section of administration <audio-alerts-label>`."
+msgstr "詢問：\\_\\_\\_ 定義在 :ref:`管理的音頻警報部分 <audio-alerts-label>` 中的事件的音頻警報。"
+
+#: ../../source/staffclientpreferences.rst:895
+msgid "Description :"
+msgstr "說明 :"
+
+#: ../../source/staffclientpreferences.rst:897
+msgid "This system preference enables the :ref:`audio alerts <audio-alerts-label>` feature."
+msgstr "這個系統偏好能使 :ref:`聲音警報 <audio-alerts-label>`功能。"
+
+#: ../../source/staffclientpreferences.rst:902
+msgid "This feature is not supported by all browsers. Requires an HTML5 compliant browser."
+msgstr "此功能不支援所有的瀏覽器。必須是與 HTML5 相容的瀏覽器。"
+
+#: ../../source/staffclientpreferences.rst:908
+msgid "HidePatronName"
+msgstr "HidePatronName"
+
+#: ../../source/staffclientpreferences.rst:910
+msgid "Asks: \\_\\_\\_ the names of patrons that have items checked out or on hold on detail pages or the \"Place Hold\" screen."
+msgstr "詢問：在詳情頁面或 \"預約\" 畫面 \\_\\_\\_ 借出該館藏的讀者姓名。"
+
+#: ../../source/staffclientpreferences.rst:923
+msgid "This system preference allows you to hide the name of the patron who currently has an item checked out."
+msgstr "這個系統偏好允許您隱藏當前已借出館藏的讀者姓名。"
+
+#: ../../source/staffclientpreferences.rst:928
+#, fuzzy
+msgid ":ref:`OPACShowCheckoutName <OPACShowCheckoutName-label>`"
+msgstr ":ref:`OPACShowCheckoutName`"
+
+#: ../../source/staffclientpreferences.rst:933
+#, fuzzy
+msgid "IntranetAddMastheadLibraryPulldown"
+msgstr "IntranetCatalogSearchPulldown"
+
+#: ../../source/staffclientpreferences.rst:935
+#, fuzzy
+msgid "Asks: \\_\\_\\_ a library select pulldown menu on the staff header search."
+msgstr "詢問：\\_\\_\\_ 館員介面中的購物車選項。"
+
+#: ../../source/staffclientpreferences.rst:943
+#: ../../source/staffclientpreferences.rst:997
+#: ../../source/staffclientpreferences.rst:1067
+msgid "Default: Don't show"
+msgstr "預設值：不顯示"
+
+#: ../../source/staffclientpreferences.rst:947
+msgid "When set to 'Show', there will a settings icon in the catalog search bar that, when clicked, will give the option of choosing a specific library."
+msgstr ""
+
+#: ../../source/staffclientpreferences.rst:950
+msgid "|searchbar-catalog-librarypulldown|"
+msgstr ""
+
+#: ../../source/staffclientpreferences.rst:952
+msgid "This will search for records that have items whose home library is the selected library. It's the same as the :ref:`library limit on the advanced search page <advanced-search-location-availability-label>`."
+msgstr ""
+
+#: ../../source/staffclientpreferences.rst:959
+msgid "intranetbookbag"
+msgstr "intranetbookbag"
+
+#: ../../source/staffclientpreferences.rst:961
+msgid "Asks: \\_\\_\\_ the cart option in the staff interface."
+msgstr "詢問：\\_\\_\\_ 館員介面中的購物車選項。"
+
+#: ../../source/staffclientpreferences.rst:973
+msgid "This system preference allows you to enable or disable the :ref:`cart feature <cart-label>` in the staff interface"
+msgstr "此系統偏好允許您在館員介面中啟用或禁用 :ref:`購物車功能 <cart-label>`"
+
+#: ../../source/staffclientpreferences.rst:978
+#, fuzzy
+msgid ":ref:`opacbookbag <opacbookbag-label>`"
+msgstr ":ref:`opacbookbag`"
+
+#: ../../source/staffclientpreferences.rst:983
+msgid "IntranetCatalogSearchPulldown"
+msgstr "IntranetCatalogSearchPulldown"
+
+#: ../../source/staffclientpreferences.rst:985
+msgid "Asks: \\_\\_\\_ a search field pulldown for 'Search the catalog' boxes."
+msgstr "詢問：\\_\\_\\_搜尋欄位下拉選單的 '搜尋目錄' 框。"
+
+#: ../../source/staffclientpreferences.rst:991
+#, fuzzy
+msgid "|IntranetCatalogSearchPulldown-hide|"
+msgstr "IntranetCatalogSearchPulldown"
+
+#: ../../source/staffclientpreferences.rst:995
+#, fuzzy
+msgid "|IntranetCatalogSearchPulldown-show|"
+msgstr "IntranetCatalogSearchPulldown"
+
+#: ../../source/staffclientpreferences.rst:1001
+msgid "This system preference allows you to show a drop-down list of indexes for the 'Search the catalog' tab at the top of the staff interface pages"
+msgstr "這個系統偏好允許你為館員介面頁面頂端的 '搜尋目錄' 選項卡中顯示索引下拉清單"
+
+#: ../../source/staffclientpreferences.rst:1007
+msgid "showLastPatron"
+msgstr "showLastPatron"
+
+#: ../../source/staffclientpreferences.rst:1009
+msgid "Asks: \\_\\_\\_ a link to the last searched patron in the staff interface."
+msgstr "詢問：\\_\\_\\_ 館員介面中最後搜尋的讀者連結。"
+
+#: ../../source/staffclientpreferences.rst:1017
+msgid "Default: Don't Show"
+msgstr "預設值：不顯示"
+
+#: ../../source/staffclientpreferences.rst:1019
+msgid "Description"
+msgstr "說明"
+
+#: ../../source/staffclientpreferences.rst:1021
+msgid "If this preference is set to 'Show', then a link to the last patron account you consulted will appear in the right hand corner of the Koha staff interface. This link will be cleared when you log out."
+msgstr "如果此偏好設定'顯示'，您最後查詢的讀者帳號會出現一個連結在Koha館員介面的右上角。當您登出時該鏈接將被清除。"
+
+#: ../../source/staffclientpreferences.rst:1025
+#, fuzzy
+msgid "|lastpatron|"
+msgstr "showLastPatron"
+
+#: ../../source/staffclientpreferences.rst:1030
+msgid "StaffDetailItemSelection"
+msgstr "StaffDetailItemSelection"
+
+#: ../../source/staffclientpreferences.rst:1032
+msgid "Asks: \\_\\_\\_ item selection in record detail page."
+msgstr "詢問：\\_\\_\\_ 在紀錄詳情頁面裡的館藏選項。"
+
+#: ../../source/staffclientpreferences.rst:1036
+msgid "Disable"
+msgstr "停用"
+
+#: ../../source/staffclientpreferences.rst:1040
+msgid "Default: Enable"
+msgstr "預設值：啟用"
+
+#: ../../source/staffclientpreferences.rst:1044
+msgid "This preference lets you choose to show (or not show) checkboxes to the left of every item in the holdings tab on the detail display of a record in the staff interface. Showing these checkboxes allows staff members to select multiple items to edit or delete at once."
+msgstr "此偏好讓您在館員介面的每個館藏紀錄的左方出現 (或不出現) 預約用的勾選框。允許館員勾選後立即編輯或刪除多筆館藏。"
+
+#: ../../source/staffclientpreferences.rst:1049
+#, fuzzy
+msgid "|StaffDetailItemSelection|"
+msgstr "StaffDetailItemSelection"
+
+#: ../../source/staffclientpreferences.rst:1054
+msgid "UseWYSIWYGinSystemPreferences"
+msgstr "UseWYSIWYGinSystemPreferences"
+
+#: ../../source/staffclientpreferences.rst:1056
+msgid "Asks: \\_\\_\\_ WYSIWYG editor when editing certain HTML system preferences."
+msgstr "詢問：編輯部份 HTML 系統偏好時 \\_\\_\\_ WYSIWYG 編輯器。"
+
+#: ../../source/staffclientpreferences.rst:1065
+#, fuzzy
+msgid "|UseWYSIWYGinSystemPreferences|"
+msgstr "UseWYSIWYGinSystemPreferences"
+
+#: ../../source/staffclientpreferences.rst:1071
+msgid "This preference allows you to change system preferences with HTML in them to WYSIWYG editors instead of plain text boxes."
+msgstr "此偏好允許您使用 WYSIWYG 編輯器以 HTML 格式變更系統偏好。"
+
+#: ../../source/staffclientpreferences.rst:1077
+msgid "viewISBD"
+msgstr "viewISBD"
+
+#: ../../source/staffclientpreferences.rst:1079
+msgid "Asks: \\_\\_\\_ staff to view records in ISBD form on the staff interface."
+msgstr "要求：\\_\\_\\_ 館員在館員介面上以 ISBD 形式查看記錄。"
+
+#: ../../source/staffclientpreferences.rst:1091
+msgid "This system preference shows or hides the ISBD tab in the detailed record view"
+msgstr "該系統偏好在詳細記錄檢視中顯示或隱藏ISBD欄標。"
+
+#: ../../source/staffclientpreferences.rst:1094
+#, fuzzy
+msgid "|viewISBD|"
+msgstr "viewISBD"
+
+#: ../../source/staffclientpreferences.rst:1098
+#: ../../source/staffclientpreferences.rst:1156
+#, fuzzy
+msgid ":ref:`viewLabeledMARC <viewLabeledMARC-label>`"
+msgstr ":ref:`viewLabeledMARC`"
+
+#: ../../source/staffclientpreferences.rst:1100
+#: ../../source/staffclientpreferences.rst:1128
+#, fuzzy
+msgid ":ref:`viewMARC <viewMARC-label>`"
+msgstr ":ref:`viewMARC`"
+
+#: ../../source/staffclientpreferences.rst:1105
+msgid "viewLabeledMARC"
+msgstr "viewLabeledMARC"
+
+#: ../../source/staffclientpreferences.rst:1107
+msgid "Asks: \\_\\_\\_ staff to view records in labeled MARC form on the staff interface."
+msgstr "要求：\\_\\_\\_ 館員在館員介面上以標記的 MARC 形式查看記錄。"
+
+#: ../../source/staffclientpreferences.rst:1119
+msgid "This system preference shows or hides the Labeled MARC tab in the detailed record view"
+msgstr "這個系統偏好在詳細記錄檢視中顯示或隱藏標記的MARC標籤"
+
+#: ../../source/staffclientpreferences.rst:1122
+#, fuzzy
+msgid "|viewLabeledMARC|"
+msgstr "viewLabeledMARC"
+
+#: ../../source/staffclientpreferences.rst:1126
+#: ../../source/staffclientpreferences.rst:1154
+#, fuzzy
+msgid ":ref:`viewISBD <viewISBD-label>`"
+msgstr ":ref:`viewISBD`"
+
+#: ../../source/staffclientpreferences.rst:1133
+msgid "viewMARC"
+msgstr "viewMARC"
+
+#: ../../source/staffclientpreferences.rst:1135
+msgid "Asks: \\_\\_\\_ staff to view records in plain MARC form on the staff interface."
+msgstr "要求：\\_\\_\\_ 館員在館員介面上以純 MARC 形式查看記錄。"
+
+#: ../../source/staffclientpreferences.rst:1147
+msgid "This system preference shows or hides the MARC tab in the detailed record view"
+msgstr "該系統偏好在詳細記錄檢視中顯示或隱藏MARC欄標。"
+
+#: ../../source/staffclientpreferences.rst:1150
+#, fuzzy
+msgid "|viewMARC|"
+msgstr "viewMARC"

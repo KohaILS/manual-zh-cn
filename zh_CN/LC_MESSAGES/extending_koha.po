@@ -1,0 +1,257 @@
+# Compendium of zh_TW.
+msgid ""
+msgstr ""
+"Project-Id-Version: Koha Manual 22.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-10-26 13:37+0000\n"
+"PO-Revision-Date: 2023-03-28 00:20+0000\n"
+"Last-Translator: Frank Chou <frank@sris.com.tw>\n"
+"Language-Team: Koha Translation Team\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: application/x-publican; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pootle 2.8\n"
+"X-Pootle-Path: /zh_TW/manual22.11/extending_koha.po\n"
+"X-Pootle-Revision: 1\n"
+"X-POOTLE-MTIME: 1679962809.819769\n"
+
+#: ../../source/extending_koha.rst:6
+msgid "Extending Koha"
+msgstr "擴展 Koha"
+
+#: ../../source/extending_koha.rst:8
+msgid "This chapter shows how you can add various enhancements and customizations in and around Koha by using mostly the existing configuration options."
+msgstr "本章顯示以既有的組態選項新增強化及客製化的功能。"
+
+#: ../../source/extending_koha.rst:14
+msgid "Amazon lookup script for Koha libraries"
+msgstr "Amazon 為 Koha 圖書館的查詢程式"
+
+#: ../../source/extending_koha.rst:16
+msgid "We order most of our materials from Amazon, so I've been looking for a convenient way to tell if a book under consideration is in our catalog already."
+msgstr "我們向 Amazon 購買大部份的東西，所以我已經找到簡潔的方法若圖書已經在我們的目錄內。"
+
+#: ../../source/extending_koha.rst:20
+msgid "Greasemonkey & a custom user script fit the bill nicely:"
+msgstr "Greasemonkey &amp; 會計適用的讀者程式："
+
+#: ../../source/extending_koha.rst:22
+msgid "https://addons.mozilla.org/en-US/firefox/addon/748"
+msgstr "https://addons.mozilla.org/en-US/firefox/addon/748"
+
+#: ../../source/extending_koha.rst:24
+msgid "http://userscripts.org/scripts/show/56847"
+msgstr "http://userscripts.org/scripts/show/56847"
+
+#: ../../source/extending_koha.rst:26
+msgid "A few caveats:"
+msgstr "幾個警示："
+
+#: ../../source/extending_koha.rst:28
+msgid "Like most scripts, this one was designed to work with Firefox; I haven't explored getting it to work with other browsers."
+msgstr "如同大部份的程式，這個也是設計與 Firefox 共用；我還沒有把它擴展至其他的瀏覽器。"
+
+#: ../../source/extending_koha.rst:31
+msgid "I'm not a JavaScript programmer -- this was adapted from others' work. Just a few lines would have to be changed to get the script to work with your catalog."
+msgstr "我不是 JavaScript 程式設計師 -- 這是別人的工作。祗改了幾行程式讓它與我的目錄共同工作。"
+
+#: ../../source/extending_koha.rst:35
+msgid "It depends on the existence of ISBN for the item in question, so movies, older books, etc. would not work."
+msgstr "視作品是否有 ISBN，所以電影、舊書等就不適用。"
+
+#: ../../source/extending_koha.rst:38
+msgid "Others have added all sorts of bells & whistles: custom messages based on the status of items (on order, on hold, etc.), ... just search the UserScripts site for Amazon + library. For a later date!"
+msgstr "其他人曾加入各種花俏的東西：根據館藏狀態 (採購中、預約中等) 發送客製化訊息，... 祗要搜尋 Amazon + library 的 UserScripts 網站即可得知。供後續使用！"
+
+#: ../../source/extending_koha.rst:45
+msgid "Keyword clouds"
+msgstr "關鍵詞雲"
+
+#: ../../source/extending_koha.rst:47
+msgid "In addition to the traditional tag cloud available in Koha, there is a way to generate clouds for popular subjects within Koha."
+msgstr "除了傳統的標籤雲之外，Koha 還產生常用的主題雲。"
+
+#: ../../source/extending_koha.rst:50
+msgid "The :ref:`Author/Subject Cloud cron job <cron-subject/author-clouds-label>` is used to help with this process. This cron job sends its output to files."
+msgstr "將 :ref:`Author/Subject Cloud cron job <cron-subject/author-clouds-label>` 用於說明此程序。此例行性工作排程送出其內容至檔案。"
+
+#: ../../source/extending_koha.rst:52
+msgid "/home/koha/mylibrary/koharoot/koha-tmpl/cloud-author.html"
+msgstr "/home/koha/mylibrary/koharoot/koha-tmpl/cloud-author.html"
+
+#: ../../source/extending_koha.rst:54
+msgid "/home/koha/yourlibrary/koharoot/koha-tmpl/cloud-subject.html"
+msgstr "/home/koha/yourlibrary/koharoot/koha-tmpl/cloud-subject.html"
+
+#: ../../source/extending_koha.rst:56
+msgid "This means that you can produce clouds for authors, collective author, all kind of subjects, classifications, etc. And since it works on zebra indexes, it is quick, even on large DBs. Tags clouds are sent to files. It's up to library webmaster to deal with those files in order to include them in :ref:`OPACMainUserBlock <news-label>`, or include them into their library CMS."
+msgstr "這意味著您可以為作者、集體作者、所有類型的主題、分類等生成雲。由於它適用於Zebar索引，因此即使在大型數據庫上也很快。標籤雲被發送到文件。圖書館網站管理員負責處理這些文件，以便將它們包含在 :ref:`OPACMainUserBlock <news-label>` 中，或將它們包含到他們的圖書館 CMS 中。"
+
+#: ../../source/extending_koha.rst:63
+msgid "Some libraries even send the file into a Samba shared folder where webmaster take them, eventually clean them a little bit before integrating them into navigation widgets or pages."
+msgstr "有些圖書館甚至把檔案送網管掌控的 Samba 共享資料夾，將其整合入網頁之前還先清理它們。"
+
+#: ../../source/extending_koha.rst:70
+msgid "Newest titles pulldown"
+msgstr "最新題名下拉"
+
+#: ../../source/extending_koha.rst:72
+msgid "Often we want to add a way for our patrons to do searches for the newest items. In this example I'll show you how to create a pull down menu of the newest items by item type. These tips will work (with a couple changes) for collection codes or shelving locations as well."
+msgstr "通常我們想讓讀者能夠搜尋最新的館藏。在此例裡依館藏類型建置最新館藏的下拉選單。這些秘訣 (再加上若干變化) 可供館藏代碼或排架之用。"
+
+#: ../../source/extending_koha.rst:77
+msgid "First, it's important to note that every link in Koha is a permanent link. This means if I do a search for everything of a specific item type sorted by the acquisitions date and bookmark that URL, whenever I click it I'll see the newest items of that type on the first few pages of the results."
+msgstr "首先，Koha內 的所有連結都是永久性連結。把特定館藏類型依採訪日期排序並標記其 URL，下回再點選此網址就把最新的館藏列在前幾頁。"
+
+#: ../../source/extending_koha.rst:83
+msgid "I took this knowledge and wrote a form takes this functionality in to consideration. It basically just does a search of your Koha catalog for a specific item type and sorts the results by acquisitions date."
+msgstr "我寫上這些內容做為以後之用。就是搜尋我的 Koha 目錄裡的特定館藏類型並依採訪日期排序。"
+
+#: ../../source/extending_koha.rst:87
+msgid "The first thing I did was write a MySQL statement to generate a list of item types for me - why copy and paste when you can use the power of MySQL?"
+msgstr "首要之事先寫一個 MySQL 敘述產生館藏類型清單 - 可以使用功能強大的 MySQL 時何必複製貼上呢？"
+
+#: ../../source/extending_koha.rst:95
+msgid "The above looks at the itemtypes table and slaps the necessary HTML around each item type for me. I then exported that to CSV and opened it in my text editor and added the other parts of the form."
+msgstr "以上的館藏類型表與其必要的 HTML 都很有用。接著匯出為 CSV 格式並在文字編輯器打開它再新增表格的其他部份。"
+
+#: ../../source/extending_koha.rst:119
+msgid "Now, what does all of that mean? The important bits are these:"
+msgstr "現在，究竟什麼意思呢？重要的是："
+
+#: ../../source/extending_koha.rst:121
+msgid "First the starting of the form."
+msgstr "首先從表單開始。"
+
+#: ../../source/extending_koha.rst:127
+msgid "This tells the browser to take any value selected and put it at the end of this http://YOURSITE/cgi-bin/koha/opac-search.pl. If you want to embed this form on your library website (and not on your OPAC) you can put the full OPAC URL in there."
+msgstr "告知瀏覽器提取選定的值，並把它放在 http://YOURSITE/cgi-bin/koha/opac-search.pl 最後面。若想把它嵌入您的網頁 (不是 OPAC)，可把完整的 OPAC URL 置於此。"
+
+#: ../../source/extending_koha.rst:132
+msgid "Next, there is a hidden value that is telling the search to sort by acquisitions date descending (newest items at the top):"
+msgstr "接著，有個隱藏值告知搜尋結果以採訪日期排序的降羃排序(最新的館藏在上面)："
+
+#: ../../source/extending_koha.rst:139
+msgid "And finally you have an option for each item type you want people to search."
+msgstr "最後您可指定讓讀者搜尋的館藏類型。"
+
+#: ../../source/extending_koha.rst:146
+msgid "These options each include the string \"mc-itype:\" which tells Koha to do an item type search."
+msgstr "每個選項包括字串 \"mc-itype:\" 告知 Koha 搜尋各館藏類型。"
+
+#: ../../source/extending_koha.rst:149
+msgid "Once you have all of that in place you can copy and paste the form to somewhere on your OPAC. The `Farmington Public Libraries OPAC <http://catalog.farmingtonlibraries.org>`__ has a few examples of this on the left."
+msgstr "全部就緒後就可以複製貼上表單至您的 OPAC 內。:ref:`Farmington Public Libraries OPAC <http://catalog.farmingtonlibraries.org>` 左方有若干範例。"
+
+#: ../../source/extending_koha.rst:157
+msgid "New titles slider for OPAC"
+msgstr "OPAC 使用的新題名封面"
+
+#: ../../source/extending_koha.rst:159
+msgid "Often times libraries will want to add a flowing widget with new materials at the library to their main public catalog page. To do this you can use a widget from any number of services (usually for a cost) or you can `enable plugins <#pluginsystem>`__ in Koha and use the `Cover Flow plugin <http://git.bywatersolutions.com/koha-plugins.git/shortlog/refs/heads/cover_flow>`__ which is based on the `Flipster <https://github.com/drien/jquery-flipster>`__, a responsive jQuery coverflow plugin."
+msgstr "圖書館多半在其公共目錄頁面新增其他功能。可從其他服務取得 (多半需付費) 該等功能或者從 Koha 內 :ref:`啟用外掛 <#pluginsystem>`__ 並使用 `封面外掛 <http://git.bywatersolutions.com/koha-plugins.git/shortlog/refs/heads/cover_flow>`__ 係依照 `Flipster <https://github.com/drien/jquery-flipster>`__ 而來，一個 jQuery 的外掛。"
+
+#: ../../source/extending_koha.rst:169
+msgid "Once the plugin is installed, the steps to get your coverflow to show up are as follows:"
+msgstr "安裝外掛之後，依照下面的步驟取得封面："
+
+#: ../../source/extending_koha.rst:172
+msgid "First, you need to create one or more public reports for your coverflow widget or widgets to be based on. This is how the plugin knows what the content of your widget should contain. Each report needs only three columns; title, biblionumber, and isbn. It is important that you have a good and valid isbn, as that is the datum used to actually fetch the cover. In the iteration of the plugin, we are using Amazon cover images, but I believe in the end I will make the cover image fetcher configurable so we can use any data source for cover image fetching."
+msgstr "首先，新增封面的機制。讓外掛知道您的機制應包括的內容。每個報表祗需三個欄位；題名、書目號與國際標準書號。必須包括正確的國際標準書號，才能夠抓取到封面。英文封面的外掛中，我們最常用 Amazon 封面圖像，不過我相信以後可以建置抓取封面的組態檔讓我們從其他的來源抓取封面。"
+
+#: ../../source/extending_koha.rst:181
+msgid "Second, we need to configure the plugin. The plugin configuration is a single text area that uses YAML ( actually, it’s JSON, which is a subset of YAML ) to store the configuration options. In this example it looks like this:"
+msgstr "第二，我們需組態外掛。外掛組態是使用 YAML 的純文字區塊 (實際上，它是 JSON，YAML 的子集合) 儲存組態選項。在此例中看來像這樣："
+
+#: ../../source/extending_koha.rst:193
+msgid "In this example, we are telling the plugin to use the report with id 42, and use it to create a coverflow widget to replace the HTML element with the id “coverflow”. The options list is passed directly to Flipster, so any options supported by Flipster can be set from the plugin configuration! In fact, in addition to the traditional coverflow, Flipster has a “carousel” mode which is a much more compact version of the coverflow. You can also configure which cover the widget will start on, among other options."
+msgstr "在上例裡，於 id 42 的外掛裡使用報表，並以其新增封面取代 id 為 \"封面\"。把選單直接交給 Flipster，支援 Flipster 的選項就能夠納入外掛中！事實上，除了傳統的封面外，還有 “carousel” 模式更精簡地處理封面。還可從多個選項裡，組態指定的封面。"
+
+#: ../../source/extending_koha.rst:202
+msgid "At the time the plugins options are saved or updated, the plugin will then generate some minified JavaScript code that is automatically stored in the Koha system preference OPACUserJS. Here is an example of the output:"
+msgstr "儲存或更新外掛選項時，會產生自動儲存在 Koha 的 OpacUserJS 系統偏好內的 JavaScript 程式碼。以下是範例："
+
+#: ../../source/extending_koha.rst:214
+msgid "Why do this? For speed! Rather than regenerating this code each and every time the page loads, we can generate it once, and use it over and over again."
+msgstr "為什麼要做這個？速度！載入頁面時不必每次產生相同的程式碼，產生一次後，就能重複使用。"
+
+#: ../../source/extending_koha.rst:218
+msgid "If you inspect the code closely, you’ll notice it references a script “coverflow.pl”. This is a script that is included with the coverflow plugin. Since we need to access this from the OPAC ( and we don’t want to set off any XSS attack alarms ), we need to modify the web server configuration for the public catalog and add the followup to it:"
+msgstr "仔細檢視程式碼，會發現它指向 “coverflow.pl” 腳本。此腳本包括外封面。需從 OPAC (我們不要關閉任何 XSS 攻擊警示) 近用它，我們需修改網頁伺服器組態供公共目錄使用並加入以下："
+
+#: ../../source/extending_koha.rst:228
+msgid "This line gives us access to the coverflow.pl script from the OPAC. This script retrieves the report data and passes it back to the public catalog for creating the coverflow widget. Koha::Cache is supported in order to make the widget load as quickly as possible!"
+msgstr "這段外掛讓我們從 OPAC 近用 coverflow.pl 腳本。此腳本提取報表資料並交給公共目錄產生封面。支援 Koha::Cache 快速載入封面！"
+
+#: ../../source/extending_koha.rst:233
+msgid "The final step is to put your selector element somewhere in your public catalog. In this example, I put the following in the display location OpacMainUserBlock (see :ref:`the news tool <news-label>`):"
+msgstr "最後一步是將選擇細目放在公共目錄中的某個位置。在這個例子中，我將以下內容放在顯示位置 OpacMainUserBlock 中（參見 :ref:`最新消息工具 <news-label>`）："
+
+#: ../../source/extending_koha.rst:241
+msgid "Once that is in place, you need only refresh your OPAC page, and there you have it, your very own catalog coverflow widget! Not only do these coverflows look great on a computer screen, but they look great on mobile platforms as well, and are even touch responsive!"
+msgstr "置入後，祗需刷新您的 OPAC 頁面，就能夠有它，非常個人化的封面！不祗是在電腦螢幕上看起來很酷，在行動裝置上也極佳，觸控螢幕也可以！"
+
+#: ../../source/extending_koha.rst:246
+msgid "|image1316|"
+msgstr ""
+
+#: ../../source/extending_koha.rst:251
+msgid "Cataloging and searching by color"
+msgstr "按顏色編目和搜索"
+
+#: ../../source/extending_koha.rst:253
+msgid "One of the icon sets installed in Koha includes a series of colors. This set can be used to catalog and search by color if you'd like. This guide will walk you use changing collection code to color in Koha so that you can do this."
+msgstr "Koha 安裝的圖示集包括一組色塊。可以當成目錄與搜尋之用。本指南教您將 Koha 的館藏代碼變更為顏色以便使用它。"
+
+#: ../../source/extending_koha.rst:258
+msgid "The following SQL could be used to add these colors to the CCODE authorized value category in a batch. If you wanted to use these colors for another authorized value you'd have to edit this to use that category:"
+msgstr "以下的 SQL 可用於批次控制 CCODE 的顏色容許值。更改它們就能夠用於另個容許值了："
+
+#: ../../source/extending_koha.rst:310
+#, fuzzy
+msgid "If you would like to choose the colors manually you can do that via the :ref:`Authorized values <authorized-values-label>` administration area."
+msgstr "可以經由 :ref:`容許值` 管理區塊手動選取色塊。"
+
+#: ../../source/extending_koha.rst:313
+msgid "|image1118|"
+msgstr ""
+
+#: ../../source/extending_koha.rst:315
+msgid "Next you'll want to :ref:`update the frameworks <marc-bibliographic-frameworks-label>` so that the 952$8 (if you're using collection code) label says 'Color'."
+msgstr "接下來，您需要 :ref:`更新框架 <marc-bibliographic-frameworks-label>`，以便 952$8（如果您使用收藏代碼）標籤顯示“顏色”。"
+
+#: ../../source/extending_koha.rst:318
+msgid "Once you have that in place you can start to catalog items by color."
+msgstr "就緒後就可以色塊編目館藏。"
+
+#: ../../source/extending_koha.rst:320
+msgid "Finally you'll want to add the following JQuery to your preferences so that it will relabel 'Collection' to 'Color'"
+msgstr "最後您可新增以下的 JQuery 至偏好把 '合集' 標示為 '彩色'"
+
+#: ../../source/extending_koha.rst:323
+#, fuzzy
+msgid ":ref:`IntranetUserJS <IntranetUserJS-label>`"
+msgstr ":ref:`IntranetUserJS`"
+
+#: ../../source/extending_koha.rst:332
+#, fuzzy
+msgid ":ref:`OPACUserJS <OPACUserJS-label>`"
+msgstr ":ref:`OPACUserJS`"
+
+#: ../../source/extending_koha.rst:344
+msgid "Koha search on your site"
+msgstr "在您的網站搜尋 Koha"
+
+#: ../../source/extending_koha.rst:346
+msgid "Often you'll want to add a Koha search box to your library website. To do so, just copy and paste the following code in to your library website and update the YOURCATALOG bit with your catalog's URL and you're set to go."
+msgstr "通常需要將 Koha 的搜尋盒納入您的網站，祗需將以下的程式碼置入您的圖書館網站，並更新其中的目錄網址即可。"
+
+#: ../../source/images.rst:3333
+msgid "image1118"
+msgstr ""
+
+#: ../../source/images.rst:3459
+msgid "image1316"
+msgstr ""
