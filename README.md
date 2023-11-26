@@ -1,6 +1,9 @@
 # Koha 手册（zh_CN）翻译
 
 ## 目录结构
+
+默认目录结构如下：
+
 ```
 koha-manual-i18n/ (git clone https://gitlab.com/koha-community/koha-manual-i18n.git)
   |---koha-manual/ (git clone https://gitlab.com/koha-community/koha-manual.git)
