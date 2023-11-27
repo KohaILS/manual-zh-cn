@@ -42,7 +42,7 @@ git clone https://githab.com/KohaILS/manual-zh-cn.git locales
 ### 生成简体中文手册并复制
 ```
 make -e SPHINXOPTS="-D language='zh_CN'" html
-cp build/html/* ../../manual/docs/
+cp -r build/html/ ../../manual/docs/
 ```
 
 ### 推送至手册远端服务器
