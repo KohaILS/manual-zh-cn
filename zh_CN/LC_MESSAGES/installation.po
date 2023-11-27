@@ -4,15 +4,15 @@ msgstr ""
 "Project-Id-Version: Koha Manual 22.11\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-10-26 13:37+0000\n"
-"PO-Revision-Date: 2023-04-15 06:04+0000\n"
+"PO-Revision-Date: 2023-11-24 16:33+0800\n"
 "Last-Translator: Saralin <c108126114@nkust.edu.tw>\n"
 "Language-Team: Koha Translation Team\n"
 "Language: zh_TW\n"
 "MIME-Version: 1.0\n"
-"Content-Type: application/x-publican; charset=UTF-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Pootle 2.8\n"
+"X-Generator: Poedit 3.2.2\n"
 "X-Pootle-Path: /zh_TW/manual22.11/installation.po\n"
 "X-Pootle-Revision: 1\n"
 "X-POOTLE-MTIME: 1681538652.292722\n"
@@ -123,71 +123,71 @@ msgstr ""
 
 #: ../../source/installation.rst:6
 msgid "Introduction to the Koha installation process"
-msgstr "Koha 安裝過程介紹"
+msgstr "Koha 安装过程说明"
 
 #: ../../source/installation.rst:8
 msgid "This is the Koha installation manual."
-msgstr "這是 Koha 安裝手冊。"
+msgstr "这是 Koha 安装手册。"
 
 #: ../../source/installation.rst:10
 msgid "The Koha installation process uses 2 tools:"
-msgstr "Koha 圖書館管理系統的安裝過程中使用 2 種工具："
+msgstr "Koha 安装过程使用了 2 种工具："
 
 #: ../../source/installation.rst:12 ../../source/installation.rst:35
 msgid "Web installer"
-msgstr "網頁安裝器"
+msgstr "网页安装器"
 
 #: ../../source/installation.rst:13 ../../source/installation.rst:288
 msgid "Onboarding tool"
-msgstr "使用者導引工具"
+msgstr "导引工具"
 
 #: ../../source/installation.rst:15
 msgid "This documentation will outline both of these tools."
-msgstr "本文件將會對這兩項工具做說明。"
+msgstr "本说明将概述这两种工具。"
 
 #: ../../source/installation.rst:18
 msgid "What is the Koha web installer?"
-msgstr "什麼是 Koha 網頁安裝器呢？"
+msgstr "Koha 网页安装器是什么？"
 
 #: ../../source/installation.rst:19
 msgid "The web installer sets up the database tables that store the all the data you work with in Koha, for example the library branches, patrons and items."
-msgstr "透過網頁安裝器能設定資料庫表單，用以儲存所有您在Koha系統裡會用到的資料，其中包括分館、讀者與館藏的資訊。"
+msgstr "通过网页安装器可以设定在 Koha 中使用的所有数据库表，例如图书馆的分馆、读者和文献等。"
 
 #: ../../source/installation.rst:21
 msgid "The web installer starts with a login screen for you to enter the database administrator account credentials."
-msgstr "網頁安裝器以鍵入資料庫管理帳號的登入畫面為起點。"
+msgstr "网页安装器以管理员账号的登录界面开始。"
 
 #: ../../source/installation.rst:23
 msgid "The installer will then create the tables and fill the tables with data. The next step in the process is to set up a few mandatory first use settings, via the onboarding tool."
-msgstr "之後，網頁安裝器會新增資料表單並供 Koha 使用的資料。接著，經由使用者導引工具執行若干必要的設定。"
+msgstr "登录之后，安装器开始创建数据库表和数据。然后再用导引工具设定一些必备的配置。"
 
 #: ../../source/installation.rst:26
 msgid "What is the Koha onboarding tool?"
-msgstr "什麼是 Koha 使用者導引工具呢？"
+msgstr "Koha 的导引工具是什么？"
 
 #: ../../source/installation.rst:28
 msgid "The onboarding tool makes sure you have at least one library, patron category, patron, item type and circulation rule before you start using Koha."
-msgstr "使用者導引工具確保在啟用 Koha 前，系統內至少有一個圖書館、讀者類型、讀者、館藏類型及流通規則。"
+msgstr "导引工具确保在启用 Koha 前系统至少有一个图书馆、读者类型、读者、文献类型和流通规则。"
 
 #: ../../source/installation.rst:30
 msgid "If you installed sample data for library, patron category, and/or item type then the screens to create these will be skipped."
-msgstr "如果您已先選擇安裝圖書館，讀者類別，館藏類別的範例資料，那以下的安裝過程就會跳過對應這些資料的建立步驟。"
+msgstr "如果你已安装图书馆、读者类别和文献类型，那么接下来相应的步骤就可以跳过。"
 
 #: ../../source/installation.rst:32
 msgid "You will, however, always have to create a patron (to log into the staff interface at the end of the onboarding tool) and a circulation rule."
-msgstr "然而，在每次安裝時，您必須建立一個讀者與其帳號密碼 (在使用者導引工具安裝過程的最後，再次登入館員介面時，需要使用到) ，以及一個流通規則。"
+msgstr "但每次安装都需要创建读者（在导引工具使用的最后需要登录馆员端）和流通规则。"
 
 #: ../../source/installation.rst:38 ../../source/installation.rst:46
 msgid "Web installer login"
-msgstr "網頁安裝器-登入"
+msgstr "登录网页安装器"
 
 #: ../../source/installation.rst:40
 msgid "**Web installer login**"
-msgstr "**登入網頁安裝**"
+msgstr "**登录网页安装器**"
 
 #: ../../source/installation.rst:42
 msgid "This login screen is the first screen that appears when installing Koha."
-msgstr "安裝 Koha 時，首先出現的是登入畫面。"
+msgstr "安装 Koha 出现的第一个界面是登录界面。"
 
 #: ../../source/installation.rst:44
 msgid "|image1152|"
@@ -195,31 +195,31 @@ msgstr ""
 
 #: ../../source/installation.rst:48
 msgid "**Koha version name**: This will display whatever Koha version number you are installing."
-msgstr "**Koha 版本名稱**：顯示安裝的 Koha 版本編號。"
+msgstr "**Koha 版本名称**：显示安装的 Koha 版本号。"
 
 #: ../../source/installation.rst:50
 msgid "**Username**: This is database administrator username which is *koha_kohadev* by default."
-msgstr "**使用者名稱**：*koha_kohadev* 為預設的資料庫管理者名稱。"
+msgstr "**用户名**：预设的数据库管理员为 *koha_kohadev*。"
 
 #: ../../source/installation.rst:52
 msgid "**Password**: This is the database administrator password which is *password* by default."
-msgstr "**密碼**：*password* 為預設的資料庫管理密碼。"
+msgstr "**密码**：预设的数据库管理员密码 *password*。"
 
 #: ../../source/installation.rst:54
 msgid "*Log in*: Select this button to login"
-msgstr "*登入*：點選此按鈕來登入"
+msgstr "*登录*：点击该按钮登录"
 
 #: ../../source/installation.rst:57
 msgid "Language picker"
-msgstr "語言選擇"
+msgstr "语言选择"
 
 #: ../../source/installation.rst:59
 msgid "**Installer start screen**"
-msgstr "**安裝起始畫面**"
+msgstr "**安装起始界面**"
 
 #: ../../source/installation.rst:61
 msgid "This is the first screen of the web installer."
-msgstr "這是網頁安裝器的第一個畫面。"
+msgstr "这是网页安装器的第一个界面。"
 
 #: ../../source/installation.rst:63
 msgid "|image1166|"
@@ -227,27 +227,27 @@ msgstr ""
 
 #: ../../source/installation.rst:65
 msgid "Web installer start screen"
-msgstr "網頁安裝器起始畫面"
+msgstr "网页安装器起始界面"
 
 #: ../../source/installation.rst:67
 msgid "*Language picker* dropdown box: This is specifying the language you want Koha to be in."
-msgstr "*語言選擇* 下拉選單：在此指定 Koha系統所使用的語文。"
+msgstr "*语言选择* 下拉菜单：在此指定 Koha 系统使用的语言文字。"
 
 #: ../../source/installation.rst:70
 msgid "Installing other languages that have translations for the installer (DE or FR, for example) will allow those languages to be used for the web installer."
-msgstr "以安裝器去安裝另個語言 (如 zh_TW、zh_CN) ，就能在網頁安裝器使用該等語言。"
+msgstr "用安装器安装其他语言（如 DE、zh_CN）后，就可以在安装器中使用该语言。"
 
 #: ../../source/installation.rst:72
 msgid "Click the *Continue to the next step* button to load the next stage of the web installer."
-msgstr "按 *繼續下個步驟* 載入網頁安裝器的下一個步驟。"
+msgstr "点击 *继续下一步* 加载网页安装器的下一步。"
 
 #: ../../source/installation.rst:75
 msgid "Installer perl modules installed"
-msgstr "安裝 perl 模組已安裝"
+msgstr "安装器探测已安装的 perl 模块"
 
 #: ../../source/installation.rst:77
 msgid "This screen tells you that the installer has all the dependencies it needs, to create the database in the next screen."
-msgstr "此畫面顯示安裝器已取得必要的相依套件，並於下個畫面新增資料庫。"
+msgstr "此界面显示安装器依赖的模块，下个界面创建数据库。"
 
 #: ../../source/installation.rst:79
 msgid "|image1167|"
@@ -255,15 +255,15 @@ msgstr ""
 
 #: ../../source/installation.rst:81
 msgid "Perl modules installed"
-msgstr "已安裝的 Perl 模組"
+msgstr "已安装的 Perl 模块"
 
 #: ../../source/installation.rst:83
 msgid "Click on the *Continue to the next step* button to load the next stage of the web installer."
-msgstr "按 *繼續下個步驟* 鈕載入網頁安裝器的下一個步驟。"
+msgstr "点击 *继续下一步* 进入下一个步骤。"
 
 #: ../../source/installation.rst:86 ../../source/installation.rst:95
 msgid "Database settings"
-msgstr "資料庫設定"
+msgstr "数据库设定"
 
 #: ../../source/installation.rst:88
 msgid "This screen informs you of the database settings and asks you to confirm them by clicking the *Continue to the next step* button."

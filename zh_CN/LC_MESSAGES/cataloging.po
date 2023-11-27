@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: Koha Manual 22.11\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-10-26 13:37+0000\n"
-"PO-Revision-Date: 2023-11-17 16:40+0800\n"
+"PO-Revision-Date: 2023-11-24 11:56+0800\n"
 "Last-Translator: Saralin <c108126114@nkust.edu.tw>\n"
 "Language-Team: Koha Translation Team\n"
 "Language: zh_CN\n"
@@ -144,7 +144,7 @@ msgstr "按钮的默认选项保留上次使用后的选项。在上面的截屏
 
 #: ../../source/cataloging.rst:126
 msgid "You can customize the columns of this table in the :ref:`'Table settings'<column-settings-label>` section of the Administration module (table id: resultst)."
-msgstr "您可以在管理模块（table id: resultst）的 :ref:`'表格设置'<column-settings-label>`部分自定义此表格。"
+msgstr "您可以在管理模块（table id: resultst）的 :ref:`'表格设置'<column-settings-label>` 部分自定义此表格。"
 
 #: ../../source/cataloging.rst:130
 msgid "MARC preview: this option will open the record in plain MARC format."
@@ -188,7 +188,7 @@ msgstr ""
 
 #: ../../source/cataloging.rst:158
 msgid "If you would rather not see the MARC tag numbers you can change the value in your :ref:`hide\\_marc <hide-marc-label>` system preference or each user can check the box next to 'Show tags' found under 'Settings'."
-msgstr "如果你不想看到 MARC 的标签编号可以修改系统参数 :ref:`hide\\_marc <hide-marc-label>`的值，或者通过选择“设置”下面的“显示标签”菜单来设置。"
+msgstr "如果你不想看到 MARC 的标签编号可以修改系统参数 :ref:`hide\\_marc <hide-marc-label>` 的值，或者通过选择“设置”下面的“显示标签”菜单来设置。"
 
 #: ../../source/cataloging.rst:162
 msgid "|image632|"
@@ -196,25 +196,23 @@ msgstr ""
 
 #: ../../source/cataloging.rst:164
 msgid "To expand a collapsed tag click on the tag description"
-msgstr "點選欄號說明來展開一個折疊欄號"
+msgstr "点击上面以不同数字开始的标签缩写展开相关字段"
 
 #: ../../source/cataloging.rst:166
 msgid "To get help from the Library of Congress on a MARC tag click the question mark (?) to the right of each field number"
-msgstr "在MARC欄號點選每個欄位號碼右邊的問號(?)來取得國會圖書館的幫助"
+msgstr "点击每个 MARC 字段数字右侧的问号（?）可以获取来自国会图书馆站点的帮助说明"
 
 #: ../../source/cataloging.rst:169
-#, fuzzy
 msgid "It is possible to change the source of the MARC documentation using the :ref:`MARCFieldDocURL <MARCFieldDocURL-label>` system preference"
-msgstr "用 :ref:`MARCFieldDocURL` 系統偏好可以改變MARC文件的來源"
+msgstr "修改系统参数 :ref:`MARCFieldDocURL <MARCFieldDocURL-label>` 可改变 MARC 帮助文档来源"
 
 #: ../../source/cataloging.rst:172
 msgid "If you feel that this clutters the screen you can hide the question marks by unchecking the box next to the 'Show MARC tag documentation links' note found under 'Settings'"
-msgstr "如果你覺得這個使螢幕混亂你可以通過不點選'設定'下的 '顯示MARC標籤文件連結'註解旁的方框來隱藏問號"
+msgstr "如果你觉得问号使得屏幕混乱，可以通过修改上面“设置”菜单下的“显示 MARC 标签文档链接”来隐藏掉"
 
 #: ../../source/cataloging.rst:176
-#, fuzzy
 msgid "Sometimes fields may not be editable due to the value in your :ref:`RequireChoosingExistingAuthority <requirechoosingexistingauthority-label>` system preference. If this preference is set to \"require\", you will see a lock symbol to the left of the field."
-msgstr "有時候欄位可能不能編輯是因為值在你的 :ref:`BiblioAddsAuthorities`系統偏好. 如果你將這個偏好設定為不允許編目者以權限鍵入欄位控制你可能會看見在欄位左邊有一個鎖上的標誌."
+msgstr "有时字段不可编辑是因为已经在系统参数 :ref:`RequireChoosingExistingAuthority <requirechoosingexistingauthority-label>` 中设定。如果该参数设定为“必填”，就会在字段左侧看到一个锁头的标志。"
 
 #: ../../source/cataloging.rst:181
 msgid "|lockedauthority|"
@@ -222,7 +220,7 @@ msgstr ""
 
 #: ../../source/cataloging.rst:183
 msgid "If this icon appears you must click the icon to the right of the field to search for an existing authority."
-msgstr "若此圖示顯示，您必須勾選欄位旁的該圖示，以搜尋既有的權威紀錄。"
+msgstr "如果此标志出现，则需要点击字段右侧标志搜索已有规范记录。"
 
 #: ../../source/cataloging.rst:186
 msgid "|image634|"
@@ -230,7 +228,7 @@ msgstr ""
 
 #: ../../source/cataloging.rst:188
 msgid "From the results list click 'Choose authority' to bring that into your catalog record"
-msgstr "從結果清單裡點選 '選擇權威' 進入目錄紀錄"
+msgstr "从结果列表中点击“选择规范记录”将其导入编目记录中"
 
 #: ../../source/cataloging.rst:191
 msgid "|image635|"
@@ -238,16 +236,15 @@ msgstr ""
 
 #: ../../source/cataloging.rst:193
 msgid "To duplicate a field click on the 'repeat this tag' icon to the right of the tag"
-msgstr "按欄號右方的 '重複此欄號' 圖示，就能複製此欄位"
+msgstr "点击字段右侧的“重复此字段”标志来复制字段"
 
 #: ../../source/cataloging.rst:196
 msgid "|image636|"
 msgstr ""
 
 #: ../../source/cataloging.rst:198
-#, fuzzy
 msgid "To move subfields in the right order, drag and drop the subfields using the handles on the right"
-msgstr "勾選欄位左方的向上箭，把分欄移到正確的位置"
+msgstr "调整子字段顺序，可以通过字段左侧的移动把手来拖动调整"
 
 #: ../../source/cataloging.rst:201
 msgid "|dragsubfield|"
@@ -255,11 +252,11 @@ msgstr ""
 
 #: ../../source/cataloging.rst:205
 msgid "You can change the default order of the subfields in the :ref:`bibliographic framework <marc-bibliographic-frameworks-label>` by dragging and dropping the subfield tabs when :ref:`editing subfields <edit-a-marc-subfield-label>`."
-msgstr ""
+msgstr "你可以通过拖放 :ref:`书目框架 <marc-bibliographic-frameworks-label>` 的 :ref:`editing subfields <edit-a-marc-subfield-label>` 参数来修改子字段默认顺序。"
 
 #: ../../source/cataloging.rst:210
 msgid "To duplicate a subfield click on the clone icon (to remove a copied field, click the delete clone icon) to the right of the field"
-msgstr "勾選欄位右方的複製 (按下刪除圖示，就能移除複製欄位) 圖示就能複製分欄"
+msgstr "点击字段右侧的复制标志实现复制子字段（删除复制的字段，点击删除标志）"
 
 #: ../../source/cataloging.rst:214
 msgid "|image637|"
@@ -267,11 +264,11 @@ msgstr ""
 
 #: ../../source/cataloging.rst:216
 msgid "To remove a subfield (if there is more than one of the same type), click the - (minus sign) to the right of the field"
-msgstr "勾選欄位右方的 - (減號)，就能刪除分欄 (若有多個同樣類型)"
+msgstr "删除子字段（如果同类型子字段不止一个），点击字段右侧的 - （减号）即可"
 
 #: ../../source/cataloging.rst:219
 msgid "To use a plugin click on the icon to the right of the field"
-msgstr "按欄位右方的圖示，啟用外掛程式"
+msgstr "使用外挂程序点击字段右侧标志"
 
 #: ../../source/cataloging.rst:221
 msgid "|leaderbuilder|"
@@ -279,7 +276,7 @@ msgstr ""
 
 #: ../../source/cataloging.rst:223
 msgid "Some fixed fields have editors that will change based on the material type you're cataloging (for example the 006 and the 008 fields)"
-msgstr "部份固定欄位有編輯器，根據編目的資料類型而改變(如：006與008欄位)"
+msgstr "部分定长字段有编辑器，形式更具载体类型而定（例如 006 和 008 字段）"
 
 #: ../../source/cataloging.rst:227
 msgid "|008plugin|"
@@ -287,11 +284,11 @@ msgstr ""
 
 #: ../../source/cataloging.rst:231
 msgid "The 'Type of material' in 008 is determined by the value in leader/06."
-msgstr ""
+msgstr "008 字段的 “载体类型”决定了投标区第 6 个字符。"
 
 #: ../../source/cataloging.rst:233
 msgid "Once you've finished, click the 'Save' button at the top and choose whether you want to save and view the bib record you have created or continue on to add/edit items attached to the record"
-msgstr "完成後，按上方的 '儲存' 鈕儲存並檢視剛才新增書目記錄，或繼續新增/編輯該筆書目記錄的館藏記錄"
+msgstr "全部完成，点击上方的“保存”按钮，可以选择保存且浏览刚完成的书目记录或者继续添加/编辑记录的实体文献其他信息"
 
 #: ../../source/cataloging.rst:237
 msgid "|image640|"
@@ -299,19 +296,19 @@ msgstr ""
 
 #: ../../source/cataloging.rst:239
 msgid "Choosing 'Save and view record' will bring you right to the record you just cataloged"
-msgstr "按下 '儲存與檢視記錄' 進入剛才編目的記錄"
+msgstr "选择“保存且浏览记录”进入刚完成编目的记录"
 
 #: ../../source/cataloging.rst:242
 msgid "Choosing 'Save and edit items' will bring you to the add/edit item form after saving the bib record so that you can attach holdings"
-msgstr "按下 '儲存與編輯館藏' 先儲存書目紀錄，再進入新增/編輯館藏表單"
+msgstr "选择“保存且编辑文献”开始添加|编辑刚保存书目记录的文献馆藏信息"
 
 #: ../../source/cataloging.rst:245
 msgid "Choosing 'Save and continue editing' will allow you to save your work so far and keep you in the editor to continue working"
-msgstr "按下 '儲存與繼續編輯' 儲存書目記錄，並繼續編輯該書目記錄"
+msgstr "选择“保存且继续编辑”保存当前工作且继续编辑书目记录信息"
 
 #: ../../source/cataloging.rst:248
 msgid "If you are about to add a duplicate record to the system you will be warned before saving"
-msgstr "新增重複的紀錄時，系統會提示您先儲存"
+msgstr "如果添加重复记录，系统会在保存前提示"
 
 #: ../../source/cataloging.rst:251
 msgid "|image641|"
@@ -319,11 +316,11 @@ msgstr ""
 
 #: ../../source/cataloging.rst:255
 msgid "To find possible duplicates, the system searches for the ISBN, and if there is not ISBN, it searches for the same combination of title and author."
-msgstr "為了查詢可能的重複項，系統會搜尋 ISBN，如果沒有 ISBN，則搜尋相同的標題和作者組合。"
+msgstr "系统查重会优先查询 ISBN，没有 ISBN 则进行题名和作者的组合查询。"
 
 #: ../../source/cataloging.rst:259
 msgid "If mandatory or important fields or subfields are not filled, the system will give a warning. Click 'Go to field' to go to the problematic field and correct it."
-msgstr ""
+msgstr "如果必备或重要字段/子字段未填写，系统将给出警告。点击“到该字段”，系统将自动跳到问题字段并修改。"
 
 #: ../../source/cataloging.rst:263
 msgid "|missingmandatoryimportantfields|"
@@ -331,7 +328,7 @@ msgstr ""
 
 #: ../../source/cataloging.rst:265
 msgid "If you scrolled down and need to see the warning again, click the 'Errors' button at the right of the toolbar."
-msgstr ""
+msgstr "如果当前显示已经滚动，这时需要再次查看警告，点击工具条右侧的“错误”按钮即可看到。"
 
 #: ../../source/cataloging.rst:268
 msgid "|catalogingtoolbar-witherrors|"
@@ -339,34 +336,33 @@ msgstr ""
 
 #: ../../source/cataloging.rst:272
 msgid "Important fields or subfields will not prevent from saving the record."
-msgstr ""
+msgstr "重要字段或子字段未填写不会阻止保存。"
 
 #: ../../source/cataloging.rst:274
 msgid "Only mandatory fields or subfields will block saving."
-msgstr ""
+msgstr "只有必备字段或子字段才会阻止保存。"
 
 #: ../../source/cataloging.rst:279
 msgid "Advanced editor cataloging"
-msgstr "編目進階編輯器"
+msgstr "高级编目编辑器"
 
 #: ../../source/cataloging.rst:281
-#, fuzzy
 msgid "In order to use the Advanced cataloging editor you need to enable the :ref:`EnableAdvancedCatalogingEditor <EnableAdvancedCatalogingEditor-label>` preference."
-msgstr "必須啟用 :ref:`EnableAdvancedCatalogingEditor` 偏好才能使用進階編目編輯器。"
+msgstr "要使用高级编目编辑器需要启用 :ref:`EnableAdvancedCatalogingEditor <EnableAdvancedCatalogingEditor-label>` 参数。"
 
 #: ../../source/cataloging.rst:285 ../../source/cataloging.rst:310
 #: ../../source/cataloging.rst:316 ../../source/cataloging.rst:836
 #: ../../source/cataloging.rst:1240 ../../source/cataloging.rst:6403
 msgid "**Note**"
-msgstr "**說明**"
+msgstr "**注记**"
 
 #: ../../source/cataloging.rst:287
 msgid "This feature does not currently include any support for UNIMARC or NORMARC fixed fields."
-msgstr "此功能不支援 UNIMARC 或 NORMARC 的固長欄位。"
+msgstr "此功能目前不支持 UNIMARC 或 NORMARC 的定长字段。"
 
 #: ../../source/cataloging.rst:290
 msgid "In the advanced editor once you've opened a blank framework or imported a record via Z39.50 you will be presented with the form to continue cataloging"
-msgstr "在基本編輯器內，打開空白的框架或經由 Z39.50 匯入紀錄後，將出現繼續編目的表單"
+msgstr "在高级编辑器内，一旦打开一条空的书目框架记录或通过 Z39.50 导入一条记录，则会以表单形式出现并且可以继续编目"
 
 #: ../../source/cataloging.rst:294
 msgid "|image1263|"
@@ -374,7 +370,7 @@ msgstr ""
 
 #: ../../source/cataloging.rst:296
 msgid "Using the search box on the left you can perform Z39.50 searches"
-msgstr "從左方的搜尋盒可執行 Z39.50 搜尋"
+msgstr "使用左侧的检索框可以执行 Z39.50 检索"
 
 #: ../../source/cataloging.rst:298
 msgid "|image642|"
@@ -382,7 +378,7 @@ msgstr ""
 
 #: ../../source/cataloging.rst:300
 msgid "And from those Z39.50 results you can view the marc record by clicking the link to the right"
-msgstr "從這些 Z39.50 結果按右方的連結可檢視 MARC 記錄"
+msgstr "从这些 Z39.50 检索结果中通过点击右侧链接可以查看 MARC 记录"
 
 #: ../../source/cataloging.rst:303
 msgid "|image643|"
@@ -390,7 +386,7 @@ msgstr ""
 
 #: ../../source/cataloging.rst:305
 msgid "Clicking 'Import' will bring the record in to the editor where you can perform your edits"
-msgstr "按 '匯入' 鈕將把記錄帶入編輯器供編輯之用"
+msgstr "点击“导入”将记录导入编辑器进行编辑"
 
 #: ../../source/cataloging.rst:308
 msgid "|image644|"
@@ -398,20 +394,19 @@ msgstr ""
 
 #: ../../source/cataloging.rst:312
 msgid "When adding a new field in the Advanced Editor, you need to key underscores for a blank indicator, and surround the indicators with spaces."
-msgstr "在進階編輯器內新增欄位時，必須在空白的指標鍵入底線，並在前後加入空白。"
+msgstr "在高级编辑器内加入字段时，需要用下划线代替空格，并在其前后加入空格。"
 
 #: ../../source/cataloging.rst:318
 msgid "You need to key a space before the first subfield delimiter, but not before or after other subfield delimiters in the field."
-msgstr "需在第一個分欄分隔符號前鍵入一個空白，但不必在其他分欄分隔符號前後加入空白。"
+msgstr "在第一个子字段分割符前加入一个空格，但是字段的其他子字段分割符前不需要。"
 
 #: ../../source/cataloging.rst:321
 msgid "At the bottom of the editor you will see help from the Library of Congress for the field you are on. In cases where your MARC is invalid you will see red highlighting. To edit the record using only keyboard functions the Keyboard shortcuts button will inform you of the necessary commands."
-msgstr "在編輯器的下方您將會看到國會圖書館對欄位上的幫助. 如果您的MARC是無效的您將會看到醒目的紅色. 只用鍵盤功能來編輯記錄快捷鍵將會通知你必要的指示."
+msgstr "在编辑器下方有来自国会图书馆的关于正在编辑字段的帮助。如果你的 MARC 格式错误，你会看到高亮的红色。只用键盘功能编辑记录，快捷键简化了必要的命令。"
 
 #: ../../source/cataloging.rst:327
-#, fuzzy
 msgid "A clipboard is available to copy and paste text between fields. See the image and table below for the shortcuts used with the clipboard."
-msgstr "剪貼簿在欄位之間可用於複製和黏貼文字.  有關快捷鍵與剪貼版的使用請看以下圖片和表格."
+msgstr "剪贴板便于字段间的复制和粘贴。查看下面的图表了解剪贴板的快捷键使用。"
 
 #: ../../source/cataloging.rst:330
 msgid "|image645|"
@@ -419,23 +414,23 @@ msgstr ""
 
 #: ../../source/cataloging.rst:335
 msgid "Advanced cataloging keyboard shortcuts"
-msgstr "進階編目快捷鍵"
+msgstr "高级编目快捷键"
 
 #: ../../source/cataloging.rst:337
 msgid "The following keyboard shortcuts can be used in the advanced cataloging module to save time and clicking."
-msgstr "以下的鍵盤快捷鍵可用於進階編目模組以節省時間。"
+msgstr "下列快捷键可用于高级编目模块以节省时间和点击次数。"
 
 #: ../../source/cataloging.rst:341
 msgid "Behavior"
-msgstr "行為"
+msgstr "操作"
 
 #: ../../source/cataloging.rst:341
 msgid "Shortcut"
-msgstr "快捷鍵"
+msgstr "快捷键"
 
 #: ../../source/cataloging.rst:343
 msgid "Copy current field"
-msgstr "複製當前的欄位"
+msgstr "复制当前字段"
 
 #: ../../source/cataloging.rst:343
 msgid "Ctrl-C"
@@ -443,7 +438,7 @@ msgstr "Ctrl-C"
 
 #: ../../source/cataloging.rst:345
 msgid "Copy current subfield"
-msgstr "複製當前的分欄"
+msgstr "复制当前子字段"
 
 #: ../../source/cataloging.rst:345
 msgid "Shift-Ctrl-C"
@@ -455,11 +450,11 @@ msgstr "Ctrl-X"
 
 #: ../../source/cataloging.rst:347
 msgid "Delete current field and copy to 'clipboard'"
-msgstr "刪除當前的欄位並複製到'剪貼簿'"
+msgstr "删除当前字段并将其复制到“剪贴板”"
 
 #: ../../source/cataloging.rst:350
 msgid "Delete current subfield and copy to 'clipboard'"
-msgstr "刪除當前的欄位且複製到'剪貼簿'"
+msgstr "刪除当前的子字段并复制到“剪贴板”"
 
 #: ../../source/cataloging.rst:350
 msgid "Shift-Ctrl-X"
@@ -471,7 +466,7 @@ msgstr "Alt-C"
 
 #: ../../source/cataloging.rst:353
 msgid "Insert copyright symbol (©)"
-msgstr "插入著作權符號 (©)"
+msgstr "插入版权符号 （©）"
 
 #: ../../source/cataloging.rst:355
 msgid "Alt-P"
@@ -479,7 +474,7 @@ msgstr "Alt-P"
 
 #: ../../source/cataloging.rst:355
 msgid "Insert copyright symbol (℗) (sound recordings)"
-msgstr "插入著作權符號 (©) (錄音資料)"
+msgstr "插入版权符号（©）（音频资料）"
 
 #: ../../source/cataloging.rst:358
 msgid "Ctrl-D"
@@ -487,11 +482,11 @@ msgstr "Ctrl-D"
 
 #: ../../source/cataloging.rst:358
 msgid "Insert delimiter (‡)"
-msgstr "插入分隔符號 (‡)"
+msgstr "插入分隔符号（‡）"
 
 #: ../../source/cataloging.rst:360
 msgid "Copy current field on next line"
-msgstr "在下一列複製當前的欄位"
+msgstr "复制当前字段到下一行"
 
 #: ../../source/cataloging.rst:360
 msgid "Ctrl-I"
@@ -499,7 +494,7 @@ msgstr "Ctrl-I"
 
 #: ../../source/cataloging.rst:363
 msgid "Insert line break"
-msgstr "搜入斷列標記"
+msgstr "插入换行符"
 
 #: ../../source/cataloging.rst:363
 msgid "Shift-Enter"
@@ -507,7 +502,7 @@ msgstr "Shift-Enter"
 
 #: ../../source/cataloging.rst:365
 msgid "Link field to authorities"
-msgstr "連結欄位至權威紀錄"
+msgstr "链接字段到规范记录"
 
 #: ../../source/cataloging.rst:365
 msgid "Shift-Ctrl-L"
@@ -515,19 +510,19 @@ msgstr "Shift-Ctrl-L"
 
 #: ../../source/cataloging.rst:367
 msgid "Enter"
-msgstr "輸入"
+msgstr "Enter"
 
 #: ../../source/cataloging.rst:367
 msgid "New field on next line"
-msgstr "新欄位在下一列"
+msgstr "移动到下行新字段"
 
 #: ../../source/cataloging.rst:369
 msgid "Move to next position"
-msgstr "移動至下個位置"
+msgstr "移动到下个位置"
 
 #: ../../source/cataloging.rst:369
 msgid "Tab"
-msgstr "定位鍵"
+msgstr "Tab"
 
 #: ../../source/cataloging.rst:371
 msgid "Ctrl-P"
@@ -535,11 +530,11 @@ msgstr "Ctrl-P"
 
 #: ../../source/cataloging.rst:371
 msgid "Paste selection from 'clipboard'"
-msgstr "從'剪貼簿'黏貼選擇"
+msgstr "从“剪贴板”粘贴"
 
 #: ../../source/cataloging.rst:374
 msgid "Move to previous position"
-msgstr "移動至前個位置"
+msgstr "移动到前一个位置"
 
 #: ../../source/cataloging.rst:374
 msgid "Shift-Tab"
@@ -551,7 +546,7 @@ msgstr "Ctrl-H"
 
 #: ../../source/cataloging.rst:376
 msgid "Get help on current subfield"
-msgstr "當前分欄的說明"
+msgstr "寻求当前子字段的帮助"
 
 #: ../../source/cataloging.rst:378
 msgid "Shift-Ctrl-K"
@@ -559,7 +554,7 @@ msgstr "Shift-Ctrl-K"
 
 #: ../../source/cataloging.rst:378
 msgid "Toggle Keyboard"
-msgstr "切換鍵盤"
+msgstr "切换键盘"
 
 #: ../../source/cataloging.rst:380
 msgid "Ctrl-S"
@@ -567,68 +562,67 @@ msgstr "Ctrl-S"
 
 #: ../../source/cataloging.rst:380
 msgid "Save record (cannot be remapped)"
-msgstr "儲存紀錄 (不能在映射)"
+msgstr "保存记录（不能重新映射）"
 
 #: ../../source/cataloging.rst:388
 msgid "Advanced cataloging virtual keyboard"
-msgstr "進階編目虛擬鍵盤"
+msgstr "高级编目虚拟键盘"
 
 #: ../../source/cataloging.rst:390
 msgid "|image1458|"
 msgstr ""
 
 #: ../../source/cataloging.rst:392
-#, fuzzy
 msgid "A virtual keyboard is available for adding diacritics and symbols. Use the shortcut Shift-Ctrl-K to display the keyboard. A 'Keyboard layouts' button will display at the top of the advanced editor that allows you to set the virtual keyboard layout for different languages."
-msgstr "一個虛擬鍵盤是可用於添加變音符號和符號.  使用快捷方式Shift-Ctrl-K顯示鍵盤.  一個'鍵盤配置'按鈕將顯示在高級編輯器的頂端且允許你設置不同語言的虛擬鍵盤配置"
+msgstr "一个用于添加变音符号和其他符号的虚拟键盘。使用快捷键 Shift-Ctrl-K 显示键盘。\"键盘布局\"按钮在高级编辑器顶部显示，通过该按钮可以调整不同语言的不同虚拟键盘布局。"
 
 #: ../../source/cataloging.rst:401
 msgid "Macros in advanced cataloging"
-msgstr "進階編目的巨集"
+msgstr "高级编辑器的宏命令"
 
 #: ../../source/cataloging.rst:403
 msgid "To record a new macro:"
-msgstr "記錄新的巨集："
+msgstr "录制新的宏命名："
 
 #: ../../source/cataloging.rst:405 ../../source/cataloging.rst:421
 msgid "Select the \"Macros...\" button"
-msgstr "選擇 \"巨集...\" 鈕"
+msgstr "选择“宏……”按钮"
 
 #: ../../source/cataloging.rst:407
 msgid "A window will pop up. In this window, select \"New macro...,\" key the new macro's name in the pop-up box and select OK."
-msgstr "將彈出視窗。在此視窗內，選擇 \"新增巨集...\"，在彈出盒內鍵入新的巨集名稱並選擇 OK。"
+msgstr "在弹出窗口内，选择“新增宏命令……”，在再次弹出窗口中输入新宏命令的名字，然后选择确定。"
 
 #: ../../source/cataloging.rst:410
 msgid "Now click to the right of the little number 1, and key the first line of your macro. For a multi-line, i.e., multi-field macro, hit the return key so that a little number 2 appears, and key the second line/field, etc."
-msgstr "現在按數字 1 右方，並鍵入巨集的第一列。若有多列，如多欄位巨集，按歸位鍵才會出現數字2，並鍵入第二列/欄位等。"
+msgstr "现在点击小数字 1 的右侧，然后输入宏命令的第一行。对于多行宏命令，例如多段的宏，点击回车键光标在小数字 2 后面出现，然后输入第 2 行，以此类推。"
 
 #: ../../source/cataloging.rst:415
 msgid "Your macros will be automatically saved. When finished you can select the \"x\" to close the window, or select a macro to run on the record that you're editing, or select another macro to run."
-msgstr "自動儲存您的巨集。做好後按 \"x\" 關閉視窗，或選擇編輯後要執行的記錄，或選擇其他要執行的巨集。"
+msgstr "宏命令会自动保存。当完成输入后使用\"x\"关闭窗口，或者选择一个宏命令运行与正在编辑的记录，或者选择另一个宏命令运行。"
 
 #: ../../source/cataloging.rst:419
 msgid "To edit an existing macro:"
-msgstr "編輯既有的巨集："
+msgstr "编辑既有宏命令："
 
 #: ../../source/cataloging.rst:423
 msgid "A window will pop up. In this window, select the macro that you wish to edit & make your changes."
-msgstr "將彈出視窗。在此視窗內，選擇要編輯的巨集 &amp; 變更它。"
+msgstr "在弹出窗口内选择想要编辑的宏命令，然后修改。"
 
 #: ../../source/cataloging.rst:426
 msgid "Your work will automatically be saved, and when finished you can select the \"x\" to close the window, or select a macro to run on the record that you're editing, or select another macro to run."
-msgstr "將自動儲存您的工作，並且在完成後選擇 \"x\" 關閉視窗，或選擇編輯後記錄內要執行的巨集，或選擇另個要執行的巨集。"
+msgstr "当完成修改选择“x”关闭窗口时系统自动保存，或者选择一个宏命令在当前记录上运行，或者选择其他宏命令运行。"
 
 #: ../../source/cataloging.rst:430
 msgid "The basic syntax of the macro language:"
-msgstr "巨集語言的基本語法："
+msgstr "宏命令语言的基本语法："
 
 #: ../../source/cataloging.rst:432
 msgid "new 500=‡aEdited with Rancor"
-msgstr "新增 500=‡a以 Rancor 編輯"
+msgstr "new 500=‡aEdited with Rancor"
 
 #: ../../source/cataloging.rst:434
 msgid "Creates a new 500 with a ‡a subfield and sets it to \"Edited with Rancor\"."
-msgstr "新增 500 欄位的 ‡a 分欄並 \"以 Rancor 編輯\"。"
+msgstr "新增 500 字段，该字段带有 ‡a 子字段，子字段内容为 \"Edited with Rancor\"。"
 
 #: ../../source/cataloging.rst:437
 msgid "245c= by J.K. Rowling."
@@ -636,7 +630,7 @@ msgstr "245c= by J.K. Rowling."
 
 #: ../../source/cataloging.rst:439
 msgid "Sets the first ‡c subfield of the first 245 tag in the record to \" by J.K. Rowling\", creating it if necessary."
-msgstr "需要的話，在第一個 245 欄位的第一個 ‡c 分欄著錄 \"by J.K. Rowling\"。"
+msgstr "需要时创建第一个子字段 ‡c 内容为“by J.K.Rowling”的 245 字段。"
 
 #: ../../source/cataloging.rst:442
 msgid "082a={084a}"
@@ -644,27 +638,27 @@ msgstr "082a={084a}"
 
 #: ../../source/cataloging.rst:444
 msgid "Sets the ‡a subfield of the first 082 tag (creating the subfield if necessary) to the contents of the first 084‡a."
-msgstr "在第一個082欄位的 ‡a 分欄 (需要時新增分欄) 設定內容為第一個 084‡a。"
+msgstr "设置第一个 082 字段的 ‡a 子字段（需要时新增子字段）与第一个 084‡a 内容相同。"
 
 #: ../../source/cataloging.rst:447
 msgid "indicators=\\_1"
-msgstr "指標=\\_1"
+msgstr "indicators=\\_1"
 
 #: ../../source/cataloging.rst:449
 msgid "Sets the indicators of the last mentioned tag (in this case, 082) to \"\\_\" and \"1\"."
-msgstr "將最後提及欄號的指標 (在此例是，082) 設為 \"\\_\" 與 \"1\"。"
+msgstr "设置最后涉及的字段（本例中为 082 ）指示符为“\\_”和“1”。"
 
 #: ../../source/cataloging.rst:452
 msgid "new 090a=Z674.75.W67"
-msgstr "新增 090a=Z674.75.W67"
+msgstr "new 090a=Z674.75.W67"
 
 #: ../../source/cataloging.rst:454
 msgid "Creates a new ‡a subfield on the first 090 (but only if that field already exists) and sets it to Z674.75.W67."
-msgstr "新增第一個 900 欄位 (僅限已有該欄位) 的 ‡a 分欄並設定為 Z674.75.W67。"
+msgstr "新增第一个 090 字段（仅限已有字段）的 ‡a 子字段内容为 Z674.75.W67。"
 
 #: ../../source/cataloging.rst:457
 msgid "new 090a at end=Z674.75.W67"
-msgstr "新增 090a 於 end=Z674.75.W67"
+msgstr "new 090a at end=Z674.75.W67"
 
 #: ../../source/cataloging.rst:459
 msgid "Same as above."
@@ -672,53 +666,51 @@ msgstr "同上。"
 
 #: ../../source/cataloging.rst:461
 msgid "new 245b after a= a tale of might and magic /"
-msgstr "在 a= a tale of might and magic / 之後新增 245a"
+msgstr "new 245b after a= a tale of might and magic /"
 
 #: ../../source/cataloging.rst:463
 msgid "Creates a new ‡b after the first a subfield and sets it to \" a tale of might and magic /\"."
-msgstr "在第一個分欄後面，新增 ‡b，並將其內容設定為 \" a tale of might and magic /\"。"
+msgstr "在第一个 ‡a 子字段后面新增一个在新增 ‡b 子字段，并且将其内容设置为“ a tale of might and magic /”。"
 
 #: ../../source/cataloging.rst:466
 msgid "delete 245b"
-msgstr "刪除 245b"
+msgstr "delete 245b"
 
 #: ../../source/cataloging.rst:468
 msgid "Deletes the first ‡b subfield on the first 245 to ‡b"
-msgstr "刪除第一個 245 欄位的 ‡b 分欄"
+msgstr "删除 245 字段的第一个 ‡b 子字段"
 
 #: ../../source/cataloging.rst:473
-#, fuzzy
 msgid "Importing records"
-msgstr "編輯記錄"
+msgstr "导入记录"
 
 #: ../../source/cataloging.rst:475
 msgid "It is possible to import both bibliographic and authority MARC record files in Koha. The files to import can be either in MARC or MARCXML format."
-msgstr ""
+msgstr "在 Koha 系统中有时需要通过文件导入书目和规范 MARC 记录。导入文件可能是 MARC 或者 MARCXML 格式。"
 
 #: ../../source/cataloging.rst:478
 msgid "Importing records into Koha includes two steps."
-msgstr ""
+msgstr "Koha 导入记录需要两步。"
 
 #: ../../source/cataloging.rst:480
 msgid "The first is to :ref:`stage records for import<stage-marc-records-for-import-label>`, which prepares the records, and imports them in the reservoir."
-msgstr ""
+msgstr "首先到 :ref:`导入记录平台<stage-marc-records-for-import-label>`，准备导入记录，然后导入记录到缓冲库。"
 
 #: ../../source/cataloging.rst:484
 msgid "The second step is to :ref:`import the prepared, or \"staged\", files<staged-marc-record-management-label>` from the reservoir into the catalog."
-msgstr ""
+msgstr "然后来到 :ref:`导入准备或缓存的文件<staged-marc-record-management-label>` ——将其从缓存库导入目录。"
 
 #: ../../source/cataloging.rst:491
 msgid "Staging records for import"
-msgstr ""
+msgstr "导入缓存记录"
 
 #: ../../source/cataloging.rst:493
-#, fuzzy
 msgid "*Get there:* More > Cataloging > Import > Stage records for import"
-msgstr "*到那：* 其他 > 編目"
+msgstr "*在这里：* 更多 > 編目 > 导入 > 导入缓存记录"
 
 #: ../../source/cataloging.rst:495
 msgid "First, find the MARC file on your computer"
-msgstr ""
+msgstr "首先，在你的计算机上找到要导入的 MARC 文件"
 
 #: ../../source/cataloging.rst:497
 msgid "|stagemarc-pt1|"
@@ -726,11 +718,11 @@ msgstr ""
 
 #: ../../source/cataloging.rst:500
 msgid "Next, you will be presented with options for record matching and item"
-msgstr ""
+msgstr "接下来，你会看到关于记录匹配和文献的相关选项"
 
 #: ../../source/cataloging.rst:500
 msgid "imports"
-msgstr ""
+msgstr "导入"
 
 #: ../../source/cataloging.rst:502
 msgid "|stagemarc-pt2|"
@@ -738,23 +730,23 @@ msgstr ""
 
 #: ../../source/cataloging.rst:504
 msgid "Pre-fill values with profile: if you already have staging profiles set up, you can choose the appropriate profile from the dropdown list"
-msgstr ""
+msgstr "配置预置值：如果你已经设置了缓存配置，可以通过下拉菜单选择相近的配置"
 
 #: ../../source/cataloging.rst:507
 msgid "Profiles are used to pre-fill the rest of the staging settings form."
-msgstr ""
+msgstr "配置用于缓存设置表单的预设值。"
 
 #: ../../source/cataloging.rst:509
 msgid "You can create a profile by choosing the various settings in the sections below and enter a profile name at the end of the form. Next time you stage records, the profile will be available."
-msgstr ""
+msgstr "你可以通过下面的各个选项的设置并在最后给定一个文件名从而创建一个配置文件。下次再导入记录时就有配置文件可用了。"
 
 #: ../../source/cataloging.rst:513
 msgid "Comments about this file: enter comments to identify your upload when going to the ':ref:`Manage staged records <staged-marc-record-management-label>`' tool"
-msgstr ""
+msgstr "注释此文件：为了区别你上传的文件可以用 ':ref:`管理缓存记录 <staged-marc-record-management-label>`' 工具进行注释"
 
 #: ../../source/cataloging.rst:517
 msgid "Record type: choose which type of records are in this file, bibliographic or authority"
-msgstr ""
+msgstr "记录类型：选择此文件内的记录类型，是书目还是规范记录"
 
 #: ../../source/cataloging.rst:520
 msgid "|recordtype|"
@@ -762,7 +754,7 @@ msgstr ""
 
 #: ../../source/cataloging.rst:522
 msgid "Character encoding: choose the character encoding of your file"
-msgstr ""
+msgstr "字符编码：选择文件的字符编码"
 
 #: ../../source/cataloging.rst:524
 msgid "|encoding|"
@@ -770,7 +762,7 @@ msgstr ""
 
 #: ../../source/cataloging.rst:526
 msgid "Format: choose the MARC format of your file"
-msgstr ""
+msgstr "格式：选择文件的 MARC 格式"
 
 #: ../../source/cataloging.rst:528
 msgid "|format|"
@@ -778,7 +770,7 @@ msgstr ""
 
 #: ../../source/cataloging.rst:530
 msgid "Modify record using a MARC modification template: choose if you would like to use a :ref:`MARC modification template <marc-modification-templates-label>` to alter the data you're about to import"
-msgstr ""
+msgstr "使用 MARC 修改模板修改记录：如果你想要使用 :ref:`MARC 修改模板 <marc-modification-templates-label>` 修改导入数据请选择"
 
 #: ../../source/cataloging.rst:534 ../../source/cataloging.rst:1175
 msgid "|templatechoice|"
@@ -786,7 +778,7 @@ msgstr ""
 
 #: ../../source/cataloging.rst:536
 msgid "Choose whether or not you want to look for matching records"
-msgstr ""
+msgstr "选择是否检索匹配记录"
 
 #: ../../source/cataloging.rst:538
 msgid "|matches|"
@@ -794,7 +786,7 @@ msgstr ""
 
 #: ../../source/cataloging.rst:540
 msgid "Record matching rule: choose which rules to use to check your catalog if these records already exist."
-msgstr ""
+msgstr "记录匹配规则：选择用来检测目录是否已经存在的规则。"
 
 #: ../../source/cataloging.rst:543
 msgid "|matchrule|"
@@ -802,43 +794,43 @@ msgstr ""
 
 #: ../../source/cataloging.rst:547
 msgid "You can set up :ref:`record matching rules <record-matching-rules-label>` in the administration area"
-msgstr ""
+msgstr "你可以在管理区设置 :ref:`记录匹配规则 <record-matching-rules-label>`"
 
 #: ../../source/cataloging.rst:552
 msgid "When using the ISBN matching rule Koha will find only exact matches. If you find that the ISBN match is not working to your satisfaction you can change the :ref:`AggressiveMatchOnISBN <aggressivematchonisbn-label>` preference to 'Do' and then run your import again."
-msgstr ""
+msgstr "当使用 ISBN 匹配规则时 Koha 会进行精确匹配。如果你对 ISBN 匹配不满意，可以修改 :ref:`AggressiveMatchOnISBN <aggressivematchonisbn-label>` 参数为“Do”，然后重新导入进行匹配。"
 
 #: ../../source/cataloging.rst:558
 msgid "Action if matching record found: choose what to do with matching records if they are found"
-msgstr ""
+msgstr "如果匹配上记录的操作：如果发现匹配记录选择的操作"
 
 #: ../../source/cataloging.rst:561
 msgid "Replace existing record with incoming record: choose this if you are importing more complete records than the ones you currently have, or if you made some changes using an external tool (MarcEdit for example)"
-msgstr ""
+msgstr "用新记录覆盖旧记录：如果导入的记录比现有记录更完整则选择此选项，或者你使用外部工具（例如MarcEdit）对数据做了修改，需要覆盖原记录"
 
 #: ../../source/cataloging.rst:565
 msgid "Add incoming record: this will keep the existing record and add the incoming record, so you may end up with duplicates"
-msgstr ""
+msgstr "新增导入记录：此选项会保留原有记录的同时新增传入记录，所以最终你可能就会有了双份记录"
 
 #: ../../source/cataloging.rst:568
 msgid "Ignore incoming record (its items may still be processed): choose this if you do not want to replace existing records"
-msgstr ""
+msgstr "忽略导入记录（其数据可能还需要处理）：如果你不想覆盖已有记录选择此选项"
 
 #: ../../source/cataloging.rst:571
-msgid "Action if no match is found: choose what to do with records that are unique"
+msgid "没有匹配记录的操作：所有记录都是唯一时的选择"
 msgstr ""
 
 #: ../../source/cataloging.rst:574
 msgid "Add incoming record: choose this if you wish to import records that are not already in your catalog (new titles for example)"
-msgstr ""
+msgstr "新增导入记录：如果你想导入你的书目中没有的记录（例如新的题名）时选择此选项"
 
 #: ../../source/cataloging.rst:577
 msgid "Ignore incoming record: choose this if you don't want to import records that are not already in your catalogue (for example, if you're only replacing existing records and don't want to add anything)"
-msgstr ""
+msgstr "忽略导入记录：如果你不想新增你的目录中没有的记录时选择此选项（例如，如果你只是想覆盖已存在记录而不想新增任何东新时）"
 
 #: ../../source/cataloging.rst:581
 msgid "Check for embedded item record data?: choose whether or not to import the item data (field 952) found in the MARC records (if the file you're loading is a bibliographic file)"
-msgstr ""
+msgstr "检测记录数据内嵌文献？：选择是否导入 MARC 记录中内嵌（952 字段）的文献数据（如果你加载的文件是一个书目文件）"
 
 #: ../../source/cataloging.rst:585
 msgid "|checkitems|"
@@ -846,11 +838,11 @@ msgstr ""
 
 #: ../../source/cataloging.rst:587
 msgid "Always add items: always add items regardless of matching status"
-msgstr ""
+msgstr "总是新增文献：不论匹配状态如何总是新增文献"
 
 #: ../../source/cataloging.rst:589
 msgid "Add items only if matching bib was found: this will only add items to existing records in your catalog"
-msgstr ""
+msgstr "只有目录匹配才新增文献：只在已有目录记录中添加文献"
 
 #: ../../source/cataloging.rst:592
 msgid "Add items only if no matching bib was found: this will only add items to the new records you're importing, not the ones that already exist"
@@ -862,15 +854,15 @@ msgstr ""
 
 #: ../../source/cataloging.rst:601
 msgid "Itemnumbers take precedence over barcodes"
-msgstr ""
+msgstr "文献号优先于条码号"
 
 #: ../../source/cataloging.rst:603
 msgid "Ignore items: this will not add any items"
-msgstr ""
+msgstr "忽略文献：不添加任何文献"
 
 #: ../../source/cataloging.rst:605
 msgid "Save profile: you can choose to save the chosen settings under a profile to use again later"
-msgstr ""
+msgstr "保存配置：可以设置到文件以备后用"
 
 #: ../../source/cataloging.rst:608
 msgid "|saveprofile|"
@@ -879,11 +871,11 @@ msgstr ""
 #: ../../source/cataloging.rst:610
 #, fuzzy
 msgid "Click 'Stage for import'"
-msgstr "勾選 '新增紀錄'"
+msgstr "点击“导入缓存”"
 
 #: ../../source/cataloging.rst:612
 msgid "The record staging will be treated as a background job. A progress bar will let you know how the job is progressing."
-msgstr ""
+msgstr "记录缓存后会在后台继续运行。进度条会显示当前运行完成状态。"
 
 #: ../../source/cataloging.rst:615
 msgid "|stageenqueued|"
@@ -891,12 +883,11 @@ msgstr ""
 
 #: ../../source/cataloging.rst:617
 msgid "Click 'View detail of the enqueued job' to see the summary of the staging"
-msgstr ""
+msgstr "点击“查看排队任务细节”可以看到缓存概况"
 
 #: ../../source/cataloging.rst:619 ../../source/cataloging.rst:731
-#, fuzzy
 msgid "You will be presented with a confirmation of your MARC import"
-msgstr "未鍵入資料則出現確認書目號的訊息"
+msgstr "你会看到导入 MARC 的确认信息"
 
 #: ../../source/cataloging.rst:621 ../../source/cataloging.rst:733
 msgid "|detailsstagingjob|"
@@ -904,46 +895,43 @@ msgstr ""
 
 #: ../../source/cataloging.rst:623
 msgid "Number of records in file"
-msgstr ""
+msgstr "文件中的记录数"
 
 #: ../../source/cataloging.rst:625
-#, fuzzy
 msgid "Number of records with MARC errors"
-msgstr "將以 MARC 編輯器打開此紀錄"
+msgstr "错误 MARC 记录数"
 
 #: ../../source/cataloging.rst:627
 msgid "Number of records staged"
-msgstr ""
+msgstr "缓存记录数"
 
 #: ../../source/cataloging.rst:629
 msgid "Number of records matching existing records in the catalog"
-msgstr ""
+msgstr "匹配已有书目的记录数"
 
 #: ../../source/cataloging.rst:631
 msgid "Number of items staged"
-msgstr ""
+msgstr "缓存文献数"
 
 #: ../../source/cataloging.rst:633
 msgid "To complete the process, continue to the :ref:`Manage staged records tool <staged-marc-record-management-label>` by clicking on the 'View batch' link."
-msgstr ""
+msgstr "处理完成，点击“查看批处理”使用 :ref:`管理缓存记录工具 <staged-marc-record-management-label>`。"
 
 #: ../../source/cataloging.rst:637
 msgid "If these records are to be used in acquisitions, you can stop here and add these records to a basket by :ref:`ordering from a staged file<order-from-a-staged-file-label>`"
 msgstr ""
 
 #: ../../source/cataloging.rst:644
-#, fuzzy
 msgid "Managing staged records"
-msgstr "合併紀錄"
+msgstr "管理缓存记录"
 
 #: ../../source/cataloging.rst:646
-#, fuzzy
 msgid "*Get there:* More > Cataloging > Import > Manage staged records"
-msgstr "*到那：* 其他 > 編目"
+msgstr "*在这里：* 更多 > 编目 > 导入 > 管理缓存记录"
 
 #: ../../source/cataloging.rst:648
 msgid "Once you have :ref:`staged your records for import<stage-marc-records-for-import-label>` you can complete the import using this tool."
-msgstr ""
+msgstr "一旦已经 :ref:`缓存了导入记录<stage-marc-records-for-import-label>`就可以用此工具完成导入。"
 
 #: ../../source/cataloging.rst:651 ../../source/cataloging.rst:769
 #: ../../source/cataloging.rst:3200
@@ -952,35 +940,34 @@ msgstr ""
 
 #: ../../source/cataloging.rst:653
 msgid "From the list of staged files, click on the file name that you want to finish importing"
-msgstr ""
+msgstr "从缓存文件列表点击想要完成导入的文件名"
 
 #: ../../source/cataloging.rst:656
 msgid "Note that records that have already been imported will say so under 'Status'"
-msgstr ""
+msgstr "注意那些已经导入的记录“状态”会显示"
 
 #: ../../source/cataloging.rst:661
 msgid "If you're coming directly from the :ref:`Stage records for import tool<stage-marc-records-for-import-label>` you will not see this list of staged files, you will be taken automatically to the right file summary"
-msgstr ""
+msgstr "如果你是直接从 :ref:`缓存记录导入工具<stage-marc-records-for-import-label>` 转入到这里就不会看到这个缓存文件列表，你会看到文件的概况"
 
 #: ../../source/cataloging.rst:666
 msgid "A summary of your staged file will appear along with the option to change your matching rules"
-msgstr ""
+msgstr "导入文件概况会显示可修改的匹配规则选项"
 
 #: ../../source/cataloging.rst:669
-#, fuzzy
 msgid "|managestagedrecords|"
-msgstr "合併紀錄"
+msgstr ""
 
 #: ../../source/cataloging.rst:671
 msgid "Below the summary is the option to import the batch of records using a specific framework"
-msgstr ""
+msgstr "下面的概况选择批记录导入使用的框架"
 
 #: ../../source/cataloging.rst:674
 msgid "|importframework|"
 msgstr ""
 
 #: ../../source/cataloging.rst:676
-msgid "Choosing a framework other than 'Default' isn't necessary, but it's helpful for running reports."
+msgid "选择一个不同于'Default'的框架非必须，但有助于生成报告。"
 msgstr ""
 
 #: ../../source/cataloging.rst:679
@@ -988,9 +975,8 @@ msgid "Below the framework selection there will be a list of the records that wi
 msgstr ""
 
 #: ../../source/cataloging.rst:682
-#, fuzzy
 msgid "|stagedrecords|"
-msgstr "合併紀錄"
+msgstr ""
 
 #: ../../source/cataloging.rst:684
 msgid "Review your summary before completing your import to make sure that your matching rule worked and that the records appear as you expect them to"

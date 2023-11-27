@@ -23,55 +23,55 @@ msgstr ""
 
 #: ../../source/erm.rst:6
 msgid "E-Resource management"
-msgstr ""
+msgstr "电子资源管理"
 
 #: ../../source/erm.rst:11
 msgid "Search Bar"
-msgstr ""
+msgstr "检索条"
 
 #: ../../source/erm.rst:13
-msgid "The search bar allows you to quickly search agreement records and (Local) packages or titles. Packages or titles from third-party knowledge bases are not searchable from here. Go to the eHoldings link to search these."
+msgid "检索条可以快速检索协议记录和（本地）包或者题名。包或者题名来自不能检索第三方知识库。到电子馆藏链接检索这些。"
 msgstr ""
 
 #: ../../source/erm.rst:23
 msgid "ERM Home Page"
-msgstr ""
+msgstr "电子资源管理主页"
 
 #: ../../source/erm.rst:25 ../../source/erm.rst:291
 msgid "Get there: More > E-Resource management"
-msgstr ""
+msgstr "在这里：更多 > 电子资源管理"
 
 #: ../../source/erm.rst:32
 msgid "Agreements"
-msgstr ""
+msgstr "协议"
 
 #: ../../source/erm.rst:34
 msgid "In ERM terms, Agreements describe what electronic subscriptions you can access whereas Licenses are used to describe what you can do with those resources."
-msgstr ""
+msgstr "在 ERM（电子资源管理）的术语中，协议描述哪些订阅的电子资源可以访问，而许可则描述了可以对这些资源进行什么操作。"
 
 #: ../../source/erm.rst:39
 msgid "Set up"
-msgstr ""
+msgstr "创建"
 
 #: ../../source/erm.rst:41
 msgid "Before you start to create new Agreement records, ensure your staff users have the :ref:`user permission <patron-permissions-label>` to work with ERM records and that you have reviewed the :ref:`ERM\\_ authorized values <authorized-values-label>` to suit your needs. Also, ensure you have reviewed the :ref:`ERM system preferences <erm-system-preferences-label>`."
-msgstr ""
+msgstr "在开始创建新的协议记录前，确保你已经根据需要查看过 :ref:`ERM\\_ 授权值 <authorized-values-label>` 并让用户具有了修改 ERM 记录的 :ref:`用户权限 <patron-permissions-label>`。同时也要确保你已经查看过 :ref:`ERM 系统参数 <erm-system-preferences-label>`。"
 
 #: ../../source/erm.rst:47
 msgid "Create an Agreement record"
-msgstr ""
+msgstr "创建一条协议记录"
 
 #: ../../source/erm.rst:49 ../../source/erm.rst:131
 msgid "From the ERM Home page click on the Agreements link in the left hand menu"
-msgstr ""
+msgstr "在 ERM 主页点击左手边菜单的 *协议* 链接"
 
 #: ../../source/erm.rst:52 ../../source/erm.rst:134
 msgid "Get there: More > E-Resource management > Agreements"
-msgstr ""
+msgstr "*在这里：* 更多 > 电子资源管理 > 协议"
 
 #: ../../source/erm.rst:54
 msgid "Use the + New Agreement button at the top of the Agreements table"
-msgstr ""
+msgstr "使用协议页面顶部的“+ 新协议”按钮"
 
 #: ../../source/erm.rst:58
 msgid "You are required to give the Agreement a Name, Description and Status. The status determines if this agreement is active or not. All other fields are optional."

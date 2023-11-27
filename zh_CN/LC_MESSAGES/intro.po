@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: Koha Manual 22.11\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-05-25 17:20-0300\n"
-"PO-Revision-Date: 2023-11-13 10:59+0800\n"
+"PO-Revision-Date: 2023-11-24 16:07+0800\n"
 "Last-Translator: tiffany <407040483@gapp.fju.edu.tw>\n"
 "Language-Team: Koha Translation Team\n"
 "Language: zh_TW\n"
@@ -51,23 +51,23 @@ msgstr "使用本手册"
 
 #: ../../source/intro.rst:35
 msgid "This manual is always changing and suggestions for edits can be sent to the Koha documentation team as a merge request via gitlab or via the `koha-docs mailing list <https://lists.koha-community.org/cgi-bin/mailman/listinfo/koha-docs>`__."
-msgstr "本手册在不断完善之中，如果您有编辑的建议可以通过 GitLab 或者`koha-docs 邮件列表 <https://lists.koha-community.org/cgi-bin/mailman/listinfo/koha-docs>` __ 给 Koha 文档小组提交一个合并请求。"
+msgstr "本手册在不断完善中，如果您有编辑的建议可以通过 GitLab 或者 `koha-docs 邮件列表 <https://lists.koha-community.org/cgi-bin/mailman/listinfo/koha-docs>`__ 给 Koha 文档小组提交一个合并请求。"
 
 #: ../../source/intro.rst:40
 msgid "If you see an error or something missing, please file a bug report on `bugzilla <https://bugs.koha-community.org>`__ using the module 'Documentation'. You can also send an email to the `koha-docs mailing list <http://lists.koha-community.org/cgi-bin/mailman/listinfo/koha-docs>`__."
-msgstr "如果如果您看到有错误或者其它问题，请在 `bugzilla <https://bugs.koha-community.org>`__ 的文档模块提交问题报告。您也可以发送邮件到 `koha-docs 邮件列表 <http://lists.koha-community.org/cgi-bin/mailman/listinfo/koha-docs>`__。"
+msgstr "如果如果你看到有错误或者其它问题，请在 `bugzilla <https://bugs.koha-community.org>`__ 的文档模块提交问题报告。你也可以发送邮件到 `koha-docs 邮件列表 <http://lists.koha-community.org/cgi-bin/mailman/listinfo/koha-docs>`__。"
 
 #: ../../source/intro.rst:45
 msgid "The manual is organized by Koha module. At the start of most sections (and throughout) you will find 'Get there' tips. These lines tell you how to get to the section in Koha."
-msgstr "手册是按照 Koha 的模块组织的。在每个部分的开始都会有“在这里”的提示。这告诉您在 Koha 系统中如何找到对应部分。"
+msgstr "手册是按照 Koha 的模块组织的。在每个部分的开始都会有“在这里”的提示。这告诉您在 Koha 系统中如何找到对应内容。"
 
 #: ../../source/intro.rst:49
 msgid "For example: *Get there:* More > Administration > Global system preferences"
-msgstr "例如：*在这里：*更多 > 管理 > 全局系统参数"
+msgstr "例如：*在这里：* 更多 > 管理 > 全局系统参数"
 
 #: ../../source/intro.rst:52
 msgid "The instruction tells you where to find the necessary menu option at the top of the Koha staff client."
-msgstr "这会告诉您所要找的菜单选项在 Koha 馆员端顶部的哪里。"
+msgstr "这会告诉你所要找的菜单选项在 Koha 馆员端顶部的哪里。"
 
 #: ../../source/intro.rst:55
 msgid "Links will be found throughout the manual to other sections in the manual and images will depict what should be seen on the screen."
@@ -95,28 +95,28 @@ msgstr "参与手册做贡献的说明在 Koha 维基 Koha wiki https://wiki.koh
 
 #: ../../source/intro.rst:80
 msgid "Contributing to Koha"
-msgstr "此手册的贡献者"
+msgstr "参与 Koha"
 
 #: ../../source/intro.rst:82
 msgid "As an open source project, contributions are of course not limited to the documentation, but are also welcomed and encouraged for all aspects of the project."
-msgstr "做為開放源碼的計畫，不以奉獻文獻為限，歡迎並鼓勵各層面的奉獻。"
+msgstr "作为开源项目，贡献不仅仅局限于文档，也欢迎对于项目其他各个层面的参与和贡献。"
 
 #: ../../source/intro.rst:86
 msgid "If you're interesting in contributing new features, bugfixes or even just bug reports to koha it's worth familiarizing yourself with our release and development procedures as outlined at the following places:"
-msgstr "貢獻新功能、修改錯誤或報告錯誤，都需要從下方的網頁熟悉 Koha 的釋出及發展程序："
+msgstr "如果你对新功能、修正问题甚至提交 Koha 每个版本的问题以及开发进程等感兴趣可以参考："
 
 #: ../../source/intro.rst:90
 msgid "`Code of Conduct <https://koha-community.org/about/policy/code-of-conduct/>`_"
-msgstr "`行為準則 <https://koha-community.org/about/policy/code-of-conduct/>`_"
+msgstr "`代码规范 <https://koha-community.org/about/policy/code-of-conduct/>`_"
 
 #: ../../source/intro.rst:91
 msgid "`Release Cycle <https://koha-community.org/about/release-schedule/>`_"
-msgstr "`釋出週期 <https://koha-community.org/about/release-schedule/>`_"
+msgstr "`发布周期 <https://koha-community.org/about/release-schedule/>`_"
 
 #: ../../source/intro.rst:92
 msgid "`Developer Handbook <https://wiki.koha-community.org/wiki/Developer_handbook>`_"
-msgstr "`發展者手冊 <https://wiki.koha-community.org/wiki/Developer_handbook>`_"
+msgstr "`开发者手册 <https://wiki.koha-community.org/wiki/Developer_handbook>`_"
 
 #: ../../source/intro.rst:93
 msgid "`Development Workflow <https://wiki.koha-community.org/wiki/Development_workflow>`_"
-msgstr "`發展流程 <https://wiki.koha-community.org/wiki/Development_workflow>`_"
+msgstr "`开发流程 <https://wiki.koha-community.org/wiki/Development_workflow>`_"

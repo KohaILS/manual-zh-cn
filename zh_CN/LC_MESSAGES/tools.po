@@ -538,37 +538,35 @@ msgstr "Koha 的工具都是執行特定工作之用。其他的圖書館管理�
 
 #: ../../source/tools.rst:12
 msgid "*Get there:* More > Tools"
-msgstr "*到那裡：* 更多 > 工具"
+msgstr "*在这里：* 更多 > 工具"
 
 #: ../../source/tools.rst:17
 msgid "Patrons and circulation"
-msgstr "讀者和流通"
+msgstr "读者和流通"
 
 #: ../../source/tools.rst:22
 msgid "Patron lists"
-msgstr "讀者清單"
+msgstr "读者清单"
 
 #: ../../source/tools.rst:24
 msgid "*Get there:* More > Tools > Patrons and circulation > Patron lists"
-msgstr "*到那裡：* 更多 > 工具 > 讀者與流通 > 讀者清單"
+msgstr "*在这里：* 更多 > 工具 > 读者与流通 > 读者清单"
 
 #: ../../source/tools.rst:26
 msgid "Patron lists are a way to store a group of patrons for easy modification via the :ref:`batch patron modification tool <batch-patron-modification-label>` or reporting."
-msgstr "讀者清單是儲存讀者群組的地方，可以經由 :ref:`批次修改讀者工具 <batch-patron-modification-label>` 或報表修改讀者。"
+msgstr "读者清单是存储读者群的地方，可以通过 :ref:`批次读者修改工具 <batch-patron-modification-label>` 或报表修改读者。"
 
 #: ../../source/tools.rst:30
-#, fuzzy
 msgid "|patronlists|"
-msgstr "讀者清單"
+msgstr ""
 
 #: ../../source/tools.rst:32
 msgid "To create a new list of patrons click the 'New patron list' button"
 msgstr "點選 '新增讀者清單' 鈕，就能新增讀者清單"
 
 #: ../../source/tools.rst:34
-#, fuzzy
 msgid "|newpatronlist|"
-msgstr "讀者清單"
+msgstr ""
 
 #: ../../source/tools.rst:36
 msgid "Enter a list name."

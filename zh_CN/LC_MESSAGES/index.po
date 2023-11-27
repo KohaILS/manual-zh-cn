@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: Koha Manual 22.11\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-05-25 17:20-0300\n"
-"PO-Revision-Date: 2023-11-10 15:05+0800\n"
+"PO-Revision-Date: 2023-11-24 15:25+0800\n"
 "Last-Translator: Anthony MAO <mao@lins.fju.edu.tw>\n"
 "Language-Team: Koha Translation Team\n"
 "Language: zh_TW\n"
@@ -19,7 +19,7 @@ msgstr ""
 
 #: ../../source/index.rst:3
 msgid "Koha |release| Manual (en)"
-msgstr "Koha | 版本 | 手册（简体中文）"
+msgstr "Koha | 版本 | 手册（zh_CN）"
 
 #: ../../source/index.rst:5
 msgid "Author: The Koha Community"
