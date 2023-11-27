@@ -4,74 +4,74 @@ msgstr ""
 "Project-Id-Version: Koha Manual 22.11\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-10-26 13:37+0000\n"
-"PO-Revision-Date: 2023-03-28 01:26+0000\n"
+"PO-Revision-Date: 2023-11-27 15:20+0800\n"
 "Last-Translator: Saralin <c108126114@nkust.edu.tw>\n"
 "Language-Team: Koha Translation Team\n"
 "Language: zh_TW\n"
 "MIME-Version: 1.0\n"
-"Content-Type: application/x-publican; charset=UTF-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Pootle 2.8\n"
+"X-Generator: Poedit 3.2.2\n"
 "X-Pootle-Path: /zh_TW/manual22.11/faq.po\n"
 "X-Pootle-Revision: 1\n"
 "X-POOTLE-MTIME: 1679966762.273758\n"
 
 #: ../../source/faq.rst:6
 msgid "FAQs"
-msgstr "答客問"
+msgstr "常见问题"
 
 #: ../../source/faq.rst:11
 msgid "Installation"
-msgstr "安裝"
+msgstr "安装"
 
 #: ../../source/faq.rst:13
 msgid "**Question:** How can I find out what version of Koha I am using?"
-msgstr "**問：** 如何確認我使用的 Koha 版本？"
+msgstr "**问：** 如何确认我使用的 Koha 版本？"
 
 #: ../../source/faq.rst:15
 msgid "**Answer:** The easiest way to find out your Koha version is taking a look at the About page of the staff interface."
-msgstr "**回答：** 從館員介面點選關於頁面，就能簡單看到 Koha 版本。"
+msgstr "**答：** 最简单的查看 Koha 版本的方法就是查看馆员端的关于页面。"
 
 #: ../../source/faq.rst:18
 msgid "You can also find out from the OPAC by taking a look at the HTML source. It will look something like:"
-msgstr "從 OPAC 就能查看 HTML 原始碼。看起來類似這樣："
+msgstr "也可以在 OPAC 端查看 HTML 源代码。大概这样："
 
 #: ../../source/faq.rst:25
 msgid "**Question:** Should I use the Debian packages or the tarball to install Koha?"
-msgstr "**詢問：** 安裝 Koha 時，應使用 Debian 套件或 tarball?"
+msgstr "**问：** 安装 Koha 时应该使用 Debian 软件包还是压缩包？"
 
 #: ../../source/faq.rst:27
 msgid "**Answer:** For the beginning user, it is highly recommended to use the package install of Koha - it provides many simple commands to do powerful things to your Koha installation. Packages should almost always be your choice of install on an ordinary production Koha install. A relative minimum of system administration skill is required to install Koha using the Debian packages."
-msgstr "**答：** 對初學者而言，強力推薦使用 Debian 套件安裝 Koha - 以簡單又強大的命令安裝 Koha。套件永遠是安裝 Koha 的首選。以少許系統管理技術就能以 Debian 套件安裝 Koha."
+msgstr "**答：** 对新手而言，强烈推荐使用 Koha 安装包——可以使用简单易用的安装命令。安装包永远是 Koha 初始产品安装的首选。使用 Koha 的 Debian 安装包需要一定的系统管理技术。"
 
 #: ../../source/faq.rst:34
 msgid "Instructions for using the packages with `Debian <https://wiki.koha-community.org/wiki/Debian>`_."
-msgstr "從 `Debian <https://wiki.koha-community.org/wiki/Debian>`_ 找到安裝的套件。"
+msgstr "`Debian <https://wiki.koha-community.org/wiki/Debian>`_ 安装包说明在这里。"
 
 #: ../../source/faq.rst:36
 msgid "Installing from tarball or git is the only option for people not installing on Debian or Ubuntu."
-msgstr "安裝在 Debian 或 Ubuntu 以外作業系統時，採用 tarball 或 git 是唯一的選擇。"
+msgstr "在 Debian 或 Ubuntu 之外的操作系统安装 Koha 时，采用 tarball 压缩包或 git 是唯一选择。"
 
 #: ../../source/faq.rst:38
 msgid "Developers should give the `KohaDevBox <https://gitlab.com/koha-community/kohadevbox>`_ a look, it's the easiest, quickest way to get a Developer instance of Koha going."
-msgstr "軟體發展者應查看 `KohaDevBox <https://gitlab.com/koha-community/kohadevbox>`_ 的內容，能夠找到發展者可用的 Koha 實例。"
+msgstr "开发者应该查看 `KohaDevBox <https://gitlab.com/koha-community/kohadevbox>`_ ，这是找到 Koha 开发者实例的最简单方式。"
 
 #: ../../source/faq.rst:44
 msgid "OPAC and staff interface"
-msgstr "OPAC 與館員介面"
+msgstr "OPAC 和馆员端"
 
 #: ../../source/faq.rst:49
 msgid "Cookies"
-msgstr "快取"
+msgstr "Cookie"
 
 #: ../../source/faq.rst:51
 msgid "**Question:** What cookies does Koha use?"
-msgstr "**詢問**：Koha 使用那些快取?"
+msgstr "**问：** Koha 使用哪些 Cookie？"
 
 #: ../../source/faq.rst:53
 msgid "**Answer:** The cookies Koha uses on the OPAC and in the staff interface are documented in the Koha Community wiki:"
-msgstr "**回答：** Koha 在 OPAC 與館員介面用到的快取都列在 Koha Community wiki："
+msgstr "**答：** Koha 在 OPAC 和馆员端用到的 Cookie 都列在 Koha Community 维基："
 
 #: ../../source/faq.rst:56
 msgid "https://wiki.koha-community.org/wiki/Use_of_Cookies"
@@ -79,66 +79,63 @@ msgstr "https://wiki.koha-community.org/wiki/Use_of_Cookies"
 
 #: ../../source/faq.rst:62
 msgid "Custom item type/authorized value icons"
-msgstr "客製化館藏類型/容許值圖示"
+msgstr "定制文献类型/规范值图标"
 
 #: ../../source/faq.rst:64
 msgid "**Question:** Can I have my own set of item type images (or authorized value icons)?"
-msgstr "**問：** 可以客製化自己的館藏類型 (或容許值) 圖示嗎？"
+msgstr "**问：** 可以定制自己的馆藏类型图（或规范值图标）吗？"
 
 #: ../../source/faq.rst:67
 msgid "**Answer:** Absolutely. To add additional icons to your system you simply add a new directory to koha-tmpl/intranet-tmpl/prog/img/itemtypeimg/ and to koha-tmpl/opac-tmpl/bootstrap/itemtypeimg and put your icons in the new directory. Your icons will show up in a new tab as soon as they are in the folders."
-msgstr "**答：**一定可以的。新增一個資料夾於 koha-tmpl/intranet-tmpl/prog/img/itemtypeimg/ 與 koha-tmpl/opac-tmpl/prog/itemtypeimg 內，再把新增的圖示置入其中。您的圖示將顯示在新的分頁裡。"
+msgstr "**答：** 当然可以。为你的系统新增一个图标，只需向 koha-tmpl/intranet-tmpl/prog/img/itemtypeimg/ 和 koha-tmpl/opac-tmpl/prog/itemtypeimg 新建一个文件夹，并将图标放入其内。然后该图标将在新的分页内显示。"
 
 #: ../../source/faq.rst:74 ../../source/faq.rst:361 ../../source/faq.rst:1431
 msgid "**Note**"
-msgstr "**說明**"
+msgstr "**注记**"
 
 #: ../../source/faq.rst:76
 msgid "Remember to put the icons in both places (on the OPAC and the intranet)."
-msgstr "記兩個地方都要放圖示 (OPAC 與館員介面)。"
+msgstr "注意要两个地方都放图标（OPAC 端和馆员端）。"
 
 #: ../../source/faq.rst:82
 msgid "Customizing Koha images"
-msgstr "客製化 Koha 圖示"
+msgstr "定制 Koha 图像"
 
 #: ../../source/faq.rst:84
 msgid "**Question**: Can I customize the images in the OPAC?"
-msgstr "**問**：可以客製化 OPAC 內的圖片嗎？"
+msgstr "**问：** 可以定制 OPAC 的图项吗？"
 
 #: ../../source/faq.rst:86
 msgid "**Answer**: Absolutely. Koha comes with a series of original images that you can alter to meet your needs. The originals can be found in the misc/interface\\_customization/ directory."
-msgstr "**答**：一定可以的。Koha 預設若干圖片供您選用。置於 misc/interface\\_customization/ 資料夾內。"
+msgstr "**答：** 当然可以。Koha 预设了一些图像备用，在文件夹 misc/interface\\_customization/ 内。"
 
 #: ../../source/faq.rst:93
 msgid "OPAC display fields"
-msgstr "OPAC 顯示欄位"
+msgstr "OPAC 显示字段"
 
 #: ../../source/faq.rst:95
 msgid "**Question**: What MARC fields print to the different OPAC screens in Koha?"
-msgstr "**問**：可以在 Koha 的 OPAC 顯示不同的 MARC 欄位嗎？"
+msgstr "**问：** 哪些 MARC 字段可以在 Koha 的 OPAC 显示？"
 
 #: ../../source/faq.rst:98
 msgid "**Answer**: The XSLT preference must be set as follows for the following fields to show"
-msgstr "**答**：必須設定 XSLT 偏好才能顯示以下的欄位"
+msgstr "**答：** 必须设定下列 XSLT 参数才能显示"
 
 #: ../../source/faq.rst:101
-#, fuzzy
 msgid ":ref:`OPACXSLTResultsDisplay <OPACXSLTResultsDisplay-label>` = using XSLT stylesheets"
-msgstr ":ref:`OPACXSLTResultsDisplay` = 使用 XSLT 樣式表"
+msgstr ":ref:`OPACXSLTResultsDisplay <OPACXSLTResultsDisplay-label>` = 使用 XSLT 样式表"
 
 #: ../../source/faq.rst:104
-#, fuzzy
 msgid ":ref:`OPACXSLTDetailsDisplay <OPACXSLTDetailsDisplay-label>` = using XSLT stylesheets"
-msgstr ":ref:`OPACXSLTDetailsDisplay` = 使用 XSLT 樣式表"
+msgstr ":ref:`OPACXSLTDetailsDisplay <OPACXSLTDetailsDisplay-label>` = 使用 XSLT 样式表"
 
 #: ../../source/faq.rst:107
-#, fuzzy
 msgid ":ref:`DisplayOPACiconsXSLT <DisplayOPACiconsXSLT-label>` = show"
-msgstr ":ref:`DisplayOPACiconsXSLT` = 顯示"
+msgstr ":ref:`DisplayOPACiconsXSLT <DisplayOPACiconsXSLT-label>` = 显示"
 
 #: ../../source/faq.rst:109
 msgid "The OPAC results page shows:"
-msgstr "OPAC 結果頁面顯示："
+msgstr "OPAC 结果页面显示："
 
 #: ../../source/faq.rst:111 ../../source/faq.rst:127
 msgid "245"
@@ -170,7 +167,7 @@ msgstr "856"
 
 #: ../../source/faq.rst:125
 msgid "The OPAC details page shows:"
-msgstr "OPAC 詳情頁面顯示："
+msgstr "OPAC 详细页面显示："
 
 #: ../../source/faq.rst:133
 msgid "440, 490"
@@ -226,7 +223,7 @@ msgstr "785"
 
 #: ../../source/faq.rst:167
 msgid "plus all of the 5xx fields in the 'Notes' tab at the bottom"
-msgstr "加在下方 '附註' 分頁顯示所有的 5xx 欄位"
+msgstr "将所有的 5xx 字段放在下方的“附注”中"
 
 #: ../../source/faq.rst:172
 msgid "Show patrons the barcodes of items they have checked out"
@@ -551,7 +548,7 @@ msgstr "權威"
 #: ../../source/faq.rst:454
 #, fuzzy
 msgid "**Question:** Why can't I edit 1xx, 6xx, or 7xx fields in my bibliographic record?"
-msgstr "**問：** 為什麼不能在我的目錄紀錄裡編輯 1xx、6xx、或 7xx 等欄位？"
+msgstr "**问：** 為什麼不能在我的目錄紀錄裡編輯 1xx、6xx、或 7xx 等欄位？"
 
 #: ../../source/faq.rst:457
 msgid "|lockedauthority|"
@@ -1401,7 +1398,7 @@ msgstr "ILL"
 
 #: ../../source/faq.rst:1046
 msgid "Records changes to :ref:`ILL requests<ill-requests-label>`."
-msgstr "記錄對 :ref:`ILL 請求<ill-requests-label>`的更改"
+msgstr "记录 :ref:`馆际互借申请<ill-requests-label>`的修改。"
 
 #: ../../source/faq.rst:1050
 msgid "PATRON\\_NOTICE: a notice was sent to a patron regarding their ILL request"

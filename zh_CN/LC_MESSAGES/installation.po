@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: Koha Manual 22.11\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-10-26 13:37+0000\n"
-"PO-Revision-Date: 2023-11-24 16:33+0800\n"
+"PO-Revision-Date: 2023-11-27 17:20+0800\n"
 "Last-Translator: Saralin <c108126114@nkust.edu.tw>\n"
 "Language-Team: Koha Translation Team\n"
 "Language: zh_TW\n"
@@ -219,7 +219,7 @@ msgstr "**安装起始界面**"
 
 #: ../../source/installation.rst:61
 msgid "This is the first screen of the web installer."
-msgstr "这是网页安装器的第一个界面。"
+msgstr "这是网页安装器的第一个画面。"
 
 #: ../../source/installation.rst:63
 msgid "|image1166|"
@@ -227,7 +227,7 @@ msgstr ""
 
 #: ../../source/installation.rst:65
 msgid "Web installer start screen"
-msgstr "网页安装器起始界面"
+msgstr "网页安装器起始画面"
 
 #: ../../source/installation.rst:67
 msgid "*Language picker* dropdown box: This is specifying the language you want Koha to be in."
@@ -247,7 +247,7 @@ msgstr "安装器探测已安装的 perl 模块"
 
 #: ../../source/installation.rst:77
 msgid "This screen tells you that the installer has all the dependencies it needs, to create the database in the next screen."
-msgstr "此界面显示安装器依赖的模块，下个界面创建数据库。"
+msgstr "此画面显示安装器依赖的模块，下个画面将创建数据库。"
 
 #: ../../source/installation.rst:79
 msgid "|image1167|"
@@ -267,11 +267,11 @@ msgstr "数据库设定"
 
 #: ../../source/installation.rst:88
 msgid "This screen informs you of the database settings and asks you to confirm them by clicking the *Continue to the next step* button."
-msgstr "此畫面會列出資料庫的設定值，並請您按下*繼續下個步驟* 代表確認設定值無誤。"
+msgstr "此画面信息为数据库设定，确认无误则点击“继续下一步”按钮。"
 
 #: ../../source/installation.rst:91
 msgid "For the majority of users these settings should be correct, if not then you should contact your support provider."
-msgstr "這些設定對大多數使用者來說是不會有問題的，否則您應請求支援。"
+msgstr "对大多数用户来说这些信息都是正确的，如果不正确需要联系管理员。"
 
 #: ../../source/installation.rst:93
 msgid "|image1168|"
@@ -279,19 +279,19 @@ msgstr ""
 
 #: ../../source/installation.rst:97
 msgid "**Database settings:** Check these database settings are correct."
-msgstr "**資料庫設定：** 確認資料庫設定值無誤。"
+msgstr "**数据库设定：** 检查数据库设定是否正确。"
 
 #: ../../source/installation.rst:98
 msgid "Click the *Continue to the next step* button to confirm the database settings"
-msgstr "按 *繼續下個步驟* 以完成確認資料庫的設定"
+msgstr "点击 *继续下一步* 按钮确认数据库设定"
 
 #: ../../source/installation.rst:102
 msgid "**Connection established**"
-msgstr "**連結已建立**"
+msgstr "**连接已建立**"
 
 #: ../../source/installation.rst:104
 msgid "After you click the *Next* button the database connection is confirmed:"
-msgstr "按了 *下一步* 將確立資料庫的連結："
+msgstr "点击 *下一步* 按钮后与数据库的连接将确认："
 
 #: ../../source/installation.rst:106
 msgid "|image1169|"
@@ -299,27 +299,27 @@ msgstr ""
 
 #: ../../source/installation.rst:108
 msgid "Database connection established"
-msgstr "資料庫連結已建立"
+msgstr "已建立数据库连接"
 
 #: ../../source/installation.rst:110
 msgid "**Connection established message:** This informs you that the database has been successfully created."
-msgstr "**連結建立訊息：** 此訊息代表您已成功地建立資料庫。"
+msgstr "**连接已建立信息：** 这代表你已成功地创建数据库。"
 
 #: ../../source/installation.rst:111 ../../source/installation.rst:124
 msgid "Click the *Continue to the next step* button to load the next stage"
-msgstr "按 *繼續下個步驟* 鈕以載入下個階段"
+msgstr "点击 *继续下一步* 按钮加载下一步"
 
 #: ../../source/installation.rst:113
 msgid "If you have database connection difficulties here, the installer will not proceed. Double check the connection information in your koha-conf.xml file, and verify that the permissions and credentials on the database itself are correct."
-msgstr "若資料庫有連結上的困難，安裝器的設定將暫停於此。請再次檢查 koha-conf.xml 檔案的連結資訊，並確認資料庫本身的權限及認證的正確性。"
+msgstr "如果数据库没有连接上，则安装器不会继续运行。再次检查 koha-conf.xml 文件中关于数据库连接的信息，确认关于数据库使用权限和认证是否正确。"
 
 #: ../../source/installation.rst:116
 msgid "Ready to fill tables with data"
-msgstr "準備於資料表單內填入資料"
+msgstr "准备数据库表格的数据"
 
 #: ../../source/installation.rst:118
 msgid "This screen is informing you everything is set up for you to create the database tables in the next screen."
-msgstr "此畫面代表一切已就緒，您可於下個畫面新增資料庫表單。"
+msgstr "此画面信息代表一切就绪，将于下一步创建数据库表。"
 
 #: ../../source/installation.rst:120
 msgid "|image1170|"
@@ -327,15 +327,15 @@ msgstr ""
 
 #: ../../source/installation.rst:122
 msgid "Database ready for data"
-msgstr "資料庫等待接收資料"
+msgstr "数据库准备接受数据"
 
 #: ../../source/installation.rst:127
 msgid "This step can take some time. Please be patient."
-msgstr "完成此步驟需要花一點時間。請耐心等待。"
+msgstr "这一步骤会花费一些时间。请耐心等待。"
 
 #: ../../source/installation.rst:130 ../../source/installation.rst:134
 msgid "Database tables created"
-msgstr "新增資料庫表"
+msgstr "创建数据库表"
 
 #: ../../source/installation.rst:132
 msgid "|image1171|"
@@ -343,15 +343,15 @@ msgstr ""
 
 #: ../../source/installation.rst:136 ../../source/installation.rst:147
 msgid "Click the *Continue to the next step* button"
-msgstr "按 *繼續下個步驟*"
+msgstr "点击 *继续下一步* 按钮"
 
 #: ../../source/installation.rst:139 ../../source/installation.rst:145
 msgid "Ready for basic configurations"
-msgstr "準備進行基本設定"
+msgstr "准备进行基本设置"
 
 #: ../../source/installation.rst:141
 msgid "This screen leads onto installing basic configurations necessary to use Koha."
-msgstr "此畫面導向並進行Koha操作時所必備的設置。"
+msgstr "此画面说明将进行使用 Koha 系统所需的基本配置。"
 
 #: ../../source/installation.rst:143
 msgid "|image1172|"
@@ -359,11 +359,11 @@ msgstr ""
 
 #: ../../source/installation.rst:150 ../../source/installation.rst:156
 msgid "Select MARC flavour"
-msgstr "選擇您的 MARC 類型"
+msgstr "选择 MARC 类型"
 
 #: ../../source/installation.rst:152
 msgid "You must choose your MARC flavour (format you want the bibliographic (catalog) records to be stored in the database) on this screen:"
-msgstr "必須在此畫面選擇 MARC 類型 (儲存於資料庫的書目 (目錄) 紀錄格式)："
+msgstr "在此步必须选择 MARC 类型（书目记录存储于数据库中的格式）："
 
 #: ../../source/installation.rst:154
 msgid "|image1173|"
@@ -371,27 +371,27 @@ msgstr ""
 
 #: ../../source/installation.rst:158
 msgid "**Unimarc:** This is frequently used in European countries (except for the UK) such as Italy."
-msgstr "**Unimarc：** 義大利等歐洲國家 (不含英國) 慣用的格式。"
+msgstr "**Unimarc：** 常用于欧洲国家（不包括英国），如意大利。"
 
 #: ../../source/installation.rst:160
 msgid "**MARC21:** Selected by default, as it is more commonly used globally than UNIMARC."
-msgstr "**MARC 21：** 預選的格式，受美國文化影響的地區常使用它。"
+msgstr "**MARC 21：** 默认格式，基本除了 UNIMARC 之外都使用该格式。"
 
 #: ../../source/installation.rst:162
 msgid "Click the *Continue to the next step* button to confirm your choices"
-msgstr "按 *繼續下個步驟* 確認您的選擇"
+msgstr "点击 *继续下一步* 确认选择"
 
 #: ../../source/installation.rst:165
 msgid "MARC21 and UNIMARC setup"
-msgstr "MARC21 與 UNIMARC 的設定"
+msgstr "MARC21 和 UNIMARC 的设置"
 
 #: ../../source/installation.rst:167
 msgid "In the previous screen you either choose MARC21 or UNIMARC as your MARC flavour. This page outlines both."
-msgstr "剛才是選擇 MARC 21 或 UNIMARC 做為 MARC 的格式。此頁面則列出這兩種格式的細節資訊。"
+msgstr "上一步选择了 MARC 21 或 UNIMARC 做为主 MARC 格式。此页面将列出细节。"
 
 #: ../../source/installation.rst:170 ../../source/installation.rst:174
 msgid "MARC21 setup"
-msgstr "MARC 21 設定"
+msgstr "MARC21 设置"
 
 #: ../../source/installation.rst:172
 msgid "|image1174|"
@@ -399,19 +399,19 @@ msgstr ""
 
 #: ../../source/installation.rst:176
 msgid "**Default MARC21 standard authority types:** An authority type is a template of an authority record (stores the search fields used to search an institutions catalog for an item). This option will install sample authority types."
-msgstr "**預設 MARC 21 標準權威類型：** 權威類型是權威紀錄的模板 (用來搜尋機構目錄內館藏的搜尋欄位儲存於此)。此選項將安裝權威類型範例。"
+msgstr "**默认 MARC21 标准规范类型：** 规范类型是规范记录的模板（用来存储用于检索机构目录文献的检索字段）。此选项将安装规范类型样本数据。"
 
 #: ../../source/installation.rst:178
 msgid "**Default MARC21 bibliographic framework:** Following on from the MARC21 selection in the previous screen selecting this checkbox (and the *Import* button) will actually setup the MARC21 bibliographic framework as the desired MARC flavour."
-msgstr "**預設 MARC 21 書目框架：** 在前個畫面選定預設MARC 21的書目框架 (並且點選 *匯入*) 後，系統將會套用此預設的書目框架。"
+msgstr "**默认 MARC21 书目框架：** 在前面步骤中选择 MARC21 （并点选 *导入* ）后，系统将采用 MARC21 书目框架作为默认框架。"
 
 #: ../../source/installation.rst:180
 msgid "**Selected matching rules for MARC21 bibliographic records:** The MARC21 matching rules are used to find all the information about specific bibliographic records using the authority type search values."
-msgstr "**選擇 MARC 21 書目紀錄的對映規則：** MARC 21 對應規則係用來搜尋權威類型時，找出特定書目紀錄的所有資訊。"
+msgstr "**选择 MARC21 书目框架的匹配规则：** MARC21 匹配规则用来检索规范类型时，找到特定书目记录的所有信息。"
 
 #: ../../source/installation.rst:182
 msgid "**'FA', a 'fast add' minimal MARC21 framework suitable for ILL, or on the fly cataloging:** The FA MARC framework displays fewer fields, and allows for faster cataloguing on the fly. Select this checkbox to install this minimal framework."
-msgstr "**'FA'，即 '快速新增' 基本輕量的 MARC 21 框架供館藏互借用，或流通櫃台的即時編目：** FA MARC 框架僅顯示少量欄位達到即時編目的效果。勾選此項目將安裝基本輕量框架。"
+msgstr "**“FA”，即“快速新增”最简的 MARC21 框架记录供馆际互借或流通柜台的即时编目：** FA MARC 框架僅顯示少量欄位達到即時編目的效果。勾選此項目將安裝基本輕量框架。"
 
 #: ../../source/installation.rst:184
 msgid "**Sample MARC21 bibliographic frameworks for some common types of bibliographic material:** This installs the template you will use to create items."

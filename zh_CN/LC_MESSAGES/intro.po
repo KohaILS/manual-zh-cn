@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: Koha Manual 22.11\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-05-25 17:20-0300\n"
-"PO-Revision-Date: 2023-11-24 16:07+0800\n"
+"PO-Revision-Date: 2023-11-27 15:32+0800\n"
 "Last-Translator: tiffany <407040483@gapp.fju.edu.tw>\n"
 "Language-Team: Koha Translation Team\n"
 "Language: zh_TW\n"
@@ -91,7 +91,7 @@ msgstr "手册通过 Git 存储在 https://gitlab.com/koha-community/koha-manual
 
 #: ../../source/intro.rst:74
 msgid "The instructions for contributing to the manual are on the Koha wiki https://wiki.koha-community.org/wiki/Editing_the_Koha_Manual"
-msgstr "参与手册做贡献的说明在 Koha 维基 Koha wiki https://wiki.koha-community.org/wiki/Editing_the_Koha_Manual"
+msgstr "参与手册编辑的说明在 Koha 维基 https://wiki.koha-community.org/wiki/Editing_the_Koha_Manual"
 
 #: ../../source/intro.rst:80
 msgid "Contributing to Koha"
