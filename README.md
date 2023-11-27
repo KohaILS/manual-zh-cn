@@ -26,7 +26,7 @@ manual/
      ...
   |--- README
 ```
-说明：koha-manual-i18n 和 manual 属于同级目录。koha-manual-i18n/koha-manual 为手册的仓库（https://gitlab.com/koha-community/koha-manual），koha-manual-i18n/koha-manual/locales/zh_CN 为自己维护的简体中文 Koha 手册资源文件，通过拉取获取最新翻译文件（https://github.com/KohaILS/manual-zh-cn），然后通过 make html 生成最新手册，然后将其复制到手册的仓库，推送至服务器远端。
+说明：koha-manual-i18n 和 manual 属于同级目录。[koha-manual-i18n/koha-manual](https://gitlab.com/koha-community/koha-manual) 为手册的仓库，[koha-manual-i18n/koha-manual/locales/zh_CN](https://github.com/KohaILS/manual-zh-cn) 为自己维护的简体中文 Koha 手册资源文件，通过拉取获取最新翻译文件，然后通过 make html 生成最新手册，然后将其复制到手册的仓库，推送至服务器远端。
 
 ## 构建手册资源库
 
@@ -51,4 +51,4 @@ https://github.com/KohaILS/manual
 
 通过浏览器访问 https://manual.koha-ils.cn
 
-本文件来自 https://gitlab.com/koha-community/koha-manual-l10n 的繁体。
+注：简体中文资源文件来自 https://gitlab.com/koha-community/koha-manual-l10n 的繁体资源文件。
